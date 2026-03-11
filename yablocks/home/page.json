@@ -4,8 +4,9 @@
     "description": "",
     "keywords": []
   },
-  "theme": "phantom-violet",
+  "theme": "autem-default",
   "blocks": [
+    "../_shared/navigation.json",
     "./hero001.json"
   ]
 }

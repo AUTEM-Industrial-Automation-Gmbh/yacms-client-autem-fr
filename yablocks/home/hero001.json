@@ -1,32 +1,61 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero001",
-    "section": "landing-page/hero001"
+    "component": "blocks/layout/hero/Hero010",
+    "section": "landing-page/hero010"
   },
   "data": {
-    "badge": "Studio Web",
-    "title": "Yacms Digital",
-    "titleHighlight": "Prêt en 1 semaine",
-    "subtitle": "Sites vitrine rapide, efficace moderne et fonctionnel",
+    "title": "L'unique Agence HubSpot 100% dédiée à l'industrie.",
+    "subtitle": "Alignez Marketing, Sales & Service Client sur un HubSpot unifié, taillé pour votre réalité industrielle. Gagnez en prévisibilité de revenu, accélérez l'exécution et décidez sur des données fiables.",
+    "backgroundImage": {
+      "src": "/images/hero-bg.jpg",
+      "alt": "Agence partenaire industrie"
+    },
     "cta": {
       "primary": {
-        "text": "Demandez un devis",
-        "link": ""
+        "text": "Prendre RDV",
+        "link": "/contact"
       },
       "secondary": {
-        "text": "Voir nos réalisations",
-        "link": ""
+        "text": "Voir nos cas clients",
+        "link": "/cas-clients"
       }
     },
-    "trustBadges": [
-      {
-        "icon": "clock",
-        "text": ""
-      }
-    ],
-    "mockupImage": {
-      "src": "/images/yacms.png",
-      "alt": ""
+    "logos": {
+      "title": "Ils ont libéré leur potentiel de croissance avec Nile",
+      "items": [
+        {
+          "src": "/images/logos/voe.png",
+          "alt": "VOE"
+        },
+        {
+          "src": "/images/logos/lpg.png",
+          "alt": "LPG"
+        },
+        {
+          "src": "/images/logos/jpb-systeme.png",
+          "alt": "JPB Système"
+        },
+        {
+          "src": "/images/logos/safic-alcan.png",
+          "alt": "Safic Alcan"
+        },
+        {
+          "src": "/images/logos/sic-marking.png",
+          "alt": "Sic Marking"
+        },
+        {
+          "src": "/images/logos/sfs.png",
+          "alt": "SFS"
+        },
+        {
+          "src": "/images/logos/layher.png",
+          "alt": "Layher"
+        },
+        {
+          "src": "/images/logos/spit.png",
+          "alt": "Spit"
+        }
+      ]
     }
   }
 }

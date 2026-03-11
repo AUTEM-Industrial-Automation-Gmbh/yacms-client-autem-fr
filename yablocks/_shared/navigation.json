@@ -1,53 +1,149 @@
 {
   "meta": {
-    "component": "blocks/layout/navigation/PrimaryNavigation",
-    "section": "home/navigation"
+    "component": "blocks/layout/navigation/Navigation004",
+    "section": "autem/navigation"
   },
   "data": {
     "logo": {
-      "text": "YourBrand",
-      "href": "/",
-      "image": "/logos/logo.png"
+      "text": "Nile",
+      "href": "/"
     },
     "links": [
       {
-        "label": "Home",
-        "href": "/"
-      },
-      {
-        "label": "Services",
-        "href": "#services",
-        "dropdown": [
+        "label": "Nos offres",
+        "groups": [
           {
-            "label": "Service One",
-            "href": "/service/service-one"
+            "label": "Audit",
+            "description": "On analyse votre existant",
+            "items": [
+              {
+                "label": "Audit CRM HubSpot",
+                "href": "/audit-crm-hubspot"
+              },
+              {
+                "label": "Audit Marketing",
+                "href": "/audit-marketing"
+              }
+            ]
           },
           {
-            "label": "Service Two",
-            "href": "/service/service-two"
+            "label": "Plateforme HubSpot",
+            "description": "On déploie votre écosystème HubSpot",
+            "items": [
+              {
+                "label": "Implémentation CRM",
+                "href": "/implementation-crm"
+              },
+              {
+                "label": "Automatisation",
+                "href": "/automatisation"
+              }
+            ]
           },
           {
-            "label": "Service Three",
-            "href": "/service/service-three"
+            "label": "Performance",
+            "description": "On active vos leviers de croissance",
+            "items": [
+              {
+                "label": "Génération de leads",
+                "href": "/generation-leads"
+              },
+              {
+                "label": "Nurturing",
+                "href": "/nurturing"
+              }
+            ]
+          },
+          {
+            "label": "Accompagnement",
+            "description": "On améliore en continue",
+            "items": [
+              {
+                "label": "Coaching HubSpot",
+                "href": "/coaching-hubspot"
+              },
+              {
+                "label": "Support continu",
+                "href": "/support-continu"
+              }
+            ]
           }
         ]
       },
       {
-        "label": "About",
-        "href": "/about"
+        "label": "À propos",
+        "groups": [
+          {
+            "label": "Notre agence",
+            "description": "Qui sommes-nous ?",
+            "items": [
+              {
+                "label": "Notre histoire",
+                "href": "/notre-histoire"
+              },
+              {
+                "label": "L'équipe",
+                "href": "/equipe"
+              }
+            ]
+          },
+          {
+            "label": "Notre approche",
+            "description": "Comment on travaille",
+            "items": [
+              {
+                "label": "Méthodologie",
+                "href": "/methodologie"
+              },
+              {
+                "label": "Nos valeurs",
+                "href": "/valeurs"
+              }
+            ]
+          }
+        ]
       },
       {
-        "label": "Portfolio",
-        "href": "/portfolio"
+        "label": "Cas clients",
+        "href": "/cas-clients"
       },
       {
-        "label": "Contact",
-        "href": "#contact"
+        "label": "Ressources",
+        "groups": [
+          {
+            "label": "Blog",
+            "description": "Articles et conseils",
+            "items": [
+              {
+                "label": "Tous les articles",
+                "href": "/blog"
+              },
+              {
+                "label": "HubSpot tips",
+                "href": "/blog/hubspot"
+              }
+            ]
+          },
+          {
+            "label": "Guides",
+            "description": "Ressources téléchargeables",
+            "items": [
+              {
+                "label": "Guide HubSpot",
+                "href": "/guides/hubspot"
+              },
+              {
+                "label": "Livre blanc CRM",
+                "href": "/guides/crm"
+              }
+            ]
+          }
+        ]
       }
     ],
     "cta": {
-      "text": "Get Started",
-      "href": "#contact"
+      "text": "Prendre RDV",
+      "href": "/contact"
     }
   }
 }
