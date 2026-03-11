@@ -4,26 +4,26 @@
     "section": "home/features005"
   },
   "data": {
-    "overtitle": "Notre modèle Nile",
-    "title": "Zéro Friction",
+    "overtitle": "NOS VALEURS",
+    "title": "Polyvalence · Fiabilité · Flexibilité",
     "paragraphs": [
       {
-        "text": "Chez Nile, notre approche est simple : éliminer les frictions qui freinent votre croissance."
+        "text": "Polyvalence — Notre spectre technique couvre l'automatisme, l'informatique industrielle et la data. Nous maîtrisons les technologies de multiples constructeurs (Siemens, Rockwell, Schneider, Ignition, Wonderware) et intervenons sur tout le cycle de vie de vos machines."
       },
       {
-        "text": "Nous analysons vos processus, vos équipes, vos outils et vos données pour identifier les blocages, bâtir un système de croissance unifié et accélérer vos résultats avec l'IA."
+        "text": "Fiabilité — Nous garantissons réactivité, ponctualité et transparence. Chaque projet bénéficie d'un suivi rigoureux, de la phase d'audit jusqu'à la mise en service, avec des livrables conformes à vos attentes."
       },
       {
-        "text": "Grâce à notre expertise métier, unique dans l'écosystème HubSpot, nous calibrons chaque mise en œuvre à votre modèle de vente industriel, favorisant adoption et performance."
+        "text": "Flexibilité — Machines sur mesure, disponibilité adaptée à vos contraintes, intégration dans vos équipes. Nous intervenons en France et à l'international, pour des missions d'1 jour comme d'1 an."
       }
     ],
     "image": {
-      "src": "/images/vinland.png",
-      "alt": "Zéro Friction"
+      "src": "/images/pages/automaticien-rhone-alpes.jpg",
+      "alt": "Valeurs AUTEM : polyvalence fiabilité flexibilité"
     },
     "cta": {
-      "text": "Prendre RDV",
-      "link": "/contact"
+      "text": "Découvrir AUTEM",
+      "link": "/a-propos"
     }
   }
 }

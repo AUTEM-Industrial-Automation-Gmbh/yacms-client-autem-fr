@@ -5,66 +5,62 @@
   },
   "data": {
     "brand": {
-      "name": "YourBrand",
-      "logo": "/images/unnamed.png",
-      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
-      "alt": "YourBrand Logo"
+      "name": "AUTEM Services",
+      "logo": "/logos/autem-logo.png",
+      "tagline": "Automatisme, Informatique Industrielle & Digitalisation. Nous optimisons la performance de vos usines grâce à l'automatisation et au pilotage de données.",
+      "alt": "AUTEM Services Logo"
     },
     "contact": {
-      "address": "123 Main Street\nYour City, ST 12345",
-      "phone": "(555) 123-4567",
-      "email": "contact@yourbusiness.com",
-      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
+      "address": "60 rue François 1er\n75008 Paris",
+      "phone": "+33 6 17 43 68 02",
+      "email": "contact@autem-services.fr",
+      "hours": "Lun-Ven : 8h-18h"
     },
     "linkGroups": [
       {
-        "title": "Services",
+        "title": "Notre offre",
         "links": [
           {
-            "text": "Consulting",
-            "href": "/service/consulting"
+            "text": "Automatisme",
+            "href": "/offre/automatisme"
           },
           {
-            "text": "Development",
-            "href": "/service/development"
+            "text": "Informatique industrielle",
+            "href": "/offre/informatique-industrielle"
           },
           {
-            "text": "Design",
-            "href": "/service/design"
+            "text": "Data & Digitalisation",
+            "href": "/offre/data"
           },
           {
-            "text": "Support",
-            "href": "/service/support"
+            "text": "Ignition SCADA",
+            "href": "/offre/ignition-scada"
           }
         ]
       },
       {
-        "title": "Company",
+        "title": "L'entreprise",
         "links": [
           {
-            "text": "About Us",
-            "href": "/about"
+            "text": "À propos",
+            "href": "/a-propos"
           },
           {
-            "text": "Our Work",
-            "href": "/portfolio"
+            "text": "Nos technologies",
+            "href": "/technologies"
           },
           {
-            "text": "Testimonials",
-            "href": "/testimonials"
+            "text": "Cas clients",
+            "href": "/cas-clients"
           }
         ]
       },
       {
-        "title": "Resources",
+        "title": "Ressources",
         "links": [
           {
-            "text": "Blog",
-            "href": "/blog"
-          },
-          {
-            "text": "FAQ",
-            "href": "/faq"
+            "text": "Formations",
+            "href": "/formations"
           },
           {
             "text": "Contact",
@@ -73,31 +69,28 @@
         ]
       }
     ],
-    "socialLinks": [],
+    "socialLinks": [
+      {
+        "platform": "linkedin",
+        "href": "https://www.linkedin.com/company/autemautomation/"
+      }
+    ],
     "certifications": [
       {
-        "src": "/logos/certification-1.png",
-        "alt": "Certification 1"
-      },
-      {
-        "src": "/logos/certification-2.png",
-        "alt": "Certification 2"
+        "src": "/logos/technos/ignition.png",
+        "alt": "Intégrateur Ignition Certifié Gold"
       }
     ],
     "legal": {
-      "copyright": "All rights reserved.",
+      "copyright": "AUTEM Services — SIREN : 918 577 354. Tous droits réservés.",
       "links": [
         {
-          "text": "Legal Notice",
-          "href": "/legal"
+          "text": "Mentions légales",
+          "href": "/mentions-legales"
         },
         {
-          "text": "Privacy Policy",
-          "href": "/privacy"
-        },
-        {
-          "text": "Terms of Service",
-          "href": "/terms"
+          "text": "Politique de confidentialité",
+          "href": "/confidentialite"
         }
       ]
     }

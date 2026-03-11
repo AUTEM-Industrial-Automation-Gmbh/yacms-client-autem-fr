@@ -4,23 +4,23 @@
     "section": "home/cta002"
   },
   "data": {
-    "title": "Prêt à libérer votre potentiel de croissance ?",
+    "title": "Un projet d'automatisme ou de digitalisation industrielle ?",
     "benefits": [
       {
         "icon": "award",
-        "text": "Approche ROIste"
+        "text": "Intégrateur Ignition Certifié GOLD"
       },
       {
-        "icon": "users",
-        "text": "+200 clients industriels accompagnés"
+        "icon": "cpu",
+        "text": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)"
       },
       {
-        "icon": "shield",
-        "text": "HubSpot Diamond Partner"
+        "icon": "globe",
+        "text": "Interventions France & International"
       }
     ],
     "cta": {
-      "text": "Prendre RDV",
+      "text": "Contactez-nous",
       "link": "/contact"
     }
   }

@@ -1,21 +1,21 @@
 {
-    "meta": {
-        "component": "blocks/layout/not-found/PrimaryNotFound",
-        "section": "404/not_found"
-    },
-    "data": {
-        "errorCode": "404",
-        "badge": "Page Not Found",
-        "title": "Oops! Lost in Space",
-        "subtitle": "The page you're looking for doesn't exist or has been moved to another location.",
-        "cta": {
-            "primary": {
-                "text": "Back to Home",
-                "link": "/"
-            },
-            "secondary": {
-                "text": "Go Back"
-            }
-        }
+  "meta": {
+    "component": "blocks/layout/not-found/PrimaryNotFound",
+    "section": "404/not_found"
+  },
+  "data": {
+    "errorCode": "404",
+    "badge": "Page introuvable",
+    "title": "Cette page n'existe pas",
+    "subtitle": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour explorer nos services d'automatisme et de digitalisation industrielle.",
+    "cta": {
+      "primary": {
+        "text": "Retour à l'accueil",
+        "link": "/"
+      },
+      "secondary": {
+        "text": "Revenir en arrière"
+      }
     }
+  }
 }

@@ -4,32 +4,56 @@
     "section": "home/trust-logos002"
   },
   "data": {
-    "title": "+10 ans d'expérience auprès de 200+ entreprises industrielles",
-    "subtitle": "Ils ont libéré leur potentiel de croissance avec Nile",
+    "title": "Technologies maîtrisées par nos automaticiens",
+    "subtitle": "Expertise multi-constructeurs pour vos systèmes automatisés",
     "logos": [
       {
-        "src": "/images/logos/voe.png",
-        "alt": "VOE"
+        "src": "/logos/technos/siemens.png",
+        "alt": "Siemens"
       },
       {
-        "src": "/images/logos/lpg.png",
-        "alt": "LPG"
+        "src": "/logos/technos/rockwell.png",
+        "alt": "Allen-Bradley / Rockwell Automation"
       },
       {
-        "src": "/images/logos/jpb-systeme.png",
-        "alt": "JPB Système"
+        "src": "/logos/technos/schneider.png",
+        "alt": "Schneider Electric"
       },
       {
-        "src": "/images/logos/safic-alcan.png",
-        "alt": "Safic Alcan"
+        "src": "/logos/technos/ignition.png",
+        "alt": "Ignition SCADA"
       },
       {
-        "src": "/images/logos/sic-marking.png",
-        "alt": "Sic Marking"
+        "src": "/logos/technos/wonderware.png",
+        "alt": "Wonderware / AVEVA"
       },
       {
-        "src": "/images/logos/sfs.png",
-        "alt": "SFS"
+        "src": "/logos/technos/wincc.png",
+        "alt": "WinCC"
+      },
+      {
+        "src": "/logos/technos/eplan.png",
+        "alt": "EPLAN"
+      },
+      {
+        "src": "/logos/technos/sew.png",
+        "alt": "SEW-Eurodrive"
+      },
+      {
+        "src": "/logos/technos/eaton.png",
+        "alt": "Eaton"
+      },
+      {
+        "src": "/logos/technos/pilz.png",
+        "alt": "Pilz"
+      },
+      {
+        "src": "/logos/technos/pepperl-fuchs.png",
+        "alt": "Pepperl+Fuchs"
+      },
+      {
+        "src": "/logos/technos/profinet.png",
+        "alt": "Profinet"
       }
     ]
   }

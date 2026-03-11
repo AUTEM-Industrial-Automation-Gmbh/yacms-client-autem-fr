@@ -5,66 +5,66 @@
   },
   "data": {
     "logo": {
-      "text": "Nile",
-      "href": "/"
+      "text": "AUTEM",
+      "href": "/",
+      "image": "/logos/autem-logo.svg",
+      "size": "lg"
     },
     "links": [
       {
-        "label": "Nos offres",
+        "label": "Notre offre",
         "groups": [
           {
-            "label": "Audit",
-            "description": "On analyse votre existant",
+            "label": "Automatisme",
+            "description": "Programmation & contrôle-commande",
             "items": [
               {
-                "label": "Audit CRM HubSpot",
-                "href": "/audit-crm-hubspot"
+                "label": "Automates programmables (PLC)",
+                "href": "/offre/automatisme"
               },
               {
-                "label": "Audit Marketing",
-                "href": "/audit-marketing"
+                "label": "Variateurs & motion control",
+                "href": "/offre/automatisme#variateurs"
+              },
+              {
+                "label": "Études électriques & schémas",
+                "href": "/offre/automatisme#etudes-electriques"
               }
             ]
           },
           {
-            "label": "Plateforme HubSpot",
-            "description": "On déploie votre écosystème HubSpot",
+            "label": "Informatique industrielle",
+            "description": "SCADA, MES & supervision",
             "items": [
               {
-                "label": "Implémentation CRM",
-                "href": "/implementation-crm"
+                "label": "Intégration SCADA",
+                "href": "/offre/informatique-industrielle"
               },
               {
-                "label": "Automatisation",
-                "href": "/automatisation"
+                "label": "Logiciel MES",
+                "href": "/offre/informatique-industrielle#mes"
+              },
+              {
+                "label": "Ignition SCADA (Certifié Gold)",
+                "href": "/offre/ignition-scada"
               }
             ]
           },
           {
-            "label": "Performance",
-            "description": "On active vos leviers de croissance",
+            "label": "Data & Digitalisation",
+            "description": "IIoT, connectivité & pilotage",
             "items": [
               {
-                "label": "Génération de leads",
-                "href": "/generation-leads"
+                "label": "Acquisition de données (IIoT)",
+                "href": "/offre/data"
               },
               {
-                "label": "Nurturing",
-                "href": "/nurturing"
-              }
-            ]
-          },
-          {
-            "label": "Accompagnement",
-            "description": "On améliore en continue",
-            "items": [
-              {
-                "label": "Coaching HubSpot",
-                "href": "/coaching-hubspot"
+                "label": "Réseaux industriels",
+                "href": "/offre/data#reseaux"
               },
               {
-                "label": "Support continu",
-                "href": "/support-continu"
+                "label": "Pilotage & KPI",
+                "href": "/offre/data#pilotage"
               }
             ]
           }
@@ -74,30 +74,34 @@
         "label": "À propos",
         "groups": [
           {
-            "label": "Notre agence",
-            "description": "Qui sommes-nous ?",
+            "label": "Notre vision",
+            "description": "L'automatisme au service de l'industrie",
             "items": [
               {
-                "label": "Notre histoire",
-                "href": "/notre-histoire"
+                "label": "Qui sommes-nous",
+                "href": "/a-propos"
               },
               {
-                "label": "L'équipe",
-                "href": "/equipe"
+                "label": "Nos valeurs",
+                "href": "/a-propos#valeurs"
               }
             ]
           },
           {
-            "label": "Notre approche",
-            "description": "Comment on travaille",
+            "label": "Nos technologies",
+            "description": "Expertise multi-constructeurs",
             "items": [
               {
-                "label": "Méthodologie",
-                "href": "/methodologie"
+                "label": "Siemens / Rockwell / Schneider",
+                "href": "/technologies"
               },
               {
-                "label": "Nos valeurs",
-                "href": "/valeurs"
+                "label": "Ignition / Wonderware / WinCC",
+                "href": "/technologies#scada"
+              },
+              {
+                "label": "Réseaux & Vision",
+                "href": "/technologies#reseaux-vision"
               }
             ]
           }
@@ -108,41 +112,12 @@
         "href": "/cas-clients"
       },
       {
-        "label": "Ressources",
-        "groups": [
-          {
-            "label": "Blog",
-            "description": "Articles et conseils",
-            "items": [
-              {
-                "label": "Tous les articles",
-                "href": "/blog"
-              },
-              {
-                "label": "HubSpot tips",
-                "href": "/blog/hubspot"
-              }
-            ]
-          },
-          {
-            "label": "Guides",
-            "description": "Ressources téléchargeables",
-            "items": [
-              {
-                "label": "Guide HubSpot",
-                "href": "/guides/hubspot"
-              },
-              {
-                "label": "Livre blanc CRM",
-                "href": "/guides/crm"
-              }
-            ]
-          }
-        ]
+        "label": "Formations",
+        "href": "/formations"
       }
     ],
     "cta": {
-      "text": "Prendre RDV",
+      "text": "Contactez-nous",
       "href": "/contact"
     }
   }

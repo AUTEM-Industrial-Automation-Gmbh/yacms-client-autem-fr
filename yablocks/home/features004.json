@@ -6,25 +6,25 @@
   "data": {
     "badges": [
       {
-        "src": "/logos/AlWiffaq.png",
-        "alt": "HubSpot Diamond Partner"
+        "src": "/logos/technos/ignition.png",
+        "alt": "Intégrateur Ignition Certifié Gold"
       }
     ],
-    "headline": "La croissance industrielle est en tension.",
+    "headline": "Qui dit que vos machines sont trop vieilles ?",
     "paragraphs": [
       {
-        "text": "Objectifs ambitieux, pression sur les coûts, concurrence accrue, clients plus exigeants : vos marchés n'ont jamais été aussi difficiles à conquérir."
+        "text": "Avant de remplacer vos équipements, laissez-nous les analyser. L'obsolescence n'est pas une fatalité : vos machines ont été conçues pour durer, et un reconditionnement intelligent peut prolonger leur vie tout en améliorant leurs performances."
       },
       {
-        "text": "Mais trop d'industriels restent prisonniers de systèmes éclatés, de données dispersées et de process artisanaux. Avec l'IA, l'écart va encore se creuser : certains accéléreront vite et fort, d'autres resteront bloqués dans Excel, leur ERP rigide ou CRM maison."
+        "text": "Trop d'industriels restent prisonniers de systèmes éclatés, de données dispersées et de process manuels. Avec la convergence IT/OT et l'Industrie 4.0, l'écart se creuse entre ceux qui digitalisent et ceux qui subissent."
       },
       {
-        "text": "Chez Nile, nous allions expertise métier, HubSpot et IA pour transformer Marketing, Sales et Service client en leviers de croissance alignés, mesurables et performants."
+        "text": "Chez AUTEM, nous allions expertise en automatisme, informatique industrielle et data pour transformer vos ateliers de production en usines connectées et performantes. SCADA, IIoT, MES — nous vous donnons les outils de pilotage pour décider sur des données fiables."
       },
       {
-        "text": "Demain, deux types d'industriels coexisteront : ceux qui auront su bâtir un système de croissance unifié autour de la donnée et ceux qui continueront à subir la complexité avec les méthodes du passé."
+        "text": "Reconditionner vos machines, c'est aussi transmettre les savoirs. La dette technique s'accumule silencieusement. Nous en faisons une opportunité pour former vos équipes et construire l'autonomie de demain."
       }
     ],
-    "closing": "De quel côté serez-vous ?"
+    "closing": "Pérennisez votre production. Digitalisez vos usines."
   }
 }

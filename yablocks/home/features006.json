@@ -4,90 +4,85 @@
     "section": "home/features006"
   },
   "data": {
-    "overtitle": "LE MÉDIA",
-    "title": "Industrial Growth",
+    "overtitle": "NOS MÉDIAS",
+    "title": "Suivez-nous & Formez-vous",
     "cards": [
       {
-        "title": "Podcast \"Industrial Growth\"",
-        "description": "30.000+ écoutes · Croissance Industrielle et Marketing",
+        "title": "LinkedIn AUTEM",
+        "description": "Suivez notre actualité industrielle, nos projets et partages techniques",
         "image": {
-          "src": "/images/1162946.jpg",
-          "alt": "Industrial Growth"
+          "src": "/images/pages/metier-automaticien.png",
+          "alt": "AUTEM LinkedIn automatisme industriel"
         },
         "size": "big",
         "actions": [
           {
-            "text": "Écouter",
-            "link": "https://industrialgrowth.buzzsprout.com/",
-            "variant": "secondary"
-          },
-          {
-            "text": "Voir",
-            "link": "https://www.youtube.com/@IndustrialGrowth/podcasts",
+            "text": "Suivre",
+            "link": "https://www.linkedin.com/company/autemautomation/",
             "variant": "primary"
           }
         ]
       },
       {
-        "title": "Notre livre - Zéro Friction",
-        "description": "Disponible sur Amazon · Expérience Client",
+        "title": "Formation Udemy — Automates Siemens TIA Portal",
+        "description": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
         "image": {
-          "src": "/images/chaufferie.jpg",
-          "alt": "Zéro Friction le livre"
+          "src": "/images/pages/formation-udemy.jpg",
+          "alt": "Formation automatisme Siemens TIA Portal Udemy"
         },
         "size": "big",
         "actions": [
           {
-            "text": "Acheter",
-            "link": "https://www.amazon.fr/",
+            "text": "Voir le cours",
+            "link": "https://www.udemy.com/",
+            "variant": "primary"
+          }
+        ]
+      },
+      {
+        "title": "Blog Technique",
+        "description": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
+        "image": {
+          "src": "/images/pages/scada.png",
+          "alt": "Blog AUTEM automatisme SCADA"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "Lire",
+            "link": "/blog",
             "variant": "secondary"
           }
         ]
       },
       {
-        "title": "Newsletter",
-        "description": "3000+ inscrits",
+        "title": "Portfolio & Références",
+        "description": "Hermès, Amazon, Danone, ArcelorMittal, SNCF et +",
         "image": {
-          "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
-          "alt": "Newsletter Nile"
+          "src": "/images/pages/portfolio-references.jpg",
+          "alt": "Portfolio références AUTEM clients"
         },
         "size": "small",
         "actions": [
           {
-            "text": "M'inscrire",
-            "link": "https://offres.agencenile.com/newsletter",
+            "text": "Voir nos cas clients",
+            "link": "/cas-clients",
             "variant": "secondary"
           }
         ]
       },
       {
-        "title": "Profil LinkedIn",
-        "description": "11,000+ followers",
+        "title": "Contactez-nous",
+        "description": "contact@autem-services.fr · +33 6 17 43 68 02",
         "image": {
-          "src": "/images/media/linkedin.jpg",
-          "alt": "LinkedIn Nile"
+          "src": "/images/pages/automaticien-rhone-alpes.jpg",
+          "alt": "Contact AUTEM automaticien"
         },
         "size": "small",
         "actions": [
           {
-            "text": "Suivre",
-            "link": "https://www.linkedin.com/in/karimbouras/",
-            "variant": "secondary"
-          }
-        ]
-      },
-      {
-        "title": "Chaîne Youtube",
-        "description": "1,600+ abonnés",
-        "image": {
-          "src": "/images/ss.png",
-          "alt": "YouTube Nile"
-        },
-        "size": "small",
-        "actions": [
-          {
-            "text": "M'abonner",
-            "link": "https://www.youtube.com/@IndustrialGrowth",
+            "text": "Nous écrire",
+            "link": "/contact",
             "variant": "secondary"
           }
         ]

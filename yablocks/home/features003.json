@@ -6,90 +6,88 @@
   "data": {
     "items": [
       {
-        "overtitle": "AUDIT",
-        "title": "On analyse votre existant",
-        "description": "Identifiez vos points de friction et vos leviers de croissance grâce à un diagnostic précis de vos pratiques marketing, commerciales et CRM.",
+        "overtitle": "AUTOMATISME",
+        "title": "Programmation & Contrôle-Commande",
+        "description": "Nous concevons, programmons et mettons en service vos systèmes automatisés. De l'analyse fonctionnelle à la mise en production, AUTEM couvre l'intégralité du cycle de vie de vos automates, variateurs et systèmes de sécurité.",
         "image": {
-          "src": "/images/AkiraSatoInterrupteur .png",
-          "alt": "Audit marketing"
+          "src": "/images/pages/metier-automaticien.png",
+          "alt": "Programmation automate industriel PLC"
         },
         "checklist": [
           {
-            "text": "Audit CRM",
-            "href": "/audit-hubspot"
+            "text": "Automates PLC (Siemens, Rockwell, Schneider)",
+            "href": "/offre/automatisme"
           },
           {
-            "text": "Audit Marketing",
-            "href": "/audit-marketing-industriel"
+            "text": "Variateurs & motion control (SEW, Eaton, Sinamics)",
+            "href": "/offre/automatisme#variateurs"
+          },
+          {
+            "text": "Études électriques & schémas (EPLAN)",
+            "href": "/offre/automatisme#etudes-electriques"
+          },
+          {
+            "text": "Sécurité machines (Pilz, Pepperl+Fuchs)",
+            "href": "/offre/automatisme#securite"
           }
         ],
         "cta": {
-          "text": "Prendre RDV",
-          "link": "/contact"
-        },
-        "testimonial": {
-          "quote": "Nile a mené avec diligence des entretiens, animé des ateliers enrichissants et réalisé des analyses contextuelles approfondies. Ce travail préparatoire a abouti à la mise en place d'une feuille de route solide visant à rationaliser nos processus.",
-          "authorName": "Ivan Cabezas",
-          "authorRole": "Chef de projet CRM & ERP",
-          "companyLogo": {
-            "src": "/images/doubleCashjpg.jpg",
-            "alt": "Safic Alcan"
-          }
+          "text": "En savoir plus",
+          "link": "/offre/automatisme"
         }
       },
       {
-        "overtitle": "SOLUTION TECH",
-        "title": "On déploie votre écosystème HubSpot",
-        "description": "Structurez vos processus, centralisez vos données et accélérez vos ventes — en semaines, pas en années — avec notre version pré-paramétrée d'HubSpot, pensée pour l'industrie.",
+        "overtitle": "INFORMATIQUE INDUSTRIELLE",
+        "title": "SCADA, MES & Supervision",
+        "description": "Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Intégrateur certifié GOLD Ignition, nous déployons des solutions de pilotage pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
         "image": {
-          "src": "/images/1162946.jpg",
-          "alt": "Écosystème HubSpot manufacturing"
+          "src": "/images/pages/ignition-scada.jpeg",
+          "alt": "Supervision SCADA Ignition industrielle"
         },
         "checklist": [
           {
-            "text": "HubSpot pour l'Industrie : Découvrez le Manufacturing Hub",
-            "href": "/hubspot-pour-industrie"
+            "text": "Ignition SCADA (Certifié Gold)",
+            "href": "/offre/ignition-scada"
+          },
+          {
+            "text": "SCADA : Wonderware, WinCC, AVEVA",
+            "href": "/offre/informatique-industrielle"
+          },
+          {
+            "text": "Logiciel MES & TRS",
+            "href": "/offre/informatique-industrielle#mes"
           }
         ],
         "cta": {
-          "text": "Demander une démo",
-          "link": "/demo-manufacturing-hub"
-        },
-        "testimonial": {
-          "quote": "Nous faisons appel à Nile pour l'implémentation de notre nouveau CRM. Les différents contacts et échanges sont excellents. L'analyse des besoins en amont et la formation continue en aval est parfaite. Un accompagnement complet et efficace.",
-          "authorName": "Charles-Edouard Henry",
-          "authorRole": "Directeur commercial & Marketing",
-          "companyLogo": {
-            "src": "/images/logos/siman.svg",
-            "alt": "Siman"
-          }
+          "text": "Découvrir nos solutions",
+          "link": "/offre/informatique-industrielle"
         }
       },
       {
-        "overtitle": "PERFORMANCE",
-        "title": "On active vos leviers de croissance",
-        "description": "Passez à la vitesse supérieure avec des stratégies marketing, commerciales et web conçues pour générer des résultats mesurables dans l'industrie.",
+        "overtitle": "DATA & DIGITALISATION",
+        "title": "IIoT, Connectivité & Pilotage",
+        "description": "Nous collectons, stockons et analysons les données de vos machines pour vous offrir une visibilité en temps réel sur vos installations. En 1 semaine, accédez à l'essentiel de vos données machines dans un outil de pilotage simple.",
         "image": {
-          "src": "/images/performance-marketing.jpg",
-          "alt": "Performance marketing industriel"
+          "src": "/images/pages/siemens.png",
+          "alt": "Digitalisation usine IIoT data industrielle"
         },
         "checklist": [
           {
-            "text": "Marketing Industriel",
-            "href": "/marketing-industriel"
+            "text": "Acquisition de données IIoT (MQTT, OPC-UA)",
+            "href": "/offre/data"
           },
           {
-            "text": "Site web",
-            "href": "/cms-hubspot"
+            "text": "Réseaux industriels (Profinet, EtherNet/IP)",
+            "href": "/offre/data#reseaux"
           },
           {
-            "text": "Sales Enablement",
-            "href": "/sales-enablement"
+            "text": "KPI, TRS & suivi énergétique",
+            "href": "/offre/data#pilotage"
           }
         ],
         "cta": {
-          "text": "Prendre RDV",
-          "link": "/contact"
+          "text": "Découvrir",
+          "link": "/offre/data"
         }
       }
     ]

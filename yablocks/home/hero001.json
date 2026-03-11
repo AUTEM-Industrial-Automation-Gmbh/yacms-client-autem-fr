@@ -4,56 +4,56 @@
     "section": "landing-page/hero010"
   },
   "data": {
-    "title": "L'unique Agence HubSpot 100% dédiée à l'industrie.",
-    "subtitle": "Alignez Marketing, Sales & Service Client sur un HubSpot unifié, taillé pour votre réalité industrielle. Gagnez en prévisibilité de revenu, accélérez l'exécution et décidez sur des données fiables.",
+    "title": "Automatisme, Informatique Industrielle & Digitalisation",
+    "subtitle": "Nous optimisons la performance de vos usines grâce à l'automatisation de vos machines, la supervision SCADA et le pilotage de vos données de production. Intégrateur certifié GOLD Ignition.",
     "backgroundImage": {
-      "src": "/images/hero-bg.jpg",
-      "alt": "Agence partenaire industrie"
+      "src": "/images/pages/scada.png",
+      "alt": "Automatisme industriel SCADA et digitalisation des usines"
     },
     "cta": {
       "primary": {
-        "text": "Prendre RDV",
+        "text": "Contactez-nous",
         "link": "/contact"
       },
       "secondary": {
-        "text": "Voir nos cas clients",
+        "text": "Voir nos réalisations",
         "link": "/cas-clients"
       }
     },
     "logos": {
-      "title": "Ils ont libéré leur potentiel de croissance avec Nile",
+      "title": "Ils nous font confiance",
       "items": [
         {
-          "src": "/images/logos/voe.png",
-          "alt": "VOE"
+          "src": "/logos/clients/hermes.png",
+          "alt": "Hermès"
         },
         {
-          "src": "/images/logos/lpg.png",
-          "alt": "LPG"
+          "src": "/logos/clients/amazon.png",
+          "alt": "Amazon"
         },
         {
-          "src": "/images/logos/jpb-systeme.png",
-          "alt": "JPB Système"
+          "src": "/logos/clients/danone-covostok.png",
+          "alt": "Danone / CoVostok"
         },
         {
-          "src": "/images/logos/safic-alcan.png",
-          "alt": "Safic Alcan"
+          "src": "/logos/clients/unilever.jpg",
+          "alt": "Unilever"
         },
         {
-          "src": "/images/logos/sic-marking.png",
-          "alt": "Sic Marking"
+          "src": "/logos/clients/arcelormittal.jpg",
+          "alt": "ArcelorMittal"
         },
         {
-          "src": "/images/logos/sfs.png",
-          "alt": "SFS"
+          "src": "/logos/clients/engie.jpg",
+          "alt": "ENGIE"
         },
         {
-          "src": "/images/logos/layher.png",
-          "alt": "Layher"
+          "src": "/logos/clients/thalys.png",
+          "alt": "Thalys"
         },
         {
-          "src": "/images/logos/spit.png",
-          "alt": "Spit"
+          "src": "/logos/clients/bema.png",
+          "alt": "BEMA"
         }
       ]
     }
