@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features004",
+    "section": "home/features004"
+  },
+  "data": {
+    "badges": [
+      {
+        "src": "/logos/AlWiffaq.png",
+        "alt": "HubSpot Diamond Partner"
+      }
+    ],
+    "headline": "La croissance industrielle est en tension.",
+    "paragraphs": [
+      {
+        "text": "Objectifs ambitieux, pression sur les coûts, concurrence accrue, clients plus exigeants : vos marchés n'ont jamais été aussi difficiles à conquérir."
+      },
+      {
+        "text": "Mais trop d'industriels restent prisonniers de systèmes éclatés, de données dispersées et de process artisanaux. Avec l'IA, l'écart va encore se creuser : certains accéléreront vite et fort, d'autres resteront bloqués dans Excel, leur ERP rigide ou CRM maison."
+      },
+      {
+        "text": "Chez Nile, nous allions expertise métier, HubSpot et IA pour transformer Marketing, Sales et Service client en leviers de croissance alignés, mesurables et performants."
+      },
+      {
+        "text": "Demain, deux types d'industriels coexisteront : ceux qui auront su bâtir un système de croissance unifié autour de la donnée et ceux qui continueront à subir la complexité avec les méthodes du passé."
+      }
+    ],
+    "closing": "De quel côté serez-vous ?"
+  }
+}

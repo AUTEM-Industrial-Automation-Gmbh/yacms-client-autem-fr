@@ -8,6 +8,7 @@
   "blocks": [
     "../_shared/navigation.json",
     "./hero001.json",
+    "./features004.json",
     "./features003.json"
   ]
 }
