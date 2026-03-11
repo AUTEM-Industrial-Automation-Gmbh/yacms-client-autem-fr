@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Landing Page",
+    "description": "",
+    "keywords": []
+  },
+  "theme": "phantom-violet",
+  "blocks": [
+    "./hero001.json"
+  ]
+}

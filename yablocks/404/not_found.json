@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "component": "blocks/layout/not-found/PrimaryNotFound",
+        "section": "404/not_found"
+    },
+    "data": {
+        "errorCode": "404",
+        "badge": "Page Not Found",
+        "title": "Oops! Lost in Space",
+        "subtitle": "The page you're looking for doesn't exist or has been moved to another location.",
+        "cta": {
+            "primary": {
+                "text": "Back to Home",
+                "link": "/"
+            },
+            "secondary": {
+                "text": "Go Back"
+            }
+        }
+    }
+}

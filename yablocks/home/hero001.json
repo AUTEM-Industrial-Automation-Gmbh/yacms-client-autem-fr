@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero001",
+    "section": "landing-page/hero001"
+  },
+  "data": {
+    "badge": "Studio Web",
+    "title": "Yacms Digital",
+    "titleHighlight": "Prêt en 1 semaine",
+    "subtitle": "Sites vitrine rapide, efficace moderne et fonctionnel",
+    "cta": {
+      "primary": {
+        "text": "Demandez un devis",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
+        "link": ""
+      }
+    },
+    "trustBadges": [
+      {
+        "icon": "clock",
+        "text": ""
+      }
+    ],
+    "mockupImage": {
+      "src": "/images/yacms.png",
+      "alt": ""
+    }
+  }
+}

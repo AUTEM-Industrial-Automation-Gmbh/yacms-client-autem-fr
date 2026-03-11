@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "component": "blocks/layout/footer/FooterColumns",
+    "section": "_shared/footer"
+  },
+  "data": {
+    "brand": {
+      "name": "YourBrand",
+      "logo": "/images/unnamed.png",
+      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
+      "alt": "YourBrand Logo"
+    },
+    "contact": {
+      "address": "123 Main Street\nYour City, ST 12345",
+      "phone": "(555) 123-4567",
+      "email": "contact@yourbusiness.com",
+      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
+    },
+    "linkGroups": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "text": "Consulting",
+            "href": "/service/consulting"
+          },
+          {
+            "text": "Development",
+            "href": "/service/development"
+          },
+          {
+            "text": "Design",
+            "href": "/service/design"
+          },
+          {
+            "text": "Support",
+            "href": "/service/support"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "text": "About Us",
+            "href": "/about"
+          },
+          {
+            "text": "Our Work",
+            "href": "/portfolio"
+          },
+          {
+            "text": "Testimonials",
+            "href": "/testimonials"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "text": "Blog",
+            "href": "/blog"
+          },
+          {
+            "text": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "text": "Contact",
+            "href": "/contact"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [],
+    "certifications": [
+      {
+        "src": "/logos/certification-1.png",
+        "alt": "Certification 1"
+      },
+      {
+        "src": "/logos/certification-2.png",
+        "alt": "Certification 2"
+      }
+    ],
+    "legal": {
+      "copyright": "All rights reserved.",
+      "links": [
+        {
+          "text": "Legal Notice",
+          "href": "/legal"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "/terms"
+        }
+      ]
+    }
+  }
+}

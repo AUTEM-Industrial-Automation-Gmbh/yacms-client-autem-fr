@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "404 - Page Not Found | YourBrand",
+    "description": "The page you are looking for doesn't exist or has been moved. Return to homepage to explore our services.",
+    "keywords": [
+      "404",
+      "page not found",
+      "error"
+    ],
+    "author": "YourBrand",
+    "canonical": "https://yourbusiness.com/404",
+    "locale": "en_US",
+    "robots": "noindex, follow",
+    "og": {
+      "type": "website",
+      "image": "/images/og-home.jpg",
+      "imageAlt": "YourBrand - Page Not Found"
+    }
+  },
+  "theme": "template-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./not_found.json",
+    "../_shared/footer.json"
+  ]
+}
