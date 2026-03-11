@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features005",
+    "section": "home/features005"
+  },
+  "data": {
+    "overtitle": "Notre modèle Nile",
+    "title": "Zéro Friction",
+    "paragraphs": [
+      {
+        "text": "Chez Nile, notre approche est simple : éliminer les frictions qui freinent votre croissance."
+      },
+      {
+        "text": "Nous analysons vos processus, vos équipes, vos outils et vos données pour identifier les blocages, bâtir un système de croissance unifié et accélérer vos résultats avec l'IA."
+      },
+      {
+        "text": "Grâce à notre expertise métier, unique dans l'écosystème HubSpot, nous calibrons chaque mise en œuvre à votre modèle de vente industriel, favorisant adoption et performance."
+      }
+    ],
+    "image": {
+      "src": "/images/vinland.png",
+      "alt": "Zéro Friction"
+    },
+    "cta": {
+      "text": "Prendre RDV",
+      "link": "/contact"
+    }
+  }
+}
