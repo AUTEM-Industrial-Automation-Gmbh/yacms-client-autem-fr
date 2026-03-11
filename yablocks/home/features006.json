@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features006",
+    "section": "home/features006"
+  },
+  "data": {
+    "overtitle": "LE MÉDIA",
+    "title": "Industrial Growth",
+    "cards": [
+      {
+        "title": "Podcast \"Industrial Growth\"",
+        "description": "30.000+ écoutes · Croissance Industrielle et Marketing",
+        "image": {
+          "src": "/images/1162946.jpg",
+          "alt": "Industrial Growth"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Écouter",
+            "link": "https://industrialgrowth.buzzsprout.com/",
+            "variant": "secondary"
+          },
+          {
+            "text": "Voir",
+            "link": "https://www.youtube.com/@IndustrialGrowth/podcasts",
+            "variant": "primary"
+          }
+        ]
+      },
+      {
+        "title": "Notre livre - Zéro Friction",
+        "description": "Disponible sur Amazon · Expérience Client",
+        "image": {
+          "src": "/images/chaufferie.jpg",
+          "alt": "Zéro Friction le livre"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Acheter",
+            "link": "https://www.amazon.fr/",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
+        "title": "Newsletter",
+        "description": "3000+ inscrits",
+        "image": {
+          "src": "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
+          "alt": "Newsletter Nile"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "M'inscrire",
+            "link": "https://offres.agencenile.com/newsletter",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
+        "title": "Profil LinkedIn",
+        "description": "11,000+ followers",
+        "image": {
+          "src": "/images/media/linkedin.jpg",
+          "alt": "LinkedIn Nile"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "Suivre",
+            "link": "https://www.linkedin.com/in/karimbouras/",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
+        "title": "Chaîne Youtube",
+        "description": "1,600+ abonnés",
+        "image": {
+          "src": "/images/ss.png",
+          "alt": "YouTube Nile"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "M'abonner",
+            "link": "https://www.youtube.com/@IndustrialGrowth",
+            "variant": "secondary"
+          }
+        ]
+      }
+    ]
+  }
+}
