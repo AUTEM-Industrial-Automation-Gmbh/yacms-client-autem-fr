@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features003",
+    "section": "home/features003"
+  },
+  "data": {
+    "items": [
+      {
+        "overtitle": "AUDIT",
+        "title": "On analyse votre existant",
+        "description": "Identifiez vos points de friction et vos leviers de croissance grâce à un diagnostic précis de vos pratiques marketing, commerciales et CRM.",
+        "image": {
+          "src": "/images/AkiraSatoInterrupteur .png",
+          "alt": "Audit marketing"
+        },
+        "checklist": [
+          {
+            "text": "Audit CRM",
+            "href": "/audit-hubspot"
+          },
+          {
+            "text": "Audit Marketing",
+            "href": "/audit-marketing-industriel"
+          }
+        ],
+        "cta": {
+          "text": "Prendre RDV",
+          "link": "/contact"
+        },
+        "testimonial": {
+          "quote": "Nile a mené avec diligence des entretiens, animé des ateliers enrichissants et réalisé des analyses contextuelles approfondies. Ce travail préparatoire a abouti à la mise en place d'une feuille de route solide visant à rationaliser nos processus.",
+          "authorName": "Ivan Cabezas",
+          "authorRole": "Chef de projet CRM & ERP",
+          "companyLogo": {
+            "src": "/images/logos/safic-alcan.png",
+            "alt": "Safic Alcan"
+          }
+        }
+      },
+      {
+        "overtitle": "SOLUTION TECH",
+        "title": "On déploie votre écosystème HubSpot",
+        "description": "Structurez vos processus, centralisez vos données et accélérez vos ventes — en semaines, pas en années — avec notre version pré-paramétrée d'HubSpot, pensée pour l'industrie.",
+        "image": {
+          "src": "/images/1162946.jpg",
+          "alt": "Écosystème HubSpot manufacturing"
+        },
+        "checklist": [
+          {
+            "text": "HubSpot pour l'Industrie : Découvrez le Manufacturing Hub",
+            "href": "/hubspot-pour-industrie"
+          }
+        ],
+        "cta": {
+          "text": "Demander une démo",
+          "link": "/demo-manufacturing-hub"
+        },
+        "testimonial": {
+          "quote": "Nous faisons appel à Nile pour l'implémentation de notre nouveau CRM. Les différents contacts et échanges sont excellents. L'analyse des besoins en amont et la formation continue en aval est parfaite. Un accompagnement complet et efficace.",
+          "authorName": "Charles-Edouard Henry",
+          "authorRole": "Directeur commercial & Marketing",
+          "companyLogo": {
+            "src": "/images/logos/siman.svg",
+            "alt": "Siman"
+          }
+        }
+      },
+      {
+        "overtitle": "PERFORMANCE",
+        "title": "On active vos leviers de croissance",
+        "description": "Passez à la vitesse supérieure avec des stratégies marketing, commerciales et web conçues pour générer des résultats mesurables dans l'industrie.",
+        "image": {
+          "src": "/images/performance-marketing.jpg",
+          "alt": "Performance marketing industriel"
+        },
+        "checklist": [
+          {
+            "text": "Marketing Industriel",
+            "href": "/marketing-industriel"
+          },
+          {
+            "text": "Site web",
+            "href": "/cms-hubspot"
+          },
+          {
+            "text": "Sales Enablement",
+            "href": "/sales-enablement"
+          }
+        ],
+        "cta": {
+          "text": "Prendre RDV",
+          "link": "/contact"
+        }
+      }
+    ]
+  }
+}

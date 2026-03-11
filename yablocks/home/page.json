@@ -7,6 +7,7 @@
   "theme": "autem-default",
   "blocks": [
     "../_shared/navigation.json",
-    "./hero001.json"
+    "./hero001.json",
+    "./features003.json"
   ]
 }
