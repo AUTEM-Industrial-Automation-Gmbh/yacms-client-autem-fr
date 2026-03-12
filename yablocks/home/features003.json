@@ -10,7 +10,7 @@
         "title": "Programmation & Contrôle-Commande",
         "description": "Nous concevons, programmons et mettons en service vos systèmes automatisés. De l'analyse fonctionnelle à la mise en production, AUTEM couvre l'intégralité du cycle de vie de vos automates, variateurs et systèmes de sécurité.",
         "image": {
-          "src": "/images/metier-automaticien.png",
+          "src": "/images/12.jpg",
           "alt": "Programmation automate industriel PLC"
         },
         "checklist": [
@@ -41,7 +41,7 @@
         "title": "SCADA, MES & Supervision",
         "description": "Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Intégrateur certifié GOLD Ignition, nous déployons des solutions de pilotage pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
         "image": {
-          "src": "/images/ignition-scada.jpeg",
+          "src": "/images/kpi-industrie.jpg",
           "alt": "Supervision SCADA Ignition industrielle"
         },
         "checklist": [
@@ -68,7 +68,7 @@
         "title": "IIoT, Connectivité & Pilotage",
         "description": "Nous collectons, stockons et analysons les données de vos machines pour vous offrir une visibilité en temps réel sur vos installations. En 1 semaine, accédez à l'essentiel de vos données machines dans un outil de pilotage simple.",
         "image": {
-          "src": "/images/siemens.png",
+          "src": "/images/manufacturing.jpg",
           "alt": "Digitalisation usine IIoT data industrielle"
         },
         "checklist": [
