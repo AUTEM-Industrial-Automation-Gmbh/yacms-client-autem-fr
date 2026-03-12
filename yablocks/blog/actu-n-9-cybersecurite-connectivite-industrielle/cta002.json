@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "blog/actu-n-9-cybersecurite-connectivite-industrielle/cta002"
+    },
+    "data": {
+        "title": "Un projet de connectivité ou de cybersécurité industrielle ?",
+        "benefits": [
+            {
+                "icon": "shield",
+                "text": "Audit cybersécurité OT / ICS sur site"
+            },
+            {
+                "icon": "bar-chart",
+                "text": "Architecture réseau industrielle segmentée"
+            },
+            {
+                "icon": "users",
+                "text": "Intégration OPC-UA, MQTT & protocoles industriels"
+            }
+        ],
+        "cta": {
+            "text": "Discutons de votre projet",
+            "link": "/contact"
+        }
+    }
+}
