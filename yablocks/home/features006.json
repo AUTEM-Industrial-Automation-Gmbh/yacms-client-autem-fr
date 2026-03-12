@@ -8,10 +8,26 @@
     "title": "Suivez-nous & Formez-vous",
     "cards": [
       {
+        "title": "Contenu Video",
+        "description": "Hermès, Amazon, Danone, ArcelorMittal, SNCF et +",
+        "image": {
+          "src": "/images/youtube.webp",
+          "alt": "Portfolio références AUTEM clients"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Voir nos cas clients",
+            "link": "/cas-clients",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
         "title": "LinkedIn AUTEM",
         "description": "Suivez notre actualité industrielle, nos projets et partages techniques",
         "image": {
-          "src": "/images/autemautomation_cover.jpg",
+          "src": "/images/linkedin.webp",
           "alt": "AUTEM LinkedIn automatisme industriel"
         },
         "size": "big",
@@ -30,7 +46,7 @@
           "src": "/images/formation-udemy.jpg",
           "alt": "Formation automatisme Siemens TIA Portal Udemy"
         },
-        "size": "big",
+        "size": "small",
         "actions": [
           {
             "text": "Voir le cours",
@@ -51,22 +67,6 @@
           {
             "text": "Lire",
             "link": "/blog",
-            "variant": "secondary"
-          }
-        ]
-      },
-      {
-        "title": "Portfolio & Références",
-        "description": "Hermès, Amazon, Danone, ArcelorMittal, SNCF et +",
-        "image": {
-          "src": "/images/portfolio-references.jpg",
-          "alt": "Portfolio références AUTEM clients"
-        },
-        "size": "small",
-        "actions": [
-          {
-            "text": "Voir nos cas clients",
-            "link": "/cas-clients",
             "variant": "secondary"
           }
         ]
