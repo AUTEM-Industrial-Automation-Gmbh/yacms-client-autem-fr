@@ -24,35 +24,35 @@
       "title": "Ils nous font confiance",
       "items": [
         {
-          "src": "/logos/clients/hermes.png",
+          "src": "/logos/hermes.png",
           "alt": "Hermès"
         },
         {
-          "src": "/logos/clients/amazon.png",
+          "src": "/logos/amazon.png",
           "alt": "Amazon"
         },
         {
-          "src": "/logos/clients/danone-covostok.png",
+          "src": "/logos/danone-covostok.png",
           "alt": "Danone / CoVostok"
         },
         {
-          "src": "/logos/clients/unilever.jpg",
+          "src": "/logos/unilever.jpg",
           "alt": "Unilever"
         },
         {
-          "src": "/logos/clients/arcelormittal.jpg",
+          "src": "/logos/arcelormittal.jpg",
           "alt": "ArcelorMittal"
         },
         {
-          "src": "/logos/clients/engie.jpg",
+          "src": "/logos/engie.jpg",
           "alt": "ENGIE"
         },
         {
-          "src": "/logos/clients/thalys.png",
+          "src": "/logos/thalys.png",
           "alt": "Thalys"
         },
         {
-          "src": "/logos/clients/bema.png",
+          "src": "/logos/bema.png",
           "alt": "BEMA"
         }
       ]

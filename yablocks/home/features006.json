@@ -11,7 +11,7 @@
         "title": "LinkedIn AUTEM",
         "description": "Suivez notre actualité industrielle, nos projets et partages techniques",
         "image": {
-          "src": "/images/pages/metier-automaticien.png",
+          "src": "/images/metier-automaticien.png",
           "alt": "AUTEM LinkedIn automatisme industriel"
         },
         "size": "big",
@@ -27,7 +27,7 @@
         "title": "Formation Udemy — Automates Siemens TIA Portal",
         "description": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
         "image": {
-          "src": "/images/pages/formation-udemy.jpg",
+          "src": "/images/formation-udemy.jpg",
           "alt": "Formation automatisme Siemens TIA Portal Udemy"
         },
         "size": "big",
@@ -43,7 +43,7 @@
         "title": "Blog Technique",
         "description": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
         "image": {
-          "src": "/images/pages/scada.png",
+          "src": "/images/scada.png",
           "alt": "Blog AUTEM automatisme SCADA"
         },
         "size": "small",
@@ -59,7 +59,7 @@
         "title": "Portfolio & Références",
         "description": "Hermès, Amazon, Danone, ArcelorMittal, SNCF et +",
         "image": {
-          "src": "/images/pages/portfolio-references.jpg",
+          "src": "/images/portfolio-references.jpg",
           "alt": "Portfolio références AUTEM clients"
         },
         "size": "small",
@@ -75,7 +75,7 @@
         "title": "Contactez-nous",
         "description": "contact@autem-services.fr · +33 6 17 43 68 02",
         "image": {
-          "src": "/images/pages/automaticien-rhone-alpes.jpg",
+          "src": "/images/automaticien-rhone-alpes.jpg",
           "alt": "Contact AUTEM automaticien"
         },
         "size": "small",

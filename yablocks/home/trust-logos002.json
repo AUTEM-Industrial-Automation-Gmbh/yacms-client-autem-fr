@@ -8,51 +8,51 @@
     "subtitle": "Expertise multi-constructeurs pour vos systèmes automatisés",
     "logos": [
       {
-        "src": "/logos/technos/siemens.png",
+        "src": "/logos/siemens.png",
         "alt": "Siemens"
       },
       {
-        "src": "/logos/technos/rockwell.png",
+        "src": "/logos/rockwell.png",
         "alt": "Allen-Bradley / Rockwell Automation"
       },
       {
-        "src": "/logos/technos/schneider.png",
+        "src": "/logos/schneider.png",
         "alt": "Schneider Electric"
       },
       {
-        "src": "/logos/technos/ignition.png",
+        "src": "/logos/ignition.png",
         "alt": "Ignition SCADA"
       },
       {
-        "src": "/logos/technos/wonderware.png",
+        "src": "/logos/wonderware.png",
         "alt": "Wonderware / AVEVA"
       },
       {
-        "src": "/logos/technos/wincc.png",
+        "src": "/logos/wincc.png",
         "alt": "WinCC"
       },
       {
-        "src": "/logos/technos/eplan.png",
+        "src": "/logos/eplan.png",
         "alt": "EPLAN"
       },
       {
-        "src": "/logos/technos/sew.png",
+        "src": "/logos/sew.png",
         "alt": "SEW-Eurodrive"
       },
       {
-        "src": "/logos/technos/eaton.png",
+        "src": "/logos/eaton.png",
         "alt": "Eaton"
       },
       {
-        "src": "/logos/technos/pilz.png",
+        "src": "/logos/pilz.png",
         "alt": "Pilz"
       },
       {
-        "src": "/logos/technos/pepperl-fuchs.png",
+        "src": "/logos/pepperl-fuchs.png",
         "alt": "Pepperl+Fuchs"
       },
       {
-        "src": "/logos/technos/profinet.png",
+        "src": "/logos/profinet.png",
         "alt": "Profinet"
       }
     ]
