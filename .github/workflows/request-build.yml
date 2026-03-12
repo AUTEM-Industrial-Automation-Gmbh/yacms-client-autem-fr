@@ -10,7 +10,7 @@ jobs:
       - name: Trigger YACMS Central
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.PAT_TOKEN }} # <-- Make sure to set this secret in your repo
+          token: ${{ secrets.YACMS_TOKEN }} # <-- Make sure to set this secret in your repo
           repository: zestones/yacms # <-- Update this line with your central repo username/repo
           event-type: build-client
           client-payload: '{"owner":"zestones","client_repo":"${{ github.event.repository.name }}"}' # owner and repo name are auto-detected
