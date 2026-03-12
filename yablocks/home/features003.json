@@ -34,6 +34,15 @@
         "cta": {
           "text": "En savoir plus",
           "link": "/offre/automatisme"
+        },
+        "testimonial": {
+          "quote": "AUTEM a parfaitement compris nos exigences dès le début de la mission. La programmation est propre, bien structurée et la machine a été validée sans anomalie majeure lors des tests FAT. C'est le niveau de qualité que nous attendons de nos partenaires.",
+          "authorName": "Directeur Technique",
+          "authorRole": "TM — Canada",
+          "companyLogo": {
+            "src": "/logos/tm.png",
+            "alt": "TM"
+          }
         }
       },
       {
@@ -61,6 +70,15 @@
         "cta": {
           "text": "Découvrir nos solutions",
           "link": "/offre/informatique-industrielle"
+        },
+        "testimonial": {
+          "quote": "AUTEM a su s'adapter à nos contraintes d'atelier avec sérieux et professionnalisme. L'architecture livrée est claire, bien documentée et nos équipes ont pu la prendre en main rapidement. Nous recommandons leur expertise pour tout projet d'automatisme en environnement de production exigeant.",
+          "authorName": "Responsable Technique",
+          "authorRole": "Hermès — Atelier de production Paris",
+          "companyLogo": {
+            "src": "/logos/hermes.png",
+            "alt": "Hermès"
+          }
         }
       },
       {
@@ -88,6 +106,15 @@
         "cta": {
           "text": "Découvrir",
           "link": "/offre/data"
+        },
+        "testimonial": {
+          "quote": "L'intégration réalisée par AUTEM a transformé cette ligne. Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système. Un travail sérieux, dans les délais.",
+          "authorName": "Responsable Production",
+          "authorRole": "Unilever — Usine de l'Oise",
+          "companyLogo": {
+            "src": "/logos/unilever.jpg",
+            "alt": "Unilever"
+          }
         }
       }
     ]
