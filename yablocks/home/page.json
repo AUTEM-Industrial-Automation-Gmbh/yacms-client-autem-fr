@@ -1,11 +1,32 @@
 {
   "meta": {
-    "title": "Landing Page",
-    "description": "",
-    "keywords": []
+    "title": "AUTEM — Automatisme, Informatique Industrielle & Digitalisation",
+    "description": "AUTEM optimise la performance de vos usines grâce à l'automatisme, la supervision SCADA et le pilotage de données. Intégrateur certifié GOLD Ignition. Contactez-nous : contact@autem-services.fr",
+    "keywords": [
+      "automatisme",
+      "automaticien",
+      "SCADA",
+      "informatique industrielle",
+      "digitalisation",
+      "Ignition",
+      "intégrateur",
+      "automatisme industriel",
+      "MES",
+      "IIoT",
+      "entreprise automatisme lyon",
+      "automaticien freelance"
+    ]
   },
-  "theme": "phantom-violet",
+  "theme": "autem-default",
   "blocks": [
-    "./hero001.json"
+    "../_shared/navigation.json",
+    "./hero001.json",
+    "./features004.json",
+    "./features003.json",
+    "./trust-logos002.json",
+    "./features005.json",
+    "./features006.json",
+    "./cta002.json",
+    "./footer-columns.json"
   ]
 }

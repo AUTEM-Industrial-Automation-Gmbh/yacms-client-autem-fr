@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Amazon — Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS | AUTEM",
+    "description": "Découvrez comment AUTEM a automatisé un entrepôt mécanisé Amazon à Paris : systèmes de convoyage, traçabilité colis et WCS (Warehouse Control System).",
+    "keywords": ["automatisme logistique","WCS entrepôt","convoyage automatisé","traçabilité colis","automatisme Amazon","AUTEM réalisation"]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

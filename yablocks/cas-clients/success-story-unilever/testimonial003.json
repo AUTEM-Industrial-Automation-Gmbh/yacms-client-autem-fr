@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-unilever/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/client-3-unilever.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "L'intégration réalisée par AUTEM a transformé cette ligne. Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système. Un travail sérieux, dans les délais.",
+    "author": {
+      "name": "Responsable Production",
+      "role": "Unilever — Usine de l'Oise"
+    }
+  }
+}

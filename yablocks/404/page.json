@@ -1,23 +1,23 @@
 {
   "meta": {
-    "title": "404 - Page Not Found | YourBrand",
-    "description": "The page you are looking for doesn't exist or has been moved. Return to homepage to explore our services.",
+    "title": "404 - Page introuvable | AUTEM Services",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour découvrir nos services d'automatisme industriel.",
     "keywords": [
       "404",
-      "page not found",
-      "error"
+      "page introuvable",
+      "erreur"
     ],
-    "author": "YourBrand",
-    "canonical": "https://yourbusiness.com/404",
-    "locale": "en_US",
+    "author": "AUTEM Services",
+    "canonical": "https://autem-services.fr/404",
+    "locale": "fr_FR",
     "robots": "noindex, follow",
     "og": {
       "type": "website",
-      "image": "/images/og-home.jpg",
-      "imageAlt": "YourBrand - Page Not Found"
+      "image": "/images/og-autem.jpg",
+      "imageAlt": "AUTEM Services - Page introuvable"
     }
   },
-  "theme": "template-default",
+  "theme": "autem-default",
   "blocks": [
     "../_shared/navigation.json",
     "./not_found.json",

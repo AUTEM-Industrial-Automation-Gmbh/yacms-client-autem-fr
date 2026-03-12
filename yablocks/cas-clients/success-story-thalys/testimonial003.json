@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-thalys/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "La mission AMOA d'AUTEM nous a permis de passer d'une maintenance réactive à une approche préventive basée sur la donnée. La remontée IoT est fiable et le dashboard est devenu un outil quotidien pour nos équipes terrain.",
+    "author": {
+      "name": "Responsable Opérations",
+      "role": "Thalys — Services embarqués"
+    }
+  }
+}

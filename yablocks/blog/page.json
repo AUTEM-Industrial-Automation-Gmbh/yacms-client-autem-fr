@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "title": "Blog Technique — Automatisme, SCADA & Industrie 4.0 | AUTEM",
+    "description": "Tutoriels, actualités et retours d'expérience sur l'automatisme industriel, le SCADA, l'IIoT et la digitalisation des usines — par Marc Akoto, Intégrateur AUTEM.",
+    "keywords": [
+      "blog automatisme",
+      "tutoriels SCADA",
+      "industrie 4.0",
+      "IIoT",
+      "Ignition SCADA",
+      "Marc Akoto",
+      "AUTEM blog"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./blog001.json",
+    "../home/cta002.json",
+    "../_shared/footer.json"
+  ]
+}

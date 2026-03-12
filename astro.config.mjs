@@ -12,7 +12,8 @@ export default defineConfig({
     base: '/yacms-client-autem',
     integrations: [react(), sitemap()],
     build: {
-        inlineStylesheets: 'always'
+        inlineStylesheets: 'always',
+        compressHTML: true
     },
     vite: {
         plugins: [tailwindcss()],

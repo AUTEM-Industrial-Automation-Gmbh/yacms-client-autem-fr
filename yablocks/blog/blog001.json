@@ -1,0 +1,2264 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/blog/Blog001",
+    "section": "blog/blog001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Blog technique AUTEM — Automatisme et Industrie 4.0"
+    },
+    "overtitle": "LE BLOG TECHNIQUE",
+    "title": "Ressources & Tutoriels AUTEM",
+    "filterTags": [
+      {
+        "label": "Actualités",
+        "value": "Actualités"
+      },
+      {
+        "label": "Automatisme",
+        "value": "Automatisme"
+      },
+      {
+        "label": "Carrière & Formation",
+        "value": "Carrière & Formation"
+      },
+      {
+        "label": "Data & IIoT",
+        "value": "Data & IIoT"
+      },
+      {
+        "label": "Industrie",
+        "value": "Industrie"
+      },
+      {
+        "label": "SCADA & Supervision",
+        "value": "SCADA & Supervision"
+      }
+    ],
+    "cards": [
+      {
+        "coverImage": {
+          "src": "/assets/highByte-vs-kepware.jpg",
+          "alt": "HighByte vs Kepware"
+        },
+        "title": "HighByte vs Kepware",
+        "excerpt": "Which trade-off to historize data in your factory ?",
+        "link": "/blog/highbyte-vs-kepware",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "08 mars 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/missing-your-true-identity.jpg",
+          "alt": "Are you missing your true identity ?"
+        },
+        "title": "Are you missing your true identity ?",
+        "excerpt": "Let's explore 3 reason why you should probably take a turn in your career.",
+        "link": "/blog/are-you-missing-your-true-identity",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "22 février 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/the-4-risks-of-a-retrofit-in-machine-automation.jpg",
+          "alt": "The 4 risks of a RETROFIT in Machine Automation"
+        },
+        "title": "The 4 risks of a RETROFIT in Machine Automation",
+        "excerpt": "Let's explore the 4 risks of a RETROFIT in Machine Automation",
+        "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "15 février 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/the-denial-of-age-vintage-machines.jpg",
+          "alt": "The Denial of AGE ... #VintageMachines"
+        },
+        "title": "The Denial of AGE ... #VintageMachines",
+        "excerpt": "🏭 For people or machines in manufacturing, the shame of becoming DISPOSABLE is a reality. Let's explore !",
+        "link": "/blog/the-denial-of-age-vintagemachines",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "08 février 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/when-archeology-meets-manufacturing.jpg",
+          "alt": "When Archeology meets Manufacturing"
+        },
+        "title": "When Archeology meets Manufacturing",
+        "excerpt": "Are Dinosaure Machines the Best ? Let's explore the question.",
+        "link": "/blog/when-archeology-meets-manufacturing",
+        "tags": [
+          {
+            "label": "Actualités"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 février 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/6-habits-that-kill-old-machines.jpg",
+          "alt": "🏭 6 Habits that kill Old Machines"
+        },
+        "title": "🏭 6 Habits that kill Old Machines",
+        "excerpt": "Let's explore 6 Habits that kill Old Machines",
+        "link": "/blog/6-habits-that-kill-old-machines",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 janvier 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/cybersecurity-containerization-open_source-digital_transformation.jpg",
+          "alt": "Actus n°22 - Coming Back for 2026 🔥 the recap !"
+        },
+        "title": "Actus n°22 - Coming Back for 2026 🔥 the recap !",
+        "excerpt": "Cybersecurity, Containerization, Open Source, Digital Transformation",
+        "link": "/blog/actus-n-22-coming-back-for-2026-the-recap",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 janvier 2026"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/automate-your-engineering-report-with-ai.jpg",
+          "alt": "Automate your Engineering Reports💡"
+        },
+        "title": "Automate your Engineering Reports💡",
+        "excerpt": "Automate your Engineering Reports with AI - Real-Life example",
+        "link": "/blog/automate-your-engineering-reports",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "24 juin 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/automate-your-documentation.jpg",
+          "alt": "Automate your Documentation: MARKDOWN vs WORD"
+        },
+        "title": "Automate your Documentation: MARKDOWN vs WORD",
+        "excerpt": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
+        "link": "/blog/automate-your-documentation-markdown-vs-word",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "17 juin 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/project-and-team-collaboration.jpg",
+          "alt": "Project & Team Collaboration in manufacturing"
+        },
+        "title": "Project & Team Collaboration in manufacturing",
+        "excerpt": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
+        "link": "/blog/project-team-collaboration-in-manufacturing",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "03 juin 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/train-your-local-ai.jpg",
+          "alt": "Train your local AI to think like YOU 🧠"
+        },
+        "title": "Train your local AI to think like YOU 🧠",
+        "excerpt": "Knowledge Base productivity",
+        "link": "/blog/train-your-local-ai-to-think-like-you",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "06 mai 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/mqtt-image-sampling.jpg",
+          "alt": "MQTT Image Sampling : Historize as TimeSeries in Docker"
+        },
+        "title": "MQTT Image Sampling : Historize as TimeSeries in Docker",
+        "excerpt": "🖼️ Storing Images from your Machine Vision system in 10 minutes.",
+        "link": "/blog/mqtt-image-sampling-historize-as-timeseries-in-docker",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "06 mai 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/modeliser-son-lifecycle-machine.jpg",
+          "alt": "Modéliser son LifeCycle Machine"
+        },
+        "title": "Modéliser son LifeCycle Machine",
+        "excerpt": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
+        "link": "/blog/mod-liser-son-lifecycle-machine",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "16 avril 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-mars-2025.jpg",
+          "alt": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA"
+        },
+        "title": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA",
+        "excerpt": "Actualités mensuelles mars 2025 de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de mars 2025)",
+        "link": "/blog/actus-n-20-les-2-tendances-en-industrie-ouverture-technologi",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 avril 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/formation-et-industrie.jpg",
+          "alt": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA"
+        },
+        "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA",
+        "excerpt": "Comment former les techniciens de demain ?",
+        "link": "/blog/formation-techniciens-pour-l-industrie-du-futur-yannick-sutr",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 mars 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/une-equation-a-7-inconnues.jpg",
+          "alt": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues"
+        },
+        "title": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues",
+        "excerpt": "Une équation à 7 inconnues",
+        "link": "/blog/obsolescence-p-r-nnit-p-nurie-une-quation-7-inconnues",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "12 mars 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/les-automaticiens-entrepreneurs.jpg",
+          "alt": "Les automaticiens entrepreneurs"
+        },
+        "title": "Les automaticiens entrepreneurs",
+        "excerpt": "✋ 3 conseils avant de se mettre à son compte",
+        "link": "/blog/les-automaticiens-entrepreneurs",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 mars 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/prove-it-la-conference-40.jpg",
+          "alt": "Actus n°19 - Prove-it: la conférence 4.0"
+        },
+        "title": "Actus n°19 - Prove-it: la conférence 4.0",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de février 2025)",
+        "link": "/blog/actus-n-19-prove-it-la-conf-rence-4-0",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 février 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/license_logicielle.jpg",
+          "alt": "Prix des Logiciels Industriels"
+        },
+        "title": "Prix des Logiciels Industriels",
+        "excerpt": "Licence payante ou gratuite ? Propriétaire ou OpenSource ? Les tendances et suggestions.",
+        "link": "/blog/prix-des-logiciels-industriels",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "19 février 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/carriere-automatisme-industrie-communaute.jpg",
+          "alt": "Evolution dans l'industrie:carrière, automatisme et communauté"
+        },
+        "title": "Evolution dans l'industrie:carrière, automatisme et communauté",
+        "excerpt": "Retour aux Origines avec Hocine BOUCHEMAL, Bertrand AYENE, Bourahima KAMAGATE, Giovanni AGBOCOU, Veysel DOGANEL",
+        "link": "/blog/evolution-dans-l-industrie-carri-re-automatisme-et-communaut",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "11 février 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/ladder-et-process-control-programmation-et-opensource.jpg",
+          "alt": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource"
+        },
+        "title": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de janvier 2025)",
+        "link": "/blog/actus-n-18-ladder-process-control-programmation-opensource",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "28 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/stop_aux_formations_et_communaute_en_ligne.jpg",
+          "alt": "STOP aux Formations et Communautés en ligne !"
+        },
+        "title": "STOP aux Formations et Communautés en ligne !",
+        "excerpt": "Des astuces utiles pour choisir sa formation et crée une communauté.",
+        "link": "/blog/stop-aux-formations-et-communaut-s-en-ligne",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "22 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/protectionnisme-technologies-futures-en-industrie.jpg",
+          "alt": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie"
+        },
+        "title": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de novembre et de décembre 2024)",
+        "link": "/blog/actus-n-17-protectionnisme-technologies-futures-en-industrie",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "09 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/nos-galeres-en-industrie.jpg",
+          "alt": "Nos Galères en Usine ft. Adrien SORCI"
+        },
+        "title": "Nos Galères en Usine ft. Adrien SORCI",
+        "excerpt": "Bilan 2024 avec Marc AKOTO",
+        "link": "/blog/nos-gal-res-en-usine-ft-adrien-sorci",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/retrofit-hardware-en-industrie.jpg",
+          "alt": "Rétrofit carte électronique Advantech - obsolescence machine industrielle"
+        },
+        "title": "Rétrofit carte électronique Advantech - obsolescence machine industrielle",
+        "excerpt": "Comment gérer l'obsolescence d'une machine industrielle équipée d'une carte électronique Advantech",
+        "link": "/blog/r-trofit-carte-lectronique-advantech-obsolescence-machine-in",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/cest-qui-autem.jpg",
+          "alt": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel"
+        },
+        "title": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel",
+        "excerpt": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
+        "link": "/blog/c-est-qui-autem-notre-activit-d-int-grateur-automation-indus",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 janvier 2025"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-octobre-2024.jpg",
+          "alt": "Actus n°16 - Robot Optimus & FrameworX"
+        },
+        "title": "Actus n°16 - Robot Optimus & FrameworX",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0: octobre 2024, 🏭 Commentée par un spécialiste de l'automatisation 👷",
+        "link": "/blog/actus-n-16-robot-optimus-frameworx",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "20 novembre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/exalens-process-monitoring-software.jpg",
+          "alt": "Exalens: Rétro-Ingénierie automatique avec IA"
+        },
+        "title": "Exalens: Rétro-Ingénierie automatique avec IA",
+        "excerpt": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
+        "link": "/blog/exalens-r-tro-ing-nierie-automatique-avec-ia",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "11 novembre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/4-raisons-dadopter-docker-en industrie.jpg",
+          "alt": "4 raisons d'adopter DOCKER en Industrie"
+        },
+        "title": "4 raisons d'adopter DOCKER en Industrie",
+        "excerpt": "4 raisons d'adopter DOCKER en Industrie | Containerisation VS Virtualisation",
+        "link": "/blog/4-raisons-d-adopter-docker-en-industrie",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "21 octobre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-septembre-2024.jpg",
+          "alt": "Actus n°15 - Automobile et IoT - Septembre 2024"
+        },
+        "title": "Actus n°15 - Automobile et IoT - Septembre 2024",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍ (mois de septembre 2024)",
+        "link": "/blog/actus-n-15-automobile-et-iot-septembre-2024",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "10 octobre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/retrofit-digitaliser.jpg",
+          "alt": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?"
+        },
+        "title": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?",
+        "excerpt": "Quelle est la priorité si l'on doit choisir entre faire un Rétrofit ou Digitaliser ?",
+        "link": "/blog/retrofit-ou-digitaliser-priorit-pour-moderniser-innover",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "10 octobre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/recruter-un-technicien.png",
+          "alt": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle"
+        },
+        "title": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle",
+        "excerpt": "🔥Comment recruter un technicien en industrie 👷‍♂️ 7 étapes en ingénierie industrielle",
+        "link": "/blog/recruter-un-e-technicien-ne-en-industrie-7-tapes-en-ing-nier",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "22 septembre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_ete_2024.jpg",
+          "alt": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6"
+        },
+        "title": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6",
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍",
+        "link": "/blog/actus-n-14-open-source-raffinerie-dangote-incident-microsoft",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "09 septembre 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/equilibre-vie-perso-pro-pour-techiciens-en-industrie.jpg",
+          "alt": "Equilibre vie perso - pro pour Techniciens en Industrie"
+        },
+        "title": "Equilibre vie perso - pro pour Techniciens en Industrie",
+        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+        "link": "/blog/equilibre-vie-perso-pro-pour-techniciens-en-industrie",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "14 juillet 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-juin-2024.jpg",
+          "alt": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre"
+        },
+        "title": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre",
+        "excerpt": "Les actualités du mois de juin 2024: SnowFlake Data, Scada AWS et un Expert à suivre.",
+        "link": "/blog/actus-n-13-snowflake-data-scada-aws-et-un-expert-suivre",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "14 juillet 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/les-techniciens-proposent-des-solutions.jpg",
+          "alt": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS"
+        },
+        "title": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
+        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+        "link": "/blog/sauver-l-industrie-les-techniciens-proposent-des-solutions",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "29 juin 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/les-techniciens-fuient-lindustrie.jpg",
+          "alt": "Réflexion: Les techniciens fuient les usines"
+        },
+        "title": "Réflexion: Les techniciens fuient les usines",
+        "excerpt": "Pourquoi les meilleurs quittent l'industrie ?",
+        "link": "/blog/r-flexion-les-techniciens-fuient-les-usines",
+        "tags": [
+          {
+            "label": "Carrière & Formation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "29 juin 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/politique-et-industrie-en-france.jpg",
+          "alt": "Politique et Industrie en France"
+        },
+        "title": "Politique et Industrie en France",
+        "excerpt": "Je compare les programmes des candidats",
+        "link": "/blog/politique-et-industrie-en-france",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "18 juin 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-mai-2024.jpg",
+          "alt": "Actus n°12 - Arduino, SQL et OT Benchmark 📰"
+        },
+        "title": "Actus n°12 - Arduino, SQL et OT Benchmark 📰",
+        "excerpt": "Les actualités du mois de mai 2024: Arduino, SQL et OT Benchmark.",
+        "link": "/blog/actus-n-12-arduino-sql-et-ot-benchmark",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 juin 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/factory_automation_insider.jpg",
+          "alt": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers"
+        },
+        "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers",
+        "excerpt": "Un partage entre experts, riche en vérités sur différents aspects de l'industrie",
+        "link": "/blog/l-industrie-volue-sp-ciale-insiders-factory-automation-aveng",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 juin 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/armoir-beckhoff.jpg",
+          "alt": "Armoire d'automatisme - Beckhoff - Identifier les organes"
+        },
+        "title": "Armoire d'automatisme - Beckhoff - Identifier les organes",
+        "excerpt": "Identification des différents éléments de la gamme Beckhoff présent dans un banc d'essai",
+        "link": "/blog/armoire-d-automatisme-beckhoff-identifier-les-organes",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "08 mai 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-avril-2024.jpg",
+          "alt": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe"
+        },
+        "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe",
+        "excerpt": "Les actualités du mois d'avril 2024 dont le salon Hannover Messe",
+        "link": "/blog/actus-n-11-le-combat-hardware-vs-software-hannover-messe",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 mai 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/agro_et_pharma.jpg",
+          "alt": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX"
+        },
+        "title": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX",
+        "excerpt": "A la découverte du monde de l'industrie Agro et pharmaceutique",
+        "link": "/blog/industrie-agro-pharma-en-belgique-antoine-castiaux",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "28 avril 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/actu10.jpg",
+          "alt": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰"
+        },
+        "title": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰",
+        "excerpt": "Rétrospective sur les 12 derniers mois d'Actualités mensuelles de l'industrie 4.0",
+        "link": "/blog/actu-n-10-uns-grok-industrie-bilan-12-mois-d-actualit-s",
+        "tags": [
+          {
+            "label": "Actualités"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 avril 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/zone-atex.jpg",
+          "alt": "Zone ATEX en Industrie Pharma - Esteban TORIBIO"
+        },
+        "title": "Zone ATEX en Industrie Pharma - Esteban TORIBIO",
+        "excerpt": "Comment automatiser des machines quand on est en zone ATEX avec un expert Esteban TORIBIO",
+        "link": "/blog/zone-atex-en-industrie-pharma-esteban-toribio",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "20 mars 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-fevrier-2024.jpg",
+          "alt": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde"
+        },
+        "title": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde",
+        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
+        "link": "/blog/actu-n-9-cybers-curit-connectivit-industrielle-technologie-d",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "10 mars 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-janvier-2024.jpg",
+          "alt": "Actus n°8 - Métallurgie, IHM, Langues, IA"
+        },
+        "title": "Actus n°8 - Métallurgie, IHM, Langues, IA",
+        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
+        "link": "/blog/actus-n-8-m-tallurgie-ihm-langues-ia",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "17 février 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/demo-live-mistubishi.jpg",
+          "alt": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE"
+        },
+        "title": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE",
+        "excerpt": "Démo en LIVE pour interfacer l'automate Mitsubishi avec la plateforme Ignition.",
+        "link": "/blog/mitsubishi-x-ignition-d-mo-connecter-un-automate-en-modbustc",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "17 février 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news-decembre-2023.jpg",
+          "alt": "Actus n°7 - Codesys, Flow Dashboard, Biggest Factory"
+        },
+        "title": "Actus n°7 - Codesys, Flow Dashboard, Biggest Factory",
+        "excerpt": "Actualités industrielles en novembre 2023 : Codesys, Flow Dashboard, Biggest Factory.",
+        "link": "/blog/actus-n-7-codesys-flow-dashboard-biggest-factory",
+        "tags": [
+          {
+            "label": "Actualités"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "03 février 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/ia-midjourney.jpg",
+          "alt": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney"
+        },
+        "title": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney",
+        "excerpt": "Teste du générateur d'images Midjourney sur le thème de l'industrie 🏭 : Quelle représentation graphique l'algorithme se fait de l'industrie ?",
+        "link": "/blog/que-sait-l-ia-sur-l-industrie-un-ing-nieur-teste-midjourney",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "03 février 2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_novembre_2023.jpg",
+          "alt": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem"
+        },
+        "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem",
+        "excerpt": "Actualités industrielles en novembre 2023 : Digitalisation, Simulation, Protocoles Séries",
+        "link": "/blog/actus-n-6-digitalisation-simulation-protocoles-s-rie-autem",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "28 novembre 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/marc-golden-tech.jpg",
+          "alt": "Communication Réseau Industriel - AUTEM"
+        },
+        "title": "Communication Réseau Industriel - AUTEM",
+        "excerpt": "Partage de mon expérience au concours Golden Tech 2022.",
+        "link": "/blog/communication-r-seau-industriel-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 novembre 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_septembre_octobre_2023.png",
+          "alt": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell"
+        },
+        "title": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell",
+        "excerpt": "Actualités industrielles en septembre et octobre 2023 : Rexroth, Dell, Opto22, Rockwell",
+        "link": "/blog/actus-n-5-edge-industriel-rexroth-dell-opto22-rockwell",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "29 octobre 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/edge_benchmark.jpg",
+          "alt": "EDGE Benchmark Comparatif"
+        },
+        "title": "EDGE Benchmark Comparatif",
+        "excerpt": "Comparaison de 4 solutions EDGE : CtrlX by Rexroth, TwinCAT/BSD by Beckhoff, Edge Controller by Wago, Groov Epic by Opto22",
+        "link": "/blog/edge-benchmark-comparatif",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "26 septembre 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_juillet_2023.jpg",
+          "alt": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate"
+        },
+        "title": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
+        "excerpt": "Actus industrielles - Juillet|Août 2023 : NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
+        "link": "/blog/actus-n-4-nodered-private-proxy-mes-interop-rabilit-version-",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "29 août 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/scada_autem.jpg",
+          "alt": "Automatisme industriel et tertiaire"
+        },
+        "title": "Automatisme industriel et tertiaire",
+        "excerpt": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
+        "link": "/blog/automatisme-industriel-et-tertiaire",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "13 août 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/digitalisation_home_autem.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Intégrateur SCADA",
+        "excerpt": "Quel avantage pour vos projets industriels ?",
+        "link": "/blog/int-grateur-scada",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "13 août 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/payant_ou_open_source.jpg",
+          "alt": "Payant OU Open-Source - Choisir son Logiciel industriel"
+        },
+        "title": "Payant OU Open-Source - Choisir son Logiciel industriel",
+        "excerpt": "Découvre à travers cet article les avantages des logiciels Open-Source par rapport aux logiciels payants",
+        "link": "/blog/payant-ou-open-source-choisir-son-logiciel-industriel",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "13 juillet 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_juin_2023.jpg",
+          "alt": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub"
+        },
+        "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
+        "excerpt": "Actualités industrielles en juin 2023 : MongoDB, SAP, VivaTech, United Manufacturing Hub",
+        "link": "/blog/actus-n-3-mongodb-sap-vivatech-united-manufacturing-hub",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "30 juin 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/convergence.jpg",
+          "alt": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix"
+        },
+        "title": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix",
+        "excerpt": "Décrypte de la Convergence OT/IT avec Nicolas GONZALEZ: Convergence IT/OT, potentiel, compétences nécessaires et Cloud.",
+        "link": "/blog/convergence-it-ot-l-industrie-l-re-du-num-rique-avec-nicolas",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "09 juin 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_mai_2023.jpg",
+          "alt": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google"
+        },
+        "title": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
+        "excerpt": "Actualités industrielles en mai 2023 : MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
+        "link": "/blog/actus-n-2-mqtt-azure-tesla-robotique-ai-plantformance-st-gob",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01 juin 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/pilotage.jpg",
+          "alt": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software"
+        },
+        "title": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software",
+        "excerpt": "Découvrez les solutions de connectivité pour relier vos usines à distance, optimiser la production et assurer une gestion efficace des opérations industrielles.",
+        "link": "/blog/pilotage-usine-distance-vpn-ssl-connectivit-hardware-softwar",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 mai 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/benchmark.jpg",
+          "alt": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor"
+        },
+        "title": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor",
+        "excerpt": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
+        "link": "/blog/benchmark-comparatif-scada-jean-romain-bardet-sylvain-pastor",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "11 mai 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/logiciel_sur_mesure.jpg",
+          "alt": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent"
+        },
+        "title": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent",
+        "excerpt": "Logiciels sur-mesure et sur-étagère: Découverte et exploration du thème avec deux experts.",
+        "link": "/blog/logiciels-sur-mesure-dans-l-industrie-jean-romain-bardet-her",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 mai 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/news_avril_2023.jpg",
+          "alt": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC"
+        },
+        "title": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC",
+        "excerpt": "Actualités industrielles en Avril 2023 : Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC décryptées et analysées.",
+        "link": "/blog/actus-n-1-ignition-cloud-d-cret-bacs-ctrlx-core-virtual-plc",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "27 avril 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/automaticien.jpg",
+          "alt": "3k de la communauté AUTEM + Débat méthode VS marques"
+        },
+        "title": "3k de la communauté AUTEM + Débat méthode VS marques",
+        "excerpt": "Automaticien, une question de méthode ou de marques : débat sur la question lors de la célébration des 3000 abonnés de la communauté AUTEM.",
+        "link": "/blog/3k-de-la-communaut-autem-d-bat-m-thode-vs-marques",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "20 avr. 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/logiciel_industriel.jpg",
+          "alt": "Logiciels industriels : prêts pour l'industrie 4.0 ?"
+        },
+        "title": "Logiciels industriels : prêts pour l'industrie 4.0 ?",
+        "excerpt": "Les logiciels industriels sont-ils adaptés à l'industrie 4.0 ? Réflexion sur leur évolution pour répondre aux nouveaux défis.",
+        "link": "/blog/logiciels-industriels-pr-ts-pour-l-industrie-4-0",
+        "tags": [
+          {
+            "label": "Actualités"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "13 avr. 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/chiffrage.jpg",
+          "alt": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel"
+        },
+        "title": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel",
+        "excerpt": "Conseils pour maîtriser le budget de vos projets dans l'industrie, l'automatisme, les machines et les logiciels.",
+        "link": "/blog/budget-projets-10-conseils-industrie-automatisme-machines-lo",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "6 avr. 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/open_source_4_0.jpg",
+          "alt": "Open-Source & Industrie 4.0"
+        },
+        "title": "Open-Source & Industrie 4.0",
+        "excerpt": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
+        "link": "/blog/open-source-industrie-4-0",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "30 mars 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/prospection.jpg",
+          "alt": "Prospecter : client, employeur, marché, mission en tant qu'automaticien"
+        },
+        "title": "Prospecter : client, employeur, marché, mission en tant qu'automaticien",
+        "excerpt": "Rechercher des clients et des employeurs pour décrocher des missions sur le marché, en tant qu'automaticien.",
+        "link": "/blog/prospecter-client-employeur-march-mission-en-tant-qu-automat",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "16 mars 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/ai.jpg",
+          "alt": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?"
+        },
+        "title": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?",
+        "excerpt": "ChatGPT dans l'industrie 4.0 : analyse de l'impact de l'IA sur les processus industriels",
+        "link": "/blog/chatgpt-ladder-grafcet-l-ia-dans-l-industrie-4-0",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "09 mars 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/salaire.jpg",
+          "alt": "A Combien sont payés les automaticiens ?"
+        },
+        "title": "A Combien sont payés les automaticiens ?",
+        "excerpt": "Analyse des salaires des automaticiens : chiffres et enjeux actuels pour cette profession de l'industrie.",
+        "link": "/blog/a-combien-sont-pay-s-les-automaticiens",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "02 mars 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/gmao.jpg",
+          "alt": "Comment digitaliser sa maintenance avec la GMAO ?"
+        },
+        "title": "Comment digitaliser sa maintenance avec la GMAO ?",
+        "excerpt": "La digitalisation de la maintenance industrielle grâce à la GMAO, pour une meilleure gestion et organisation des opérations de maintenance.",
+        "link": "/blog/comment-digitaliser-sa-maintenance-avec-la-gmao",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "23 février 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/femmes_expertes.jpg",
+          "alt": "Parole d'expertes : femmes & actrices de l'industrie"
+        },
+        "title": "Parole d'expertes : femmes & actrices de l'industrie",
+        "excerpt": "Des femmes expertes partagent leur point de vue sur la mixité, les stéréotypes, les quotas et les métiers techniques dans l'industrie.",
+        "link": "/blog/parole-d-expertes-femmes-actrices-de-l-industrie",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "23 février 2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/cognex.png",
+          "alt": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem"
+        },
+        "title": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem",
+        "excerpt": "Configuration et utilisation d'une caméra COGNEX pour effectuer la lecture des datamatrix avec Ignition.",
+        "link": "/blog/cognex-lecture-datamatrix-en-modbus-avec-ignition-autem",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "24 mars 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/historiser_des_donnees_opc.png",
+          "alt": "SQL Kepware Datalogger | Historiser des données OPC | Autem"
+        },
+        "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem",
+        "excerpt": "Historiser des données en OPC - SQL Kepware Datalogger: Les différentes étapes pour repérer une erreur sur une ligne de production.",
+        "link": "/blog/sql-kepware-datalogger-historiser-des-donn-es-opc-autem",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "18 mars 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/reseaux_industriels.png",
+          "alt": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM"
+        },
+        "title": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM",
+        "excerpt": "Découvrez les différents protocoles de communication servant à mettre les machines en réseaux",
+        "link": "/blog/r-seaux-industriels-de-communication-5-protocoles-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 mars 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/feux_tricolore.png",
+          "alt": "Automatiser des feux - Simulation 2 - Carrefour | Autem"
+        },
+        "title": "Automatiser des feux - Simulation 2 - Carrefour | Autem",
+        "excerpt": "Les différentes étapes pour programmer et simuler un feu tricolore avec un seul timer avec une méthode optimiser.",
+        "link": "/blog/automatiser-des-feux-simulation-2-carrefour-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "24 février 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/incendie.png",
+          "alt": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM"
+        },
+        "title": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM",
+        "excerpt": "Comment fonctionne normalement un système de sécurité incendie ?",
+        "link": "/blog/s-curit-incendie-alarmes-et-d-tection-automatique-autem",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "13 février 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/schneider_electric.png",
+          "alt": "Armoire d'automatisme - Schneider Electric"
+        },
+        "title": "Armoire d'automatisme - Schneider Electric",
+        "excerpt": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
+        "link": "/blog/armoire-d-automatisme-schneider-electric",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "11 février 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/portail_fermerture_auto.png",
+          "alt": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem"
+        },
+        "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem",
+        "excerpt": "Fonctionnement d'un système automate de gestion d'ouverture et de fermerture automatique d'un portail.",
+        "link": "/blog/microcontr-leur-vs-automate-portail-fermetures-auto-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "02 février 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/aeroport.png",
+          "alt": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM"
+        },
+        "title": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM",
+        "excerpt": "Sauras-tu trouver le point commun présent à l'intérieur de tous les pupitres présent dans les aéroports ?",
+        "link": "/blog/automatisme-a-roport-passerelles-d-embarquement-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "25 janvier 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/rockwell.png",
+          "alt": "Armoire d'automatisme ROCKWELL"
+        },
+        "title": "Armoire d'automatisme ROCKWELL",
+        "excerpt": "Identification des différents éléments de la gamme ROCKWELL présent dans un banc d'essai",
+        "link": "/blog/armoire-d-automatisme-rockwell",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "10 janvier 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/siemens_armoire_electric.png",
+          "alt": "Siemens Armoire d’automatisme | Identifier les organes | Autem"
+        },
+        "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem",
+        "excerpt": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
+        "link": "/blog/siemens-armoire-d-automatisme-identifier-les-organes-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "06 janvier 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/competence.png",
+          "alt": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem"
+        },
+        "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem",
+        "excerpt": "Découvre les compétences d'un automaticien en 2022",
+        "link": "/blog/automaticien-10-comp-tences-pour-tre-automaticien-en-2022-au",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "03 janvier 2022"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/automatem340.png",
+          "alt": "Automate M340 Unity Loader | Mis à jour du firmware | Autem"
+        },
+        "title": "Automate M340 Unity Loader | Mis à jour du firmware | Autem",
+        "excerpt": "Apprenez à mettre à jour des automates M340 et des modules Ethernet NOC 04 01",
+        "link": "/blog/automate-m340-unity-loader-mis-jour-du-firmware-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "27 décembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/domore.png",
+          "alt": "Do-More | Communiquer en Ethernet/IP | Autem Services"
+        },
+        "title": "Do-More | Communiquer en Ethernet/IP | Autem Services",
+        "excerpt": "Apprenez à communiquer au protocole Ethernet IP grâce au simulateur Do More",
+        "link": "/blog/do-more-communiquer-en-ethernet-ip-autem-services",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "24 décembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/electrocution.png",
+          "alt": "Electricité | Electrocution: 100 A ou 24.000 V | Autem"
+        },
+        "title": "Electricité | Electrocution: 100 A ou 24.000 V | Autem",
+        "excerpt": "100A-24V VS 0,1A-24000V, que choisiras-tu ?",
+        "link": "/blog/electricit-electrocution-100-a-ou-24-000-v-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "21 décembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/wireshark.png",
+          "alt": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem"
+        },
+        "title": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem",
+        "excerpt": "Découvrez le logiciel Wireshark",
+        "link": "/blog/protocoles-r-seaux-iiot-5-filtres-wireshark-autem",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "19 décembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/ihm_web_wincc.png",
+          "alt": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem"
+        },
+        "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
+        "excerpt": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
+        "link": "/blog/ihm-web-wincc-pc-connect-un-automate-s7-1500-autem",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "17 décembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/diagnostic_profinet_reseau_siemens.png",
+          "alt": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem"
+        },
+        "title": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem",
+        "excerpt": "Profinet - Les différentes étapes pour faire du diagnostique sur les réseaux Profinet avec le logiciel PRONETA | AUTEM.",
+        "link": "/blog/proneta-diagnostic-profinet-sur-r-seau-siemens-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "24 novembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/studio_5000_rockwell.png",
+          "alt": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem"
+        },
+        "title": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem",
+        "excerpt": "Utilisation du logiciel Studio 5000 pour programmer les gammes d’automates premium de Rockwell",
+        "link": "/blog/rockwell-studio-programmer-un-automate-allen-bradley-autem",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "18 novembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/ip_shifter.png",
+          "alt": "Adresse IP | Changer son adresse IP en 1 clic | Autem"
+        },
+        "title": "Adresse IP | Changer son adresse IP en 1 clic | Autem",
+        "excerpt": "IP Shifter - Apprenez à changer votre adresse IP avec l'outil qui va vous permettre de vous connecter plus rapidement à vos machines.",
+        "link": "/blog/adresse-ip-changer-son-adresse-ip-en-1-clic-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "07 novembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/kepware_excel.png",
+          "alt": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem"
+        },
+        "title": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem",
+        "excerpt": "Automate & Microsoft Excel - Les différentes étapes pour apprendre à controler ton automate avec un fichier Excel.",
+        "link": "/blog/kepware-connecter-excel-un-automate-siemens-s7-1500-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "04 novembre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/uaexpert.png",
+          "alt": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem"
+        },
+        "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
+        "excerpt": "OPC UA - Découverte du protocole OPC UA à travers une simulation reliant un serveur OPC, PLCSIM et un client OPC, UA expert.",
+        "link": "/blog/uaexpert-serveur-plcsim-communiquer-en-opc-ua-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "31 octobre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/somachine.png",
+          "alt": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem"
+        },
+        "title": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem",
+        "excerpt": "Schneider Electric et connexion USB - Résolution du problème de \"périphérique USB non reconnu\" sur certains automates Schneider Electric.",
+        "link": "/blog/m340-m221-r-tablir-la-connexion-usb-avec-somachine-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "26 octobre 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/plcsim_modbus.png",
+          "alt": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem"
+        },
+        "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
+        "excerpt": "Mb Client, Modsim, PLCSIM Advanced - les différentes étapes pour établir une communication au protocole modbus avec 3 entités.",
+        "link": "/blog/plcsim-x-modbus-communiquer-sans-automate-mb-client-autem",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "08 juillet 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/modbus.png",
+          "alt": "Modbus | Simuler un échange directement sur ton PC | Autem"
+        },
+        "title": "Modbus | Simuler un échange directement sur ton PC | Autem",
+        "excerpt": "Protocole de communication Modbus - Les différentes étapes pour simuler un échange Modbus directement sur ton PC .",
+        "link": "/blog/modbus-simuler-un-change-directement-sur-ton-pc-autem",
+        "tags": [
+          {
+            "label": "Industrie"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "10 juin 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/rslogix500.png",
+          "alt": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem"
+        },
+        "title": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem",
+        "excerpt": "Rockwell RSLogix500 - Les différentes étapes pour apprenez à créer vos premiers LADDER avec le logiciel RSLogix 500.",
+        "link": "/blog/rockwell-rslogix500-programmer-des-automates-allen-bradley-a",
+        "tags": [
+          {
+            "label": "Automatisme"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "28 mai 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/wincc_ecran.png",
+          "alt": "WinCC Configurer un écran de supervision SIEMENS | Autem"
+        },
+        "title": "WinCC Configurer un écran de supervision SIEMENS | Autem",
+        "excerpt": "WinCC, Siemens, IHM - Les différentes étapes pour comprendre les IHM, WinCC, TIA Portal et apprendre à configurer un écran de supervision.",
+        "link": "/blog/wincc-configurer-un-cran-de-supervision-siemens-autem",
+        "tags": [
+          {
+            "label": "SCADA & Supervision"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "06 mai 2021"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/diagnostic_machine.png",
+          "alt": "Comment diagnostiquer une panne machine | AUTEM"
+        },
+        "title": "Comment diagnostiquer une panne machine | AUTEM",
+        "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
+        "link": "/blog/comment-diagnostiquer-une-panne-machine-autem",
+        "tags": [
+          {
+            "label": "Data & IIoT"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "29 avril 2021"
+      }
+    ]
+  }
+}

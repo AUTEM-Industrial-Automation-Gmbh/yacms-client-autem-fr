@@ -1,32 +1,62 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero001",
-    "section": "landing-page/hero001"
+    "component": "blocks/layout/hero/Hero010",
+    "section": "landing-page/hero010"
   },
   "data": {
-    "badge": "Studio Web",
-    "title": "Yacms Digital",
-    "titleHighlight": "Prêt en 1 semaine",
-    "subtitle": "Sites vitrine rapide, efficace moderne et fonctionnel",
+    "badge": "Intégrateur Certifié GOLD Ignition",
+    "title": "Industrielle & Digitalisation",
+    "subtitle": "Nous optimisons la performance de vos usines grâce à l'automatisation de vos machines, la supervision SCADA et le pilotage de vos données de production. Intégrateur certifié GOLD Ignition.",
+    "backgroundImage": {
+      "src": "/images/bg.webp",
+      "alt": "Automatisme industriel SCADA et digitalisation des usines"
+    },
     "cta": {
       "primary": {
-        "text": "Demandez un devis",
-        "link": ""
+        "text": "Contactez-nous",
+        "link": "/contact"
       },
       "secondary": {
         "text": "Voir nos réalisations",
-        "link": ""
+        "link": "/cas-clients"
       }
     },
-    "trustBadges": [
-      {
-        "icon": "clock",
-        "text": ""
-      }
-    ],
-    "mockupImage": {
-      "src": "/images/yacms.png",
-      "alt": ""
+    "logos": {
+      "title": "Ils nous font confiance",
+      "items": [
+        {
+          "src": "/logos/hermes.png",
+          "alt": "Hermès"
+        },
+        {
+          "src": "/logos/amazon.png",
+          "alt": "Amazon"
+        },
+        {
+          "src": "/logos/danone-covostok.png",
+          "alt": "Danone / CoVostok"
+        },
+        {
+          "src": "/logos/unilever.jpg",
+          "alt": "Unilever"
+        },
+        {
+          "src": "/logos/arcelormittal.jpg",
+          "alt": "ArcelorMittal"
+        },
+        {
+          "src": "/logos/engie.jpg",
+          "alt": "ENGIE"
+        },
+        {
+          "src": "/logos/thalys.png",
+          "alt": "Thalys"
+        },
+        {
+          "src": "/logos/bema.png",
+          "alt": "BEMA"
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,7 @@
+{
+  "meta": { "component": "blocks/content/features/Features008", "section": "cas-clients/success-story-amazon/features008-resultats" },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Entrepôt opérationnel dans les délais impartis</strong>, avec montée en cadence progressive validée ;</li><li><strong>Traçabilité colis à 100%</strong> depuis la réception jusqu'à l'expédition, synchronisée avec le WMS ;</li><li><strong>Disponibilité système supérieure aux objectifs</strong> grâce à la redondance des équipements critiques et aux diagnostics intégrés ;</li><li>WCS interfacé avec succès avec le WMS Amazon, éliminant les saisies manuelles intermédiaires ;</li><li>Documentation technique complète remise pour faciliter la maintenance et les futures évolutions du site.</li></ul>"
+  }
+}

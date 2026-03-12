@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features004",
+    "section": "home/features004"
+  },
+  "data": {
+    "badges": [
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Intégrateur Ignition Certifié Gold"
+      }
+    ],
+    "headline": "Qui dit que vos machines sont trop vieilles ?",
+    "paragraphs": [
+      {
+        "text": "Avant de remplacer vos équipements, laissez-nous les analyser. L'obsolescence n'est pas une fatalité : vos machines ont été conçues pour durer, et un reconditionnement intelligent peut prolonger leur vie tout en améliorant leurs performances."
+      },
+      {
+        "text": "Trop d'industriels restent prisonniers de systèmes éclatés, de données dispersées et de process manuels. Avec la convergence IT/OT et l'Industrie 4.0, l'écart se creuse entre ceux qui digitalisent et ceux qui subissent."
+      },
+      {
+        "text": "Chez AUTEM, nous allions expertise en automatisme, informatique industrielle et data pour transformer vos ateliers de production en usines connectées et performantes. SCADA, IIoT, MES — nous vous donnons les outils de pilotage pour décider sur des données fiables."
+      },
+      {
+        "text": "Reconditionner vos machines, c'est aussi transmettre les savoirs. La dette technique s'accumule silencieusement. Nous en faisons une opportunité pour former vos équipes et construire l'autonomie de demain."
+      }
+    ],
+    "closing": "Pérennisez votre production. Digitalisez vos usines."
+  }
+}

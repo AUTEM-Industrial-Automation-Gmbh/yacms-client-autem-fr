@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-bema/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "AUTEM a été le partenaire idéal pour cette mission. La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc. Nous n'hésiterons pas à faire appel à eux pour nos prochaines machines.",
+    "author": {
+      "name": "Directeur R&D",
+      "role": "BEMA — Grenoble"
+    }
+  }
+}

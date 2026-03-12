@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Wonderlogix — Tests et amélioration d'un générateur de programmes automates | AUTEM",
+    "description": "AUTEM a contribué au développement de la plateforme Wonderlogix : tests du générateur de programmes automates, identification des cas limites et validation sur environnements Siemens et Rockwell.",
+    "keywords": [
+      "générateur programme automate",
+      "low-code PLC",
+      "Wonderlogix",
+      "automatisme innovant",
+      "Siemens Rockwell",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

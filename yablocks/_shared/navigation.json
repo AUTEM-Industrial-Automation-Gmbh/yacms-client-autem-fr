@@ -1,53 +1,124 @@
 {
   "meta": {
-    "component": "blocks/layout/navigation/PrimaryNavigation",
-    "section": "home/navigation"
+    "component": "blocks/layout/navigation/Navigation004",
+    "section": "autem/navigation"
   },
   "data": {
     "logo": {
-      "text": "YourBrand",
+      "text": "AUTEM",
       "href": "/",
-      "image": "/logos/logo.png"
+      "image": "/logos/autem-logo.svg",
+      "size": "lg"
     },
     "links": [
       {
-        "label": "Home",
-        "href": "/"
-      },
-      {
-        "label": "Services",
-        "href": "#services",
-        "dropdown": [
+        "label": "Notre offre",
+        "groups": [
           {
-            "label": "Service One",
-            "href": "/service/service-one"
+            "label": "Automatisme",
+            "description": "Programmation & contrôle-commande",
+            "items": [
+              {
+                "label": "Automates programmables",
+                "href": "/offre/automatisme"
+              },
+              {
+                "label": "Variateurs & motion control",
+                "href": "/offre/automatisme#variateurs"
+              },
+              {
+                "label": "Études électriques & schémas",
+                "href": "/offre/automatisme#etudes-electriques"
+              }
+            ]
           },
           {
-            "label": "Service Two",
-            "href": "/service/service-two"
+            "label": "Informatique industrielle",
+            "description": "SCADA, MES & supervision",
+            "items": [
+              {
+                "label": "Intégration SCADA",
+                "href": "/offre/informatique-industrielle"
+              },
+              {
+                "label": "Logiciel MES",
+                "href": "/offre/informatique-industrielle#mes"
+              },
+              {
+                "label": "Ignition SCADA (Certifié Gold)",
+                "href": "/offre/ignition-scada"
+              }
+            ]
           },
           {
-            "label": "Service Three",
-            "href": "/service/service-three"
+            "label": "Data & Digitalisation",
+            "description": "IIoT, connectivité & pilotage",
+            "items": [
+              {
+                "label": "Acquisition de données (IIoT)",
+                "href": "/offre/data"
+              },
+              {
+                "label": "Réseaux industriels",
+                "href": "/offre/data#reseaux"
+              },
+              {
+                "label": "Pilotage & KPI",
+                "href": "/offre/data#pilotage"
+              }
+            ]
           }
         ]
       },
       {
-        "label": "About",
-        "href": "/about"
+        "label": "À propos",
+        "groups": [
+          {
+            "label": "Notre vision",
+            "description": "L'automatisme au service de l'industrie",
+            "items": [
+              {
+                "label": "Qui sommes-nous",
+                "href": "/a-propos"
+              },
+              {
+                "label": "Nos valeurs",
+                "href": "/a-propos#valeurs"
+              }
+            ]
+          },
+          {
+            "label": "Nos technologies",
+            "description": "Expertise multi-constructeurs",
+            "items": [
+              {
+                "label": "Siemens / Rockwell / Schneider",
+                "href": "/technologies"
+              },
+              {
+                "label": "Ignition / Wonderware / WinCC",
+                "href": "/technologies#scada"
+              },
+              {
+                "label": "Réseaux & Vision",
+                "href": "/technologies#reseaux-vision"
+              }
+            ]
+          }
+        ]
       },
       {
-        "label": "Portfolio",
-        "href": "/portfolio"
+        "label": "Cas clients",
+        "href": "/cas-clients"
       },
       {
-        "label": "Contact",
-        "href": "#contact"
+        "label": "Ressources",
+        "href": "/blog"
       }
     ],
     "cta": {
-      "text": "Get Started",
-      "href": "#contact"
+      "text": "Contactez-nous",
+      "href": "/contact"
     }
   }
 }

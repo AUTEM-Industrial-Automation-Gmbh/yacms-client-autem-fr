@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "BEMA — Programmation d'une machine de compactage de papier | AUTEM",
+    "description": "AUTEM a programmé l'automate et l'IHM d'une machine de compactage de papier pour BEMA à Grenoble : cycles de compactage, sécurités et mise en service.",
+    "keywords": [
+      "machine compactage papier",
+      "programmation automate",
+      "machines spéciales",
+      "BEMA Grenoble",
+      "automatisme machine",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

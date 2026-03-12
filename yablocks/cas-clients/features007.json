@@ -1,0 +1,268 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features007",
+        "section": "cas-clients/features007"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/portfolio-references.jpg",
+            "alt": "Réalisations techniques AUTEM — automatisme et SCADA industriel"
+        },
+        "title": "Nos réalisations",
+        "filterGroups": [
+            {
+                "label": "Tous les secteurs",
+                "values": [
+                    {
+                        "value": "Luxe"
+                    },
+                    {
+                        "value": "Logistique"
+                    },
+                    {
+                        "value": "Mobilité"
+                    },
+                    {
+                        "value": "Chimie"
+                    },
+                    {
+                        "value": "Agroalimentaire"
+                    },
+                    {
+                        "value": "Métallurgie"
+                    },
+                    {
+                        "value": "Machines spéciales"
+                    },
+                    {
+                        "value": "Cybersécurité"
+                    }
+                ]
+            },
+            {
+                "label": "Toutes les expertises",
+                "values": [
+                    {
+                        "value": "Automatisme"
+                    },
+                    {
+                        "value": "SCADA / Supervision"
+                    },
+                    {
+                        "value": "IoT / IIoT"
+                    },
+                    {
+                        "value": "MES / TRS"
+                    },
+                    {
+                        "value": "Robotisation"
+                    }
+                ]
+            }
+        ],
+        "cards": [
+            {
+                "logo": {
+                    "src": "/logos/hermes.png",
+                    "alt": "Hermès"
+                },
+                "title": "Architecture des systèmes de contrôle et automatismes industriels",
+                "link": "/cas-clients/success-story-hermes",
+                "tags": [
+                    {
+                        "label": "Luxe",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/amazon.png",
+                    "alt": "Amazon"
+                },
+                "title": "Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS",
+                "link": "/cas-clients/success-story-amazon",
+                "tags": [
+                    {
+                        "label": "Logistique",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/thalys.png",
+                    "alt": "Thalys"
+                },
+                "title": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
+                "link": "/cas-clients/success-story-thalys",
+                "tags": [
+                    {
+                        "label": "Mobilité",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "IoT / IIoT",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/sftrf.png",
+                    "alt": "SEE / SFTRF"
+                },
+                "title": "Supervision réseau routier et ferroviaire, GTC et radio",
+                "link": "/cas-clients/success-story-sftrf",
+                "tags": [
+                    {
+                        "label": "Mobilité",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "SCADA / Supervision",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/seckiot.png",
+                    "alt": "Seckiot"
+                },
+                "title": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
+                "link": "/cas-clients/success-story-seckiot",
+                "tags": [
+                    {
+                        "label": "Cybersécurité",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "IoT / IIoT",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/unilever.jpg",
+                    "alt": "Unilever"
+                },
+                "title": "Intégration de robot, doseur et logiciel TRS-MES en ligne de production",
+                "link": "/cas-clients/success-story-unilever",
+                "tags": [
+                    {
+                        "label": "Chimie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Robotisation",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "MES / TRS",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/danone-covostok.png",
+                    "alt": "Danone / CoVostok"
+                },
+                "title": "Conception et mise en service d'un skid de filtration d'eau par osmose",
+                "link": "/cas-clients/success-story-covostok",
+                "tags": [
+                    {
+                        "label": "Agroalimentaire",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/tm.png",
+                    "alt": "TM"
+                },
+                "title": "Programmation d'une machine de lavage de cuves et fûts — API et IHM",
+                "link": "/cas-clients/success-story-tm",
+                "tags": [
+                    {
+                        "label": "Chimie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/arcelormittal.jpg",
+                    "alt": "ArcelorMittal"
+                },
+                "title": "Optimisation des performances d'un atelier d'usinage",
+                "link": "/cas-clients/success-story-arcelormittal",
+                "tags": [
+                    {
+                        "label": "Métallurgie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/wonderlogix.png",
+                    "alt": "Wonderlogix"
+                },
+                "title": "Tests et amélioration d'un générateur de programmes d'automates",
+                "link": "/cas-clients/success-story-wonderlogix",
+                "tags": [
+                    {
+                        "label": "Machines spéciales",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/bema.png",
+                    "alt": "BEMA"
+                },
+                "title": "Programmation d'une machine de compactage de papier",
+                "link": "/cas-clients/success-story-bema",
+                "tags": [
+                    {
+                        "label": "Machines spéciales",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automatisme",
+                        "type": "categorie"
+                    }
+                ]
+            }
+        ]
+    }
+}

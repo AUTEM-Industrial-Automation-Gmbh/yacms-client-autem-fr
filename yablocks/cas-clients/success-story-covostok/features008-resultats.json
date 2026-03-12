@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-covostok/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Skid opérationnel et qualifié</strong> selon les critères qualité eau du groupe Danone ;</li><li>Séquences automatiques fiables : filtration, CIP et désinfection sans intervention opérateur ;</li><li>Traçabilité complète des cycles de production et des paramètres qualité de l'eau ;</li><li>Mise en service réussie malgré les contraintes logistiques d'une intervention à distance en Russie ;</li><li>Documentation technique complète remise aux équipes locales pour la maintenance autonome.</li></ul>"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features006",
+    "section": "home/features006"
+  },
+  "data": {
+    "overtitle": "NOS MÉDIAS",
+    "title": "Suivez-nous & Formez-vous",
+    "cards": [
+      {
+        "title": "Contenu Video",
+        "description": "Hermès, Amazon, Danone, ArcelorMittal, SNCF et +",
+        "image": {
+          "src": "/images/youtube.webp",
+          "alt": "Portfolio références AUTEM clients"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Voir nos cas clients",
+            "link": "/cas-clients",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
+        "title": "LinkedIn AUTEM",
+        "description": "Suivez notre actualité industrielle, nos projets et partages techniques",
+        "image": {
+          "src": "/images/linkedin.webp",
+          "alt": "AUTEM LinkedIn automatisme industriel"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Suivre",
+            "link": "https://www.linkedin.com/company/autemautomation/",
+            "variant": "primary"
+          }
+        ]
+      },
+      {
+        "title": "Formation Udemy — Automates Siemens TIA Portal",
+        "description": "Cours en ligne noté 4.8/5 · Programmation automates Siemens en langage LADDER",
+        "image": {
+          "src": "/images/formation-udemy.jpg",
+          "alt": "Formation automatisme Siemens TIA Portal Udemy"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "Voir le cours",
+            "link": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+            "variant": "primary"
+          }
+        ]
+      },
+      {
+        "title": "Blog Technique",
+        "description": "Articles sur l'automatisme, le SCADA, l'IIoT et les technologies industrielles",
+        "image": {
+          "src": "/images/scada.png",
+          "alt": "Blog AUTEM automatisme SCADA"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "Lire",
+            "link": "/blog",
+            "variant": "secondary"
+          }
+        ]
+      },
+      {
+        "title": "Contactez-nous",
+        "description": "contact@autem-services.fr · +33 6 17 43 68 02",
+        "image": {
+          "src": "/images/automaticien-rhone-alpes.jpg",
+          "alt": "Contact AUTEM automaticien"
+        },
+        "size": "small",
+        "actions": [
+          {
+            "text": "Nous écrire",
+            "link": "/contact",
+            "variant": "secondary"
+          }
+        ]
+      }
+    ]
+  }
+}

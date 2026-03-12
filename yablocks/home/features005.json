@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features005",
+    "section": "home/features005"
+  },
+  "data": {
+    "overtitle": "NOS VALEURS",
+    "title": "Polyvalence · Fiabilité · Flexibilité",
+    "paragraphs": [
+      {
+        "text": "Polyvalence — Notre spectre technique couvre l'automatisme, l'informatique industrielle et la data. Nous maîtrisons les technologies de multiples constructeurs (Siemens, Rockwell, Schneider, Ignition, Wonderware) et intervenons sur tout le cycle de vie de vos machines."
+      },
+      {
+        "text": "Fiabilité — Nous garantissons réactivité, ponctualité et transparence. Chaque projet bénéficie d'un suivi rigoureux, de la phase d'audit jusqu'à la mise en service, avec des livrables conformes à vos attentes."
+      },
+      {
+        "text": "Flexibilité — Machines sur mesure, disponibilité adaptée à vos contraintes, intégration dans vos équipes. Nous intervenons en France et à l'international, pour des missions d'1 jour comme d'1 an."
+      }
+    ],
+    "image": {
+      "src": "/images/automaticien-rhone-alpes.jpg",
+      "alt": "Valeurs AUTEM : polyvalence fiabilité flexibilité"
+    },
+    "cta": {
+      "text": "Découvrir AUTEM",
+      "link": "/a-propos"
+    }
+  }
+}

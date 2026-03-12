@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "ArcelorMittal — Optimisation de performances d'un atelier d'usinage | AUTEM",
+    "description": "AUTEM a optimisé les performances de l'atelier d'usinage d'ArcelorMittal Luxembourg : audit des programmes automates, réduction des temps de cycle et mise en place d'indicateurs TRS.",
+    "keywords": [
+      "optimisation atelier usinage",
+      "automatisme métallurgie",
+      "ArcelorMittal",
+      "TRS usinage",
+      "performance machine",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

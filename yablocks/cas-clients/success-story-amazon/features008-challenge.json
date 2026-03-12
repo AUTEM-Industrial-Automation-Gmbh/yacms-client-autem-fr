@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-amazon/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission confiée à AUTEM portait sur l'<strong>automatisation d'un entrepôt mécanisé</strong> : intégrer dans un système de contrôle unifié des équipements hétérogènes (convoyeurs, trieurs, portiques codes-barres, bras de palettisation) afin d'atteindre les cadences cibles et garantir la traçabilité de chaque colis.</p><p>Parmi les défis identifiés :</p><ul><li>Hétérogénéité des équipements terrain (multi-fournisseurs) à interfacer sur un réseau industriel commun ;</li><li>Exigences de <strong>disponibilité maximale</strong> — tout arrêt se traduit directement par un retard de livraison ;</li><li>Traçabilité à 100% des colis depuis l'entrée en entrepôt jusqu'à l'expédition ;</li><li>Intégration du WCS avec le WMS (Warehouse Management System) d'Amazon ;</li><li>Contraintes de déploiement en entrepôt en activité, avec plages de maintenance réduites.</li></ul>"
+  }
+}

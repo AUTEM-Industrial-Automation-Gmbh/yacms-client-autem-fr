@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "cas-clients/success-story-hermes/cta002"
+    },
+    "data": {
+        "title": "Un projet d'automatisme ou de digitalisation industrielle ?",
+        "benefits": [
+            {
+                "icon": "award",
+                "text": "Intégrateur Ignition Certifié GOLD"
+            },
+            {
+                "icon": "shield",
+                "text": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)"
+            },
+            {
+                "icon": "users",
+                "text": "Interventions France & International"
+            }
+        ],
+        "cta": {
+            "text": "Contactez-nous",
+            "link": "/contact"
+        }
+    }
+}

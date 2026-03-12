@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "component": "blocks/layout/footer/FooterColumns",
+    "section": "home/footer-columns"
+  },
+  "data": {
+    "brand": {
+      "alt": "Mon Entreprise",
+      "tagline": "Votre partenaire de confiance depuis 2020. Nous accompagnons les professionnels et les particuliers avec des solutions sur mesure."
+    },
+    "contact": {
+      "phone": "+33 1 23 45 67 89",
+      "email": "contact@example.com",
+      "address": "123 rue Example, 75001 Paris",
+      "hours": "Lun-Ven : 9h-18h"
+    },
+    "socialLinks": [
+      {
+        "platform": "facebook",
+        "href": "https://example.com"
+      },
+      {
+        "platform": "facebook",
+        "href": "https://example.com"
+      },
+      {
+        "platform": "facebook",
+        "href": "https://example.com"
+      }
+    ],
+    "linkGroups": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "text": "Chauffage",
+            "href": "/services/chauffage"
+          },
+          {
+            "text": "Plomberie",
+            "href": "/services/plomberie"
+          },
+          {
+            "text": "Climatisation",
+            "href": "/services/climatisation"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": [
+          {
+            "text": "À propos",
+            "href": "/about"
+          },
+          {
+            "text": "Réalisations",
+            "href": "/realisations"
+          },
+          {
+            "text": "Contact",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "title": "Ressources",
+        "links": [
+          {
+            "text": "FAQ",
+            "href": "/faq"
+          },
+          {
+            "text": "Blog",
+            "href": "/blog"
+          },
+          {
+            "text": "Devis gratuit",
+            "href": "/devis"
+          }
+        ]
+      }
+    ],
+    "legal": {
+      "copyright": "Tous droits réservés.",
+      "links": [
+        {
+          "text": "Mentions légales",
+          "href": "/mentions-legales"
+        },
+        {
+          "text": "Politique de confidentialité",
+          "href": "/confidentialite"
+        },
+        {
+          "text": "CGU",
+          "href": "/cgu"
+        }
+      ]
+    },
+    "certifications": [
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-sftrf/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Supervision unifiée du réseau</strong> routier et ferroviaire depuis un poste central unique ;</li><li><strong>GTC opérationnelle</strong> avec gestion automatisée des équipements tunnel et des procédures d'incident ;</li><li>Meilleure réactivité des équipes d'exploitation grâce aux alarmes contextualisées et aux synoptiques clairs ;</li><li>Intégration radio réussie, garantissant la coordination des secours en environnement tunnel ;</li><li>Système conforme aux exigences réglementaires de sécurité applicables aux infrastructures de transport.</li></ul>"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos002",
+    "section": "home/trust-logos002"
+  },
+  "data": {
+    "title": "Technologies maîtrisées par nos automaticiens",
+    "subtitle": "Expertise multi-constructeurs pour vos systèmes automatisés",
+    "logos": [
+      {
+        "src": "/logos/siemens.png",
+        "alt": "Siemens"
+      },
+      {
+        "src": "/logos/rockwell.png",
+        "alt": "Allen-Bradley / Rockwell Automation"
+      },
+      {
+        "src": "/logos/schneider.png",
+        "alt": "Schneider Electric"
+      },
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Ignition SCADA"
+      },
+      {
+        "src": "/logos/wonderware.png",
+        "alt": "Wonderware / AVEVA"
+      },
+      {
+        "src": "/logos/wincc.png",
+        "alt": "WinCC"
+      },
+      {
+        "src": "/logos/eplan.png",
+        "alt": "EPLAN"
+      },
+      {
+        "src": "/logos/sew.png",
+        "alt": "SEW-Eurodrive"
+      },
+      {
+        "src": "/logos/eaton.png",
+        "alt": "Eaton"
+      },
+      {
+        "src": "/logos/pilz.png",
+        "alt": "Pilz"
+      },
+      {
+        "src": "/logos/pepperl-fuchs.png",
+        "alt": "Pepperl+Fuchs"
+      },
+      {
+        "src": "/logos/profinet.png",
+        "alt": "Profinet"
+      }
+    ]
+  }
+}

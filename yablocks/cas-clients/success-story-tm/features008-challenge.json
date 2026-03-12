@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-tm/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission portait sur la <strong>programmation complète d'une machine de lavage CIP</strong> (Clean In Place) de cuves et fûts industriels, avec développement de l'IHM opérateur pour les environnements chimique et alimentaire.</p><ul><li>Gestion des <strong>cycles CIP complexes</strong> : prélavage eau froide, lavage détergent chaud, rinçage eau chaude, désinfection et séchage ;</li><li>Paramétrage des recettes par type de cuve/fût et par produit lavé ;</li><li>Sécurités opérateur (accès zone de lavage, détection présence, verrouillages) conformes aux normes machines ;</li><li>Traçabilité des cycles de lavage pour les audits qualité et la conformité réglementaire.</li></ul>"
+  }
+}

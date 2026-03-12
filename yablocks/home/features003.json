@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features003",
+    "section": "home/features003"
+  },
+  "data": {
+    "items": [
+      {
+        "overtitle": "AUTOMATISME",
+        "title": "Programmation & Contrôle-Commande",
+        "description": "Nous concevons, programmons et mettons en service vos systèmes automatisés. De l'analyse fonctionnelle à la mise en production, AUTEM couvre l'intégralité du cycle de vie de vos automates, variateurs et systèmes de sécurité.",
+        "image": {
+          "src": "/images/background-indus.jpg",
+          "alt": "Programmation automate industriel PLC"
+        },
+        "checklist": [
+          {
+            "text": "Automates PLC (Siemens, Rockwell, Schneider)",
+            "href": "/offre/automatisme"
+          },
+          {
+            "text": "Variateurs & motion control (SEW, Eaton, Sinamics)",
+            "href": "/offre/automatisme#variateurs"
+          },
+          {
+            "text": "Études électriques & schémas (EPLAN)",
+            "href": "/offre/automatisme#etudes-electriques"
+          },
+          {
+            "text": "Sécurité machines (Pilz, Pepperl+Fuchs)",
+            "href": "/offre/automatisme#securite"
+          }
+        ],
+        "cta": {
+          "text": "En savoir plus",
+          "link": "/offre/automatisme"
+        },
+        "testimonial": {
+          "quote": "AUTEM a parfaitement compris nos exigences dès le début de la mission. La programmation est propre, bien structurée et la machine a été validée sans anomalie majeure lors des tests FAT. C'est le niveau de qualité que nous attendons de nos partenaires.",
+          "authorName": "Directeur Technique",
+          "authorRole": "TM — Canada",
+          "companyLogo": {
+            "src": "/logos/tm.png",
+            "alt": "TM"
+          }
+        }
+      },
+      {
+        "overtitle": "INFORMATIQUE INDUSTRIELLE",
+        "title": "SCADA, MES & Supervision",
+        "description": "Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Intégrateur certifié GOLD Ignition, nous déployons des solutions de pilotage pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
+        "image": {
+          "src": "/images/kpi-industrie.jpg",
+          "alt": "Supervision SCADA Ignition industrielle"
+        },
+        "checklist": [
+          {
+            "text": "Ignition SCADA (Certifié Gold)",
+            "href": "/offre/ignition-scada"
+          },
+          {
+            "text": "SCADA : Wonderware, WinCC, AVEVA",
+            "href": "/offre/informatique-industrielle"
+          },
+          {
+            "text": "Logiciel MES & TRS",
+            "href": "/offre/informatique-industrielle#mes"
+          }
+        ],
+        "cta": {
+          "text": "Découvrir nos solutions",
+          "link": "/offre/informatique-industrielle"
+        },
+        "testimonial": {
+          "quote": "AUTEM a su s'adapter à nos contraintes d'atelier avec sérieux et professionnalisme. L'architecture livrée est claire, bien documentée et nos équipes ont pu la prendre en main rapidement. Nous recommandons leur expertise pour tout projet d'automatisme en environnement de production exigeant.",
+          "authorName": "Responsable Technique",
+          "authorRole": "Hermès — Atelier de production Paris",
+          "companyLogo": {
+            "src": "/logos/hermes.png",
+            "alt": "Hermès"
+          }
+        }
+      },
+      {
+        "overtitle": "DATA & DIGITALISATION",
+        "title": "IIoT, Connectivité & Pilotage",
+        "description": "Nous collectons, stockons et analysons les données de vos machines pour vous offrir une visibilité en temps réel sur vos installations. En 1 semaine, accédez à l'essentiel de vos données machines dans un outil de pilotage simple.",
+        "image": {
+          "src": "/images/manufacturing.jpg",
+          "alt": "Digitalisation usine IIoT data industrielle"
+        },
+        "checklist": [
+          {
+            "text": "Acquisition de données IIoT (MQTT, OPC-UA)",
+            "href": "/offre/data"
+          },
+          {
+            "text": "Réseaux industriels (Profinet, EtherNet/IP)",
+            "href": "/offre/data#reseaux"
+          },
+          {
+            "text": "KPI, TRS & suivi énergétique",
+            "href": "/offre/data#pilotage"
+          }
+        ],
+        "cta": {
+          "text": "Découvrir",
+          "link": "/offre/data"
+        },
+        "testimonial": {
+          "quote": "L'intégration réalisée par AUTEM a transformé cette ligne. Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système. Un travail sérieux, dans les délais.",
+          "authorName": "Responsable Production",
+          "authorRole": "Unilever — Usine de l'Oise",
+          "companyLogo": {
+            "src": "/logos/unilever.jpg",
+            "alt": "Unilever"
+          }
+        }
+      }
+    ]
+  }
+}

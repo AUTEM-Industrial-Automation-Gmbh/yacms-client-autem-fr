@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Seckiot — Connectivité IoT des systèmes industriels en environnement cybersécurisé | AUTEM",
+    "description": "AUTEM a contribué à l'intégration de la plateforme Seckiot : connecteurs IoT pour systèmes industriels OT en environnement cybersécurisé.",
+    "keywords": [
+      "IoT cybersécurité",
+      "OT sécurisé",
+      "connectivité IoT industriel",
+      "OPC-UA",
+      "Seckiot",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}
