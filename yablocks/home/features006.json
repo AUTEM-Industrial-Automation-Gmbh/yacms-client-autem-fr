@@ -11,7 +11,7 @@
         "title": "LinkedIn AUTEM",
         "description": "Suivez notre actualité industrielle, nos projets et partages techniques",
         "image": {
-          "src": "/images/metier-automaticien.png",
+          "src": "/images/autemautomation_cover.jpg",
           "alt": "AUTEM LinkedIn automatisme industriel"
         },
         "size": "big",
@@ -34,7 +34,7 @@
         "actions": [
           {
             "text": "Voir le cours",
-            "link": "https://www.udemy.com/",
+            "link": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
             "variant": "primary"
           }
         ]
