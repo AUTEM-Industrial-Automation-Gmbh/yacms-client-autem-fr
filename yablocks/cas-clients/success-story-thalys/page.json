@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Thalys — Télémétrie, IoT et maintenance préventive vending machines | AUTEM",
+    "description": "AUTEM a mené une mission AMOA IoT pour Thalys : télémétrie, monétique et maintenance préventive des vending machines en gare et à bord.",
+    "keywords": [
+      "IoT industriel",
+      "télémétrie",
+      "maintenance préventive",
+      "AMOA IoT",
+      "Thalys",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

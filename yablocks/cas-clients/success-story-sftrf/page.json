@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "SEE / SFTRF — Supervision réseau routier, ferroviaire et GTC | AUTEM",
+    "description": "AUTEM a développé la supervision SCADA du réseau routier et ferroviaire de SFTRF en Rhône-Alpes : GTC tunnels, radio et gestion des incidents.",
+    "keywords": [
+      "SCADA supervision",
+      "GTC tunnel",
+      "supervision ferroviaire",
+      "supervision routière",
+      "Rhône-Alpes",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

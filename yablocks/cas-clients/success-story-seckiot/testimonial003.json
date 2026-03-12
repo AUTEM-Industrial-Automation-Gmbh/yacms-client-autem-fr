@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-seckiot/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "L'expertise OT d'AUTEM a été déterminante pour valider nos connecteurs en conditions réelles. Leur connaissance des protocoles industriels et des contraintes terrain nous a permis d'identifier et corriger des cas limites que nous n'aurions pas détectés en laboratoire.",
+    "author": {
+      "name": "CTO",
+      "role": "Seckiot"
+    }
+  }
+}

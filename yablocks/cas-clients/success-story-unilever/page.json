@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Unilever — Intégration robot, doseur et TRS-MES en ligne de production | AUTEM",
+    "description": "AUTEM a intégré un robot industriel, un doseur et un logiciel TRS-MES sur une ligne de production Unilever dans l'Oise.",
+    "keywords": [
+      "robotisation industrielle",
+      "intégration robot",
+      "TRS MES",
+      "doseur automatique",
+      "Unilever",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

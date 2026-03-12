@@ -85,7 +85,7 @@
                     "alt": "Amazon"
                 },
                 "title": "Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS",
-                "link": "/cas-clients/amazon",
+                "link": "/cas-clients/success-story-amazon",
                 "tags": [
                     {
                         "label": "Logistique",
@@ -103,7 +103,7 @@
                     "alt": "Thalys"
                 },
                 "title": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
-                "link": "/cas-clients/thalys",
+                "link": "/cas-clients/success-story-thalys",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -121,7 +121,7 @@
                     "alt": "SEE / SFTRF"
                 },
                 "title": "Supervision réseau routier et ferroviaire, GTC et radio",
-                "link": "/cas-clients/sftrf",
+                "link": "/cas-clients/success-story-sftrf",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -139,7 +139,7 @@
                     "alt": "Seckiot"
                 },
                 "title": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
-                "link": "/cas-clients/seckiot",
+                "link": "/cas-clients/success-story-seckiot",
                 "tags": [
                     {
                         "label": "Cybersécurité",
@@ -157,7 +157,7 @@
                     "alt": "Unilever"
                 },
                 "title": "Intégration de robot, doseur et logiciel TRS-MES en ligne de production",
-                "link": "/cas-clients/unilever",
+                "link": "/cas-clients/success-story-unilever",
                 "tags": [
                     {
                         "label": "Chimie",
@@ -179,7 +179,7 @@
                     "alt": "Danone / CoVostok"
                 },
                 "title": "Conception et mise en service d'un skid de filtration d'eau par osmose",
-                "link": "/cas-clients/covostok",
+                "link": "/cas-clients/success-story-covostok",
                 "tags": [
                     {
                         "label": "Agroalimentaire",
@@ -197,7 +197,7 @@
                     "alt": "TM"
                 },
                 "title": "Programmation d'une machine de lavage de cuves et fûts — API et IHM",
-                "link": "/cas-clients/tm",
+                "link": "/cas-clients/success-story-tm",
                 "tags": [
                     {
                         "label": "Chimie",
@@ -215,7 +215,7 @@
                     "alt": "ArcelorMittal"
                 },
                 "title": "Optimisation des performances d'un atelier d'usinage",
-                "link": "/cas-clients/arcelormittal",
+                "link": "/cas-clients/success-story-arcelormittal",
                 "tags": [
                     {
                         "label": "Métallurgie",
@@ -233,7 +233,7 @@
                     "alt": "Wonderlogix"
                 },
                 "title": "Tests et amélioration d'un générateur de programmes d'automates",
-                "link": "/cas-clients/wonderlogix",
+                "link": "/cas-clients/success-story-wonderlogix",
                 "tags": [
                     {
                         "label": "Machines spéciales",
@@ -251,7 +251,7 @@
                     "alt": "BEMA"
                 },
                 "title": "Programmation d'une machine de compactage de papier",
-                "link": "/cas-clients/bema",
+                "link": "/cas-clients/success-story-bema",
                 "tags": [
                     {
                         "label": "Machines spéciales",

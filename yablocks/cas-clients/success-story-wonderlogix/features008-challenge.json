@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-wonderlogix/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission confiée à AUTEM portait sur la <strong>validation et l'amélioration du générateur de programmes d'automates</strong> Wonderlogix, en apportant l'expertise terrain nécessaire à une startup dont l'équipe est essentiellement software.</p><ul><li>Tester l'outil sur des cas d'usage industriels variés et représentatifs (Siemens S7, Rockwell) ;</li><li>Identifier les <strong>cas limites et les comportements incorrects</strong> des programmes générés ;</li><li>Fournir des retours structurés d'amélioration à l'équipe Wonderlogix ;</li><li>Valider la fiabilité des programmes générés sur environnement simulé avant tout test en production réelle.</li></ul>"
+  }
+}

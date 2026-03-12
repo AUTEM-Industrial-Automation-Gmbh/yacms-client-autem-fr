@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "TM — Programmation machine de lavage de cuves et fûts API et IHM | AUTEM",
+    "description": "AUTEM a programmé la machine de lavage automatique de cuves et fûts (CIP) de TM au Canada : automate et IHM pour environnement chimique et alimentaire.",
+    "keywords": [
+      "CIP machine lavage",
+      "automatisme chimique",
+      "programmation automate",
+      "IHM industrielle",
+      "TM Canada",
+      "AUTEM réalisation"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

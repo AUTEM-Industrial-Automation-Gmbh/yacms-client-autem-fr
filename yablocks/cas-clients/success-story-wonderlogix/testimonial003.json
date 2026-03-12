@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-wonderlogix/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/client-4-wonderlogix.png",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "AUTEM a apporté exactement ce que nous cherchions : une expertise terrain qui manquait à notre équipe. Les cas de test définis et les rapports de bugs ont directement alimenté nos sprints de développement et amélioré la fiabilité de notre plateforme.",
+    "author": {
+      "name": "CEO",
+      "role": "Wonderlogix — Israël"
+    }
+  }
+}
