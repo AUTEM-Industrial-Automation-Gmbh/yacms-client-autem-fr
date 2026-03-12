@@ -1,9 +1,26 @@
 {
   "meta": {
-    "title": "hermes",
-    "description": "",
-    "keywords": []
+    "title": "Hermès — Architecture systèmes de contrôle et automatismes industriels | AUTEM",
+    "description": "Découvrez comment AUTEM a conçu l'architecture des systèmes de contrôle-commande pour un atelier de production Hermès à Paris : automates Siemens S7, réseau Profinet, traçabilité industrielle.",
+    "keywords": [
+      "automatisme Hermès",
+      "architecture système de contrôle",
+      "automate Siemens S7",
+      "réseau Profinet industriel",
+      "automatisme luxe",
+      "AUTEM réalisation"
+    ]
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
 }

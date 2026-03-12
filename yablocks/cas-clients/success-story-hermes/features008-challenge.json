@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-hermes/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission confiée à AUTEM portait sur la <strong>conception de l'architecture des systèmes de contrôle-commande</strong> d'une installation industrielle au sein d'un atelier de production parisien d'Hermès. Le défi principal résidait dans l'intégration d'équipements hétérogènes dans un environnement à très haute exigence de <strong>fiabilité et de traçabilité</strong>.</p><p>Parmi les contraintes identifiées :</p><ul><li>Équipements multi-constructeurs à interfacer sur un réseau industriel unifié ;</li><li>Exigences strictes de <strong>traçabilité des matières</strong> et des pièces en cours de fabrication ;</li><li>Disponibilité maximale requise — tout arrêt machine impacte directement la chaîne artisanale ;</li><li>Respect des contraintes architecturales des ateliers (esthétique, discrétion des installations).</li></ul><p>L'objectif était de livrer une <strong>architecture documentée, validée et maintenable</strong>, transférable aux équipes internes Hermès pour les opérations courantes et les évolutions futures.</p>"
+  }
+}
