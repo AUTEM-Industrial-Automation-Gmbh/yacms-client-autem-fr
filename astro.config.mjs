@@ -8,7 +8,7 @@ import sitemap from '@astrojs/sitemap';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-    site: 'https://zestones.github.io',
+    site: 'https://autem-industrial-automation-gmbh.github.io',
     integrations: [react(), sitemap()],
     build: {
         inlineStylesheets: 'always',
