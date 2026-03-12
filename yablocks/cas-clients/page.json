@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "title": "Nos réalisations — Automatisme & SCADA industriel | AUTEM",
+        "description": "Découvrez les réalisations techniques d'AUTEM : automatisme, supervision SCADA, IoT industriel et MES auprès de grands industriels (Hermès, Amazon, Unilever, ArcelorMittal…).",
+        "keywords": [
+            "réalisations automatisme",
+            "portfolio automatisme industriel",
+            "fournisseur automatisme",
+            "prestataire automatisme",
+            "cas clients SCADA",
+            "références automatisme",
+            "intégrateur industriel"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../_shared/navigation.json",
+        "./features007.json",
+        "../_shared/footer.json"
+    ]
+}
