@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features010",
+    "section": "a-propos/technologies/features010-connecteurs"
+  },
+  "data": {
+    "overtitle": "NOS CONNECTEURS HUBSPOT",
+    "title": "Faites circuler vos données sans friction.",
+    "cards": [
+      {
+        "image": {
+          "src": "/images/Connecteur_Pappers_HubSpot.png",
+          "alt": "Connecteur Pappers HubSpot"
+        },
+        "title": "Enrichissement automatique des fiches entreprises HubSpot",
+        "bullets": [
+          {
+            "text": "Ajout des données Pappers à partir du SIREN/SIRET (CA, NAF, effectifs…)"
+          },
+          {
+            "text": "Enrichissement en temps réel sur HubSpot"
+          },
+          {
+            "text": "Fonctionne sur les entreprises françaises"
+          }
+        ]
+      },
+      {
+        "image": {
+          "src": "/images/Connecteur_Monday_HubSpot.png",
+          "alt": "Connecteur Monday HubSpot"
+        },
+        "title": "Unification du suivi client et de la gestion interne des tickets",
+        "bullets": [
+          {
+            "text": "Synchronisation bidirectionnelle des tickets HubSpot ↔ Monday"
+          },
+          {
+            "text": "Échange des infos : titre, statut, responsable, contenu, client"
+          },
+          {
+            "text": "Mise à jour en temps réel entre les deux outils"
+          }
+        ]
+      }
+    ]
+  }
+}

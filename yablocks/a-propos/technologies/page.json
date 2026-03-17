@@ -6,11 +6,13 @@
   },
   "theme": "autem-default",
   "blocks": [
+    "../../_shared/navigation.json",
     "./hero012.json",
     "./features009-sales-agreement.json",
     "./features009-mapping-comptes.json",
     "./features009-siren-finder.json",
     "./features010-connecteurs.json",
-    "./cta002.json"
+    "./cta002.json",
+    "../../_shared/footer.json"
   ]
 }

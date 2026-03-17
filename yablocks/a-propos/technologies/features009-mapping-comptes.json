@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "a-propos/technologies/features009-mapping-comptes"
+  },
+  "data": {
+    "overtitle": "AGENT IA",
+    "title": "Mapping de comptes",
+    "paragraphs": [
+      {
+        "text": "Notre agent IA analyse automatiquement la structure des entreprises à partir de leurs données légales et identifie leurs liens capitalistiques (maison mère, filiales)."
+      },
+      {
+        "text": "Cette lecture \"groupe\" change la donne : elle permet de comprendre qui décide, qui possède quoi, et comment prioriser vos actions commerciales ou marketing."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Cartographie claire des groupes et filiales"
+      },
+      {
+        "text": "Identification des maisons mères et liens capitalistiques"
+      },
+      {
+        "text": "Analyse rapide et exploitable, sans retraitement manuel"
+      },
+      {
+        "text": "Synchronisation avec HubSpot pour retrouver la cartographie directement dans votre CRM"
+      }
+    ],
+    "conclusion": "Idéal pour cibler des comptes stratégiques, adapter vos approches grands comptes et structurer une prospection multi-entités plus efficace.",
+    "image": {
+      "src": "/images/company_analyzer.png",
+      "alt": "Interface de l'outil de mapping de comptes"
+    },
+    "reverse": true
+  }
+}

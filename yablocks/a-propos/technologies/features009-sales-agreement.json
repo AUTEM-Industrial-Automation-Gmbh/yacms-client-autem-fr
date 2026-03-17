@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "a-propos/technologies/features009-sales-agreement"
+  },
+  "data": {
+    "overtitle": "APP HUBSPOT",
+    "title": "Sales Agreement",
+    "paragraphs": [
+      {
+        "text": "Notre app Sales Agreement structure le suivi des engagements clients directement dans HubSpot. Vous pouvez enfin créer vos contrats avec des volumes, des prix négociés, des objectifs de réassort ou des remises, et suivre leur exécution dans le temps — sans sortir du CRM."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Création d'un objet \"Contrat\" dans HubSpot"
+      },
+      {
+        "text": "Suivi des volumes, prix, remises et échéances"
+      },
+      {
+        "text": "Alertes automatiques si les objectifs ne sont pas atteints"
+      }
+    ],
+    "conclusion": "Résultat : vos commerciaux gagnent en visibilité sur les volumes engagés, votre suivi devient plus structuré et proactif, et vos données sont exploitables directement dans vos reportings.",
+    "image": {
+      "src": "/images/Image_Sales_Agreement.png",
+      "alt": "Capture d'écran de l'application Sales Agreement dans HubSpot"
+    },
+    "reverse": false
+  }
+}
