@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "a-propos/manifeste/features008-symptomes"
+    },
+    "data": {
+        "title": "Les 4 symptômes d'une entreprise industrielle dépassée",
+        "content": "<ul><li><strong>Vous êtes excellents, mais invisibles</strong>, enfermés dans la culture du « secret bien gardé ».</li><li>Vous êtes focalisés sur votre produit au détriment de l'expérience client.</li><li>Vous peinez à attirer et garder vos meilleurs talents à cause de pratiques obsolètes.</li><li>Vous restez passifs, presque habitués à ce que vos clients viennent naturellement à vous.</li></ul>"
+    }
+}

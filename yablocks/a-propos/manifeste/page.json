@@ -16,14 +16,14 @@
   "blocks": [
     "../../_shared/navigation.json",
     "./hero002.json",
-    "./content001-symptomes.json",
-    "./content001-nouvelle-donne.json",
-    "./content001-croissance.json",
-    "./content001-accompagnement.json",
+    "./features008-symptomes.json",
+    "./features008-nouvelle-donne.json",
+    "./features008-croissance.json",
+    "./features008-accompagnement.json",
     "./process001.json",
     "./features005-equation.json",
     "./stats001.json",
-    "./content001-methode.json",
+    "./features008-methode.json",
     "./features006-ressources.json",
     "../../_shared/footer.json"
   ]
