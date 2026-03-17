@@ -9,7 +9,7 @@
         "items": [
             {
                 "title": "Intégration OT/IT & passerelles de communication",
-                "description": "Mise en place des ponts entre le terrain automates (Profinet, Profibus, Ethernet/IP, Modbus, AS-i) et vos couches supérieures (SCADA, MES, ERP). Configuration de passerelles OPC-UA, traduction de protocoles, architecture serveur-client standardisée. Vos données de production remontent sans modifier un seul programme automate.",
+                "description": "Mise en place des ponts entre le terrain automates (Profinet, Profibus, Ethernet/IP, Modbus, AS-i) et vos couches supérieures (SCADA, MES, ERP). Configuration de passerelles OPC-UA, traduction de protocoles, architecture serveur-client standardisée. Vos données de production remontent — dans la plupart des cas sans toucher un seul programme automate.",
                 "image": {
                     "src": "/images/background-indus.jpg",
                     "alt": "Intégration OT/IT passerelle protocoles industriels"

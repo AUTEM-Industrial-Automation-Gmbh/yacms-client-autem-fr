@@ -24,20 +24,8 @@
         "alt": "Eaton — XSoft-CoDeSys"
       },
       {
-        "src": "/logos/sew.png",
-        "alt": "SEW-Eurodrive — Movitrac / Movidrive"
-      },
-      {
-        "src": "/logos/pilz.png",
-        "alt": "Pilz — sécurité machine SIL"
-      },
-      {
-        "src": "/logos/pepperl-fuchs.png",
-        "alt": "Pepperl+Fuchs — capteurs industriels"
-      },
-      {
-        "src": "/logos/eplan.png",
-        "alt": "EPLAN — schémas électriques"
+        "src": "/logos/ignition.png",
+        "alt": "Ignition — migration IHM SCADA"
       }
     ]
   }

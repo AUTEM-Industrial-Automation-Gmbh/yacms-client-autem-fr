@@ -13,14 +13,14 @@
                 "icon": "search"
             },
             {
-                "title": "Migration Logicielle",
-                "description": "Portage du projet existant vers la nouvelle version ou la nouvelle plateforme. Tests de cohérence, conversion des écrans, validation des alarmes, des tags et des historiques.",
-                "icon": "layers"
-            },
-            {
                 "title": "Configuration Matérielle",
                 "description": "Installation et configuration du nouvel IPC : pilotes, réseau, services Windows, durcissement OS, gestion des droits et intégration dans l'architecture existante.",
                 "icon": "cpu"
+            },
+            {
+                "title": "Migration Logicielle",
+                "description": "Portage du projet existant vers la nouvelle version ou la nouvelle plateforme. Tests de cohérence, conversion des écrans, validation des alarmes, des tags et des historiques.",
+                "icon": "layers"
             },
             {
                 "title": "Tests & Validation",
