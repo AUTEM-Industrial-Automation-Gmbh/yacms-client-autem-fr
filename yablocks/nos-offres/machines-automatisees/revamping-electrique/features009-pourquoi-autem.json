@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/machines-automatisees/revamping-electrique/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Électrotechnicien et automaticien — pas un prestataire qui sous-traite.",
+        "paragraphs": [
+            {
+                "text": "Un revamping électrique mal piloté, c'est une machine remise en service avec des sécurités non validées, des schémas incomplets et des variateurs paramétrés approximativement. AUTEM intervient avec ses propres compétences électrotechniques — habilitations BT incluses — et livre un dossier qui tient la route."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Habilitations basse-tension — intervention directe sans sous-traitance"
+            },
+            {
+                "text": "Double compétence électrotechnique + automatisme : la couche électrique et la couche programme traitées ensemble"
+            },
+            {
+                "text": "Schémas livrés en sources natives EPlan ou SEE Electrical — éditables par vos équipes"
+            },
+            {
+                "text": "Validation SIL formalisée et documentée selon EN ISO 13849 / IEC 62061"
+            },
+            {
+                "text": "Collaboration avec vos électriciens internes pour un transfert de compétences réel"
+            },
+            {
+                "text": "Multimarque variateurs — nous choisissons le bon équipement, pas le plus facturés"
+            }
+        ],
+        "conclusion": "Le résultat : une installation connue, documentée, conforme et maintenable — sans dépendance à un prestataire externe pour la moindre intervention.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Automaticien électrotechnicien AUTEM — revamping électrique industriel"
+        },
+        "reverse": true
+    }
+}

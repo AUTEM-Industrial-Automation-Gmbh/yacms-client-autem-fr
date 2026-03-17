@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features010",
+        "section": "offre/machines-automatisees/revamping-electrique/features010-domaines"
+    },
+    "data": {
+        "overtitle": "DOMAINES D'INTERVENTION",
+        "title": "Trois axes pour une remise à niveau complète",
+        "cards": [
+            {
+                "image": {
+                    "src": "/logos/sew.png",
+                    "alt": "Variateurs et axes motion SEW Siemens Eaton"
+                },
+                "title": "Variateurs & Axes Motion",
+                "bullets": [
+                    {
+                        "text": "SEW-Eurodrive — Movitrac (mono-axe) & Movidrive (multi-axes servos)"
+                    },
+                    {
+                        "text": "Siemens Sinamics — G120, S120, V20"
+                    },
+                    {
+                        "text": "Eaton — RASP et RAMO"
+                    },
+                    {
+                        "text": "Paramétrage complet : rampes, couples, courbes vitesse"
+                    },
+                    {
+                        "text": "Migration vers variateurs récents si modèle discontinué"
+                    }
+                ]
+            },
+            {
+                "image": {
+                    "src": "/logos/eplan.png",
+                    "alt": "Schémas électriques EPlan SEE Electrical"
+                },
+                "title": "Schémas & Documentation",
+                "bullets": [
+                    {
+                        "text": "Rédaction ou refonte complète sous EPlan Electric P8"
+                    },
+                    {
+                        "text": "Rédaction sous SEE Electrical selon préférence client"
+                    },
+                    {
+                        "text": "Nomenclature matérielle, listes de câbles, bornier"
+                    },
+                    {
+                        "text": "Mise à jour des schémas existants après modification"
+                    },
+                    {
+                        "text": "Livraison PDF + sources natives éditables"
+                    }
+                ]
+            },
+            {
+                "image": {
+                    "src": "/logos/pilz.png",
+                    "alt": "Sécurité machine SIL Pilz Pepperl+Fuchs"
+                },
+                "title": "Sécurité Machine — SIL",
+                "bullets": [
+                    {
+                        "text": "Analyse de risques et détermination du niveau SIL requis"
+                    },
+                    {
+                        "text": "Relais de sécurité et contrôleurs Pilz (PNOZ, PNOZmulti, PSS)"
+                    },
+                    {
+                        "text": "Capteurs de sécurité Pepperl+Fuchs (barrières, tapis, verrous)"
+                    },
+                    {
+                        "text": "Câblage et câblage en catégorie 3 / 4, PLe/SIL 2-3"
+                    },
+                    {
+                        "text": "Validation et documentation SIL conforme EN ISO 13849 / IEC 62061"
+                    }
+                ]
+            }
+        ]
+    }
+}

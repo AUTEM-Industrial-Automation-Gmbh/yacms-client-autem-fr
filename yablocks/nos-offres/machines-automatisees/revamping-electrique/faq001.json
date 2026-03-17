@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/machines-automatisees/revamping-electrique/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur le revamping électrique",
+        "items": [
+            {
+                "question": "Peut-on faire un revamping électrique partiel — uniquement les variateurs, par exemple ?",
+                "answer": "Oui. Une intervention ciblée (remplacement d'un variateur hors catalogue, mise à jour d'une armoire, ajout d'une barrière de sécurité) est tout à fait possible sans refonte complète. Nous démarrons systématiquement par un audit pour définir le périmètre et prioriser les interventions selon les risques et les contraintes de production."
+            },
+            {
+                "question": "Qu'est-ce que l'analyse SIL et quand est-elle obligatoire ?",
+                "answer": "SIL (Safety Integrity Level) est une mesure du niveau de réduction du risque fournie par une fonction de sécurité. Elle est requise dès qu'une machine présente des risques pour les opérateurs : arrêts d'urgence, barrières immatérielles, verrouillages de portes, tapis de sécurité. En Europe, la Directive Machines 2006/42/CE impose une analyse de risques formelle. Nous réalisons cette analyse et dimensionnons les architectures de sécurité en conséquence (PLe / Cat. 4 / SIL 2-3)."
+            },
+            {
+                "question": "EPlan ou SEE Electrical : lequel utilisez-vous ?",
+                "answer": "Les deux. Nous travaillons sous EPlan Electric P8 pour les projets nécessitant une gestion avancée (bases de données articles, macros, liaisons potentiels) et sous SEE Electrical Expert pour les clients qui utilisent déjà cet outil. Le choix est fait selon votre existant — l'objectif est que vos équipes puissent rouvrir les fichiers sans avoir à changer de logiciel."
+            },
+            {
+                "question": "Intervenez-vous sur des installations sous tension ?",
+                "answer": "Oui, avec les habilitations appropriées. Nos intervenants disposent des habilitations basse-tension (B1V, B2V, BR, BC). Pour les interventions sur tableaux sous tension, nous définissons un plan de prévention précis avec vos équipes HSE, et nous appliquons les procédures de consignation/déconsignation conformes à la norme NF C 18-510."
+            },
+            {
+                "question": "La mise à jour d'un variateur nécessite-t-elle d'arrêter la production ?",
+                "answer": "Dans la plupart des cas, oui — au moins pour la phase de câblage et de validation. Nous planifions l'intervention pour minimiser l'arrêt : paramétrage préparé en amont sur banc, câblage réalisé lors d'un arrêt programme court, essais sur cycle réduit avant remise en production complète. Pour les lignes multi-axes, un phasage par axe permet de maintenir la production partielle pendant l'intervention."
+            }
+        ]
+    }
+}

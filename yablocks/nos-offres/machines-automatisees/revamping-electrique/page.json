@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "title": "Revamping Électrique Industriel — Variateurs, Sécurité SIL, Schémas | AUTEM",
+        "description": "AUTEM rénove vos installations électriques industrielles : tableaux, variateurs (SEW, Siemens Sinamics, Eaton), sécurité SIL (Pilz, Pepperl+Fuchs), schémas EPlan et SEE Electrical. Habilitations BT incluses.",
+        "keywords": [
+            "revamping électrique industriel",
+            "variateur industriel",
+            "Siemens Sinamics",
+            "SEW Movitrac Movidrive",
+            "sécurité SIL",
+            "Pilz sécurité machine",
+            "EPlan schéma électrique",
+            "SEE Electrical",
+            "armoire automatisme",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features010-domaines.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./testimonial003.json",
+        "./features009-pourquoi-autem.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

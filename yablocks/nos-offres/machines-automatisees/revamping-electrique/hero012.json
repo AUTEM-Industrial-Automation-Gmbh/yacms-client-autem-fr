@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "offre/machines-automatisees/revamping-electrique/hero012"
+  },
+  "data": {
+    "overtitle": "MACHINES AUTOMATISÉES",
+    "title": "Revamping Électrique Industriel.",
+    "subtitle": "Variateurs HS, câblage vieillissant, sécurités non conformes, schémas papier inaccessibles — AUTEM remet à niveau l'infrastructure électrique de vos machines, de l'étude à la mise en service, documentation comprise.",
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Revamping électrique industriel — armoire automatisme AUTEM"
+    }
+  }
+}
