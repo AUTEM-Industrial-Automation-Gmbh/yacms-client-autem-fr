@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/avis-technique/assistance-projets/hero012"
+    },
+    "data": {
+        "overtitle": "AVIS TECHNIQUE",
+        "title": "Assistance à vos Projets Stratégiques d'Automatisme.",
+        "subtitle": "Vous pilotez un projet d'envergure et vous avez besoin d'un expert technique à vos côtés — pas d'un généraliste, mais d'un automaticien qui comprend vos enjeux de production et sait parler aux intégrateurs.",
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Assistance projet stratégique automatisme industriel — AUTEM"
+        }
+    }
+}

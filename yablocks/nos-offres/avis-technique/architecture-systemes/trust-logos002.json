@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/avis-technique/architecture-systemes/trust-logos002"
+    },
+    "data": {
+        "title": "Ils nous ont confié la conception ou la validation de leurs architectures",
+        "subtitle": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
+        "logos": [
+            { "src": "/logos/hermes.png", "alt": "Hermès — Architecture systèmes de contrôle industriels, Paris" },
+            { "src": "/logos/amazon.png", "alt": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS" },
+            { "src": "/logos/thalys.png", "alt": "Thalys — Supervision réseau, télémétrie, IoT" },
+            { "src": "/logos/sftrf.png", "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire" },
+            { "src": "/logos/arcelormittal.jpg", "alt": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg" }
+        ]
+    }
+}

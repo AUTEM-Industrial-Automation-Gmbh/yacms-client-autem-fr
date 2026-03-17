@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/avis-technique/assistance-projets/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/thalys.png",
+                "alt": "Thalys — AMOA vending machines, télémétrie IoT"
+            },
+            {
+                "src": "/logos/amazon.png",
+                "alt": "Amazon — WCS/WMS, automatisation entrepôt mécanisé"
+            },
+            {
+                "src": "/logos/sftrf.png",
+                "alt": "SEE/SFTRF — Supervision réseau routier et ferroviaire"
+            }
+        ],
+        "headline": "Un projet industriel mal piloté côté client, c'est un intégrateur qui prend toutes les décisions techniques à votre place.",
+        "paragraphs": [
+            {
+                "text": "Dans beaucoup de projets d'automatisme ou de digitalisation, le donneur d'ordre n'a pas les ressources internes pour suivre techniquement l'intégrateur. Résultat : les spécifications restent floues, les dérives de périmètre ne sont pas détectées, et à la réception, le système livré ne correspond pas exactement aux besoins opérationnels — sans que personne ne soit formellement en tort."
+            },
+            {
+                "text": "Les projets qui dérapent ont souvent en commun : un cahier des charges rédigé trop vite et sans expertise terrain, une phase de conception expédiée, des tests d'acceptation conduits sans méthode, et une formation bâclée à la mise en service — laissant des équipes démunies face à un système qu'elles n'ont pas contribué à définir."
+            },
+            {
+                "text": "L'assistance à maîtrise d'ouvrage technique (AMOA) permet de rééquilibrer cette relation : avec un expert de votre côté, vous rédigez des spécifications précises, vous pilotez les jalons techniques avec méthode, et vous réceptionnez un système conforme à ce que vous vouliez — pas seulement à ce que vous avez écrit."
+            },
+            {
+                "text": "AUTEM assure cette mission de représentant technique du client auprès des intégrateurs, en apportant une connaissance métier de l'automatisme et de l'informatique industrielle que peu de maîtres d'ouvrage ont en interne."
+            }
+        ],
+        "closing": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement."
+    }
+}

@@ -20,19 +20,19 @@
             "items": [
               {
                 "label": "Rétrofit Automatisme",
-                "href": "/offre/automatisme"
+                "href": "/nos-offres/machines-automatisees/retrofit-automation"
               },
               {
                 "label": "IoT Comm Réseaux",
-                "href": "/offre/automatisme#variateurs"
+                "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
               },
               {
                 "label": "Revamping Electrique",
-                "href": "/offre/automatisme#etudes-electriques"
+                "href": "/nos-offres/machines-automatisees/revamping-electrique"
               },
               {
                 "label": "Rénovation PC Industriel",
-                "href": ""
+                "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
               }
             ]
           },
@@ -42,19 +42,19 @@
             "items": [
               {
                 "label": "KPI, MES, TRS, OEE",
-                "href": "/offre/informatique-industrielle"
+                "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
               },
               {
                 "label": "Data, Pareto, VSM, ROI",
-                "href": "/offre/informatique-industrielle#mes"
+                "href": "/nos-offres/logiciels-pilotage/analyse-data"
               },
               {
-                "label": "Supervision SCADA",
-                "href": "/offre/ignition-scada"
+                "label": "Supervision SCADA Ignition",
+                "href": "/nos-offres/logiciels-pilotage/ignition-scada"
               },
               {
                 "label": "GTB, GMAO",
-                "href": ""
+                "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
               }
             ]
           },
@@ -64,15 +64,15 @@
             "items": [
               {
                 "label": "Architecture Systèmes",
-                "href": "/offre/data"
+                "href": "/nos-offres/avis-technique/architecture-systemes"
               },
               {
                 "label": "Projets Stratégiques",
-                "href": "/offre/data#reseaux"
+                "href": "/nos-offres/avis-technique/assistance-projets"
               },
               {
                 "label": "Cycle de Vie et Obsolescence",
-                "href": "/offre/data#pilotage"
+                "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
               }
             ]
           }

@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/avis-technique/assistance-projets/trust-logos002"
+    },
+    "data": {
+        "title": "Ils nous ont confié l'assistance technique de leurs projets stratégiques",
+        "subtitle": "Indépendant, multimarque, expérience terrain — de la spec à la réception",
+        "logos": [
+            {
+                "src": "/logos/thalys.png",
+                "alt": "Thalys — AMOA vending machines, télémétrie IoT, Bruxelles"
+            },
+            {
+                "src": "/logos/amazon.png",
+                "alt": "Amazon — WCS/WMS automatisation entrepôt mécanisé, Paris"
+            },
+            {
+                "src": "/logos/sftrf.png",
+                "alt": "SEE/SFTRF — supervision réseau routier ferroviaire Rhône-Alpes"
+            },
+            {
+                "src": "/logos/hermes.png",
+                "alt": "Hermès — architecture et assistance systèmes industriels"
+            },
+            {
+                "src": "/logos/seckiot.png",
+                "alt": "Seckiot — cybersécurité IoT systèmes industriels"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/avis-technique/architecture-systemes/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
+        "paragraphs": [
+            {
+                "text": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations"
+            },
+            {
+                "text": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système"
+            },
+            {
+                "text": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales"
+            },
+            {
+                "text": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511"
+            },
+            {
+                "text": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres"
+            },
+            {
+                "text": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final"
+            }
+        ],
+        "conclusion": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Expert AUTEM — architecture systèmes de contrôle-commande industriels"
+        },
+        "reverse": true
+    }
+}

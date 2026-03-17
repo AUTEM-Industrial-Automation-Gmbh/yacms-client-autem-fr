@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/avis-technique/assistance-projets/cta002"
+    },
+    "data": {
+        "title": "Vous avez un projet d'automatisme ou de digitalisation à piloter ?",
+        "benefits": [
+            {
+                "icon": "shield",
+                "text": "Expert indépendant — aucun intérêt commercial lié à votre choix d'intégrateur"
+            },
+            {
+                "icon": "file-text",
+                "text": "Spécifications, revues techniques, FAT/SAT — méthode complète du besoin à la réception"
+            },
+            {
+                "icon": "globe",
+                "text": "Expérience internationale : France, Belgique, Canada, Luxembourg, Maroc, Israël"
+            }
+        ],
+        "cta": {
+            "text": "Discuter de votre projet",
+            "link": "/contact"
+        }
+    }
+}

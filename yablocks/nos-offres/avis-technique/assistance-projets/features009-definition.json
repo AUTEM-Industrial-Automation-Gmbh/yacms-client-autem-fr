@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/avis-technique/assistance-projets/features009-definition"
+    },
+    "data": {
+        "overtitle": "ASSISTANCE PROJETS",
+        "title": "AMOA technique en automatisme et digitalisation : périmètre et livrables",
+        "paragraphs": [
+            {
+                "text": "L'assistance à maîtrise d'ouvrage (AMOA) technique en automatisme couvre tout le cycle d'un projet industriel du côté du client : de la définition des besoins jusqu'à la réception du système. AUTEM joue le rôle de traducteur entre vos enjeux opérationnels et les exigences techniques des intégrateurs."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Rédaction du cahier des charges technique et fonctionnel pour appels d'offres"
+            },
+            {
+                "text": "Analyse comparative des offres intégrateurs et recommandations objectives"
+            },
+            {
+                "text": "Suivi de conception : revues techniques, validation des plans, commentaires documentaires"
+            },
+            {
+                "text": "Préparation et conduite des tests d'acceptation (FAT en atelier intégrateur, SAT sur site client)"
+            },
+            {
+                "text": "Réception technique et constitution du dossier de fin d'affaire (DOE, manuels, programmes)"
+            },
+            {
+                "text": "Coordination entre les expertises : automaticien, électricien, informatique industrielle, process"
+            }
+        ],
+        "conclusion": "Résultat : un projet réceptionné conforme au besoin initial, avec une équipe interne formée et une documentation exploitable pour la maintenance.",
+        "image": {
+            "src": "/images/portfolio-references.jpg",
+            "alt": "Assistance MOA projet automatisme industriel — AUTEM"
+        },
+        "reverse": false
+    }
+}

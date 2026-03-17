@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/hero012"
+    },
+    "data": {
+        "overtitle": "AVIS TECHNIQUE",
+        "title": "Cycle de Vie et Gestion de l'Obsolescence.",
+        "subtitle": "Vos automates et logiciels ont 10, 15 ou 20 ans ? La plupart des industriels découvrent l'obsolescence le jour d'une panne — quand il est trop tard pour planifier. AUTEM vous aide à anticiper, avant que votre ligne s'arrête.",
+        "backgroundImage": {
+            "src": "/images/homa-appliances.jpg",
+            "alt": "Gestion cycle de vie obsolescence équipements industriels — AUTEM"
+        }
+    }
+}

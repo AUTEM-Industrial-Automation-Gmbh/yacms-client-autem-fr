@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'inventaire du parc à la feuille de route pluriannuelle : 4 étapes",
+        "steps": [
+            {
+                "title": "Inventaire du parc existant",
+                "description": "Collecte des données sur site ou sur documentation : références matérielles et logicielles, versions firmware, dates de mise en service, état des contrats de maintenance. Identification des lacunes documentaires et des équipements non référencés.",
+                "icon": "search"
+            },
+            {
+                "title": "Analyse du cycle de vie éditeurs",
+                "description": "Croisement de l'inventaire avec les informations officielles fabricants (Siemens, Rockwell, Schneider…) : dates de fin de support, disponibilité des pièces de rechange, accessibilité des firmwares et licences. Identification des équipements en zone de risque.",
+                "icon": "clock"
+            },
+            {
+                "title": "Cartographie de criticité et de risque",
+                "description": "Évaluation de l'impact de chaque équipement sur la production : criticité, délai de remplacement estimé, stock de pièces disponible, compétences internes pour l'intervention. Score de risque par équipement.",
+                "icon": "shield"
+            },
+            {
+                "title": "Plan de renouvellement pluriannuel",
+                "description": "Priorisation des actions selon le niveau de risque, le budget disponible et les fenêtres d'arrêt planifiées. Livraison d'un tableau de bord d'obsolescence actualisable et d'un plan de renouvellement sur 3 à 5 ans.",
+                "icon": "bar-chart"
+            }
+        ]
+    }
+}

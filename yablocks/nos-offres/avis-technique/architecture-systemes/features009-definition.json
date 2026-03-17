@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/avis-technique/architecture-systemes/features009-definition"
+    },
+    "data": {
+        "overtitle": "ARCHITECTURE DE SYSTÈMES",
+        "title": "Du cahier des charges à la spécification d'architecture : périmètre et livrables",
+        "paragraphs": [
+            {
+                "text": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Analyse fonctionnelle et organique : décomposition des fonctions, identification des interfaces, inventaire des entrées-sorties"
+            },
+            {
+                "text": "Spécification matérielle multimarque : automates, IHM, serveurs SCADA, équipements réseau — sans lien commercial avec aucun fabricant"
+            },
+            {
+                "text": "Cartographie réseau OT : Profinet, Ethernet/IP, OPC-UA, segmentation VLAN, séparation DMZ"
+            },
+            {
+                "text": "Intégration OT/IT : définition des flux de données entre automates, SCADA, MES et ERP"
+            },
+            {
+                "text": "Plan de redondance et de continuité : niveaux de redondance, stratégie de sauvegarde et reprise"
+            },
+            {
+                "text": "Cahier des charges technique livrable : document de spécification utilisable directement pour un appel d'offres ou une consultation fournisseur"
+            }
+        ],
+        "conclusion": "Résultat : un document de référence qui engage les bons choix dès le départ, permet d'objectiver les comparaisons entre solutions et protège vos équipes contre la dépendance fournisseur.",
+        "image": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Architecture systèmes de contrôle-commande — spécification technique AUTEM"
+        },
+        "reverse": false
+    }
+}

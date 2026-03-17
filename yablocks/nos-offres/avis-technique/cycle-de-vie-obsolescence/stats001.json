@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience sur les équipements Siemens, Rockwell, Schneider — y compris leurs gammes en fin de support",
+                "suffix": "+"
+            },
+            {
+                "value": "6",
+                "label": "Marques d'automates maîtrisées dont les générations obsolètes (S7-300, PLC5, TSX, Quantum)",
+                "suffix": "+"
+            },
+            {
+                "value": "15",
+                "label": "Clients dont nous avons audité ou rénové le parc d'équipements industriels",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des audits livrés avec rapport exécutif, plan de renouvellement et budget estimatif",
+                "suffix": "%"
+            }
+        ]
+    }
+}

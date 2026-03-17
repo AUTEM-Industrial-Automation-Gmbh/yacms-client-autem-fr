@@ -26,19 +26,61 @@
     ],
     "linkGroups": [
       {
-        "title": "Nos offres de services",
+        "title": "Machines Automatisées",
         "links": [
           {
-            "text": "Machines Automatisées",
-            "href": "/services/chauffage"
+            "text": "Rétrofit Automatisme",
+            "href": "/nos-offres/machines-automatisees/retrofit-automation"
           },
           {
-            "text": "Logiciels de Pilotage",
-            "href": "/services/plomberie"
+            "text": "IoT & Réseaux Communication",
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
           },
           {
-            "text": "Avis technique",
-            "href": "/services/climatisation"
+            "text": "Revamping Électrique",
+            "href": "/nos-offres/machines-automatisees/revamping-electrique"
+          },
+          {
+            "text": "Rénovation PC Industriel",
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
+          }
+        ]
+      },
+      {
+        "title": "Logiciels de Pilotage",
+        "links": [
+          {
+            "text": "KPI, MES, TRS, OEE",
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+          },
+          {
+            "text": "Analyse Data, Pareto, ROI",
+            "href": "/nos-offres/logiciels-pilotage/analyse-data"
+          },
+          {
+            "text": "Supervision SCADA Ignition",
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
+          },
+          {
+            "text": "GTB & GMAO",
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
+          }
+        ]
+      },
+      {
+        "title": "Avis Technique",
+        "links": [
+          {
+            "text": "Architecture de Systèmes",
+            "href": "/nos-offres/avis-technique/architecture-systemes"
+          },
+          {
+            "text": "Assistance Projets Stratégiques",
+            "href": "/nos-offres/avis-technique/assistance-projets"
+          },
+          {
+            "text": "Cycle de Vie & Obsolescence",
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
           }
         ]
       },

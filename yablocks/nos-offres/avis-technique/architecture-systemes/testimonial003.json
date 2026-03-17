@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/avis-technique/architecture-systemes/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/portfolio-references.jpg",
+            "alt": "Références clients AUTEM — architecture systèmes industriels"
+        },
+        "quote": "Un accompagnement structurant pour notre projet de refonte des systèmes de contrôle. AUTEM nous a fourni une vision d'architecture claire, indépendante de tout fournisseur et parfaitement documentée.",
+        "author": {
+            "name": "Responsable Automatismes",
+            "role": "Hermès — Paris"
+        }
+    }
+}

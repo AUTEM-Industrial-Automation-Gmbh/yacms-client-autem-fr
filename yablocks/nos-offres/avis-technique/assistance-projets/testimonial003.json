@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/avis-technique/assistance-projets/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/portfolio-references.jpg",
+            "alt": "Références projets AUTEM — assistance technique industrielle"
+        },
+        "quote": "AUTEM a joué un rôle clé dans la structuration technique de notre projet. Leur capacité à traduire nos besoins opérationnels en exigences précises pour l'intégrateur nous a évité bien des incompréhensions en cours de chantier.",
+        "author": {
+            "name": "Responsable Infrastructure & Systèmes",
+            "role": "Thalys — Bruxelles"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/avis-technique/architecture-systemes/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/hermes.png",
+                "alt": "Hermès — Architecture systèmes industriels, Paris"
+            },
+            {
+                "src": "/logos/amazon.png",
+                "alt": "Amazon — WCS/WMS automatisation entrepôt mécanisé"
+            },
+            {
+                "src": "/logos/thalys.png",
+                "alt": "Thalys — Supervision réseau, télémétrie IoT"
+            }
+        ],
+        "headline": "Une mauvaise architecture ne coûte rien à l'heure où on la choisit — elle coûte tout quand on ne peut plus la changer.",
+        "paragraphs": [
+            {
+                "text": "Choisir une plateforme par habitude ou parce qu'un commercial s'est montré convaincant. Ne pas anticiper les besoins d'interconnexion entre les systèmes OT et IT. Dimensionner un réseau sans penser à la croissance et à la redondance. Ces décisions paraissent anodines en début de projet. Leur impact se mesure en années, pas en semaines."
+            },
+            {
+                "text": "En aval, la facture s'alourdit : serveurs SCADA surdimensionnés ou sous-dimensionnés, réseaux industriels impossibles à sécuriser, équipements incompatibles entre eux, dépendance totale à un unique fabricant pour les mises à jour, les licences et le support."
+            },
+            {
+                "text": "Une architecture bien définie répond à des questions précises : quels équipements, quels protocoles, quelle topologie réseau, quels niveaux de redondance, quelle séparation OT/IT, quelle stratégie de cybersécurité. Elle est documentée, justifiée — et défendable devant un client, un auditeur ou une équipe maintenance."
+            },
+            {
+                "text": "AUTEM intervient en amont : avant les appels d'offres, avant les choix structurants. En tant qu'expert indépendant, sans affiliation à aucun constructeur, notre seul objectif est de vous proposer l'architecture qui répond à vos contraintes techniques, budgétaires et opérationnelles à long terme."
+            }
+        ],
+        "closing": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer."
+    }
+}
