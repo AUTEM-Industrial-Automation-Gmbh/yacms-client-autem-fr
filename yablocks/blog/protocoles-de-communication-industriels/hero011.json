@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/protocoles-de-communication-industriels/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "04/03/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/automaticien-methode-vs-marques/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "3000 abonnés, une réussite pour nous tous car cela montre un contenu intéressant partagé avec toute la communauté AUTEM. Le plus important ce n'est pas les chiffres mais l'aventure et toutes les expériences que nous avions vécues ensemble jusqu'à ce jour . Merci à toute la communauté pour tout votre soutien. Nous allons également en profiter pour discuter d'un sujet intéressant: Être automaticien: est-ce une question de méthodologie ou plutôt de marques ? Allez c'est parti ! On découvre tout cela ensemble."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/Ab5Cg9XcZWM"
+      },
+      {
+        "heading": "Top 10 des abonnés les plus actifs",
+        "paragraphs": [
+          {
+            "text": "On commence par les personnes les plus actifs sur la communauté lors de nos rencontre en LIVE les jeudis soir: 1 - Rachid Es-sabity - Spécialiste Motion, Rep Com ABB | 🇫🇷 2 - Florian Sesse - Intégrat sol° GMAO/CRM/ERP | 🇨🇲 3 - Zahir Oularbi - Ingé Autom Soummam (Evian/Volvic) | 🇩🇿 4 - Hocine BOUCHEMAL - Automaticien Cevital | 🇩🇿 5 - Yannick SUTRA - Lycée Paul Langevin, BEAUVAIS | 🇫🇷 6 - TBB Aless 7 - Sophie Perreon - Consultante en automatisme et robotique | 🇫🇷 8 - Bertrand AYENE - Intégrateur Formateur Full-Stack | 🇨🇲 9 - Bourahima Kamagate - Elec Autom Nestlé | 🇨🇮 10 - Sylvain Pastor - Electronique embarqué, Drônes | 🇫🇷 Merci également à tous les autres membres de la communauté AUTEM."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Avis et envies sur la communauté",
+        "paragraphs": [
+          {
+            "text": "Quelques visions futures pour la communauté AUTEM: Plus d'interview en mode binôme ou trinôme avec des experts Quelques partenariats avec des marques dans le but de mettre en valeur les entreprises Plus d'autres projets beaucoup plus spécialisés sur notre spécialité - Informatique Industrielle et SCADA"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Le métier d'automaticien: parlons-en",
+        "paragraphs": [
+          {
+            "text": "Est-ce que être automaticien c'est de maîtriser des composants de constructeur ou serait-ce plutôt la maîtrise d'une méthode ? Sur quoi faut-il se former pour pouvoir dire que l'on est capable d'intervenir sur de l'automatisme industriel ? Pour certains, le métier d'automaticien c'est beaucoup plus une question de méthode, en priorité . Mais en regardant la réalité du terrain et les sujets sur lesquels on est sollicités , si les principaux constructeurs sont déjà implémentés sur les usines, les demandes seront beaucoup dans le sens du matériel . On peut également dire que être automaticien c'est d'abord maîtriser les concepts et maintenir sa capacité à apprendre car les d'aujourd'hui ne seront plus les mêmes dans 10 ans et qui eux également seront différents dans 20 ans."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

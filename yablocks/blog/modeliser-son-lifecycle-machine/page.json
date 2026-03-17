@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Modéliser son LifeCycle Machine | Blog AUTEM",
+    "description": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
+    "keywords": [
+      "Cycle de Vie et Obsolescence",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/vision-ia-robotique/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "IA, Vision, Robotique - Mohamed KONATE",
+    "tags": [
+      {
+        "label": "IA & Machine Learning",
+        "type": "secteur"
+      },
+      {
+        "label": "Instrumentation-Capteurs",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "13/12/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

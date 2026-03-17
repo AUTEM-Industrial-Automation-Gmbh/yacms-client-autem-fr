@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/agroindustrie-et-ingenierie-en-afrique/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "AgroIndustrie et Ingénierie en Afrique - TOURE Mamery",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "10/11/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

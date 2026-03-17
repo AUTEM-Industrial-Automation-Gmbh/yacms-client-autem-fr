@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/adopter-docker-en-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "4 raisons d'adopter DOCKER en Industrie",
+    "tags": [
+      {
+        "label": "Architecture Systèmes",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "21/10/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Automate your Engineering Reports💡 | Blog AUTEM",
+    "description": "Automate your Engineering Reports with AI - Real-Life example",
+    "keywords": [
+      "Automation",
+      "IA & Machine Learning",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

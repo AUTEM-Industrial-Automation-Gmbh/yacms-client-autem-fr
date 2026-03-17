@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent | Blog AUTEM",
+    "description": "Logiciels sur-mesure et sur-étagère: Découverte et exploration du thème avec deux experts.",
+    "keywords": [
+      "Architecture Systèmes",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

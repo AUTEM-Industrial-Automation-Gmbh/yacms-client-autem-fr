@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA | Blog AUTEM",
+    "description": "Actualités mensuelles mars 2025 de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de mars 2025)",
+    "keywords": [
+      "Automation",
+      "Actualités TECH",
+      "IA & Machine Learning",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

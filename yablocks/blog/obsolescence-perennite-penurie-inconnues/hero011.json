@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/obsolescence-perennite-penurie-inconnues/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues",
+    "tags": [
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "12/03/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/protectionnisme-technologies-futures-en-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "09/01/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

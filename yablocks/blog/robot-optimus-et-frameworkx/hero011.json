@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/robot-optimus-et-frameworkx/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°16 - Robot Optimus & FrameworX",
+    "tags": [
+      {
+        "label": "Motion & Robotique",
+        "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      },
+      {
+        "label": "IA & Machine Learning",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "20/11/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

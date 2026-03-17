@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "STOP aux Formations et Communautés en ligne ! | Blog AUTEM",
+    "description": "Des astuces utiles pour choisir sa formation et crée une communauté.",
+    "keywords": [
+      "Astuces Carrière",
+      "Transfert de Compétences",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

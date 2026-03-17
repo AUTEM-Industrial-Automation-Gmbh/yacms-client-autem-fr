@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/christiana-yapi-une-roboticienne-pionniere/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Christiana YAPI - Une roboticienne pionnière en Côte d'Ivoire",
+    "tags": [
+      {
+        "label": "Motion & Robotique",
+        "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "11/11/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

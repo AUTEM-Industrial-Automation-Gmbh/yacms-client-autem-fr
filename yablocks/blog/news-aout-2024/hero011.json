@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-aout-2024/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "09/09/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Comment digitaliser sa maintenance avec la GMAO ? | Blog AUTEM",
+    "description": "La digitalisation de la maintenance industrielle grâce à la GMAO, pour une meilleure gestion et organisation des opérations de maintenance.",
+    "keywords": [
+      "GTB-GMAO",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

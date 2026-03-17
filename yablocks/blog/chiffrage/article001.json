@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/chiffrage/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Tout ce qui touche à la gestion des budgets, les chiffrages du côté industriel, il y a certaines notions basiques que tout le monde devrait connaître, comme par exemple le prix d'achat, un prix de revient et une marge bénéficiaire. Dans le cas industriel, pour un fabricant de machine ou un développeur de solutions d'automatismes, le coût de revient vient jouer un grand rôle, car c'est par ce coût qu'on pourra évaluer l'ensemble des charges qui seront impliquées dans le projet (prix du matériel, licences logicielles, prix du développement du projet, mise en service...). La marge également doit être prise en compte, car elle dépend de plusieurs facteurs comme par exemple les pratiques du milieu ou des standards à respecter. Alors voici mes 10 conseils pour vous aider à bien chiffrer vos projets."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/oX8UYjl5Vz8"
+      },
+      {
+        "heading": "Se mettre dans la peau du client",
+        "paragraphs": [
+          {
+            "text": "En vous mettant à la place du client qui va lire le chiffrage, il est important de définir des points clés de lecture pour le guider et lui permettre de voir ce que le projet va lui rapporter."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Chiffrer une partie du projet",
+        "paragraphs": [
+          {
+            "text": "Qui dit gros projets dit gros devis . Ma solution c'est de chiffrer une petite portion du projet (une démo ou un sous ensemble de la machine)"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Clarifier ce qui est exclu",
+        "paragraphs": [
+          {
+            "text": "Dans un chiffrage, il est important de bien clarifier les opérations que vous allez effectuer de celles que vous n'allez pas effectuer, pour éviter les frustrations."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Démarrer avec un bon de commande formel",
+        "paragraphs": [
+          {
+            "text": "Il est toujours recommandé de recevoir un bon de commande du client avant de démarrer toute activité, car cela pourrait prendre du temps pour revoir le devis ou pour résoudre d'éventuels problèmes juridiques liés à l'opération effectuée."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Moduler le chiffrage en fonction du prix et des délais",
+        "paragraphs": [
+          {
+            "text": "Si le projet a des deadlines très précises, vous pouvez offrir au client une réactivité et la réactivité se monnaie. Du coup, arrangez le chiffrage en fonction de l'urgence."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Déléguer des maîtres d'oeuvre selon la taille du projet",
+        "paragraphs": [
+          {
+            "text": "Les gros projets prennent du temps et font intervenir plusieurs compétences. Pour garder le focus sur la tâche à accomplir, il est bon et utile de déléguer une entreprise maître d'oeuvre qui sera chargée de déléguer certains modules à différentes entreprises qui interviendront sur une partie du projet."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Coût de revient et matériel de license",
+        "paragraphs": [
+          {
+            "text": "Si vous êtes fournisseur de technologie, certains achats deviennent récurrents. À cause de cela, on peut bien anticiper et les faire les achats à l'avance. Cela permet de réaliser des économies d'échelle ou d'économiser sur les délais."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Formaliser les précédentes collaborations",
+        "paragraphs": [
+          {
+            "text": "Concernant les clients qui vous recommandent ou qui vous apportent d'autres clients, il est important de formaliser cela sous forme d'un contrat d'apport d'affaires. Si on est capable de formaliser ces relations, alors on pourra s'assurer des avantages dans la durée."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Ordre de grandeur et renégocier au besoin le projet",
+        "paragraphs": [
+          {
+            "text": "Si on est une entreprise qui se spécialise sur un type de machine ou un type de logiciel, il faut savoir se définir des ordres de grandeur : on doit pouvoir dire pendant combien de temps on pourra réaliser la tâche demandée. Du coup, si en cours de route, le cahier de charge a changé, alors il faut renégocier le projet afin que les changements puissent être pris en compte dans la revue du budget."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

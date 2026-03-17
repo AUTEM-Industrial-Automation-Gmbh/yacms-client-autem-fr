@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-juillet-2023/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "29/08/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Enterprise Architecture & Digital Transformation - Bindioa OUALI | Blog AUTEM",
+    "description": "The reality of digital transformation is that People and Processes get often neglected while choosing and deploying a new Technology. Discover more in this article.",
+    "keywords": [
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem | Blog AUTEM",
+    "description": "Utilisation du logiciel Studio 5000 pour programmer les gammes d’automates premium de Rockwell",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

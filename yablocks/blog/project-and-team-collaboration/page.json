@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Project & Team Collaboration in manufacturing | Blog AUTEM",
+    "description": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
+    "keywords": [
+      "Gestion Projet Stratégique",
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

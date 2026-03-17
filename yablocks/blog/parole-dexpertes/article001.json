@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/parole-dexpertes/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Bienvenue à tous les passionnés d'automatisme et d'industrie ! Dans cet article, nous allons découvrir ensemble un résumé du Live \"Les actrices de l’industrie : parole d’expert\" , un résumé qui vous sera vraiment enrichissant. Vous trouverez au début de cet article la vidéo du Live. Commençons par les présentations."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/wpKnSKyEID0"
+      },
+      {
+        "heading": "Présentation",
+        "paragraphs": [
+          {
+            "text": "Sophie Perréon et Pernelle Mensah sont deux femmes expertes, riches en idees et passionnées de technique, qui partagent avec nous leur point de vue sur diverses questions concernant les femmes dans l'industrie. Pour une petite présentation, Sophie a travaillé dans plusieurs sociétés, en tant que technicienne de support, commerciale, responsable de projets en robotique et automatisation, et enfin responsable automation et motion chez Lens allemand de motion. Aujourd'hui, elle est à son compte depuis septembre 2022. Elle aime apprendre des expériences des autres car cela lui permet de s'enrichir. Pernelle, ingénieure de recherche depuis 2015 chez Nokia Bellabs , est dans la sécurité informatique . Pour elle, c’est un domaine transversal qui peut être intégré à différents domaines en fonction des contacts et des besoins de chaque équipe."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/femmes_experte_img.png",
+          "alt": "Parole d'expertes"
+        }
+      },
+      {
+        "heading": "MIXITÉ EN INDUSTRIE : Y A-T-IL PLUS DE FEMMES QUE D'HOMMES EN INDUSTRIE ?",
+        "paragraphs": [
+          {
+            "text": "Alors, pourquoi le leadership ? Tout simplement parce que dans l’industrie on n’est jamais seul. On travaille toujours en équipe. D’ailleurs petit salut à tous mes collègues qui liront cet article-là. On travaille toujours ensemble et en fait c’est super important d’être capable de dire des choses comme: \"je me suis trompé\", \"tu as raison\" . Ce sont des choses assez basiques: dire \"merci\", \"s’il te plaît\", s’excuser, demander pardon quand on a fait une faute . Et cela vaut aussi dans l’industrie. De plus, tu peux être amené, en tant qu’automaticien à prendre la responsabilité soit d’un groupe ou d’un projet et à ce moment-là c’est d’autant plus important d’être capable de prendre du recul, ne pas être borné sur ses idées et être capable de penser différemment, d’écouter. Cela contribue à avoir la meilleure équipe possible et à donner le meilleur pour faire avancer des projets de la manière la plus dynamique possible. On passe maintenant au troisième point important: \"la programmation\" ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "LA MIXITÉ SERAIT-ELLE ATTEINTE SI ON EN PARLAIT PLUS ?",
+        "paragraphs": [
+          {
+            "text": "Venant de plusieurs avis relevés au cours du live, cette question a suscité plusieurs réactions : pour certains, cela témoignerait d'une égalité effective, tandis que pour d'autres, cela ne garantirait pas la fin des discriminations et des inégalités."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "QUOTAS DE RECRUTEMENTS FÉMININS",
+        "paragraphs": [
+          {
+            "text": "Pour certains, les quotas de recrutement féminins pourraient aider à stimuler l'égalité des chances dans des secteurs où les femmes sont sous-représentées. D'autres craignent que cela ne se fasse au détriment des compétences. Mais il est important d'éveiller la conscience des femmes dès le départ et de ne pas favoriser la promotion de femmes uniquement en raison de leur genre, mais plutôt sur la base de leurs compétences."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "L'IMAGE DE L'INDUSTRIE ENCOURAGE-T-ELLE LES FEMMES À SE PROJETER EN TECHNIQUE ?",
+        "paragraphs": [
+          {
+            "text": "Pour certains types de femmes, les métiers techniques et industriels, qui sont souvent perçus comme sales et bruyants, peuvent être une raison pour laquelle on retrouve peu de femmes en industrie. Mais du point de vue technique, ce sont ces métiers qui offrent une grande ouverture d'esprit et des perspectives de carrière intéressantes. Il est donc très important de mettre en place un système communicatif pour rendre visible et accessibles les métiers techniques, afin d'offrir des retours d'expérience et des témoignages de personnes travaillant dans ces domaines. On pourrait citer un modèle féminin comme Elizabeth Holmes qui malheureusement n'est connue que par très peu de personnes dans l'industrie."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "LES STEREOTYPES DE GENRE SONT-ILS TERMINÉS EN 2023 ?",
+        "paragraphs": [
+          {
+            "text": "Bien qu'il y ait eu des progrès dans certains secteurs, les stéréotypes sont encore présents, même si cela est moins visibles et plus cachés."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Y AURAIT-IL PLUS DE FEMMES EN INDUSTRIE SI LES CHARGES FAMILIALES ÉTAIENT MIEUX PARTAGÉES ?",
+        "paragraphs": [
+          {
+            "text": "Pour certains, la question de savoir si le partage des charges familiales aiderait à avoir plus de femmes dans l'industrie a révélé que le congé parental a un impact sur la carrière, et que les femmes ont souvent tendance à sacrifier leur carrière pour prendre soin de leur famille. Il est donc important d'éduquer les femmes à penser à long terme et à prendre des décisions en connaissance de cause quant aux impacts sur leur carrière."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "A COMPÉTENCES ÉGALES, LES SALAIRES SEMBLENT INFÉRIEURS POUR LES FEMMES ?",
+        "paragraphs": [
+          {
+            "text": "D'après Sophie, les salaires semblent être équilibrés entre hommes et femmes dans l'industrie, mais il y a encore des différences en termes de négociation salariale. Les femmes ont tendance à être plus réservées dans leur demande de salaire, ce qui peut avoir un impact sur leur rémunération. Il y a des lois pour favoriser l'égalité homme-femme dans le travail, mais il faut que les mentalités suivent. Certaines entreprises ont effectué des audits salariaux pour rééquilibrer les salaires entre hommes et femmes. Les lois et les audits sont positifs pour l'égalité homme-femme, mais il faut que cela se traduise dans les mentalités et dans la manière dont les salaires sont négociés."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "POINTS POSITIFS / POINTS NEGATIFS DANS LES METIERS TECHNIQUES",
+        "paragraphs": [
+          {
+            "text": "Pour Sophie, la possibilité de toucher à plusieurs domaines et de partager ses connaissances lors des conférences internationales est un point positif. Mais selon elle, le déséquilibre entre les hommes et les femmes dans les métiers techniques et la nécessité d'avoir plus de femmes freinent la façon de percevoir l'industrie et la gestion efficace des équipes. Pernelle partage également le même avis et souligne l'importance de la présence des femmes dans l'industrie. En somme, une plus grande présence des femmes dans les métiers techniques serait bénéfique."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

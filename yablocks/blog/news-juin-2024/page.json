@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre | Blog AUTEM",
+    "description": "Les actualités du mois de juin 2024: SnowFlake Data, Scada AWS et un Expert à suivre.",
+    "keywords": [
+      "Supervision SCADA",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

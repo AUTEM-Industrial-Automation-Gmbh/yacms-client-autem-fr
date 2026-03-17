@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/entreprise-architecture/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Podcasts",
+        "paragraphs": [
+          {
+            "text": "Retrouvez également cet article en version audio sur:"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🎧 Spotify:"
+            },
+            {
+              "text": "🎧 Apple Podcast"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Spotify:",
+            "href": "https://open.spotify.com/episode/7LiGIc6ZaBxSG3fry0lXnZ?si=696343d68f7642c5"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/A5Tita3laT8?si=5X6g6VMUqzr9qY_J"
+      },
+      {
+        "heading": "Intro et présentation",
+        "paragraphs": [
+          {
+            "text": "This week, we are focusing on discussing enterprise architecture and digital transformation with Bindioa OUALI . Our host Bindioa Ouali is leading enterprise architecture and digital transformation initiatives at SAFRAN Aerospace . For him, enterprise architecture is like a bridge between business and society. We will explore this theme in more detail in the lines that follow."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Bindioa OUALI",
+            "href": "https://linkedin.com/in/bindioa-ouali-b1a54035"
+          }
+        ]
+      },
+      {
+        "heading": "Teams training: specialists VS generalists",
+        "paragraphs": [
+          {
+            "text": "Bindioa distinguishes between specialized experts and generalists in the technological field . For him, 20% of the processes and key individuals generate 80% of the company's productivity : this is the 80/20 rule . It is within this minority that one finds experts in various fields. These experts are essential for complex tasks, such as connecting machines to databases where their in-depth knowledge is necessary."
+          },
+          {
+            "text": "However, individuals with a general understanding are also necessary to interpret the outputs of these processes."
+          },
+          {
+            "text": "In the field of Artificial Intelligence, knowledge sharing is important as it is crucial for experts to provide advanced knowledge for artificial intelligence to be effective."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Change management: innovation VS security",
+        "paragraphs": [
+          {
+            "text": "An enterprise architect can facilitate communication between technical experts and senior management, especially in the context of innovation and the development of new ideas."
+          },
+          {
+            "text": "Bindioa highlights the importance of presenting projects in a concise and clear manner to executives, who receive a large volume of communications daily. To be effective, he recommends clearly defining key performance indicators (KPIs), expected outcomes, and modeling the project in a simple way . This ensures that the subject is well understood and that the information is accessible to decision-makers."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Consulting firms facing top management",
+        "paragraphs": [
+          {
+            "text": "The necessity to simplify complex subjects to make them understandable to all , including non-experts and management, is essential for good management. Presenting a project in an overly simplified manner can sometimes be perceived as lacking ambition. Therefore, it is important to meet the needs of stakeholders and to demonstrate leadership and results. Over 60% of major projects fail because they are not sufficiently simplified, despite their complexity."
+          },
+          {
+            "text": "Communication and multilingualism are also important for better interacting and understanding one's work environment. The role of an enterprise architect is not limited to orchestrating a transformation, but also includes conveying clear information and adapting to the needs of users for the successful completion of a project."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Autonomy : decision-making VS corporate culture",
+        "paragraphs": [
+          {
+            "text": "As we specified above, it is important to simplify complex subjects to make them understandable to all, including end-users and management. The ideas and creativity of operators and employees should be encouraged and integrated into the company's processes."
+          },
+          {
+            "text": "Regarding major decision-making, these are generally made by decision-makers, but it is crucial to give a chance to ideas coming from all levels of the organization. For example, if an operator has an innovative idea that aligns with the company's goals, it should be taken into consideration and developed."
+          },
+          {
+            "text": "It is also important to pay attention to the incubation of ideas and the need for processes to evaluate their value and relevance. Some companies like Amazon and Tesla succeed by leveraging the skills of their employees. Also, collaboration between different departments, such as operations and IT, is key to improving the security and efficiency of systems."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Improve VS Automate : the Lean approach",
+        "paragraphs": [
+          {
+            "text": "Before proceeding with any automation, it is essential to take the time to standardize and understand the data. Data quality is crucial for making informed decisions. It is therefore important to understand the behavior of machines and the work environment before creating models for performance improvement."
+          },
+          {
+            "text": "Depending on the specific context, automation can be used to simplify processes. Artificial Intelligence and quantitative KPIs are means to interpret non-quantitative systems and to improve the understanding and management of processes."
+          },
+          {
+            "text": "Finally, it is important to understand the interfaces and connections between the various components of a company in order to effectively design enterprise solutions. It is also necessary to consider the perspectives of stakeholders, the organization, and customers in the digital transformation process."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Evolution of processes during a Merger/Acquisition",
+        "paragraphs": [
+          {
+            "text": "In the context of merging the processes of two companies, it is important to integrate the best practices of both companies to optimize the overall organization without completely changing the way the new acquisition operates. Flexibility and open-mindedness are also key in this process."
+          },
+          {
+            "text": "One of the goals of digital transformation is to accelerate existing processes and improve the organization using digital tools. However, care must also be taken not to embark on this without clear objectives or without understanding what one wants to achieve."
+          },
+          {
+            "text": "In project management, planning and architecture are important. Each project must be carefully structured to avoid excessive costs and to ensure long-term efficiency. This allows for foresight into the long-term consequences of decisions made and their impact on different functions of the company."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Infrastructure : centralized VS decentralized",
+        "paragraphs": [
+          {
+            "text": "In the context of managing IT infrastructures in businesses, particularly in the difference between centralized and decentralized infrastructures, security is crucial in digital transformation and centralized organizations facilitate the management of resources. However, this can limit agility and speed, which are essential in today's digital world."
+          },
+          {
+            "text": "The idea of a \" unified space \", where each component of a factory or a production line is digitally defined and linked to real-time data, allows for better control and monitoring while offering the necessary flexibility for local innovations."
+          },
+          {
+            "text": "In companies where infrastructure must be designed to facilitate rapid access to necessary information, it is important to make quick and informed decisions in businesses."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Technological choices : are Budgets biased ?",
+        "paragraphs": [
+          {
+            "text": "It is important not to choose a one-size-fits-all solution for all problems, but rather to opt for solutions tailored to each specific situation. And to do this, one can start with a detailed assessment of current needs and objectives before testing different technologies."
+          },
+          {
+            "text": "The use of diversified and adaptive solutions must be capable of meeting the specific needs of the business."
+          },
+          {
+            "text": "Before presenting a solution to the leaders of a company, it is preferable to demonstrate how a specific technological solution can add value and meet the needs of the business, rather than focusing solely on costs. It is important to understand the needs of the business and to choose optimal solutions rather than the most expensive ones."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Unified Data for value creation",
+        "paragraphs": [
+          {
+            "text": "Les données ont toujours été un atout pour la création de valeur, mais leur utilisation et présentation ont évolué avec le temps. Il est donc important de structurer et d'analyser correctement les données pour une prise de décision efficace et précise car, les données seront un élément clé pour les décisions futures, notamment grâce au soutien de l'intelligence artificielle."
+          },
+          {
+            "text": "Les données sont comme un feedback en temps réel permettant de mieux prévoir et d'ajuster les opérations pour atteindre les objectifs financiers. Cela devient donc nécessaire d'utiliser les données pour le cadre de la gestion du capital et la réalisation des objectifs de l'entreprise."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

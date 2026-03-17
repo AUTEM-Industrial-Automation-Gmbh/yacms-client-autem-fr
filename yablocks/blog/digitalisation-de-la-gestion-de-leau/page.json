@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "Digitalisation de la Gestion de l'EAU - avec Guillaume GIMENEZ - 2Gi | Blog AUTEM",
+    "description": "Télégestion dans le secteur de l'eau avec 2Gi: infrastructure, flux de donnée et gestion de projet.",
+    "keywords": [
+      "IoT Réseau",
+      "GTB-GMAO",
+      "Instrumentation-Capteurs",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

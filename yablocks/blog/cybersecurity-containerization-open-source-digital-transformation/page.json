@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°22 - Coming Back for 2026 🔥 the recap ! | Blog AUTEM",
+    "description": "Cybersecurity, Containerization, Open Source, Digital Transformation",
+    "keywords": [
+      "Actualités TECH",
+      "Evolution de l'industrie",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

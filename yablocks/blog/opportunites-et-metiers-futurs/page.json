@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Opportunités et métiers futurs - Stephane DANTIGNY | Blog AUTEM",
+    "description": "L'expérience d'un expert en Electricité, Automatisme et Instrumentation (EAI): Stéphane DANTIGNY.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

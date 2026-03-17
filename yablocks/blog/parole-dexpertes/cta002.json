@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/parole-dexpertes/cta002"
+  },
+  "data": {
+    "title": "Un projet industriel à automatiser ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "Automatisation et intégration de systèmes"
+      },
+      {
+        "icon": "monitor",
+        "text": "Supervision SCADA et acquisition de données"
+      },
+      {
+        "icon": "users",
+        "text": "Accompagnement technique de A à Z"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

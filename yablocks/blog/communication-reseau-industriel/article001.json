@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/communication-reseau-industriel/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Intro et présentation",
+        "paragraphs": [
+          {
+            "text": "Marc AKOTO , ingénieur en systèmes automatisés , incarne une fusion entre fiabilité, flexibilité et polyvalence. Depuis 2022, il exerce ses compétences au sein de l'entreprise AUTEM , basée à Paris. Sa formation en mécatronique en Arts & Métiers - GeorgiaTech, lui a permis de bâtir une solide base technique. Fort d'une expérience diversifiée dans des secteurs aussi variés que l' agroalimentaire avec Danone , le textile avec Hermès , la chimie avec Unilever , la métallurgie avec ArcelorMittal et Saint-Gobain , la mobilité avec des acteurs tels que SFTRF, SNCF et Thalys , la logistique avec Amazon , ainsi que les machines spéciales avec Bema, Marc a su conjuguer sa curiosité pour la technique et son sens du concret pour impacter les choix industriels. La profession d'ingénieur en systèmes automatisés offre de multiples avantages, tels que la capacité à influencer les choix industriels et la possibilité de vivre une passion pour des technologies polyvalentes . Cependant, elle comporte également quelques inconvénients, notamment des déplacements fréquents et des risques industriels . Si l'on se demande quelles sont les qualités essentielles pour exceller dans ce métier, Marc estime qu'il faut faire preuve de patience, de fiabilité, de flexibilité et de polyvalence ."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Marc AKOTO",
+            "href": "https://www.linkedin.com/in/akoto/"
+          },
+          {
+            "text": "AUTEM",
+            "href": "https://www.linkedin.com/company/autemautomation/"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/0rasO69COrM?si=wl1jwFn9BTVQSNFD"
+      },
+      {
+        "heading": "Communication réseau industriel - Expérience Golden Tech",
+        "paragraphs": [
+          {
+            "text": "Participer au concour Golden Tech a été une décision motivée par plusieurs facteurs. Ce concour constitue une vitrine exceptionnelle, notamment lors d'événements de grande envergure tels que GLOBAL INDUSTRIE . Ce concour offre une opportunité unique de mettre en avant son expertise au sein de la communauté des experts des technologies industrielles, tout en permettant d'établir des liens précieux et de développer un réseau professionnel."
+          },
+          {
+            "text": "Les liens maintenu avec les sponsors que j'ai rencontrés m'ont ouvert des portes à des propositions de mission passionnantes et à des opportunités d'acquisition de matériel de pointe."
+          },
+          {
+            "text": "L'un des plus beau souvenir de la compétition, a été l'atmosphère dynamique qui régnait en permanence. L'émulation collective entre les participants était palpable. J'ai particulièrement apprécié l'opportunité d'apprendre de nouvelles techniques et de perfectionner mes compétences."
+          },
+          {
+            "text": "Pour les futurs candidats, mon conseil serait de tirer pleinement parti du support technique offert par les partenaires du concours. Cela représente une opportunité exceptionnelle pour progresser dans nos métiers et affiner nos méthodes en les confrontant à d'autres candidats tout aussi passionnés et talentueux."
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Page LinkedIn de Marc AKOTO | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Page LinkedIn de Marc AKOTO | Site web",
+            "href": "https://www.linkedin.com/in/akoto/"
+          }
+        ],
+        "image": {
+          "src": "https://autem-services.fr/assets/marc-golden-tech.jpg",
+          "alt": "Communication Réseau Industriel"
+        }
+      }
+    ]
+  }
+}

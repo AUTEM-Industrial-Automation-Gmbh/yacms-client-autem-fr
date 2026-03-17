@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/armoire-automatisme-rockwell/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Armoire d'automatisme ROCKWELL",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "6 min lecture",
+      "publishDate": "10/01/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

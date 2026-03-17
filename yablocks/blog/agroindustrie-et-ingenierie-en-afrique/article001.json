@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/agroindustrie-et-ingenierie-en-afrique/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Podcasts",
+        "paragraphs": [
+          {
+            "text": "Retrouvez également cet article en version audio sur:"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🎧 Spotify:"
+            },
+            {
+              "text": "🎧 Apple Podcast"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Spotify:",
+            "href": "https://open.spotify.com/episode/4BP01NnJVhFOm7en8H8jk9?si=Lqa6ucJ-Q1W9b0t4vsKo-A"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/aHohIo5xDfM?si=u8-QG1urEohGyj_e"
+      },
+      {
+        "heading": "Intro et présentation | AgroIndustrie et Ingénierie",
+        "paragraphs": [
+          {
+            "text": "Cette semaine, on s'intéresse à l'industrie agroalimentaire avec Mamery TOURE . Mamery intervient depuis 2012 dans le déploiement des projets d'automatisation chez divers industriels, notamment SIFKA , qui est le premier employeur en Côte d'Ivoire et la première entreprise agroalimentaire en Afrique du Ouest."
+          },
+          {
+            "text": "Avec notre spécialiste, nous abordons plusieurs thématiques techniques, par exemple comment utiliser l'instrumentation et l'automatisme pour la mesure des performances et des consommations d'énergie , ou encore quelles sont les technologies prédominantes dans les investissements industriels en Côte d'Ivoire. Mamery est également engagée auprès des jeunes au sein de la Jeune Chambre Internationale , et à ce titre, il nous partagera sa vision des compétences et des métiers de demain."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Mamery TOURE",
+            "href": "https://www.linkedin.com/in/mamery-toure-206598103/"
+          }
+        ]
+      },
+      {
+        "heading": "Production d'huile: les indicateurs",
+        "paragraphs": [
+          {
+            "text": "Les indicateurs suivants, ont été mis en avant comme indicateurs liés à la production de l'huile de palme: Disponibilité des équipements : C'est un indicateur crucial pour la maintenance et l'intégration des équipements. Il met l'accent sur l'importance de la fiabilité des machines dans le département d'électricité et d'instrumentation. Tonnage de production : Cet indicateur mesure la quantité d'huile de palme produite, souvent sur une période spécifique (par exemple, en trois jours). Il reflète directement la capacité de production. Qualité du produit : La qualité de l'huile de palme produite est un indicateur vital pour le département de production. Il souligne l'importance de respecter les standards de qualité élevés. Maintenance des équipements : Cela inclut le taux de maintenance préventive et curative. Ces indicateurs sont essentiels pour le département de maintenance, reflétant l'efficacité et la régularité des interventions de maintenance. Maintenance des équipements : Cela inclut le taux de maintenance préventive et curative. Ces indicateurs sont essentiels pour le département de maintenance, reflétant l'efficacité et la régularité des interventions de maintenance. TRS (Taux de Rendement Synthétique) : Il s'agit d'une mesure clé de la performance globale qui intègre divers aspects de la production, de la qualité et de l'efficacité. Digitalisation et informations en temps réel : L'accent est mis sur la transition vers la digitalisation pour améliorer l'exactitude des données et réduire l'erreur humaine. Cela permet d'obtenir des informations en temps réel sur différents aspects de la production. Performance des lignes de production : Cet indicateur évalue l'efficacité des lignes de production elles-mêmes, un aspect crucial pour les décideurs dans l'optimisation des processus."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Le challenge face à l'énergie",
+        "paragraphs": [
+          {
+            "text": "Le défi majeur réside dans la gestion efficace et rentable des coupures électriques dans la production d'huile de palme, en assurant la continuité de la production tout en minimisant les coûts et en explorant des alternatives énergétiques plus durables."
+          },
+          {
+            "text": "En effet, les interruptions de l'alimentation électrique posent un défi majeur. Même une coupure de deux minutes peut entraîner un retard de production de 6 heures , affectant gravement le processus de production."
+          },
+          {
+            "text": "Ainsi donc, pour pallier ce problème, des groupes électrogènes sont utilisés comme première source de secours pour maintenir la continuité de la production. Toute fois, l'utilisation de groupe électrogènes alimentés au Gazoil, sur de longue durée est nettement plus coûteux, affectant la rentabilité de la production."
+          },
+          {
+            "text": "Face à cet second aspect, il y a un intérêt croissant pour les sources d'énergie écologiques comme les panneaux solaires, bien que l'actuelle dépendance soit principalement sur les groupes électrogènes."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Parcs de Machines",
+        "paragraphs": [
+          {
+            "text": "Le parc de machines est caractérisé par une forte présence de machines importées , principalement de Chine ."
+          },
+          {
+            "text": "Par ailleur, la maintenance est une considération clé, souvent gérée par les fournisseurs avec l'assistance de prestataires spécialisés, garantissant ainsi le bon fonctionnement et la durabilité des machines."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Expertises manquantes",
+        "paragraphs": [
+          {
+            "text": "En Côte d'Ivoire, on observe une pénurie marquée de spécialistes en automatisation, en dépit d'un intérêt grandissant pour ce secteur. Cette situation est accentuée par la production insuffisante d'automaticiens chaque année."
+          },
+          {
+            "text": "Dans les cas de projets complexes, il devient courant de solliciter l'expertise de professionnels étrangers, une démarche souvent motivée par l'absence de compétences locales approfondies dans ce domaine. L'automatisation joue un rôle crucial dans l'amélioration de la productivité industrielle, entraînant une demande croissante pour des systèmes de production automatisés."
+          },
+          {
+            "text": "Par conséquent, il est impératif de porter une attention spécifique à l'amélioration de la formation, à l'amélioration des opportunités d'emploi et au développement des compétences au niveau local."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Projet avec la jeunesse",
+        "paragraphs": [
+          {
+            "text": "Ce projet est une initiative pour éduquer et motiver les jeunes sur les perspectives d'emploi dans l'industrie connectée, en mettant l'accent sur la nécessité de moderniser les compétences et d'embrasser l'automatisation comme un moyen de créer des emplois et de la valeur dans l'économie moderne."
+          },
+          {
+            "text": "En effet, la vision de ce projet est partie du fait que beaucoup de jeunes, après le baccalauréat, manquent d'orientation vers les métiers techniques, et se retrouvent souvent sans direction claire pour leur avenir professionnel."
+          },
+          {
+            "text": "Le but est d'informer les jeunes sur les opportunités dans l'industrie connectée 4.0 , y compris dans des domaines comme les finances, la mécanique, l'électronique, l'informatique."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "L'industrie en 2030",
+        "paragraphs": [
+          {
+            "text": "La tendance prévue pour l'industrie en Afrique subsaharienne d'ici 2030 est une évolution vers une plus grande automatisation et digitalisation , avec un impact significatif sur les coûts de production, la compétitivité, l'emploi et la rentabilité globale des entreprises ."
+          },
+          {
+            "text": "Il va falloir donc intégrer même les entreprises. Les amener à opter digital, les amener à opter connecté. Et leur montrer surtout l'impact que cette transformation aura sur l'industrie en terme de rentabilité."
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Page LinkedIn de TOURE Mamery | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Page LinkedIn de TOURE Mamery | Site web",
+            "href": "https://www.linkedin.com/in/mamery-toure-206598103/"
+          }
+        ]
+      }
+    ]
+  }
+}

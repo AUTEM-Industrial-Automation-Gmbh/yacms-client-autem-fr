@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/logiciel-industriel/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Logiciels industriels : prêts pour l'industrie 4.0 ?",
+    "tags": [
+      {
+        "label": "Architecture Systèmes",
+        "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "13 avr. 2023",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

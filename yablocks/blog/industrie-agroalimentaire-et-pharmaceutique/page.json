@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX | Blog AUTEM",
+    "description": "A la découverte du monde de l'industrie Agro et pharmaceutique",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

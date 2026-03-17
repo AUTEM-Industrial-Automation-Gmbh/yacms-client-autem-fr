@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers | Blog AUTEM",
+    "description": "Un partage entre experts, riche en vérités sur différents aspects de l'industrie",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

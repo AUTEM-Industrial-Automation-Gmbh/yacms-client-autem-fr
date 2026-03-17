@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Automate your Documentation: MARKDOWN vs WORD | Blog AUTEM",
+    "description": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
+    "keywords": [
+      "Transfert de Compétences",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

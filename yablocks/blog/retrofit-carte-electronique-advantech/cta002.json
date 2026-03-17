@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/retrofit-carte-electronique-advantech/cta002"
+  },
+  "data": {
+    "title": "Un projet de gestion d'obsolescence ?",
+    "benefits": [
+      {
+        "icon": "clock",
+        "text": "Audit de parc machines et plan de migration"
+      },
+      {
+        "icon": "refresh-cw",
+        "text": "Remplacement d'équipements en fin de vie"
+      },
+      {
+        "icon": "shield",
+        "text": "Stratégie de pérennisation des installations"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "3k de la communauté AUTEM + Débat méthode VS marques | Blog AUTEM",
+    "description": "Automaticien, une question de méthode ou de marques : débat sur la question lors de la célébration des 3000 abonnés de la communauté AUTEM.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

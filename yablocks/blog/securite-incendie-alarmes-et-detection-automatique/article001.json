@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/securite-incendie-alarmes-et-detection-automatique/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Sécurité incendie",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. Cette image te dit certainement quelque chose. Alors assieds-toi confortablement. Aujourd’hui on va parler de ce qui s’est passé il y a trois ans en avril 2019, l’incendie de la cathédrale notre dame de paris . Alors quel est le lien avec l’automatisme ? Justement on va en parler. Déjà si on regarde les choses du bon côté on peut noter deux bonnes nouvelles suite à cet événement : la première c’est qu’il n’y a pas eu de mort. Il y a une grosse perte historique et architecturale, mais c’est une perte qui reste juste matériel. La deuxième bonne nouvelle c’est que la toiture est déjà en reconstruction . D’ailleurs il était temps de renouveler ce qui était présente depuis plusieurs siècles. La fin de chantier est prévue pour 2024, année des Jeux Olympiques. On espère que la reconstruction sera faite à temps. Maintenant, revenons sur l’incendie. Au niveau de la cause de départ de feu, c’est encore flou."
+          },
+          {
+            "text": "On parle de court-circuit, mais en tout cas d’après l’enquête, les flammes se sont propagées pendant près de 30 minutes sans que personne ne le sache tout simplement parce que le système de sécurité incendie était défaillant. Il y avait parfois des fausses alarmes et du coup l’agent de sécurité a pensé à une fausse alerte. Alors est-ce qu’on aurait eu moins de dégâts si la détection incendie fonctionnait correctement ? La question reste ouverte. En tout cas nous on va déjà essayer de comprendre le fonctionnement normal d’un système de sécurité incendie."
+          },
+          {
+            "text": "Alors les systèmes de sécurité incendies se présentent sous cette forme."
+          },
+          {
+            "text": "On a un fonctionnement complètement automatique avec deux parties la première partie c’est “la détection” ici à gauche et la deuxième partie c’est “la mise en sécurité” , tout ce qui concerne l’actionnement des systèmes de mise en sécurité ."
+          },
+          {
+            "text": "Qu'est ce qu'on détectera côté \"partie détection\" ? On détectera des fumées , des flammes . On détectera aussi de la température avec des hausses de température et on peut aussi avoir des déclencheurs manuels pour que si quelqu’un voit un incendie il alerte tout le bâtiment en appuyant sur ces boîtiers-là."
+          },
+          {
+            "text": "D’ailleurs petite parenthèse pour les petits malins qui s’amusent à appuyer dessus de manières intempestives, c’est une très mauvaise idée parce que tout simplement vous allez mettre en péril tout le bâtiment. Action a effectué uniquement pour des cas d’extrême urgence."
+          },
+          {
+            "text": "Pour ce qui est de la partie action, “la mise en sécurité“ , on a différentes choses. On va commencer par gérer l’évacuation avec une alarme sonore et des blocs comme indiqué sur l'image ci-dessous: bloc autonome d’éclairage de sécurité en abrégé BAES , qui sont les fameuses leds vertes qui t’indiquent par où passer si tu veux évacuer le bâtiment. Après on fait différentes choses : pour mettre en sécurité on va compartimenter avec les portes coupe-feu et on va gérer le désenfumage pour évacuer les fumées chaudes à travers des trappes, des volets : on a un système de ventilation qui est conçu à cet effet."
+          },
+          {
+            "text": "Ces deux étapes, détection-actions sont nécessaires pour pouvoir gérer de manière automatique la sécurité incendie . D’ailleurs ce diagramme-là est tiré d’une animation qui est plutôt bien faite que tu peux retrouver à la fin de cet article."
+          },
+          {
+            "text": "Alors deux exemples de systèmes sécurité incendie de deux constructeurs différents."
+          },
+          {
+            "text": "Le premier est le suivant avec différents modules."
+          },
+          {
+            "text": "On reconnaît ici en premier la détection et l’équipement de contrôle de signalisation qui va capter tous les signaux de détection et en deuxième la mise en sécurité: centralisateur de mise en sécurité qui va aider à pouvoir faire les différentes actions ."
+          },
+          {
+            "text": "Chez le deuxième constructeur, on a ceci."
+          },
+          {
+            "text": "La partie détection d’un côté (1) et la partie mise en sécurité (2) de l’autre."
+          },
+          {
+            "text": "D’ailleurs petite question pour toi. Pourquoi en général on sépare la détection incendie et la mise en sécurité ? N’hésite pas à partager ton avis en commentaires. Cela m’intéresse de savoir ton point de vu."
+          },
+          {
+            "text": "Pour conclure, à propos de la rénovation, la fin du chantier est prévue en 2024. Je vais te donner mes pronostics liées au nouveau système sécurité incendie qui sera mise en place après la rénovation."
+          },
+          {
+            "text": "D’après moi il y aura trois points qui seront renforcés : le premier point concerne la fiabilité : c’est-à-dire qu’il faudra faire suffisamment de tests pour que quand l'alarme se déclenche ou quand les leds clignotent, qu'on est la certitude qu'il y a vraiment un incendie. C’est le premier point pour moi qui sera amélioré avec énormément de tests de fiabilité. Le deuxième point, concerne le compartimentage parce qu’au niveau de la toiture les flammes ont pu s’amplifier tout simplement parce que toute la toiture était connectée. Il n’y avait pas de bloc qui pouvait isoler chaque partie de l’incendie. A mon avis dans la nouvelle toiture ils vont mettre en place ce genre de compartimentage avec des portes coupe-feu entre chaque sous-partie de la toiture. Et troisième amélioration selon moi il va falloir gérer un peu mieux les fumées . Puisque là encore, les fumées ont pu faire des dégâts parce qu’il n’y avait pas d’évacuation pour les fumées chaudes. Il faudra mettre en place des trappes. À mon avis il y aura de la ventilation, des volets pour évacuer les fumées chaudes et éviter que l’incendie deviennent un peu plus dramatique. Du coup on est 2022. La fin des travaux ce sera dans deux, trois ans. On verra bien à quoi ressemblera le nouveau système de sécurité incendie de la cathédrale Notre-Dame de Paris."
+          },
+          {
+            "text": "En tout cas que ce soit pour tous les bâtiments qui reçoivent du public ou pour les monuments emblématiques, on espère que tous les systèmes de sécurité incendies seront l’objet de plus d’attention et de rigueur afin d’éviter que ce genre d’incendie se reproduisent. J’aimerais remercier Kheir Eddine Bellahcene pour toutes les précisions techniques liées à l’automatisation."
+          },
+          {
+            "text": "Si tu souhaites en savoir plus sur les différentes technologies de systèmes sécurité incendie , contact le sur Linked-In (lien à la fin de l’article)."
+          },
+          {
+            "text": "D’ailleurs, si tu as aussi des sujets que tu maîtrises et sur lesquels tu veux que je fasse une vidéo n’hésite pas à me contacter. Je te laisserai l’adresse juste à la fin de l’article."
+          },
+          {
+            "text": "On se retrouve très prochainement pour un nouvel article. A bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/incendie_et_detection_automatique.png",
+          "alt": "Alarmes et détection automatique"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/programmer-un-automate-allen-bradley/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "18/11/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

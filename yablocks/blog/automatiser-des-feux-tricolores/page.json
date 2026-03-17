@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Automatiser des feux - Simulation 2 - Carrefour | Autem | Blog AUTEM",
+    "description": "Les différentes étapes pour programmer et simuler un feu tricolore avec un seul timer avec une méthode optimiser.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

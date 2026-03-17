@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/news-juillet-2023/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Salut à tous ! J'espère que vous allez bien et que vous êtes aussi enthousiastes que moi pour cette édition spéciale de nos actualités mensuelles de juillet et août 2023 !Ce mois-ci, je suis vraiment excité de partager avec vous un résumé de tout ce qui s'est passé cet été dans le monde des technologies industrielles. On va commencer avec la première actualité, et croyez-moi, ça vaut le détour !"
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/1BaE_b4yhQg?si=156dsN7KPH2UWFEj"
+      },
+      {
+        "heading": "Version Pro",
+        "paragraphs": [
+          {
+            "text": "L'entreprise Software Defined Automation a résolu le problème délicat de la gestion des versions des programmes automates en lançant le module \"Version Pro\" . Cette solution permet de gérer les versions des programmes automates, y compris ceux des automates Rockwell Allen Bradley . Initialement axée sur les systèmes Siemens et l'environnement Code 6, l'entreprise a récemment intégré la gestion des versions pour les programmes x5000 de Rockwell. L'interface de cet outil de gestion de version affiche le contenu des programmes dans un format similaire à un environnement de développement, mais il ne permet pas d'éditer ou de déployer les logiciels, nécessitant l'utilisation du logiciel du constructeur. Cette intégration des automates Rockwell rend cette solution de gestion des versions de plus en plus intéressante pour les professionnels de l'automatisation."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          },
+          {
+            "text": "Avant : Siemens / Codesys Maintenant : Rockwell"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Annonce officielle (25 Juin 2023) | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Annonce officielle (25 Juin 2023) | Site web",
+            "href": "https://www.softwaredefinedautomation.io/resources/blog/sda-version-pro-now-supports-rockwells-allen-bradley-plc-line-to-drive-code-transparency-and-traceability/"
+          }
+        ]
+      },
+      {
+        "heading": "NodeRed Dashboard - Data Visualization",
+        "paragraphs": [
+          {
+            "text": "Node-Red , un outil bien connu pour l'Internet des objets industriels, offre désormais une nouvelle fonctionnalité qui permet une visualisation native des données concrètes. Cette mise à jour, lancée fin juillet, simplifie la création de graphiques et de tableaux de bord pour la visualisation des données, rendant le prototypage et les tests plus accessibles aux utilisateurs sans avoir à recourir à des outils complexes tels que SCADA. En combinant Node-Red avec Grafana , il est désormais possible de réaliser des visualisations intéressantes de manière simple et efficace."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Annonce officielle (27 Juillet 2023) : | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Annonce officielle (27 Juillet 2023) : | Site web",
+            "href": "https://flowfuse.com/blog/2023/07/dashboard-0-1-release/"
+          }
+        ]
+      },
+      {
+        "heading": "Catalogue technos IIOT interopérables",
+        "paragraphs": [
+          {
+            "text": "Matthew Parris , anciennement employé par la NASA et travaillant désormais pour General Electric , a compilé une liste impressionnante d'outils industriels interopérables. Cette liste s'appuie sur deux critères principaux : l'accessibilité de la documentation sans nécessité de création de compte et la compatibilité avec des protocoles de communication ouverts tels qu'OPC UA et MQTT. En résulte une liste de 35 outils organisés en fonction de leurs fonctionnalités , de la couche de la pyramide ISA-95 où ils sont pertinents, de leur compatibilité avec OPC UA et OPC DA , ainsi que de la disponibilité d'une version gratuite ou d'essai . Cette liste offre une mine d'outils pour les professionnels de l'automatisation et de l'industrie, leur permettant de créer des architectures plus robustes en utilisant des technologies agnostiques et interopérables plutôt que de s'appuyer sur des monolithes prétendant tout faire. Une ressource précieuse pour ceux qui cherchent à optimiser leurs processus industriels."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Matthew Parris",
+            "href": "https://www.linkedin.com/in/matthewparris/"
+          },
+          {
+            "text": "Linkedin de l'expert qui maintient cette liste de technos IIoT | Site web",
+            "href": "https://www.linkedin.com/in/matthewparris/"
+          },
+          {
+            "text": "2 critères minimum pour ces 35 outils | Site web",
+            "href": "https://matthewgea.github.io/iiot/"
+          },
+          {
+            "text": "Technos indus par degré d'ouverture | Vidéo",
+            "href": "https://youtube.com/live/_9nyboy3IRE"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Linkedin de l'expert qui maintient cette liste de technos IIoT | 🌍 Site web"
+            },
+            {
+              "text": "2 critères minimum pour ces 35 outils | 🌍 Site web"
+            },
+            {
+              "text": "Technos indus par degré d'ouverture | 📽️ Vidéo"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Private PROXY",
+        "paragraphs": [
+          {
+            "text": "Les Private Proxies, une technologie de connectivité à distance, en tant qu'alternative aux VPN traditionnels pour sécuriser les connexions distantes, font partis des technologies sur lesquelles il faut commencer par porter de intérêt. Ils offrent des options plus sécurisées, telles que le cryptage TLS et l'authentification par tokens et certificats. Twingate en est un exemple. Technologies à explorer pour améliorer la connectivité distante et la digitalisation industrielle."
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "La fin des VPN ? Tuto TwinGate du 28 Avril 2023 | 🌍 Site web"
+            },
+            {
+              "text": "Comment fonctionner un Private PROXY | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "La fin des VPN ? Tuto TwinGate du 28 Avril 2023 | Site web",
+            "href": "https://www.twingate.com/blog/network-chuck-twingate"
+          },
+          {
+            "text": "Comment fonctionner un Private PROXY | Site web",
+            "href": "https://www.twingate.com/docs/how-twingate-works"
+          }
+        ]
+      },
+      {
+        "heading": "DigiLEAN",
+        "paragraphs": [
+          {
+            "text": "Contrairement aux tableaux de bord manuels sur tableau blanc souvent utilisés en usine, \"DigiLEAN\" offre une solution simple et accessible pour créer des tableaux de bord numériques. Il facilite le partage d'informations entre équipes situées sur différents sites ou ateliers. L'outil est simple à utiliser, facile à déployer et disponible à partir de 12 dollars par mois, ce qui en fait une option attrayante pour ceux qui souhaitent commencer à tester un tableau de bord numérique sans dépenser une fortune. Un outil destiné aux personnes impliquées dans l'amélioration continue et le Lean Manufacturing ."
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Outil pour les tableaux de bord - LEAN / Amélioration continue | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Outil pour les tableaux de bord - LEAN / Amélioration continue | Site web",
+            "href": "https://www.digilean.com/"
+          }
+        ]
+      },
+      {
+        "heading": "Jitsi",
+        "paragraphs": [
+          {
+            "text": "\"Jitsi\" est une alternative à Zoom pour les visioconférences. Zoom a récemment soulevé des préoccupations concernant la confidentialité en utilisant les conversations des utilisateurs pour entraîner leur IA. Jitsi est une solution open source simple à utiliser, respectueuse de la vie privée, et peut s'intégrer à des plateformes telles qu'Outlook. Il offre une option intéressante pour ceux qui préfèrent les solutions open source et souhaitent protéger leurs données privées ."
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "respect vie privé & open-source | 🌍 Site web"
+            },
+            {
+              "text": "Zoom utilise désormais nos conversations pour entraîner ses algorithmes IA, Décryptage du 6 Août 2023 | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "respect vie privé & open-source | Site web",
+            "href": "https://meet.jit.si/"
+          },
+          {
+            "text": "Zoom utilise désormais nos conversations pour entraîner ses algorithmes IA, Décryptage du 6 Août 2023 | Site web",
+            "href": "https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/"
+          }
+        ]
+      },
+      {
+        "heading": "MES & Industry 4.0 Event",
+        "paragraphs": [
+          {
+            "text": "MES & Industrie 4.0 International Summit est un événement qui se concentre sur le Manufacturing Execution System (MES) et les technologies liées à l'industrie 4.0 . C'est l'événement le plus important en Europe dans ce domaine. Un événement qui pourrait intéresser les entreprises cherchant à numériser leur gestion de production et les intégrateurs cherchant à établir des contacts et à découvrir les dernières nouveautés. Evénement très intéressant qui aura lieu au Portugal les 7 et 8 septembre de cette année."
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "MES & Industrie 4.0 Summit - Le plus grand évènement des professionnels du MES en Europe 7-8 Sept | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "MES & Industrie 4.0 Summit - Le plus grand évènement des professionnels du MES en Europe 7-8 Sept | Site web",
+            "href": "https://mesi40-summit.com/"
+          }
+        ]
+      }
+    ]
+  }
+}

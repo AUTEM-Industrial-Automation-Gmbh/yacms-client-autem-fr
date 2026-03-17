@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/diagnostique-panne-machine/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Comment diagnostiquer une panne machine | AUTEM",
+    "tags": [
+      {
+        "label": "Instrumentation-Capteurs",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "29/04/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/ouverture-technologique-et-automation/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Il se passe deux (2) choses majeures dans les technologies à cette date : l'Intelligence Artificielle et l'ouverture technologique . C'est ce que nous allons découvrir ensemble dans cet article sur les actualités de l'industrie du mois de mars."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/8B-LFnAwexg?si=xxZObkYXEybElwGT"
+      },
+      {
+        "heading": "L'IA et les métiers de l'industrie",
+        "paragraphs": [
+          {
+            "text": "L'intelligence artificielle est en train de transformer le métier de l'automatisation industrielle. L'un des exemples que l'on peut donner est le cas des LLM - Large Language Models ."
+          },
+          {
+            "text": "L'avantage de cette transformation est qu'elle permet de capitaliser les savoir-faire. Il faut également rappeler que dans l'ingénierie, la principale ressource, c'est le savoir-faire ."
+          },
+          {
+            "text": "Un autre cas intéressant de l'IA, c'est la programmation d'automates ."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles pour cette actualité :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (04 min : 45 s)",
+            "href": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=37s"
+          },
+          {
+            "text": "1- LLM picture to knowledge : example : Mitko Vasilev (LLM based on millions of engineering docs)",
+            "href": "https://www.linkedin.com/feed/update/urn:li:activity:7301991039609847810/"
+          },
+          {
+            "text": "2- LLM for automating PLC programming",
+            "href": "https://www.linkedin.com/posts/maciej-kurantowicz-23850666_plc-automation-ai-activity-7306184296472436736-VOVe/"
+          },
+          {
+            "text": "3- Why we can't automate everything",
+            "href": "https://www.linkedin.com/pulse/automated-testing-industrial-automation-why-you-cant-jeremy-mrtze/"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "1- LLM picture to knowledge : example : Mitko Vasilev (LLM based on millions of engineering docs)"
+            },
+            {
+              "text": "2- LLM for automating PLC programming"
+            },
+            {
+              "text": "3- Why we can't automate everything"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Ouverture technologique - Hardware/Software",
+        "paragraphs": [
+          {
+            "text": "En termes de Hardware, l'un des premiers cas d'ouverture technologique que l'on peut citer est celui de Linux . Comme vous le savez, la plupart des technologies d'automatisation industrielle étaient basées sur Windows. Actuellement, on observe de plus en plus de plateformes qui sont basées sur Linux."
+          },
+          {
+            "text": "En termes de Software, de nombreuses personnes dans l'industrie connaissent Kepware , l'une des meilleures compagnies qui développe des drivers pour tout ce qui concerne les passerelles de communication avec les machines. En plus de leur expertise sur les drivers, ils sont en train de relancer leur offre Linux . Cette offre, prévue pour l'été 2025, simplifiera tout ce qui concerne l'architecture IT/OT avec une compatibilité avec des protocoles de communications modernes comme MQTT ou OPC UA ."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles pour cette actualité :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (02 min : 51 s)",
+            "href": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=322s"
+          },
+          {
+            "text": "1- Ouverture sur les OS Linux-based hardware",
+            "href": "https://www.linkedin.com/feed/update/urn:li:activity:7302598727079280641/"
+          },
+          {
+            "text": "2- Kepware Edge et ouverture vers les OS Linux-based hardware",
+            "href": "https://www.ptc.com/en/products/kepware/kepware-edge"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "1- Ouverture sur les OS Linux-based hardware"
+            },
+            {
+              "text": "2- Kepware Edge et ouverture vers les OS Linux-based hardware"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Ouverture technologique - Business",
+        "paragraphs": [
+          {
+            "text": "L'ouverture technologique concerne également le Business, notamment l'accès à l'information ."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles pour cette actualité :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (02 min : 00 s)",
+            "href": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=493s"
+          },
+          {
+            "text": "Ouverture business sur les marchés/projets, US manufacturing megaprojects",
+            "href": "https://map.engineered-vision.com/"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Ouverture business sur les marchés/projets, US manufacturing megaprojects"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Open-Source et Apports économiques",
+        "paragraphs": [
+          {
+            "text": "De temps en temps, il est essentiel de se poser la question suivante : quelle est la valeur financière de l'Open-Source ?"
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Lien utile pour cette actualité :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (04 min : 06 s)",
+            "href": "https://www.youtube.com/watch?v=8B-LFnAwexg&t=613s"
+          },
+          {
+            "text": "The value of open-source software",
+            "href": "https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "The value of open-source software"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

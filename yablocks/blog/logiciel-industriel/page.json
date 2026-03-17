@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Logiciels industriels : prêts pour l'industrie 4.0 ? | Blog AUTEM",
+    "description": "Les logiciels industriels sont-ils adaptés à l'industrie 4.0 ? Réflexion sur leur évolution pour répondre aux nouveaux défis.",
+    "keywords": [
+      "Architecture Systèmes",
+      "Evolution de l'industrie",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

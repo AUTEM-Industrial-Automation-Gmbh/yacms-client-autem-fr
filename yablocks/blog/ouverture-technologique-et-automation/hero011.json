@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/ouverture-technologique-et-automation/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      },
+      {
+        "label": "IA & Machine Learning",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "01/04/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

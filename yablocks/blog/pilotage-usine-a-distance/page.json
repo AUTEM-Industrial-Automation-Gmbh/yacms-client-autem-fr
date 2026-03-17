@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software | Blog AUTEM",
+    "description": "Découvrez les solutions de connectivité pour relier vos usines à distance, optimiser la production et assurer une gestion efficace des opérations industrielles.",
+    "keywords": [
+      "IoT Réseau",
+      "Architecture Systèmes",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

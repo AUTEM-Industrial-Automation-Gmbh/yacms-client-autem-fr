@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/entreprise-architecture/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Enterprise Architecture & Digital Transformation - Bindioa OUALI",
+    "tags": [
+      {
+        "label": "Astuces Carrière",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "11/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

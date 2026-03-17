@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "MQTT Image Sampling : Historize as TimeSeries in Docker | Blog AUTEM",
+    "description": "🖼️ Storing Images from your Machine Vision system in 10 minutes.",
+    "keywords": [
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

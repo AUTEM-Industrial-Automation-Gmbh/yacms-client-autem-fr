@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA | Blog AUTEM",
+    "description": "Comment former les techniciens de demain ?",
+    "keywords": [
+      "Evolution de l'industrie",
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

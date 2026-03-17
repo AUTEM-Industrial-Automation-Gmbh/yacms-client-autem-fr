@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Robotics no-code with Augmentus | Daryl LIM | Blog AUTEM",
+    "description": "Complex Robot Programming Simplified with Augmentus",
+    "keywords": [
+      "Motion & Robotique",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

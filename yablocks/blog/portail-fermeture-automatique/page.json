@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem | Blog AUTEM",
+    "description": "Fonctionnement d'un système automate de gestion d'ouverture et de fermerture automatique d'un portail.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

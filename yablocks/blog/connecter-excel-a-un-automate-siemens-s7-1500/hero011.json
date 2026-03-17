@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/connecter-excel-a-un-automate-siemens-s7-1500/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      },
+      {
+        "label": "Automation",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "12 min lecture",
+      "publishDate": "04/11/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

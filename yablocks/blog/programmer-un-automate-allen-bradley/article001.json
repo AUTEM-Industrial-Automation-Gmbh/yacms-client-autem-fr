@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/programmer-un-automate-allen-bradley/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Rockwell Studio - Programmation automate Allen-Bradley",
+        "paragraphs": [
+          {
+            "text": "Salut à toi et bienvenue sur AUTEM. Je m’appelle Marc et dans cet article, on programme ensemble un automate Allen Bradley avec le logiciel Studio 5000 de Rockwell ."
+          },
+          {
+            "text": "Dans un précédent article, on a déjà parlé RSLogix 500 qui est le logiciel utilisé pour programmer les automates principalement de la gamme compactlogix . Mais quand il s’agit de programmer les gammes d’automates premium de Rockwell par exemple Contrologix , c’est le logiciel Studio 5000 qui est utilisé."
+          },
+          {
+            "text": "On va créer ensemble un premier programme avec Studio 5000."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Création d’un nouveau projet et carte de contrôle",
+        "paragraphs": [
+          {
+            "text": "Je clique sur “Nouveau projet”."
+          },
+          {
+            "text": "Je vais donner un nom à mon projet, on va l’appeler “test programme“ . Je choisis le type de contrôleur que je veux. Si c’est un Contrologix je viens choisir la référence qui va bien."
+          },
+          {
+            "text": "Dans mon cas je choisirais plutôt l’émulateur pour pouvoir simuler le programme qu’on va créer ensemble. Je clique suivant."
+          },
+          {
+            "text": "Le châssis contient un certain nombre d’emplacements. Je vais prendre le premier."
+          },
+          {
+            "text": "Concrètement ce sera en simulation. Je n’ai pas besoin de spécifier cela pour l’instant. Je choisis le slot 1 pour la CPU et je clique sur terminer."
+          },
+          {
+            "text": "Et le programme va demander à Logix designer de s’ouvrir pour qu’on puisse démarrer la création de notre bloc de programme."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/studio_5000_rockwell_1.png",
+          "alt": "Programmer un automate Allen-Bradley de Rockwell"
+        }
+      },
+      {
+        "heading": "Création du bloc de programme – Le Programme Ladder",
+        "paragraphs": [
+          {
+            "text": "Une fois que l’interface est chargée, je viens cliquer ici sur ouvrir."
+          },
+          {
+            "text": "On a notre contrôleur qui a été initié ici avec différentes choses."
+          },
+          {
+            "text": "On voit en bas, dans “IO Configuration“ , les paramètres matériels de notre programme (l’équivalent de l’architecture physique)."
+          },
+          {
+            "text": "Concrètement ici c’est un contrôleur de type Emulateur . Mais si on avait choisi un ControlLogix , ce serait apparu ici. Ensuite on va venir dans “main program” dans la “main routine” pour créer notre bloc."
+          },
+          {
+            "text": "On le fera en langage ladder. Je rajoute un contact normalement ouvert, et un relais (une bobine)."
+          },
+          {
+            "text": "Je vais donner un nom à chacun de ces tags. Pour le contact normalement ouvert on va l’appeler “bouton_start” et pour le relais ce sera par exemple le relais d’un moteur. Je vais l’appeler “motor_ON“ ."
+          },
+          {
+            "text": "On va venir ici définir les tags. Contrairement à RSLogix500, dans Studio 5000, pour définir les tags, on n’a pas besoin de définir une adresse fixe quand ce sont des tags de type mémoire. On vient tout simplement faire ici un clic droit, nouveau tag,"
+          },
+          {
+            "text": "et on va tout simplement mentionner que c’est un booléen qui est déclaré dans le scope de tout le contrôleur, et non pas juste pour ce programme (cette page ladder). Je clique ici et je fais “créer”."
+          },
+          {
+            "text": "Pareil pour le 2ème tag."
+          },
+          {
+            "text": "Vu que c’est une variable mémoire j’ai créé une nouvelle variable de type booléen. Et je clique sur créer à nouveau."
+          },
+          {
+            "text": "Là tu vois ici notamment que même les 0 qu’on avait au début ont disparu juste pour dire que la ligne est complète."
+          },
+          {
+            "text": "Pour compléter cela, je vais venir ici vérifier mon programme. Je clique sur “Verify routine” et jusque-là aucune erreur. Cela veut dire que tout va bien"
+          },
+          {
+            "text": "Après je fais la même vérification sur tout mon contrôleur. Aucune erreur. Cela veut dire qu’on doit être bon pour pouvoir charger ce programme dans le simulateur."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/studio_5000_rockwell_6.png",
+          "alt": "Programmer un automate Allen-Bradley de Rockwell"
+        }
+      },
+      {
+        "heading": "Lancement du simulateur Emulate 5000 et configuration",
+        "paragraphs": [
+          {
+            "text": "On va lancer le simulateur ici en cliquant sur Emulate 5000 . Le simulateur apparaît avec un châssis qui a un certain nombre d’emplacements."
+          },
+          {
+            "text": "Je vais placer mon automate virtuel ici sur l’emplacement 1 , comme on a défini dans le programme automate."
+          },
+          {
+            "text": "Je fais un clique droit, puis \"create\" (créer), et je choisis un émulateur sur le slot 1, de version 21 qui correspond à la version de mon designer et je termine."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/studio_5000_rockwell_20.png",
+          "alt": "Programmer un automate Allen-Bradley de Rockwell"
+        }
+      },
+      {
+        "heading": "Etablissement des liens entre l’émulateur et le programme",
+        "paragraphs": [
+          {
+            "text": "Maintenant on va venir faire le lien entre l’émulateur et notre programme. Je vais cliquez sur RSLinx ."
+          },
+          {
+            "text": "On a ici les interfaces."
+          },
+          {
+            "text": "Et au niveau des interfaces, on a différents drivers, notamment ce driver-là qui correspondait au châssis virtuel qui est ici dans les Emulate5000."
+          },
+          {
+            "text": "S’il n’est pas déjà créé chez toi, tu peux tout simplement venir ici dans la liste déroulante et choisir “virtual backplane” pour pouvoir afficher celui-là."
+          },
+          {
+            "text": "Je ferme et quand je déroule mon châssis virtuel, automatiquement il détecte que j’ai placé un émulateur ici à l’emplacement 1 ."
+          },
+          {
+            "text": "Le lien est fait avec l’automate virtuel, et je vais essayer maintenant avec le programme de me brancher dessus."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/studio_5000_rockwell_25.png",
+          "alt": "Programmer un automate Allen-Bradley de Rockwell"
+        }
+      },
+      {
+        "heading": "Connexion avec l’automate virtuel",
+        "paragraphs": [
+          {
+            "text": "Je reviens dans Studio 5000, et je clique sur “Communication – Who Active”"
+          },
+          {
+            "text": "et on va sélectionner l’automate qui est actif en ce moment sur la liaison virtuelle du backplane. Je clique ici sur “Go Online”"
+          },
+          {
+            "text": "Le programme détecte qu’il y a un automate qui est vide, je vais charger le programme à l’intérieur: “Download“ ."
+          },
+          {
+            "text": "On me demande si on est sûr qu’on veut arrêter la machine. Typiquement si c’était une ligne de production, je vérifierai quand même avant de charger. Mais là je peux télécharger sans aucun souci : je clique sur Download."
+          },
+          {
+            "text": "Les blocs se chargent à l’intérieur de l’automate."
+          },
+          {
+            "text": "Il est chargé dans l’automate. On est en mode programmation et maintenant je vais ouvrir les tags,"
+          },
+          {
+            "text": "réduire un peu la fenêtre des tags afin qu'on puisse voir s'animer les valeurs des tags en temps réel."
+          },
+          {
+            "text": "Une fois ouvert, je vais passer mon automate en mode run."
+          },
+          {
+            "text": "Je clique sur Oui. On est en ligne avec mon simulateur. Si c’était un automate physique ce serait l’équivalent en ligne avec l’automate physique. Si ici j’active mon bouton, on a le moteur qui s’active ici. Tu vois les valeurs qui changent."
+          },
+          {
+            "text": "Et si je relâche mon bouton, on a le moteur qui s’arrête."
+          },
+          {
+            "text": "C'est tout pour Studio 5000 . C’est le logiciel qui va te permettre de programmer les automates premium de la gamme Rockwell comme contrologix par exemple."
+          },
+          {
+            "text": "Si tu as trouvé cet article intéressant, tu peux le partager autour de toi. Et à la prochaine pour de nouveaux tutoriels."
+          },
+          {
+            "text": "A bientôt !"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/studio_5000_rockwell_30.png",
+          "alt": "Programmer un automate Allen-Bradley de Rockwell"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel | Blog AUTEM",
+    "description": "Conseils pour maîtriser le budget de vos projets dans l'industrie, l'automatisme, les machines et les logiciels.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

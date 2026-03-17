@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "WorldSkills: challenge Industrie 4.0 | Blog AUTEM",
+    "description": "Incarnation de l'excellence industrielle avec Lazhar Benchelloug et Hugo Marquez.",
+    "keywords": [
+      "Evenèments",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

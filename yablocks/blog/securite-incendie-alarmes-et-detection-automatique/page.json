@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM | Blog AUTEM",
+    "description": "Comment fonctionne normalement un système de sécurité incendie ?",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

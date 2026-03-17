@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/christiana-yapi-une-roboticienne-pionniere/cta002"
+  },
+  "data": {
+    "title": "Un projet robotique ou motion control ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "Intégration de robots et cobots industriels"
+      },
+      {
+        "icon": "settings",
+        "text": "Programmation motion control et axes CNC"
+      },
+      {
+        "icon": "zap",
+        "text": "Mise en service et optimisation de cellules"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

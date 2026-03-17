@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "The Denial of AGE ... #VintageMachines | Blog AUTEM",
+    "description": "🏭 For people or machines in manufacturing, the shame of becoming DISPOSABLE is a reality. Let's explore !",
+    "keywords": [
+      "Evolution de l'industrie",
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

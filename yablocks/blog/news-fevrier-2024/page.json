@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde | Blog AUTEM",
+    "description": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
+    "keywords": [
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

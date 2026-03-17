@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Actus n°12 - Arduino, SQL et OT Benchmark 📰 | Blog AUTEM",
+    "description": "Les actualités du mois de mai 2024: Arduino, SQL et OT Benchmark.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

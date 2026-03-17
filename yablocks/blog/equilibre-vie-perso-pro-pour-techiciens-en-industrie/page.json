@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Equilibre vie perso - pro pour Techniciens en Industrie | Blog AUTEM",
+    "description": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+    "keywords": [
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

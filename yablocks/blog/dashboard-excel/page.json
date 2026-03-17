@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Digitalisation industrielle avec Excel ? Olivier YOUMBI | Blog AUTEM",
+    "description": "Les dashboards entièrement développés sur Excel avec un expert Olivier YOUMBI",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

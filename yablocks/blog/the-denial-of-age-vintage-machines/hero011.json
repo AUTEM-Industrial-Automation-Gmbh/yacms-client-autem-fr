@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/the-denial-of-age-vintage-machines/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "The Denial of AGE ... #VintageMachines",
+    "tags": [
+      {
+        "label": "Evolution de l'industrie",
+        "type": "secteur"
+      },
+      {
+        "label": "Machines Vintage",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "08/02/26",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

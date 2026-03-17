@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem | Blog AUTEM",
+    "description": "Profinet - Les différentes étapes pour faire du diagnostique sur les réseaux Profinet avec le logiciel PRONETA | AUTEM.",
+    "keywords": [
+      "Automation",
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC | Blog AUTEM",
+    "description": "Actualités industrielles en Avril 2023 : Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC décryptées et analysées.",
+    "keywords": [
+      "Automation",
+      "Supervision SCADA",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/logiciel-industriels-licence-payante-ou-gratuite/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Prix des Logiciels Industriels",
+    "tags": [
+      {
+        "label": "Architecture Systèmes",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "19/02/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

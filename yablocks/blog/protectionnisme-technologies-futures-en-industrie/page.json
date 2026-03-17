@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie | Blog AUTEM",
+    "description": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de novembre et de décembre 2024)",
+    "keywords": [
+      "Actualités TECH",
+      "Evolution de l'industrie",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource | Blog AUTEM",
+    "description": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de janvier 2025)",
+    "keywords": [
+      "Automation",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

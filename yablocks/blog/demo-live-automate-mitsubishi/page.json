@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE | Blog AUTEM",
+    "description": "Démo en LIVE pour interfacer l'automate Mitsubishi avec la plateforme Ignition.",
+    "keywords": [
+      "Automation",
+      "Interview-Atelier LIVE",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

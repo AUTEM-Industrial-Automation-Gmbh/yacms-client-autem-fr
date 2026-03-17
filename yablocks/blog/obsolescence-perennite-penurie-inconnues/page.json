@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues | Blog AUTEM",
+    "description": "Une équation à 7 inconnues",
+    "keywords": [
+      "Cycle de Vie et Obsolescence",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

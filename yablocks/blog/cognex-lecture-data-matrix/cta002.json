@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/cognex-lecture-data-matrix/cta002"
+  },
+  "data": {
+    "title": "Un projet de supervision ou SCADA ?",
+    "benefits": [
+      {
+        "icon": "monitor",
+        "text": "Développement d'interfaces SCADA & HMI"
+      },
+      {
+        "icon": "database",
+        "text": "Historisation et reporting de données process"
+      },
+      {
+        "icon": "eye",
+        "text": "Supervision temps réel multi-sites"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

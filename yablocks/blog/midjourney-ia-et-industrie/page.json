@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney | Blog AUTEM",
+    "description": "Teste du générateur d'images Midjourney sur le thème de l'industrie 🏭 : Quelle représentation graphique l'algorithme se fait de l'industrie ?",
+    "keywords": [
+      "IA & Machine Learning",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

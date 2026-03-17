@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/edge-industriel-rexroth-dell-opto22-rockwell/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Beaucoup de choses se passent dans le monde de l'industrie 4.0. Aujourd'hui, pour faire une petite revue d'actualité sur ces nouveautés, je partagerai avec toi des nouveautés que j'ai trouvées intéressantes pour ces deux derniers mois de septembre et d'octobre 2023."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/tqHtDJ3Nc4s?si=1z6r7-6n14ELLvBS"
+      },
+      {
+        "heading": "Les salons",
+        "paragraphs": [
+          {
+            "text": "Début octobre, le Salon de l'Agriculture et des Ressources Agricoles - SARA à Abidjan, en Côte d'Ivoire, a eu lieu. C'est un salon qui est assez intéressant, parce que l'industrie agro-alimentaire est très bien représentée à ce salon-là. On devrait peut-être le renommer en un Salon Agro-Industrie , parce que c'est vraiment des services agriculteurs. Évidemment, il y avait toute la partie agriculture, mais quand même beaucoup d'industriels qui étaient représentés."
+          },
+          {
+            "text": "On a eu aussi le salon CEPEM à Angers, et puis le salon Polytech à Lyon qui était également super intéressant. Donc, ça a permis d'ouvrir, on va dire, ce qu'on appelle la saison des salons, ce moment-là où toutes les innovations sont présentées à la rentrée."
+          },
+          {
+            "text": "Le prochain grand rendez-vous, je dirais, pour tout ce qui est système industriel, c'est le salon SPS à Nuremberg en novembre en Allemagne . SPS , c'est le mot allemand pour PLC Automat . C'est la version allemande."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les Interviews",
+        "paragraphs": [
+          {
+            "text": "Dernier interview sur la chaîne actuellement avec Paterne N'KOU, un des experts de la compagnie Ivoirienne d'Electricité assez riche que je vous invite également à aller voir."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Haute Tension, Energie, Afrique - N'KOU Paterne | 🌍 Vidéo"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Haute Tension, Energie, Afrique - N'KOU Paterne | Vidéo",
+            "href": "https://www.youtube.com/embed/FLh2Txp1JEI?si=R7qy1f2VDpQAMa69"
+          }
+        ]
+      },
+      {
+        "heading": "EDGE Industriel - Opto22",
+        "paragraphs": [
+          {
+            "text": "Les actualités pour la rentrée septembre-octobre tournaient principalement autour de la thématique Edge , donc Edge Computing . C'est un concept qui consiste à faire les calculs et le contrôle commande au plus près des machines, et puis même pour faire de l'analytics au plus près de la machine avant de remonter les données dans des systèmes d'analyse et de stockage. C'est légèrement au-dessus des capacités ou des fonctionnalités qu'on fait de manière classique dans un automate, mais ça permet de faire des choses en termes de gestion des données et puis d'analyse, des choses beaucoup plus puissantes. C'est un peu comme un ordinateur qui serait déployé au plus près de la machine pour pouvoir récupérer, récolter les données, faire des analyses, et pourquoi pas envoyer des commandes en fonction des analyses qui ont été faites, envoyer des ordres qui correspondent peut-être aux meilleurs paramètres à ce moment-là. Première actualité dans le monde du EDGE Computing: ça nous vient de Kube , qui est l'équipement de contrôle de l'Opto 22 . La chose intéressante, c'est que ce module-là, qui est dédié à des applications Edge, Edge industriel, est compatible maintenant avec Codesys et avec pas mal de nouveautés aussi. Grâce à cette nouveauté, Codesys augmente le nombre de plateformes qui sont compatibles avec ce logiciel-là ouvert. Et puis d'un autre côté, ça va permettre à tout l'écosystème qui connaît déjà Codesys de pouvoir découvrir une nouvelle plateforme, un nouveau hardware, un nouveau matériel sur lequel déployer leur logiciel."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "groov (opto22) now supports Codesys | 🌍 Site"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "groov (opto22) now supports Codesys | Site",
+            "href": "https://blog.opto22.com/optoblog/opto-22s-groov-rio-levels-up-in-a-major-way-with-codesys"
+          }
+        ]
+      },
+      {
+        "heading": "Rexroth & Dell",
+        "paragraphs": [
+          {
+            "text": "La compagnie DELL a lancé une offre de pilotage des équipements industriels pour se rapprocher du Edge industriel: Dell Native Edge qui n'est rien d'autre que des PC ou des équipements informatiques de Dell sur lesquels sont déployés la plateforme Control X de Rexroth. Ils l'on conçue pour qu'elle soit compatible avec d'autres hardware qui voudraient se mettre en partenariat avec eux. C'est une belle complémentarité aussi, parce que comme ça, chacun garde un peu sa spécialité. Dell est expert sur la partie hardware, composants informatiques, et puis Rexroth sur l'expérience industrielle automatiquement générale. Et quand on complète les deux, forcément, on a la force des expertises de chacun."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Solution NativeEdge | 🌍 Site"
+            },
+            {
+              "text": "Annonce de Bosch Rexroth | 🌍 Site"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Solution NativeEdge | Site",
+            "href": "https://www.linkedin.com/posts/bosch-global-software-technologies_dell-nativeedge-and-bosch-activity-7123653952855842817-zR6L"
+          },
+          {
+            "text": "Annonce de Bosch Rexroth | Site",
+            "href": "https://www.dell.com/en-us/dt/solutions/edge-computing/edge-platform.htm"
+          }
+        ]
+      },
+      {
+        "heading": "Rockwell",
+        "paragraphs": [
+          {
+            "text": "L'annonce par Rockwell d'un PC Industriel pour faire du EDGE Computing. Par cette nouveaté là, on commence à se rendre compte que pour piloter, ou bien pour contrôler un système industriel, à la fois en lecture et en écriture on a besoin de vrais ordinateurs avec la technologie EDGE qui vont sur des OS comme Linux ou Windows pour piloter des machines."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Rockwell Edge PC | 🌍 Site officielle"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Rockwell Edge PC | Site officielle",
+            "href": "https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/programmable-controllers/embedded-edge-compute.html..html"
+          }
+        ]
+      },
+      {
+        "heading": "Rockwell",
+        "paragraphs": [
+          {
+            "text": "L'annonce par Rockwell d'un PC Industriel pour faire du EDGE Computing. Par cette nouveaté là, on commence à se rendre compte que pour piloter, ou bien pour contrôler un système industriel, à la fois en lecture et en écriture on a besoin de vrais ordinateurs avec la technologie EDGE qui vont sur des OS comme Linux ou Windows pour piloter des machines."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Rockwell Edge PC"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Rockwell Edge PC",
+            "href": "https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/programmable-controllers/embedded-edge-compute.html..html"
+          }
+        ]
+      }
+    ]
+  }
+}

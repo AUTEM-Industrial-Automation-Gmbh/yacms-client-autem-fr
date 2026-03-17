@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Prospecter : client, employeur, marché, mission en tant qu'automaticien | Blog AUTEM",
+    "description": "Rechercher des clients et des employeurs pour décrocher des missions sur le marché, en tant qu'automaticien.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

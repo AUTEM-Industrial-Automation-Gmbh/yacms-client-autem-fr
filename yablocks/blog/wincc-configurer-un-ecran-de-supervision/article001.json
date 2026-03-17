@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/wincc-configurer-un-ecran-de-supervision/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "WinCC - Configuration d'un écran de supervision",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. Si tu arrives sur cet article, cela signifie que tu es intéressé par TIA Portal , par WinCC , par les IHM en automatisme. Et c’est exactement ce que je te montre dans cet article, alors bienvenue !"
+          },
+          {
+            "text": "On va ensemble créer un projet, créer une IHM et l’animer de manière simple . Ce sera juste un bouton. Ce sera déjà une première chose de faite, qui va te permettre au moins de pouvoir manipuler les principales étapes pour créer une IHM ."
+          },
+          {
+            "text": "Alors, quand tu ouvres TIA Portal, tu es censé obtenir cette fenêtre-là."
+          },
+          {
+            "text": "Si tu n'as pas encore installer le logiciel TIA Portal, tu trouveras à la fin de cet article un lien pour installer à la fois TIA Portal , qui permet de faire le programme Automate et le logiciel WinCC , qui te permettra de créer l’écran IHM ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_1.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Création d’un projet",
+        "paragraphs": [
+          {
+            "text": "Alors, on va commencer par créer un projet en cliquant sur créer un projet. Je vais nommer ce projet : Projet_IHM_0 ."
+          },
+          {
+            "text": "Et je clique sur Créer ."
+          },
+          {
+            "text": "Une fois qu’il est créé, tu vois apparaître un petit menu avec plusieurs étapes."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_2.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Ajouter les appareils à utiliser",
+        "paragraphs": [
+          {
+            "text": "La deuxième étape qui va nous intéresser, c’est d’ajouter un appareil , je vais cliquer sur “ Configurer un appareil “."
+          },
+          {
+            "text": "A l'intérieur, on va ajouter un automate qui va nous servir à automatiser les tâches."
+          },
+          {
+            "text": "Je vais venir dans “ Contrôleur “."
+          },
+          {
+            "text": "Ensuite sur Simatic S7-1500 on a des CPU. A l'intérieur, on peut en choisir plusieurs."
+          },
+          {
+            "text": "Pour commencer, on va choisir la plus simple . On va prendre la première ."
+          },
+          {
+            "text": "On nous décrit un peu à quoi ressemble l’automate, ses paramètres et je clique sur “ Ajouter “."
+          },
+          {
+            "text": "Ainsi, on aura un premier automate sur lequel on va faire le programme. Et ensuite il nous faudra un écran. On va rajouter une IHM ."
+          },
+          {
+            "text": "Cela signifie Interface Homme-Machine . C’est un écran en fait qui te permet de contrôler la machine ."
+          },
+          {
+            "text": "On va venir ici dans “ Ajouter un appareil ” pour en ajouter un dans “ HMI ” (en anglais c’est Human-Man Interface “, mais cela signifie la même chose : Interface Homme-Machine ."
+          },
+          {
+            "text": "Vu qu’on souhaite que l’écran s’anime sur notre PC, on va commencer par en créer un écran virtuel . On va venir ici dans Système PC vu qu’on veut une IHM PC ."
+          },
+          {
+            "text": "Et ensuite là-dedans, on va rechercher les IHM “RT Advanced”."
+          },
+          {
+            "text": "Dans “ Application Simatic HMI “, je viens sélectionner celle-là."
+          },
+          {
+            "text": "Ce sera notre IHM sur PC et avec des options avancées . Je clique sur ajouter."
+          },
+          {
+            "text": "Une fois que mon IHM de type PC a été rajoutée, le logiciel me renvoie sur cet écran. Maintenant on est dans la vue projet où tu vois ici plusieurs rubriques : l’automate (le plc) qu’on a rajouté, l’IHM qui est juste-là."
+          },
+          {
+            "text": "Et on arrive ici dans la vue des appareils où on voit les différents appareils qu’on a rajoutés."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_5.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Création du lien en Automate - IHM",
+        "paragraphs": [
+          {
+            "text": "Alors ce qui va être important pour nous maintenant comme prochaine étape, c’est de faire un lien entre l’Automate et l’IHM . Pour faire cela, on va venir dans la “ vue du réseau “."
+          },
+          {
+            "text": "Et dans cette vue, on va rajouter un lien entre les 2."
+          },
+          {
+            "text": "On va venir relier les symboles verts des deux appareils entres eux afin de créer un lien. Avant de faire cela, normalement, on doit avoir le même symbole vert au niveau de notre IHM (Ce qui n’est pas le cas). Cela veut dire que dans la vue des appareils, sur l’IHM, il nous manque l’interface qui va nous permettre de venir se relier à l’automate ."
+          },
+          {
+            "text": "On retourne cela dans la vue des appareils et on sélectionne notre IHM dans la liste des appareils à rajoutées."
+          },
+          {
+            "text": "Ici on va lui rajouter un module de communication de type Profinet ."
+          },
+          {
+            "text": "Je vais prendre “ General IE “, cela signifie Industrial Ethernet (Ethernet industriel) . On a juste besoin d’un port Ethernet pour pouvoir faire la communication entre l’IHM et l’Automate ."
+          },
+          {
+            "text": "Une fois qu'on a rajouté cela, je reviens dans la \"vue du réseau\". Tu vois que le petit carré vert apparaît."
+          },
+          {
+            "text": "Cela signifie qu’on a une prise RJ 45 à laquelle on va venir pouvoir brancher l’automate. C’est ce qu’on va faire en cliquant sur ce carré vert de l’AUTOMATE et en glissant sur le Carré vert de l’IHM ."
+          },
+          {
+            "text": "Et juste en faisant cela, tu viens déclarer dans ton logiciel le lien qui existe entre l’Automate et l’interface homme/machine ."
+          },
+          {
+            "text": "Une fois que cela s’est fait, on va venir vérifier cette connexion qu’on vient de créer et pour faire cela, je viens sur IHM-Connections puis je double-clique ."
+          },
+          {
+            "text": "Et tu vois ici, on n’a pas encore la connexion qui s’est rajoutée. Je vais venir cliquer ici pour un peu forcer la main : “ liaison à des automates S7 “."
+          },
+          {
+            "text": "Il me renvoie sur cet écran."
+          },
+          {
+            "text": "On revient dans connexion et on double-clique sur cette partie, où il y avait le même symbole “ajouter” qui s’est décalé vers le bas."
+          },
+          {
+            "text": "On voit bien le lien qui se rajoute: l’IHM sur la gauche , l’automate sur la droite ."
+          },
+          {
+            "text": "C’est cette connexion qu’on va pouvoir utiliser, pour pouvoir faire le lien dans la partie simulation entre l’automate et l’IHM."
+          },
+          {
+            "text": "Une fois que c'est fait, on a créé l’automate l’IHM. On a paramétré la connexion. Maintenant on va passer à la partie programme."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_12.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Création du programme",
+        "paragraphs": [
+          {
+            "text": "Je reviens ici, sur la section PLC de mon automate."
+          },
+          {
+            "text": "Dans les blocs de programme, je vais créer un petit programme dans le bloc OB1 ."
+          },
+          {
+            "text": "Ce sera juste un programme très simple pour pouvoir tester l’IHM."
+          },
+          {
+            "text": "Je vais prendre ici un contact “ normalement ouvert “, le glisser sur la ligne ladder."
+          },
+          {
+            "text": "Et juste associer à ce contact, une affectation , de telle manière que lorsque le contact est fermé, on ait juste un relais qui s’active ."
+          },
+          {
+            "text": "On pourra ainsi tester déjà au moins une première version simple d’un programme qui fonctionne."
+          },
+          {
+            "text": "Je vais appelé la variable “ Entrée1 “. Et du coup du côté de l’affectation, ce sera sur une “ Sortie1 “."
+          },
+          {
+            "text": "Ensuite, je vais déclarer mes variables avec les numéros d’adresse. Je fais un clic droit, “ Définir la variable “."
+          },
+          {
+            "text": "Je vais la choisir comme mémoire. Normalement vu que c’est une entrée, je devrais choisir input , mais ce serait une entrée physique sur un automate physique . Là on est tout en virtuel du coup, je choisis juste une mémoire pour pouvoir tester."
+          },
+          {
+            "text": "C’est bien un booléen. Je crée la variable et tu vois du coup qu’elle est créée sur l’adresse M0.0."
+          },
+          {
+            "text": "On va faire la même chose pour la sortie. “ définir la variable ” de type mémoire ."
+          },
+          {
+            "text": "Ce sera créé, sur l’adresse M0.1, ce qui est tout à fait logique vu que TIA Portal crée les adresses l’une après l’autre."
+          },
+          {
+            "text": "On a notre programme très simple pour pouvoir tester l'IHM."
+          },
+          {
+            "text": "Je vais juste le compiler, en cliquant ici sur cette petite icône."
+          },
+          {
+            "text": "Je compile mon programme."
+          },
+          {
+            "text": "Je n’ai aucune erreur qui a été reportée. Cela veut dire que tout fonctionne bien."
+          },
+          {
+            "text": "Maintenant on va passer à la partie IHM ."
+          },
+          {
+            "text": "C’est la partie qui nous intéresse."
+          },
+          {
+            "text": "Je vais venir dans la section IHM."
+          },
+          {
+            "text": "Les variables qu’on vient de déclarer ici dans le programme Automate, il va falloir les recréer dans l’IHM . Je viens ici dans variable IHM, Table de variable standard et je vais rajouter ma variable."
+          },
+          {
+            "text": "Alors la première."
+          },
+          {
+            "text": "En double cliquant sur \"ajouter\" , on a des options qui apparaissent. Je vais mettre les mêmes noms : “Entrée1” de type booléen , et “Sortie1” de type booléen aussi."
+          },
+          {
+            "text": "Ensuite, on va essayer de faire le lien maintenant entre ces variables de l’IHM et les variables qu’on a créées dans l’automate . Je clique ici sur connexion ."
+          },
+          {
+            "text": "On doit pouvoir venir retrouver la connexion qu'on a créée tout à l'heure dans le Paramétrage. Je clique sur celle-là."
+          },
+          {
+            "text": "Et pareil en bas, je clique sur cette même connexion."
+          },
+          {
+            "text": "Ensuite, une fois que la connexion a été rajoutée, ici je peux défiler vers la droite pour voir les autres éléments à configurer."
+          },
+          {
+            "text": "Notamment ici, dans variable API . C’est là qu’on va définir le lien entre l’entrée1 dans l’IHM et l’entrée1 dans l’automate ."
+          },
+          {
+            "text": "Je clique sur cette petite icône avec 3 points."
+          },
+          {
+            "text": "Je vais venir sélectionner l'élément dans l'automate qui correspond à cette variable IHM. C'est le même nom, tout va bien, je clique dessus."
+          },
+          {
+            "text": "Si cela avait été nommé différemment, il faudrait retrouver la table de correspondance . Mais là, pour cette version simple, pas besoin de table de correspondance, on a mis les mêmes noms exprès pour pouvoir retrouver les mêmes éléments."
+          },
+          {
+            "text": "Dans la table des variables API , je sélectionne la variable qui correspond à ma sortie dans l’IHM. Tu vois ici apparaître les mêmes adresses qu’on a mis tout à l’heure ."
+          },
+          {
+            "text": "On vient de faire un lien au niveau des variables entres l’automate, et l’IHM ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_24.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Création des éléments de l’interface",
+        "paragraphs": [
+          {
+            "text": "Une fois que c'est fait, on va pouvoir créer une vue ."
+          },
+          {
+            "text": "Je viens ici dans les “ vues “, ajouter une vue ."
+          },
+          {
+            "text": "Je vais faire une version simplifiée. Je vais dézoomer pour avoir l’écran entier."
+          },
+          {
+            "text": "Je vais venir ici dans les paramètres runtime de l’IHM pour la remettre à l’échelle de la petite version que je vais tester au niveau de la résolution d’écran ."
+          },
+          {
+            "text": "On va changer un peu vers quelque chose d’un peu plus petit, 800 par 600 ."
+          },
+          {
+            "text": "Et surtout, je vais décocher ici la case mode plein écran pour ne pas que mon IHM s’affiche en plein écran dès le début au moment où on va la lancer."
+          },
+          {
+            "text": "Une fois que tu as cliqué sur ces paramètres, tu peux enregistrer le projet au passage, fermer cette page là et on va revenir sur notre vue."
+          },
+          {
+            "text": "Ensuite dans la vue, on va rajouter juste un bouton ."
+          },
+          {
+            "text": "Je clique sur le bouton je le glisse sur l’écran."
+          },
+          {
+            "text": "Et c'est avec ce bouton qu'on va tester notre programme qu'on a créé précédemment."
+          },
+          {
+            "text": "Je vais l’appeler test ."
+          },
+          {
+            "text": "Les boutons se trouvent dans les éléments. Si tu as l’icône qui est réduite, il faut peut-être l’agrandir. Cela se trouve sur la droite : tu déroules, et tu obtiens tous les accessoires , et dans les accessoires de type “élément” , tu trouves ton bouton là."
+          },
+          {
+            "text": "J'ai rajouté ce bouton."
+          },
+          {
+            "text": "On va lui créer un fonctionnement , et pour cela, je clique sur le bouton et on va venir agrandir cette partie, qui va me servir à créer le fonctionnement du bouton."
+          },
+          {
+            "text": "Dans les propriétés , je vais venir au niveau des évènements , pour définir ce qui se passe au niveau du bouton ."
+          },
+          {
+            "text": "Lorsqu’on presse le bouton , on va rajouter une fonction qui va nous permettre de dire que le bouton se met dans une certaine couleur ."
+          },
+          {
+            "text": "Lorsque la sortie (le relais qu’on a créé tout à l’heure dans le programme), est à 0 par exemple, je veux une certaine couleur et à 1 je veux une autre couleur ."
+          },
+          {
+            "text": "Cela concerne des booléens , des bits en général. Je viens sélectionner ici les fonctions de traitement des bits."
+          },
+          {
+            "text": "Là, dans “Mise à 1” de mon bit, je vais créer une fonction qui va correspondre à cette mise à 1 lorsque le booléen passe à 1 ."
+          },
+          {
+            "text": "Je clique là pour sélectionner les variables concernées."
+          },
+          {
+            "text": "On va venir sélectionner l’entrée de telle manière que ce soit l’entrée qui soit commandée par le bouton et qui va activer ensuite la sortie . Je sélectionne mon “Entrée1”, je clique sur valider."
+          },
+          {
+            "text": "On a notre première fonction."
+          },
+          {
+            "text": "Ensuite 2e événement qui peut se passer sur le bouton, c’est qu’on relâche le bouton et à ce moment-là, je veux que mon entrée repasse à 0 . Je vais mettre une remise à 0 (RAZ) du booléen ."
+          },
+          {
+            "text": "Et encore une fois, c’est mon “Entrée1” que je sélectionne ."
+          },
+          {
+            "text": "On a nos 2 évènements."
+          },
+          {
+            "text": "Maintenant, une fois qu’on a cliqué dessus, on aimerait bien que cela change de couleur . Il s’agit ici d’une animation ."
+          },
+          {
+            "text": "Je vais cliquer sur “ Animation “."
+          },
+          {
+            "text": "Et rajouter une “ représentation ” qui va me permettre de définir la couleur qui change ."
+          },
+          {
+            "text": "Ici je clique sur cette partie “ ajouter une nouvelle animation ” à mon bouton."
+          },
+          {
+            "text": "Vu qu’on va passer l’entrée à 1 ou à 0 , à chaque fois la sortie associée (le relais) sera à 0 ou à 1 . Je vais venir maintenant sélectionner ma sortie pour voir l’effet de mon bouton sur la sortie ."
+          },
+          {
+            "text": "Cela nous permettra à la fois de checker le programme et de voir le fonctionnement dynamique du bouton. Je sélectionne ma sortie dans les variables concernées."
+          },
+          {
+            "text": "Et ensuite je vais rajouter une couleur pour le 0 , et une couleur pour le 1 , juste en double-cliquant ici au niveau de la plage"
+          },
+          {
+            "text": "Pour le 0 , on va dire qu'il se mettra juste en couleur jaune en attente ."
+          },
+          {
+            "text": "Et lorsqu’on va appuyer sur l’entrée et que l’entrée passera à 1 , la sortie aussi passera à 1 , et je vais mettre du Vert ."
+          },
+          {
+            "text": "Juste 2 couleurs bien opposées pour pouvoir voir la distinction. (Si tu préfères d'autres couleurs évidemment tu peux en choisir d'autres)."
+          },
+          {
+            "text": "Avec ceci maintenant, on pourra tester le fait que la sortie passe bien à 1 lorsque l’entrée passe à 1 (le petit programme ladder qu’on a créé)."
+          },
+          {
+            "text": "Une fois qu’on a ces événements-là, on a terminé la création de notre petit bouton de test. J’enregistre. Je vais compiler et on va vérifier si tout va bien."
+          },
+          {
+            "text": "Je viens ici au niveau de l’AUTOMATE et je compile le programme."
+          },
+          {
+            "text": "Et on va faire pareil au niveau de l'IHM pour compiler tous les paramétrages qu'on vient de faire, pour qu'ils soient pris en compte par le logiciel."
+          },
+          {
+            "text": "Aucune erreur ne remonte pour l'instant. Tout va bien."
+          },
+          {
+            "text": "S'il y a des choses qui ne vont pas, on le corrigera dans la suite."
+          },
+          {
+            "text": "Cela fait partie de la vie d'automaticiens, il y a toujours des petits bugs qui traînent un peu partout (dans la vraie vie il n’y a pas grand-chose qui marche du premier coup)."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_42.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        }
+      },
+      {
+        "heading": "WinCC - Tester le programme",
+        "paragraphs": [
+          {
+            "text": "Alors, une fois que c’est compilé, on va démarrer la simulation. D’une part je vais démarrer l’automate virtuel (PLCSIM), et d’autre part, l’écran IHM PC qu’on va lancer."
+          },
+          {
+            "text": "Pour PLCSim, je viens sur l’automate."
+          },
+          {
+            "text": "Tu as ce petit logo-là ( 2 ) qui ressemble à un ordinateur . Je vais cliquer dessus pour démarrer la simulation."
+          },
+          {
+            "text": "Là il me dit : est-ce que vous êtes sûr que vous voulez lancer la simulation ?"
+          },
+          {
+            "text": "Je clique OK et on a PLCSIM (le simulateur de PlC, simulateur d'Automates), qui va se lancer."
+          },
+          {
+            "text": "Pour l'instant, il est arrêté et TIA Portal pendant ce temps, m'ouvre une fenêtre pour sélectionner l'interface que je veux utiliser pour charger le programme."
+          },
+          {
+            "text": "Je vais choisir “ profinet Industrial Ethernet 1 “."
+          },
+          {
+            "text": "C'est cette interface-là qui correspond au simulateur. Je lance la recherche et normalement on s'attend à voir dans les appareils trouvés, le simulateur qui est présenté comme option à choisir pour charger le programme."
+          },
+          {
+            "text": "TIA Portal retrouve le simulateur, à cette adresse-là, et je sélectionne ce simulateur-là"
+          },
+          {
+            "text": "Je vais charger le programme à l'intérieur."
+          },
+          {
+            "text": "Je vais tout écraser ( 1 )."
+          },
+          {
+            "text": "Et je charge dans l’automate virtuel (dans PLCSim) (2)."
+          },
+          {
+            "text": "Je peux démarrer le module directement (1) ou tu peux très bien revenir ici cliquer sur le bouton vert ‘play’ pour démarrer l’automate et le lancer ( 2 ). Là je vais le faire directement : “démarrer le module” et je termine."
+          },
+          {
+            "text": "Tu vois que l’automate virtuel passe à “run” en vert . Cela veut dire qu’il est en train de tourner avec notre programme à l’intérieur."
+          },
+          {
+            "text": "C’est bon pour la partie automate et on va lancer le même type de simulateur pour l’écran IHM ."
+          },
+          {
+            "text": "Je clique ici sur l’IHM ( 1 ). Tu vois qu’il y a une petite icône qui était grise tout à l’heure, qui est tout de suite devenu bleue ( 2 ). C’est le simulateur runtime pour l’IHM . Je clique dessus."
+          },
+          {
+            "text": "Et on va avoir le même type d'interface de test qui va s'ouvrir. Voici mon IHM virtuel tel que je l'ai créé, 800 par 600, avec le petit bouton de test."
+          },
+          {
+            "text": "Et avec Cela, on va pouvoir tester notre fonctionnement."
+          },
+          {
+            "text": "Comme tout à l’heure, on a dit que lorsque l’entrée est à 0, le bouton sera à 0 parce que la sortie est aussi à 0 , d’après le LADDER qu’on a créé. Jusque-là, le bouton a l’air d’avoir la bonne couleur ."
+          },
+          {
+            "text": "Lorsqu’on passe l’entrée à 1 normalement, on devrait avoir la sortie qui passe à 1 . Par conséquent, le bouton devrait se mettre en vert ."
+          },
+          {
+            "text": "Mais avant de tester, je vais aussi ouvrir le programme afin de voir le fonctionnement en temps réel avec le bloc de programme qu’on a créé."
+          },
+          {
+            "text": "Je reviens ici dans mon OB1 , je vais me mettre en ligne pour voir le programme bouger en temps réel en cliquant sur cette icône-là : les petites lunettes avec le logo play . Ainsi, on verra notre programme s’animer en même temps."
+          },
+          {
+            "text": "Je reprends mon écran IHM et on va appuyer sur le bouton ."
+          },
+          {
+            "text": "On voit la sortie qui est activée et du coup, le bouton qui passe à vert , vu que tout à l’heure dans les animations, c’est ce qu’on a paramétré."
+          },
+          {
+            "text": "L’événement “ d’appui sur le bouton ” passe la variable d’entrée à 1 , du coup, la sortie s’active ."
+          },
+          {
+            "text": "Et quand la sortie s’active, l’animation affecte la couleur verte à ce bouton-là."
+          },
+          {
+            "text": "On a notre bouton qui fonctionne."
+          },
+          {
+            "text": "Tu peux jouer avec autant que tu veux de ton côté. Tu peux aussi créer d'autres boutons si tu le souhaites en rajoutant un programme LADDER un peu plus complexe que ce que je viens de faire là."
+          },
+          {
+            "text": "Mais de manière simple, c'est comme cela qu’on devrait créer une IHM ."
+          },
+          {
+            "text": "En tout cas, ce sont les étapes principales pour pouvoir créer une IHM."
+          },
+          {
+            "text": "Là, bien évidemment, c’est une version simplifiée. Si tu souhaites aller plus loin, je propose une formation à ce sujet-là. Sur les interfaces homme-machine, comment créer des versions un peu plus proches de la réalité on va dire. A la fin de cet article, tu verras le lien pour t’inscrire à cette formation si tu souhaites aller un peu plus en profondeur, créer des choses un peu plus dynamiques , te rapprocher des fonctionnements qui se pratiquent dans l’industrie, et créer des choses qui ressemblent un peu plus à des IHM de machines ."
+          },
+          {
+            "text": "Tu sais comment créer une IHM et tu peux en créer des plus complexes si tu le souhaites ."
+          },
+          {
+            "text": "Si tu as des questions ou des commentaires, n'hésite pas à les mettre en commentaire et on se dit à très vite dans un nouvel article."
+          },
+          {
+            "text": "A très bientôt !"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/wincc_ecran_72.PNG",
+          "alt": "Configurer un écran de supervision SIEMENS"
+        },
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Pour te former en automatisme : : https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6",
+            "href": "https://www.udemy.com/course/programmer-en-ladder-sur-automate-siemens/?referralCode=F931E4FEE42C6311EEE6"
+          }
+        ]
+      }
+    ]
+  }
+}

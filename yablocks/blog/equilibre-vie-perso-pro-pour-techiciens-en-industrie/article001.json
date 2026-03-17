@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Cinquième point si l'on veut apporter des solutions pour les techniciens et les maintenir dans notre industrie c'est l'équilibre Vie Perso / Vie Professionnelle. Découvrons ce point ensemble."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/UxecvLgCeDw?si=0mR9GQWyRef4_MvA"
+      },
+      {
+        "heading": "Vie perso/vie professionnelle",
+        "paragraphs": [
+          {
+            "text": "Beaucoup des personnes qui suivent AUTEM se sont des personnes qui ont entre 25 et 35 ans. Cela veut dire que se sont des personnes qui ont envie d'avoir une vie sociale, ou soit se sont des gens qui sont à l'âge d'avoir des enfants et de fonder une famille."
+          },
+          {
+            "text": "Du coup si vous prenez des techniciens comme ces personnes là et que vous les enfermés dans un mode où les horaires sont complètement décalées par rapport au horaire de la vie moderne dans les grandes villes, vous allez avoir des personnes qui vont fuir les usines juste parce qu'ils n'ont pas la vie sociale ou la vie familiale qu'ils recherchent."
+          },
+          {
+            "text": "L'une des solution serait de mettre en place c'est de mettre en place des moyens qui permettent d'avoir cette forme d'équilibre avec la vie personnelle. Au lieu de garder les horaires standards, on peut innover de mannière à ce que les gens puissent se retrouver."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (01min:35s)",
+            "href": "https://www.youtube.com/watch?v=UxecvLgCeDw&t=10s"
+          }
+        ]
+      }
+    ]
+  }
+}

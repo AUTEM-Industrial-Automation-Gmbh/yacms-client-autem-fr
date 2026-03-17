@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/politique-et-industrie-en-france/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Aujourd'hui, on va parler de politique et d'industrie. Un sujet qui touche au côté personnel, donc beaucoup de hauteur, de recul, d'écoute et de tolérance. Je ne donnerai ni une orientation politique, ni une opinion arrêtée par rapport à ce sujet-là et enfin, j'essayerai de comprendre en quoi nous, en tant qu'ingénieurs, on peut être concernés ou impactés par ce sujet. Notre outils de recherche de l'information sera ChatGPT."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/Cnw2YCLoN1U?si=i-Vu8ByhkLnelzS0"
+      },
+      {
+        "heading": "Impact sur l'industrie",
+        "paragraphs": [
+          {
+            "text": "Découvrez l'impact sur l'industrie ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Video (02min:47s)",
+            "href": "https://www.youtube.com/live/Cnw2YCLoN1U?t=130s"
+          }
+        ]
+      },
+      {
+        "heading": "Principales formations politiques",
+        "paragraphs": [
+          {
+            "text": "Découvre l'intégralité des principales formations politiques ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (03min:34s)",
+            "href": "https://www.youtube.com/live/Cnw2YCLoN1U?t=297s"
+          }
+        ]
+      },
+      {
+        "heading": "Politiques industrielles + Exemples",
+        "paragraphs": [
+          {
+            "text": "Découvre l'intégralité des politiques industrielles ainsi que quelques exemples ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (03min:32s)",
+            "href": "https://www.youtube.com/live/Cnw2YCLoN1U?t=511s"
+          }
+        ]
+      },
+      {
+        "heading": "Similitudes et différences de chaque parti",
+        "paragraphs": [
+          {
+            "text": "Découvre l'intégralité des similitudes et différences de chaque parti ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (05min:57s)",
+            "href": "https://www.youtube.com/live/Cnw2YCLoN1U?t=723s"
+          }
+        ]
+      },
+      {
+        "heading": "Analyse",
+        "paragraphs": [
+          {
+            "text": "Découvre l'intégralité de mon analyse ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (13min:12s)",
+            "href": "https://www.youtube.com/live/Cnw2YCLoN1U?t=1080s"
+          }
+        ]
+      }
+    ]
+  }
+}

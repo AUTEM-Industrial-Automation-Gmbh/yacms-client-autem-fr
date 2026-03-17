@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Parole d'expertes : femmes & actrices de l'industrie | Blog AUTEM",
+    "description": "Des femmes expertes partagent leur point de vue sur la mixité, les stéréotypes, les quotas et les métiers techniques dans l'industrie.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

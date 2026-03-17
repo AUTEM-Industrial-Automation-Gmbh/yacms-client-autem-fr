@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/automatiser-des-feux-tricolores/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Automatisation des feux - Simulation",
+        "paragraphs": [
+          {
+            "text": "La dernière fois on avait fait la simulation pour un feu tricolore et on avait eu la méthode ici pour le programmer avec trois timer. Aujourd’hui on va voir une autre méthode pour programmer un feu tricolore avec un seul timer de manière un peu plus optimisée"
+          },
+          {
+            "text": "et aussi, on va regarder comment est-ce qu’on ferait si on a plusieurs feux tricolores du coup sur un carrefour à 3 voies. On regardera avec un programme un peu plus élaboré comment est-ce qu’on contrôle ce genre de choses."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/feux_tricolore_1.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,BHNS,Tramway,VTC,delai,approche,pryo,smartcity,regulation trafic…"
+        }
+      },
+      {
+        "heading": "Programme et simulation singulière",
+        "paragraphs": [
+          {
+            "text": "Alors tout de suite on va venir ici dans la simulation. Là c’est notre fameux feu tricolore qu’on avait vu dans une vidéo. Je te mettrai le lien juste à la fin de l’article. Si tu ne l’as pas encore regardé tu peux jeter un œil pour voir la méthode avec les trois Timer."
+          },
+          {
+            "text": "Aujourd’hui on regarde comment programmer cela avec un seul timer . C’est un peu plus optimisé. Du coup on retrouve nos deux boutons START/STOP pour démarrer la simulation. Et ensuite on a notre fameux Timer . On lui donne 20 secondes pour pouvoir boucler les trois couleurs sur les premières secondes. Du coup, entre 0 et 10 secondes on va afficher le vert . Ensuite pendant 3 secondes on va afficher l’orange et enfin on termine par le rouge sur les secondes restantes pendant 7 secondes entre 13 et 20 . Globalement on utilisera le même signal. On compare juste la valeur du temps écoulé avec une limite. Cela nous permettra de morceler ce comptage en trois parties ."
+          },
+          {
+            "text": "Évidemment, le Timer, une fois qu’il est terminé, il va venir se réactiver ici avec son propre signal de sortie et il se maintient avec notre signal RUN quand on aura appuyé sur le bouton."
+          },
+          {
+            "text": "Je viens appuyer ici sur le bouton Start et on va voir ce qui se passe."
+          },
+          {
+            "text": "Lorsque je déclenche du coup on va compter les premières 10 secondes pour la couleur verte ."
+          },
+          {
+            "text": "Ensuite on passe à l’orange pendant 3 secondes."
+          },
+          {
+            "text": "ensuite au rouge et on termine les 20 secondes et on recommence avec le vert et ainsi de suite."
+          },
+          {
+            "text": "C’est une méthode un peu plus optimisée qui utilise juste un Timer."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/feux_tricolore_3.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,BHNS,Tramway,VTC,delai,approche,pryo,smartcity,regulation trafic…"
+        }
+      },
+      {
+        "heading": "Programme et simulation multiple",
+        "paragraphs": [
+          {
+            "text": "Maintenant on va passer à la même simulation, mais pour tout un carrefour. Là maintenant on fait la même logique, mais sur trois voies. On a un carrefour avec une voie à gauche N° 1, une voie au milieu N° 2 et une voie à droite N° 3 ."
+          },
+          {
+            "text": "Les 3 voies du coup vont s’alterner pour laisser passer les voitures. On commence par la gauche ensuite on laisse passer les voitures du milieu, ensuite, on laisse passer les voitures de droite. Pour chaque voie on suit la même séquence que si c’était un seul feu. On a le vert d’abord puis l’orange puis le rouge."
+          },
+          {
+            "text": "Et une fois qu’on est au rouge pour cette voie-là, on va passer à la voie suivante. On va laisser passer les voitures: feu vert, ensuite orange et rouge."
+          },
+          {
+            "text": "Et une fois que la voie du milieu est dégagée, on passe à la voie de droite où on va faire circuler les voitures également. Vert, orange et rouge ."
+          },
+          {
+            "text": "Et cette séquence-là, tu vois qu’elle se répète en fait d’une voie à l’autre . Pour la programmation on a juste à reprendre la séquence pour un feu tricolore et la multiplier par 3 juste en rajoutant une variable qui va gérer l’ordre de passage ."
+          },
+          {
+            "text": "Et pour faire cela, on regarde le bloc LADDER suivant."
+          },
+          {
+            "text": "On récupère les mêmes éléments que pour un seul feu tricolore: le démarrage de la simulation, la temporisation puis, en fonction de la temporisation, on a les comparaisons pour afficher le vert d’abord ou l’orange ou le rouge ."
+          },
+          {
+            "text": "La seule chose qui change c’est ce fameux bloc."
+          },
+          {
+            "text": "On vient en fait comparer la valeur du Timer et une fois qu’on a bouclé toute la séquence vert, orange et rouge pour un feu tricolore, on va passer du coup au feu tricolore suivant."
+          },
+          {
+            "text": "On procède avec notre variable qui s’appelle “etap“ . On aura 3 étapes. 1ère étape, la voie de gauche, 2ème étape, la voie du milieu et 3ème étape, la voie de droite et lorsqu’on arrive à l’étape 4, il n’y a pas l’étape 4 . On remet du coup la variable à 1 ."
+          },
+          {
+            "text": "On passe en simulation pour voir le comportement. On est ici avec notre programme en UNITY Pro de chez Schneider et à droite notre simulateur. Du coup j’ai juste repris les mêmes feux tricolores que j’ai multiplié par 3 pour avoir les trois voies; \"gauche\", \"milieu\" et \"droite\"."
+          },
+          {
+            "text": "Ce qui est important c’est que tu prêtes attention ici à ce qui se passe pour le compteur d’étape. Pour l’ordre de passage on commence avec 1: la voie de gauche ."
+          },
+          {
+            "text": "Et ensuite tu verras que dès qu’on redémarre le Timer avec sa sortie on va venir incrémenter l’étape. On passera ensuite à 2, puis à 3, puis retour 1 . Pour réaliser ce processus je vais venir ici appuyer sur Start pour démarrer la simulation."
+          },
+          {
+            "text": "Le comptage démarre."
+          },
+          {
+            "text": "On a la voie de gauche en vert puis orange"
+          },
+          {
+            "text": "puis ensuite passer au rouge"
+          },
+          {
+            "text": "et regarde l’ordre ici, la variable étape passe à 2 et cette fois-ci du coup c’est autour de la voie de milieu qui va faire sa séquence: vert ,"
+          },
+          {
+            "text": "orange pour la voie du milieu et ensuite rouge pour la voie du milieu ."
+          },
+          {
+            "text": "Ensuite le compteur d’étape passe à 3 ."
+          },
+          {
+            "text": "Et on fait la même séquence pour la droite: vert"
+          },
+          {
+            "text": "puis orange puis ensuite rouge ."
+          },
+          {
+            "text": "Et une fois qu’on est à 3 on incrémente et de 4, on va passer à 1 automatiquement parce qu’il n’y a pas d’étape 4."
+          },
+          {
+            "text": "On reprend à 1 et du coup on refait passer les voitures de gauche."
+          },
+          {
+            "text": "Tu as maintenant une idée du fonctionnement sur un carrefour. Tu peux avoir des carrefours un peu plus complexes avec par exemple 4 voies , avec des tramways qui passent , avec des appuis priorités piétons par exemple. Ce sont, des choses qui peuvent te permettre de pouvoir monter en complexité, mais l’idée c’était de te donner une approximation de comment programmer ce genre de situation. Si tu as envie de regarder dans le détail n’hésite pas à me demander le programme en commentaire. Je t’enverrai la sauvegarde de ce programme-là pour que tu puisses tester chez toi. Et on se retrouve dans un prochain article."
+          },
+          {
+            "text": "A bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/feux_tricolore_8.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,BHNS,Tramway,VTC,delai,approche,pryo,smartcity,regulation trafic…"
+        }
+      }
+    ]
+  }
+}

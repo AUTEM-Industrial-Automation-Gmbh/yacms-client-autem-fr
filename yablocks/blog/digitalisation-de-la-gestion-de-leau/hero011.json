@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/digitalisation-de-la-gestion-de-leau/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Digitalisation de la Gestion de l'EAU - avec Guillaume GIMENEZ - 2Gi",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      },
+      {
+        "label": "GTB-GMAO",
+        "type": "categorie"
+      },
+      {
+        "label": "Instrumentation-Capteurs",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "7 min lecture",
+      "publishDate": "16/06/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

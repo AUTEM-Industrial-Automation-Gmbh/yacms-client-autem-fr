@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/pc-connecte-a-un-automate-s7-1500/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "IHM web WinCC",
+        "paragraphs": [
+          {
+            "text": "Salut à toi ! Est-ce que tu as déjà utilisé un IPhone pour commander un automate Siemens ? C’est ce que je vais t’apprendre à faire dans cette vidéo. Déjà ici on a un exemple."
+          },
+          {
+            "text": "On a là, avec le navigateur, l’équivalent d’un écran IPhone, et notre IHM qui est accessible avec une adresse ici qui contrôle l’automate (on voit qu’on est en direct avec un programme ladder). Et quand j’appuie start on a un état moteur qui passe à ON. Et quand j’appuie stop le moteur qui s’arrête. C’est le genre de choses qu’on va faire à travers cet article."
+          },
+          {
+            "text": "Alors revenons au sujet : “Wincc Unified” c’est quoi ? En quoi est-ce que cela va nous permettre de créer une IHM qui est accessible depuis un téléphone ? Wincc Unified est une solution qui va nous permettre de faire plusieurs choses. Avec Wincc Unified on peut programmer soit les IHM classiques qu’on connaît avec un panel qui est localisé en physique sur la machine . On peut programmer soit le serveur web de l’automate parce que, les automates ont aussi un serveur web qui peut héberger une application pour de la visualisation (ici, la visualisation des interfaces homme-machine). Et puis (ce qui nous intéresse aujourd’hui) avec Wincc Unified on peut également programmer une interface de supervision directement basée sur le PC . C’est ce qu’on va faire ensemble aujourd’hui avec cette interface de supervision. Vu qu’elle est en web, elle est accessible par tous navigateurs, que ce soit une tablette un téléphone ou autre."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_1.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Configuration du projet avec TIA Portal v17",
+        "paragraphs": [
+          {
+            "text": "On va commencer par ouvrir ici TIA Portal en version 17 parce que c’est la version 17 qui nous permet de créer avec Wincc Unified ce qu’on veut."
+          },
+          {
+            "text": "Lorsque TIA Portal est ouvert, on vient créer ici un nouveau projet. Je vais l’appeler “IHM_sur_IPhone” pour donner un nom un peu parlant. Je crée le projet."
+          },
+          {
+            "text": "Ensuite je vais venir rajouter ici des appareils. Dans \"configure device\" , je vais ajouter un nouveau device ."
+          },
+          {
+            "text": "Le premier device que je vais rajouter déjà c'est mon automate ."
+          },
+          {
+            "text": "Dans les contrôleurs je choisis une CPU de type 1500 ou 1200. Là pour l'exemple je vais prendre une CPU de type 1500."
+          },
+          {
+            "text": "Ensuite je vais rajouter un nouveau device (un IHM). Et cette fois ci c'est un système qui est basée sur PC . Je viens ici sur \"PC système\" dans \"simatic hmi application\" et je choisis l'option \"wincc unified PC\" pour pouvoir créer l'IHM directement sur le serveur web de mon PC. Je clique sur “ajouter”."
+          },
+          {
+            "text": "Et TIA Portal m'affiche maintenant la vue des appareils que je viens de rajouter."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_2.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Etape 2: Ajout d'une interface de communication",
+        "paragraphs": [
+          {
+            "text": "Quelque chose qui est important ici, c'est de pouvoir donner la possibilité au PC de communiquer avec l'automate . Pour cela, il faut une interface ou une carte de communication que je vais rajouter. Je viens cliquer ici dans \"hardware catalog\""
+          },
+          {
+            "text": "Je choisis dans \"communication module\" un module de communication profinet/ethernet de type général IE pour \"Industrial Ethernet\" . Je glisse ce module et je viens le rajouter sur la station PC."
+          },
+          {
+            "text": "Ensuite je vais venir ici dans le 'Network view' (la vue de réseau) pour créer ma connexion entre l'automate et mon IHM PC."
+          },
+          {
+            "text": "Je clique ici, je fais un glisser et je lâche le clic. Le logiciel nous crée une connexion IHM."
+          },
+          {
+            "text": "Ensuite dans la \"vue de topologie\" je vais relier mon PC IHM au port 1 de l’automate."
+          },
+          {
+            "text": "Ainsi, on a bien tous les liens qui sont créés."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_12.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Ecriture de la logique du programme",
+        "paragraphs": [
+          {
+            "text": "Une fois ceci fait, on va commencer à programmer le langage ladder qui nous permet de tester notre automate. Mais avant de passer à cette étape, on va revenir sur l'automate au niveau du port pour lui donner l'adresse IP qui va bien."
+          },
+          {
+            "text": "Dans \"Ethernet adresses\" je vais lui donner à une adresse IP qui est dans la même plage que l'adresse IP de mon PC. Mon PC il est dans la plage 192.168.1. quelque chose et mon automate 1.101. Je ne mets pas de gateway, et je laisse tel quel."
+          },
+          {
+            "text": "Ensuite dans les propriétés de l'automate, je viens ici clic droit sur properties au niveau de la protection."
+          },
+          {
+            "text": "On a le \"mécanisme de connexion\" et il faut que j’autorise les communications avec des partenaires distants (avec les remote partners)."
+          },
+          {
+            "text": "Typiquement c'est ce qui va me permettre de communiquer avec mon IHM PC. Je coche bien cette case, je clique sur ok. Après, au niveau du projet, je vais venir ici dans les propriétés dans la protection et je vais “autoriser la simulation”."
+          },
+          {
+            "text": "Vu que je n'ai pas un automate physique de la version 1500, je simule tout simplement l'automate. C'est gratuit et cela me permet d'avoir ce que je veux."
+          },
+          {
+            "text": "Je clique sur OK."
+          },
+          {
+            "text": "Ensuite on va créer un bloc qui va nous permettre d'enregistrer toutes nos données qui seront échangées avec l'IHM ."
+          },
+          {
+            "text": "Je crée un db ici que je vais appeler DBmotorRun parce que ce sera du coup une simulation de démarrer/arrêter un moteur."
+          },
+          {
+            "text": "Ce db là, j'ai besoin au niveau des propriétés, de le paramétrer de manière assez précise."
+          },
+          {
+            "text": "Au niveau des attributs il faut que je décoche cette case-là pour que l'accès au bloc ne soit pas optimisé. Parce que j'ai besoin d'accéder aux adresses absolues des variables. Dans ce cas-là je décoche cette option et je clique sur OK."
+          },
+          {
+            "text": "Maintenant on peut revenir sur notre LADDER et créer un programme d'auto-maintient."
+          },
+          {
+            "text": "C'est assez classique pour le contrôle des moteurs. Je viens ici rajouter différents éléments. On a un contact normalement ouvert qui va venir activer une bobine, et tant que la bobine restera active (tant qu'on n'aura pas appuyer un bouton stop), la bobine va assurer son propre auto-maintien. Ce sont des lignes de ladder que tu vas souvent rencontrer."
+          },
+          {
+            "text": "Ensuite le bouton start sera relié à l'info demandée (que je n'ai pas mise évidemment)."
+          },
+          {
+            "text": "Je vais revenir ici lister mes infos."
+          },
+          {
+            "text": "On a le bouton start qui est de type booléen , le bouton stop et un bouton qu'on va appeler etat_moteur qui est aussi un booléen . On va le préciser pour donner la valeur à 1. Cela correspondra à l'état ON ."
+          },
+          {
+            "text": "Nous avons dit premièrement le bouton start, ensuite la même chose mais pour le bouton stop. On a le moteur en marche qui va assurer son auto-maintien grâce à ce deuxième contact normalement ouvert. Ici c'est le programme LADDER pour pouvoir faire notre test. Je vais compiler tout."
+          },
+          {
+            "text": "On vérifie que le programme est cohérent, et une fois que la compilation est terminée, je vais lancer maintenant mon automate virtuel avec PLCSIM Advanced pour pouvoir charger le programme à l'intérieur."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_24.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Chargement du programme dans l’automate virtuel",
+        "paragraphs": [
+          {
+            "text": "J’utilise ici la carte ethernet virtuel de plcsim."
+          },
+          {
+            "text": "Je le laisse en local . On va créer un automate s7-1500 . On va l'appeler \"automate_s717500\" pour le nom Profinet. L'adresse internet, sera l'adresse IP 192.168.1.101 comme on a dit tout à l'heure, et je mets juste un masque en /24 pour pouvoir accéder à la même plage que mon PC (255.255.255.0) et je démarre mon automate."
+          },
+          {
+            "text": "L'automate devrait être accessible maintenant je vais venir ici charger le programme à l'intérieur."
+          },
+          {
+            "text": "De là, TIA Portal va rechercher l'interface de PLCSIM sur le Profitnet-Ethernet."
+          },
+          {
+            "text": "Et une fois qu'il a trouvé, je peux cliquer ici sur \"charger\"."
+          },
+          {
+            "text": "Il me demande de considérer comme un automate de confiance cet organe-là. Je clique sur ok (c'est typique à TIA Portal v17 parce que je ne l'ai pas vu ailleurs dans les versions précédente)."
+          },
+          {
+            "text": "Je dis que c'est un automate de confiance et je charge le programme."
+          },
+          {
+            "text": "Charger et démarrer. Je termine. Là on est bon."
+          },
+          {
+            "text": "On devrait avoir le programme qui est chargé à l'intérieur de l'automate. Pour vérifier, je vais venir ici avec mon petit symbole pour voir le programme et je peux tester que quand j'appuie sur le bouton start on a le moteur qui s'arrête."
+          },
+          {
+            "text": "Même si le bouton est relâché le moteur reste actif et dès que je vais venir ici appuyer sur mon bouton stop, boom on arrête la boucle et du coup le moteur s'arrête."
+          },
+          {
+            "text": "Le programme pour l'instant fonctionne bien pour la partie automate."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_44.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Configuration de la partie IHM PCs",
+        "paragraphs": [
+          {
+            "text": "Ensuite on vient sur la partie IHM PC et on va refaire un peu les mêmes configurations."
+          },
+          {
+            "text": "Déjà l'adresse IP sera l'adresse IP de mon PC vu que cette adresse va être basée sur mon PC. Mon PC est à l'adresse 1.52 (plus exactement ma VM parce qu'en réalité, je travaille dans une VM). Je ne mets toujours pas de router, on est dans la bonne plage."
+          },
+          {
+            "text": "Ensuite je vais venir créer ici les tags qui correspondent aux 3 infos que j'ai dans ma DB automate."
+          },
+          {
+            "text": "Le premier tag start qui est de type booléen . Le deuxième sera stop . Et l'autre sera un moteur_ON comme on a dit tout à l'heure."
+          },
+          {
+            "text": "Alors ils sont reliés chacun respectivement aux signaux qu'on a déjà créés dans le DB moteur run. Je vais venir faire ici l'association avec les différents signaux :"
+          },
+          {
+            "text": "Tag stop et le moteur_on. Je vérifie bien la cohérence ici en cliquant sur \"Synchroniser\"."
+          },
+          {
+            "text": "Tout est ok par rapport aux infos entre l'IHM et l'automate."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_61.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Création de l'interface de l'IHM",
+        "paragraphs": [
+          {
+            "text": "Après on va venir créer du coup le visuel, les boutons qui vont nous donner la commande sur les valeurs de l'automate."
+          },
+          {
+            "text": "Je viens ici dans la toolbox."
+          },
+          {
+            "text": "On va prendre déjà un premier bouton qui correspondra au bouton start. Je commence ici par changer le texte en start. Le fond du bouton, je vais le mettre en vert vu qu'il va démarrer et ensuite je rajoute les événements."
+          },
+          {
+            "text": "Quand on va appuyer sur le bouton, on veut modifier la valeur d'un tag. Je viens ici sélectionner le tag qu'on veut modifier c'est-à-dire \"start\"."
+          },
+          {
+            "text": "On vient modifier sa valeur à 1."
+          },
+          {
+            "text": "Et lorsqu'on va relâcher le bouton, on modifie sa valeur à 0. Je reprends la même fonction tag: cette tagvalue. C’est le tag start qu'on revient mettre à zéro."
+          },
+          {
+            "text": "On vient de finir avec le bouton start. Pour le bouton stop c'est la même chose. Je vais juste copier-coller le même bouton juste ici."
+          },
+          {
+            "text": "La variable qui est modifiée sera stop pour l'appui et encore stop pour le relâchement du bouton."
+          },
+          {
+            "text": "Accessoirement je vais donner une autre couleur pour qu'on voit bien la différence entre les deux."
+          },
+          {
+            "text": "Et maintenant il nous faut juste un signal qui nous renvoie l'état du moteur. Je vais venir ici prendre juste une LED qui va s'allumer lorsque le moteur est démarré."
+          },
+          {
+            "text": "Cette LED est grise par défaut et on va la lier à la valeur d'un tag."
+          },
+          {
+            "text": "Mon tag sera l'état du moteur qui est dans une plage entre 0 et 1. Je vais choisir ici 0 ou 1. Dans le cas 0 on reste gris, et dans le cas 1 je vais afficher une belle couleur verte sur ma LED."
+          },
+          {
+            "text": "Je peux rajouter autre chose oui par exemple une petite info qui me dit de quoi on parle."
+          },
+          {
+            "text": "Là on vient chez qu'est l'état du moteur tout simplement. On a notre écran assez basique juste pour pouvoir tester le fonctionnement."
+          },
+          {
+            "text": "Et je vais venir ici faire encore des configurations par rapport au chargement dans l'IHM PC. Il faut que je mette un mot de passe pour crypter la communication. Dans notre cas j'en ai pas besoin. Je vais juste désactiver cette coche."
+          },
+          {
+            "text": "Là on voit ici que le programme compile et à la fin, pas d'erreur."
+          },
+          {
+            "text": "On a l'automate, l'IHM PC et maintenant on va lui donner des accès utilisateurs."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_69.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Configuration des accès utilisateurs",
+        "paragraphs": [
+          {
+            "text": "Je viens dans \"settings sécurité\" ici au niveau des \"Users and roles\". Je rajoute un user de type local qui va s'appeler \"admin\" ."
+          },
+          {
+            "text": "Je lui mets un mot de passe qui doit contenir une lettre majuscule et puis au moins 8 caractères et des chiffres. Tu pourras mettre quelque chose dont tu te souviens. Je valide et je lui donne les droits administrateurs."
+          },
+          {
+            "text": "Une fois que j'ai fait cela, je vais maintenant créer le fameux serveur web qui est basé sur mon PC."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_86.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Création du serveur web",
+        "paragraphs": [
+          {
+            "text": "Pour la création du serveur web, il existe un outil pas mal qui s'appelle \"wincc unified configuration\" je clique dessus."
+          },
+          {
+            "text": "Et tu vois ici plusieurs éléments. On a les différentes étapes pour créer le serveur web. Déjà on doit créer un certificat vu que c'est un site en http. Et je vais lui donner un nouveau nom qui correspond à une date fictive."
+          },
+          {
+            "text": "Au niveau de la configuration des utilisateurs, je garde l'option par défaut."
+          },
+          {
+            "text": "Le stockage en base de données pour l'instant je veux le faire dans le répertoire par défaut."
+          },
+          {
+            "text": "Pour les reports, je garde le répertoire par défaut."
+          },
+          {
+            "text": "Chargement sécurisé, j'ai décocher la case tout à l'heure. Je reste sur aucune aucun mot de passe pour le chargement"
+          },
+          {
+            "text": "Et maintenant je vais appliquer tous ces paramètres là à mon serveur web qui sera créée sur le PC. Je clique ici sur \"appliquer\" et cela va prendre quelques minutes pour faire la configuration du serveur web PC."
+          },
+          {
+            "text": "Une fois que la configuration est terminée, je viens cliquer sur quitter."
+          },
+          {
+            "text": "Et pour vérifier que mon serveur web (qui va accueillir l'IHM) est bien créé, je vais venir ici dans les services web de mon PC. Je clique ici sur le \"gestionnaire des services internet\" et quand je déroule mon PC les sites web qui sont basés dessus, je vois ici un serveur qui s'appelle \"wincc unified scada\" ."
+          },
+          {
+            "text": "C'est sur ce serveur web là qu'on va venir charger notre IHM qui sera ensuite accessible avec l'adresse IP du serveur web de mon PC."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_90.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      },
+      {
+        "heading": "Lancement de la simulation",
+        "paragraphs": [
+          {
+            "text": "L'étape suivante c'est de venir ici cliquer la partie IHM et lancer la simulation sur le serveur du PC ."
+          },
+          {
+            "text": "Tu cliques ici sur l'icône simulation. On va faire un téléchargement total. On démarre le runtime une fois que le chargement est fini. On garde les valeurs actuelles et on ne fait pas de reset vu que c'est le premier chargement."
+          },
+          {
+            "text": "Je peux cliquer sur charger. Tu as des petits éléments qui apparaissent de manière furtive, mais juste pour te dire que le programme a été chargé sur ton serveur web. Et pour vérifier cela, tu peux venir lancer le \"runtime manager\" de SIMATIC pour voir ici lesquels projets sont présents sur ton serveur web du PC."
+          },
+          {
+            "text": "Là on voit notre projet qui est bien présent ici qui est en état, qui fonctionne et qui correspond au projet qu'on a créé."
+          },
+          {
+            "text": "Là normalement on devrait être capable d'accéder à cette page IHM web depuis n'importe quel appareil qui est dans le réseau. Pour accomplir cette tâche, on va déjà tester avec le navigateur du PC en donnant l'adresse IP du PC."
+          },
+          {
+            "text": "On le lance. Parfois, il faut réactiver ici le certificat pour qu'ils prennent bien en compte qu'on est sur un nouveau serveur http."
+          },
+          {
+            "text": "Je viens ici cliquer sur \"avancé\" et dire \"accepter le risque\" parce que je sais de quel serveur web il s'agit."
+          },
+          {
+            "text": "Une fois que tu as accepté, tu as ces 3 icônes-là qui apparaissent. Je clique ici sur wincc unified runtime . On devrait voir apparaître la page et IHM qu'on a créée."
+          },
+          {
+            "text": "Là, vu qu'on a configuré des mots de passe, il va me demander les identifiants que j'ai configuré."
+          },
+          {
+            "text": "Je me connecte à mon IHM que j'ai créée. Là, tu vois bien que l'adresse IP correspond là au nom de mon PC."
+          },
+          {
+            "text": "Si je tapais la même adresse IP sur un téléphone ou bien une tablette qui se trouve dans le même réseau que ce serveur web là (qui est basé sur le PC), on aurait quand même accès à la même page."
+          },
+          {
+            "text": "Pour te montrer, je vais venir ici dans les outils supplémentaires, la vue adaptative."
+          },
+          {
+            "text": "Tu peux choisir différents appareils : un IPad ou tout ce qui se connecte avec des navigateurs web auront accès à la même chose."
+          },
+          {
+            "text": "Ensuite on va tester notre programme, je vais venir ici réduire un petit peu. L'auto-maintient: lorsque j'appuie sur start qu'est ce qui se passe ? On voit que le moteur est bien ON, et la led qui s'allume et lorsque j'appuie sur stop, le moteur s'arrête."
+          },
+          {
+            "text": "C'est tout pour cet article: Wincc Unified . Tu as vu comment est-ce que tu peux tout simplement créer le programme sur ton PC et puis avoir accès à une IHM sans avoir besoin de payer par exemple d’un panel dédié sur ta machine."
+          },
+          {
+            "text": "Tu as juste besoin d'un PC qui se connecte à l'utomate de ta machine, et ensuite tu accèdes à l'HM depuis un téléphone, tablette, un PC , ou tout appareil qui a un navigateur web."
+          },
+          {
+            "text": "Si tu as déjà utilisé Wincc Unified je serais intéressé d'avoir ton avis dans les commentaires."
+          },
+          {
+            "text": "Par exemple si tu veux que je t'envoie le programme pour pouvoir reproduire cette simulation chez toi, fais-le moi savoir en commentaire."
+          },
+          {
+            "text": "Et on se dit à bientôt dans un prochain article."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/ihm_web_wincc_95.png",
+          "alt": "PC connecté à un automate S7 1500"
+        }
+      }
+    ]
+  }
+}

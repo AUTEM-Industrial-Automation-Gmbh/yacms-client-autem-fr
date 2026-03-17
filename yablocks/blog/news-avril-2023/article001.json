@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/news-avril-2023/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Beaucoup de choses se passent dans le monde de l'industrie 4.0. Aujourd'hui, pour faire une petite revue d'actualité sur ces nouveautés, je partagerai avec toi 4 nouveautés que j'ai trouvées intéressantes pour ce mois d'avril 2023."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/wl99ADAA170"
+      },
+      {
+        "heading": "Ignition Cloud",
+        "paragraphs": [
+          {
+            "text": "Actualité n°1: Ignition Cloud Ignition est un logiciel de supervision industrielle et permet d'être une plateforme centralisée pour toutes les données provenant des machines et qui dialogue avec tous les systèmes OT. Il a déjà sorti une version Cloud avec un mode SaaS sur des marketplaces publiques telles que AWS et Azure . Liens Utiles pour cette actualité Cloud Edition | Marketplace Azure Cloud Edition | Marketplace AWS"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Cloud Edition | Marketplace Azure",
+            "href": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps/inductiveautomation1644533469785.iot_edge_ignition_iiot1_byol?tab=Overview"
+          },
+          {
+            "text": "Cloud Edition | Marketplace AWS",
+            "href": "https://aws.amazon.com/fr/solutions/partners/inductive-automation-ignition/"
+          }
+        ]
+      },
+      {
+        "heading": "Décret GTC BACS (Building Automation Control Systems)",
+        "paragraphs": [
+          {
+            "text": "Actualité n°2: Le Décret BACS . Ce décret concerne uniquement les bâtiments tertiaires - non résidentiel -. Il mentionne une obligation légale selon laquelle, à partir du 1er Janvier 2025 tous les bâtiments qui dépasse 290 kW devront être équipés d'un système de mesure de leur consommation énergétique le but étant d'optimiser les consommations énergétiques ."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Décret GTC BACS"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Décret GTC BACS",
+            "href": "https://decret-bacs.fr/"
+          }
+        ]
+      },
+      {
+        "heading": "CtrlX Core",
+        "paragraphs": [
+          {
+            "text": "Actualité n°3: Collaborations entre WAGO et ControlX Core , le fameux OS développé par Bosch Rexroth . Le but de cette collaboration était d'étendre leur OS (préalablement déployé sur des Edges Computers) sur d'autres équipements et commencer par créer de l'interopérabilité. Suite à cela, WAGO a été les premiers constructeurs à accepter de collaborer avec eux."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Wago x CtrlX Core - Bosch Rexroth | Bosch Rexroth"
+            },
+            {
+              "text": "Wago x CtrlX Core - Bosch Rexroth | WAGO"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Wago x CtrlX Core - Bosch Rexroth | Bosch Rexroth",
+            "href": "https://apps.boschrexroth.com/microsites/ctrlx-automation/en/news-stories/story/working-together-for-openness-in-automation-wago-is-the-first-system-and-technology-partner-for-the-operating-system-ctrlx-os"
+          },
+          {
+            "text": "Wago x CtrlX Core - Bosch Rexroth | WAGO",
+            "href": "https://www.wago.com/global/automation-technology/discover-io-systems/ctrlx-automation-bosch-rexroth"
+          }
+        ]
+      },
+      {
+        "heading": "Virtual PLC",
+        "paragraphs": [
+          {
+            "text": "Actualité n°4: Le fameux automate S7-1500V de Siemens - en mode Virtuel . L'idée c'est d'avoir un d'avoir un automate qui soit virtuel, qui ne soit pas dépendant d'un matériel. Le fait de disposer d'un automate qui puisse se déployer sur tout type de plateforme (PCs, Serveurs...) emmènera certains avantages comme par exemple la possibilité de faire tourner une machine depuis un serveur informatique ou d'autres systèmes ."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Siemens Virtual PLC | SIEMENS"
+            },
+            {
+              "text": "Siemens Virtual PLC | SIEMENS - SIMATIC S7-1500V"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Siemens Virtual PLC | SIEMENS",
+            "href": "https://press.siemens.com/global/en/pressrelease/first-virtual-simatic-controller-enables-more-flexible-software-based-automation"
+          },
+          {
+            "text": "Siemens Virtual PLC | SIEMENS - SIMATIC S7-1500V",
+            "href": "https://www.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500/virtual-plc.html"
+          }
+        ]
+      }
+    ]
+  }
+}

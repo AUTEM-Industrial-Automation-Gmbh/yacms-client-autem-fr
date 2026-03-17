@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Comment diagnostiquer une panne machine | AUTEM | Blog AUTEM",
+    "description": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
+    "keywords": [
+      "Instrumentation-Capteurs",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

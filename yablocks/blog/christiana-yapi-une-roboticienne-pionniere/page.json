@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Christiana YAPI - Une roboticienne pionnière en Côte d'Ivoire | Blog AUTEM",
+    "description": "Christiana YAPI nous partage son expérience sur la robotique à travers cet échange très riche.",
+    "keywords": [
+      "Motion & Robotique",
+      "Interview-Atelier LIVE",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

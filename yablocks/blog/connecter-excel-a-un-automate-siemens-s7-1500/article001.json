@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/connecter-excel-a-un-automate-siemens-s7-1500/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "KEPWARE | Connexion Excel et Automate SIEMENS",
+        "paragraphs": [
+          {
+            "text": "Salut à toi, et bienvenue sur AUTEM."
+          },
+          {
+            "text": "Dans cet nouvel article, on va voir comment tu peux contrôler un automate depuis un fichier Excel ."
+          },
+          {
+            "text": "La simulation se base sur un exemple que je vais te présenter ici. D’une part on à l’automate qui est programmé en langage LADDER . Si tu connais le langage LADDER, tu vas reconnaître que c’est un système d’auto-maintien pour un contrôle de moteur. On a notre relais qui active le moteur et on a nos 2 signaux : démarrage pour start et arrêt pour stop . On a ici un signal qui va récupérer l’état du relais pour réaliser l’auto-maintien. D’une part on a ceci au niveau de l’automate"
+          },
+          {
+            "text": "et d’autre part on a notre tableur Excel . Avec ce tableur Excel, on va pouvoir venir démarrer ou arrêter notre moteur . Si je clique sur le bouton start tu vois que le relais du moteur s’active à gauche,"
+          },
+          {
+            "text": "et si j’appuie sur le bouton stop le moteur s’arrête ."
+          },
+          {
+            "text": "C4est ce au4on devrait obtenir à la fin de cet article. Mais déjà si tu souhaites recevoir les fichiers de cette simulation, signale-le. Je t’enverrai les programmes pour reproduire cette simulation chez toi."
+          },
+          {
+            "text": "Maintenant on va voir ensemble le détail des étapes pour réaliser le lien entre ton tableur Excel, et ton automate Siemens."
+          },
+          {
+            "text": "Déjà au niveau de la configuration, on a plusieurs choses : d’un côté on a notre tableur Excel qui communique au protocole DDE (qui signifie Dynamic Data Exchange ). De l’autre côté, on a notre automate . C’est un automate Siemens que j’ai simulé avec l’utilitaire PLCSIM Advanced . L’automate nous sert de serveur OPC parce qu’il communique avec ce protocole-là. Et au milieu, ce qui fait le lien, c’est Kepware Kepserver . C’est un logiciel qui va servir de client OPC du côté automate , et client DDE du côté Excel ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_1.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      },
+      {
+        "heading": "Configuration de l’automate",
+        "paragraphs": [
+          {
+            "text": "Déjà côté automate, je le configure avec TIA Portal ."
+          },
+          {
+            "text": "La première chose à faire ici c’est au niveau de ton projet : Il te faut venir dans les propriétés et dans la protection ."
+          },
+          {
+            "text": "On va prendre les précautions pour que le logiciel assure la prise en charge de la simulation, vu que là je simule un automate. Si tu utilises un automate physique peut-être que tu n’auras pas besoin de cette étape. Mais pour de la simulation, on a besoin d’activer ici cette coche au niveau du projet ."
+          },
+          {
+            "text": "Ensuite on va venir choisir notre automate . J’ai pris cet automate-là. C’est un S7-1500."
+          },
+          {
+            "text": "La chose importante, c’est que ce soit un automate qui supporte le protocole OPC (on peut en choisir plusieurs)."
+          },
+          {
+            "text": "Après, dans les protections au niveau des mécanismes de connexion , je viens donner accès à la communication, pour qu’on puisse récupérer les données de l’automate ."
+          },
+          {
+            "text": "Ensuite on va commencer à définir nos variables ."
+          },
+          {
+            "text": "Première chose, dans la table des variables, je définis ma sortie qui active le relais du moteur sur l’adresse M0.6 ."
+          },
+          {
+            "text": "Ensuite je viens créer un bloc de données qui correspond à mes boutons : le bouton ‘Start’ et le bouton ‘Stop’ ."
+          },
+          {
+            "text": "Ils sont tous deux des booléens . Et du coup je les ai créés ici dans une database ."
+          },
+          {
+            "text": "Au niveau de la database, quelque chose d’important aussi à faire dans les propriétés . Il faut bien s’assurer que l’accès optimisé est désactivé"
+          },
+          {
+            "text": "parce qu’on veut avoir les adresses absolues de chacune des variables qui se trouvent ici. Quand je parle d’adresse absolue, je veux faire référence à ce que tu vois ici en haut en vert : DB1.DBX0.0 pour qu’on puisse ensuite le référencer après dans Kepware."
+          },
+          {
+            "text": "Il faut bien s'assurer de désactiver l’accès optimisé puisque c’est d’un bloc non optimisé qu’on a besoin. Après, tu viens créer dans ta fonction le programme LADDER: bouton start , stop , la sortie relais du moteur , l’auto-maintien ici en bas."
+          },
+          {
+            "text": "On relie forcément notre FC ici. On vient le référencer dans l’OB1 au niveau de la programmation dans TIA Portal."
+          },
+          {
+            "text": "Et une fois que c’est fait tu peux compiler, le charger dans l’automate et te mettre en ligne. Ici, je suis déjà en ligne. Tu vois le LADDER qui s’anime en vert et bleu. Pour ce qui est de la partie automate c'est fait."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_6.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      },
+      {
+        "heading": "Configuration de Kepware",
+        "paragraphs": [
+          {
+            "text": "Ensuite dans Kepware on va venir faire le lien entre notre automate et le client OPC . Ici dans Kepware, quand tu ouvres la configuration, tu as la possibilité de créer des canaux."
+          },
+          {
+            "text": "Premier canal que je crée c’est le canal OPC qui vient dialoguer avec mon automate ."
+          },
+          {
+            "text": "Pour le créer, j’ai défini plusieurs choses : je lui donne un nom . Pour le driver , je choisis le driver Siemens TCP/IP Ethernet ."
+          },
+          {
+            "text": "Ensuite on va venir créer ici un device (un appareil)."
+          },
+          {
+            "text": "Je lui donne un nom , un driver (le driver qui correspond au canal que j’ai créé ). Le modèle: c’est un S7-1500 . Je lui donne ici l’adresse IP de l’automate que j’ai configuré dans TIA Portal ."
+          },
+          {
+            "text": "Au niveau du port , on garde le port 102 ."
+          },
+          {
+            "text": "Les paramètres S7 sont importants : dans le slot de la CPU (le slot où se trouve ton contrôleur) on marque bien le slot 1 . Et le type de lien : je garde le lien PC. On pourrait aussi choisir le lien OP (en fait tu as trois types de liens), mais celui-là fonctionne très bien."
+          },
+          {
+            "text": "Et une fois qu’on a déclaré le canal et le device (l’automate), on va venir ici ensuite créer nos différents tags ."
+          },
+          {
+            "text": "Ceci correspond aux grandeurs dont je parlais avec les adresses absolues de chacune de tes variables. On a une variable pour le démarrage , l’arrêt , et une variable pour la sortie moteur ."
+          },
+          {
+            "text": "Chacune des variables est configurée comme cela avec son adresse. Je déclare que c’est un booléen en accès lecture/écriture et je lui donne un nom pour bien le référencer."
+          },
+          {
+            "text": "Quand il s’agit d’un booléen pour le relais du moteur, je viens directement indiquer l’adresse qui correspond dans ma table des variables ( M0.6 ) que je reporte là."
+          },
+          {
+            "text": "Si tu te retrouves sur cette partie-là et que tu cherches les références pour créer les adresses dans Kepserver, normalement tu as la possibilité. Je vais faire l’essai ici pour te montrer. Tu as la possibilité ici d’afficher tous les formats de l’adresse qui existent. Ainsi, tu peux construire tes adresses et retrouver ta table de données Siemens que tu avais définie juste avant."
+          },
+          {
+            "text": "Alors une fois que ceci a été configuré, le canal OPC , on est censé pouvoir communiquer avec notre automate . On va faire une petite démo : je viens ici choisir le \"quick client\" pour pouvoir lire mes variables"
+          },
+          {
+            "text": "Là, au niveau de mon canal OPC j’ai mon automate avec les différentes variables qui sont ici représentées avec leur valeur."
+          },
+          {
+            "text": "Ce que je vais faire, je vais modifier les grandeurs start/ stop en venant faire ici un clic-droit “Asynchronous Write” pour changer les valeurs ."
+          },
+          {
+            "text": "Au niveau du start par exemple on va inverser le tout, on va mettre le démarrage à 1 et l’arrêt à 0."
+          },
+          {
+            "text": "Je fais appliquer et tu vois qu’au niveau de mon LADDER, la communication OPC s’est bien établie entre Kepware et mon automate."
+          },
+          {
+            "text": "Si je remets ici comme c’était, on a la communication OPC qui continue entre les deux."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_17.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      },
+      {
+        "heading": "Configuration de l'interface de communication",
+        "paragraphs": [
+          {
+            "text": "Pour Excel, on vient créer ici un canal. C’est un canal de type client DDE ( DDE c’est le protocole de communication qui va permettre d’échanger avec Excel )."
+          },
+          {
+            "text": "Ensuite dans le canal, on vient créer un device . Dans notre cas c’est tout simplement une feuille de tableur Excel . Dans le client DDE je lui donne un nom."
+          },
+          {
+            "text": "On définit le client DDE , notre canal Excel , on clique sur ok et ensuite on va pouvoir venir déclarer nos différents tag Excel comme pour le canal précédent. Tu retrouves ici tes 2 boutons start/stop et le relais moteur (l’information qui correspond au booléen du relais moteur)."
+          },
+          {
+            "text": "Quelque chose d’important pour le protocole DDE, dans les adresses , tu as ce format d’adressage-là : on vient spécifier un service , un topic , et un item ."
+          },
+          {
+            "text": "C’est bien important de garder ces 3 éléments-là, parce que sans ces éléments, tu ne vas pas pouvoir récupérer tes infos ."
+          },
+          {
+            "text": "Le premier élément ce sera le service . Dans notre cas il s’appelle Excel , vu qu’on vient communiquer avec notre tableur Excel . Le topic se sera l’équivalent de la cellule dans ton tableur Excel . Pour repérer la cellule, première chose : on va venir ici marquer le nom de la feuille Excel qui est ouverte (dans mon cas c’est Feuille1). Et je le marque bien en français parce que mon Excel (mon système d’exploitation) est en français. Si c’était dans une autre langue, il faut adapter à la langue . Enfin, je viens indiquer ici la cellule . Elle est sur la ligne 5, colonne 3 ."
+          },
+          {
+            "text": "Pourquoi ligne 5, colonne 3 ? Parce que ici je vois que mon signal moteur est sur la ligne 5 et la troisième colonne. Cela correspond à cette cellule-là."
+          },
+          {
+            "text": "Je valide, et on a notre adressage au protocole DDE ."
+          },
+          {
+            "text": "On fait pareil pour les 2 autres signaux. Concrètement on va venir lier les booléens à ces 3 cellules."
+          },
+          {
+            "text": "Une fois qu’on a fait cela, au niveau du projet , dans les propriétés on va venir ici activer la connexion DDE . Ici assure toi bien qu’au niveau de cette ligne-là, tu as bien \"oui\" pour l’activation du serveur DDE."
+          },
+          {
+            "text": "Ensuite, au niveau de notre outil, on a des éléments de paramètres à adapter. Là tu ouvres Kepserver / Settings / dans le Runtime Process / le mode. Il faut qu’il soit à “interactif” pour pouvoir communiquer avec notre Excel en DDE ."
+          },
+          {
+            "text": "Là tu valides bien “interactif” pour le mode du runtime et une fois que c’est validé, tu viens cliquer sur OK. Là on devrait être bon pour communiquer en DDE avec Excel."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_35.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      },
+      {
+        "heading": "Configuration d'Excel",
+        "paragraphs": [
+          {
+            "text": "Maintenant si on vient sur le tableur, dernière partie de la config. On a un certain nombre de choses à paramétrer ici aussi."
+          },
+          {
+            "text": "La première chose c’est qu’on a nos 2 boutons start/ stop . Ces deux boutons sont reliés à des macros qui sont: clic_on_start et clic_on_stop ."
+          },
+          {
+            "text": "Si tu cliques sur modifier, tu vois 2 fonctions VBA très simples : lorsqu’on clique sur Start , on va activer la cellule qui correspond au démarrage , et mettre à zéro la cellule qui correspond à l’arrêt. Et lorsqu’on clique sur stop , on fait l’inverse ."
+          },
+          {
+            "text": "Du coup ces 2 boutons nous permettent de contrôler . Et pour pouvoir contrôler il y a plusieurs paramètres qu’il faut que tu vérifies."
+          },
+          {
+            "text": "La première chose c’est que ton fichier Excel soit bien démarré “en tant qu’administrateur” , sinon cela ne va pas fonctionner."
+          },
+          {
+            "text": "La deuxième chose c’est qu’il y a des paramètres à activer pour faire la communication en DDE . Dans fichiers/option , je viens ici dans le “centre de gestion de confidentialité“ , les “paramètres du centre de gestion de confidentialité“ . Au niveau du “contenu externe“ . Tu as des paramètres d’échange dynamique de données (DDE) et ici il faut bien que les 2 parties soient cochées: activer la recherche serveur, et activer le lancement de serveur ."
+          },
+          {
+            "text": "Une fois que c’est coché, tu cliques sur OK."
+          },
+          {
+            "text": "Un autre paramètre à vérifier aussi dans la sécurité des macros: il faut être sûr qu’on a bien activé toutes les macros VBA pour que quand on clique sur les boutons, nos macro fonctionnent comme il faut."
+          },
+          {
+            "text": "C'est tout pour les paramétrages pour activer la communication DDE."
+          },
+          {
+            "text": "Une fois que tu as fait cela, tu es prêt à échanger avec Kepserver. Là je vais te montrer à quoi correspond ce lien-là en DDE."
+          },
+          {
+            "text": "On a start qui est activé"
+          },
+          {
+            "text": "Lorsque je clique sur stop tu vois ici que stop passe à 1, start à 0."
+          },
+          {
+            "text": "Et lorsque je clique sur start, on a l’inverse qui se produit."
+          },
+          {
+            "text": "Et au passage, on a le moteur qui s’active. C’est normal."
+          },
+          {
+            "text": "On a bien le lien DDE entre Excel et Kepserver ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_45.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      },
+      {
+        "heading": "Liaison Excel - Automate",
+        "paragraphs": [
+          {
+            "text": "Maintenant une fois qu’on a défini les tags Excel qui correspondent aux boutons et les tags automate qui correspondent au moteur et aux signaux booléens, il faut trouver un moyen de relier les deux dans Kepserver, et cela est possible dans “Advanced Tag” en créant 3 liens ."
+          },
+          {
+            "text": "Et chacun de ces liens va venir mettre bout-à-bout chacun des signaux côté OPC avec le signal associé côté DDE ."
+          },
+          {
+            "text": "Lorsqu’on vient appuyer sur le bouton Start dans Excel (sur le canal DDE), le signal associé dans l’automate via le canal OPC devrait s’activer aussi."
+          },
+          {
+            "text": "Et pareil tu définis la même chose pour le bouton Stop."
+          },
+          {
+            "text": "Et pour le moteur c’est l’inverse : lorsque l’automate a réalisé son calcul, il va venir écrire le résultat dans le booléen qui correspond sur Excel ."
+          },
+          {
+            "text": "Une fois que tu as fait ce lien-là, normalement tu as tout pour pouvoir communiquer depuis ton automate vers Kepware, et ensuite de Kepware vers ton tableur Excel. On va refaire la simulation ensemble."
+          },
+          {
+            "text": "On a le tableur Excel, Kepware au milieu qui fait le lien, et l’automate."
+          },
+          {
+            "text": "On est en lien avec notre programme."
+          },
+          {
+            "text": "Et on refait ensemble la simulation."
+          },
+          {
+            "text": "Lorsqu’on clique sur Start , on est censé ici venir modifier la valeur de ce booléen dans Kepware et ensuite cette valeur sera reporté dans l’automate ."
+          },
+          {
+            "text": "C’est ce qu’on a. Et au passage on a un stop aussi qui change de valeur (qui passe de 1 à 0) et notre moteur qui s’active ."
+          },
+          {
+            "text": "La valeur est bien reportée ici (pour faire le chemin inverse) de l’automate vers Excel."
+          },
+          {
+            "text": "Et quand je clique sur stop on doit avoir ici notre signal stop qui passe à 1 le start à 0 et le moteur qui s’arrête"
+          },
+          {
+            "text": "et c'est bien ce qu'on observe ici avec ton LADDER qui s'anime en temps réel."
+          },
+          {
+            "text": "C'est tout pour la connexion de ton tableur Excel pour contrôler un automate. J'espère que grâce à ce tutoriel tu pourras maintenant utiliser Excel pour manipuler tes données DDE, OPC et commander tes automates ."
+          },
+          {
+            "text": "Je te rappelle que si tu souhaites recevoir le fichier de cette simulation, signale-le en commentaire, je t'enverrai le programme pour reproduire cette simulation chez toi."
+          },
+          {
+            "text": "Et je te dis à très vite dans un nouvel article !"
+          },
+          {
+            "text": "A bientôt !"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/kepware_excel_58.png",
+          "alt": "excel,kepware,vba,macro,dde,siemens,industrialautomation,system,industry4,opc,protocol,network,opcua,kepserver,opc ua…"
+        }
+      }
+    ]
+  }
+}

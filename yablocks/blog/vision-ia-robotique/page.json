@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "IA, Vision, Robotique - Mohamed KONATE | Blog AUTEM",
+    "description": "Vision IA et Robotique: challenges et perception sur le management de l'innovation dans les équipes R&D et bureaux d'études.",
+    "keywords": [
+      "IA & Machine Learning",
+      "Instrumentation-Capteurs",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

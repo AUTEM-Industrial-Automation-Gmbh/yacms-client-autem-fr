@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem | Blog AUTEM",
+    "description": "Automate & Microsoft Excel - Les différentes étapes pour apprendre à controler ton automate avec un fichier Excel.",
+    "keywords": [
+      "Supervision SCADA",
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

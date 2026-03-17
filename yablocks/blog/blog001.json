@@ -4,50 +4,105 @@
     "section": "blog/blog001"
   },
   "data": {
-    "backgroundImage": {
-      "src": "/images/background-indus.jpg",
-      "alt": "Blog technique AUTEM — Automatisme et Industrie 4.0"
-    },
-    "overtitle": "LE BLOG TECHNIQUE",
-    "title": "Ressources & Tutoriels AUTEM",
+    "title": "Le Blog technique AUTEM",
+    "overtitle": "NOS ARTICLES",
     "filterTags": [
       {
-        "label": "Actualités",
-        "value": "Actualités"
+        "label": "Automation",
+        "value": "automation"
       },
       {
-        "label": "Automatisme",
-        "value": "Automatisme"
+        "label": "Supervision SCADA",
+        "value": "supervision-scada"
       },
       {
-        "label": "Carrière & Formation",
-        "value": "Carrière & Formation"
+        "label": "IoT Réseau",
+        "value": "iot-reseau"
       },
       {
-        "label": "Data & IIoT",
-        "value": "Data & IIoT"
+        "label": "Actualités TECH",
+        "value": "actualites-tech"
       },
       {
-        "label": "Industrie",
-        "value": "Industrie"
+        "label": "Astuces Carrière",
+        "value": "astuces-carriere"
       },
       {
-        "label": "SCADA & Supervision",
-        "value": "SCADA & Supervision"
+        "label": "IA & Machine Learning",
+        "value": "ia-machine-learning"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "value": "evolution-industrie"
+      },
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "value": "cycle-vie-obsolescence"
+      },
+      {
+        "label": "Motion & Robotique",
+        "value": "motion-robotique"
+      },
+      {
+        "label": "Architecture Systèmes",
+        "value": "architecture-systemes"
+      },
+      {
+        "label": "Machines Vintage",
+        "value": "machines-vintage"
+      },
+      {
+        "label": "Transfert de Compétences",
+        "value": "transfert-competences"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "value": "interview-atelier-live"
+      },
+      {
+        "label": "Evenèments",
+        "value": "evenements"
+      },
+      {
+        "label": "MES-OEE",
+        "value": "mes-oee"
+      },
+      {
+        "label": "Pareto-VSM",
+        "value": "pareto-vsm"
+      },
+      {
+        "label": "Gestion Projet Stratégique",
+        "value": "gestion-projet-strategique"
+      },
+      {
+        "label": "GTB-GMAO",
+        "value": "gtb-gmao"
+      },
+      {
+        "label": "PC Industriel",
+        "value": "pc-industriel"
+      },
+      {
+        "label": "Electricité",
+        "value": "electricite"
+      },
+      {
+        "label": "Instrumentation-Capteurs",
+        "value": "instrumentation-capteurs"
       }
     ],
     "cards": [
       {
         "coverImage": {
           "src": "/assets/highByte-vs-kepware.jpg",
-          "alt": "HighByte vs Kepware"
+          "alt": "Intégrateur SCADA"
         },
         "title": "HighByte vs Kepware",
-        "excerpt": "Which trade-off to historize data in your factory ?",
-        "link": "/blog/highbyte-vs-kepware",
+        "link": "/blog/highByte-vs-kepware",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Supervision SCADA"
           }
         ],
         "author": {
@@ -57,20 +112,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "08 mars 2026",
-        "videoUrl": "https://youtu.be/66Ejja5bgRE"
+        "excerpt": "Which trade-off to historize data in your factory ?",
+        "date": "08/03/2026"
       },
       {
         "coverImage": {
           "src": "/assets/missing-your-true-identity.jpg",
-          "alt": "Are you missing your true identity ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Are you missing your true identity ?",
-        "excerpt": "Let's explore 3 reason why you should probably take a turn in your career.",
-        "link": "/blog/are-you-missing-your-true-identity",
+        "link": "/blog/missing-your-true-identity",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Article"
           }
         ],
         "author": {
@@ -80,19 +134,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "22 février 2026"
+        "excerpt": "Let's explore 3 reason why you should probably take a turn in your career.",
+        "date": "22/02/2026"
       },
       {
         "coverImage": {
           "src": "/assets/the-4-risks-of-a-retrofit-in-machine-automation.jpg",
-          "alt": "The 4 risks of a RETROFIT in Machine Automation"
+          "alt": "Intégrateur SCADA"
         },
         "title": "The 4 risks of a RETROFIT in Machine Automation",
-        "excerpt": "Let's explore the 4 risks of a RETROFIT in Machine Automation",
         "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -102,19 +159,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "15 février 2026"
+        "excerpt": "Let's explore the 4 risks of a RETROFIT in Machine Automation",
+        "date": "15/02/2026"
       },
       {
         "coverImage": {
           "src": "/assets/the-denial-of-age-vintage-machines.jpg",
-          "alt": "The Denial of AGE ... #VintageMachines"
+          "alt": "Intégrateur SCADA"
         },
         "title": "The Denial of AGE ... #VintageMachines",
-        "excerpt": "🏭 For people or machines in manufacturing, the shame of becoming DISPOSABLE is a reality. Let's explore !",
-        "link": "/blog/the-denial-of-age-vintagemachines",
+        "link": "/blog/the-denial-of-age-vintage-machines",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -124,19 +184,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "08 février 2026"
+        "excerpt": "🏭 For people or machines in manufacturing, the shame of becoming DISPOSABLE is a reality. Let's explore !",
+        "date": "08/02/2026"
       },
       {
         "coverImage": {
           "src": "/assets/when-archeology-meets-manufacturing.jpg",
-          "alt": "When Archeology meets Manufacturing"
+          "alt": "Intégrateur SCADA"
         },
         "title": "When Archeology meets Manufacturing",
-        "excerpt": "Are Dinosaure Machines the Best ? Let's explore the question.",
         "link": "/blog/when-archeology-meets-manufacturing",
         "tags": [
           {
-            "label": "Actualités"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -146,19 +209,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 février 2026"
+        "excerpt": "Are Dinosaure Machines the Best ? Let's explore the question.",
+        "date": "01/02/2026"
       },
       {
         "coverImage": {
           "src": "/assets/6-habits-that-kill-old-machines.jpg",
-          "alt": "🏭 6 Habits that kill Old Machines"
+          "alt": "Intégrateur SCADA"
         },
         "title": "🏭 6 Habits that kill Old Machines",
-        "excerpt": "Let's explore 6 Habits that kill Old Machines",
         "link": "/blog/6-habits-that-kill-old-machines",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Cycle de Vie et Obsolescence"
+          },
+          {
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -168,19 +234,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 janvier 2026"
+        "excerpt": "Let's explore 6 Habits that kill Old Machines",
+        "date": "25/01/2026"
       },
       {
         "coverImage": {
           "src": "/assets/cybersecurity-containerization-open_source-digital_transformation.jpg",
-          "alt": "Actus n°22 - Coming Back for 2026 🔥 the recap !"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°22 - Coming Back for 2026 🔥 the recap !",
-        "excerpt": "Cybersecurity, Containerization, Open Source, Digital Transformation",
-        "link": "/blog/actus-n-22-coming-back-for-2026-the-recap",
+        "link": "/blog/cybersecurity-containerization-open_source-digital_transformation",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -190,19 +259,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 janvier 2026"
+        "excerpt": "Cybersecurity, Containerization, Open Source, Digital Transformation",
+        "date": "25/01/2026"
       },
       {
         "coverImage": {
           "src": "/assets/automate-your-engineering-report-with-ai.jpg",
-          "alt": "Automate your Engineering Reports💡"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automate your Engineering Reports💡",
-        "excerpt": "Automate your Engineering Reports with AI - Real-Life example",
-        "link": "/blog/automate-your-engineering-reports",
+        "link": "/blog/automate-your-engineering-report-with-ai",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -212,19 +284,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "24 juin 2025"
+        "excerpt": "Automate your Engineering Reports with AI - Real-Life example",
+        "date": "24/06/2025"
       },
       {
         "coverImage": {
           "src": "/assets/automate-your-documentation.jpg",
-          "alt": "Automate your Documentation: MARKDOWN vs WORD"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automate your Documentation: MARKDOWN vs WORD",
-        "excerpt": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
-        "link": "/blog/automate-your-documentation-markdown-vs-word",
+        "link": "/blog/automate-your-documentation",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Transfert de Compétences"
           }
         ],
         "author": {
@@ -234,19 +306,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "17 juin 2025"
+        "excerpt": "It is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business.",
+        "date": "17/06/2025"
       },
       {
         "coverImage": {
           "src": "/assets/project-and-team-collaboration.jpg",
-          "alt": "Project & Team Collaboration in manufacturing"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Project & Team Collaboration in manufacturing",
-        "excerpt": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
-        "link": "/blog/project-team-collaboration-in-manufacturing",
+        "link": "/blog/project-and-team-collaboration",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Gestion Projet Stratégique"
+          },
+          {
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -256,19 +331,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "03 juin 2025"
+        "excerpt": "Handle your team collaboration with Focalboard which provide more data ownership and more interoperability of your existing system.",
+        "date": "03/06/2025"
       },
       {
         "coverImage": {
           "src": "/assets/train-your-local-ai.jpg",
-          "alt": "Train your local AI to think like YOU 🧠"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Train your local AI to think like YOU 🧠",
-        "excerpt": "Knowledge Base productivity",
-        "link": "/blog/train-your-local-ai-to-think-like-you",
+        "link": "/blog/train-your-local-ai",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Transfert de Compétences"
+          },
+          {
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -278,19 +356,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "06 mai 2025"
+        "excerpt": "Knowledge Base productivity",
+        "date": "06/05/2025"
       },
       {
         "coverImage": {
           "src": "/assets/mqtt-image-sampling.jpg",
-          "alt": "MQTT Image Sampling : Historize as TimeSeries in Docker"
+          "alt": "Intégrateur SCADA"
         },
         "title": "MQTT Image Sampling : Historize as TimeSeries in Docker",
-        "excerpt": "🖼️ Storing Images from your Machine Vision system in 10 minutes.",
-        "link": "/blog/mqtt-image-sampling-historize-as-timeseries-in-docker",
+        "link": "/blog/mqtt-image-sampling",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -300,19 +378,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "06 mai 2025"
+        "excerpt": "🖼️ Storing Images from your Machine Vision system in 10 minutes.",
+        "date": "06/05/2025"
       },
       {
         "coverImage": {
           "src": "/assets/modeliser-son-lifecycle-machine.jpg",
-          "alt": "Modéliser son LifeCycle Machine"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Modéliser son LifeCycle Machine",
-        "excerpt": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
-        "link": "/blog/mod-liser-son-lifecycle-machine",
+        "link": "/blog/modeliser-son-lifecycle-machine",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Cycle de Vie et Obsolescence"
           }
         ],
         "author": {
@@ -322,19 +400,25 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "16 avril 2025"
+        "excerpt": "3 paramètres pour des Décisions Objectives Maintenance Préventive",
+        "date": "16/04/2025"
       },
       {
         "coverImage": {
           "src": "/assets/news-mars-2025.jpg",
-          "alt": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA",
-        "excerpt": "Actualités mensuelles mars 2025 de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de mars 2025)",
-        "link": "/blog/actus-n-20-les-2-tendances-en-industrie-ouverture-technologi",
+        "link": "/blog/ouverture-technologique-et-automation",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Automation"
+          },
+          {
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -344,19 +428,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 avril 2025"
+        "excerpt": "Actualités mensuelles mars 2025 de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de mars 2025)",
+        "date": "01/04/2025"
       },
       {
         "coverImage": {
           "src": "/assets/formation-et-industrie.jpg",
-          "alt": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA"
+          "alt": "Intégrateur SCADA"
         },
         "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA",
-        "excerpt": "Comment former les techniciens de demain ?",
-        "link": "/blog/formation-techniciens-pour-l-industrie-du-futur-yannick-sutr",
+        "link": "/blog/formation-et-industrie",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -366,19 +453,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 mars 2025"
+        "excerpt": "Comment former les techniciens de demain ?",
+        "date": "25/03/2025"
       },
       {
         "coverImage": {
           "src": "/assets/une-equation-a-7-inconnues.jpg",
-          "alt": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues",
-        "excerpt": "Une équation à 7 inconnues",
-        "link": "/blog/obsolescence-p-r-nnit-p-nurie-une-quation-7-inconnues",
+        "link": "/blog/obsolescence-perennite-penurie-inconnues",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Cycle de Vie et Obsolescence"
           }
         ],
         "author": {
@@ -388,19 +475,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "12 mars 2025"
+        "excerpt": "Une équation à 7 inconnues",
+        "date": "12/03/2025"
       },
       {
         "coverImage": {
           "src": "/assets/les-automaticiens-entrepreneurs.jpg",
-          "alt": "Les automaticiens entrepreneurs"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Les automaticiens entrepreneurs",
-        "excerpt": "✋ 3 conseils avant de se mettre à son compte",
         "link": "/blog/les-automaticiens-entrepreneurs",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -410,19 +497,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 mars 2025"
+        "excerpt": "✋ 3 conseils avant de se mettre à son compte",
+        "date": "04/03/2025"
       },
       {
         "coverImage": {
           "src": "/assets/prove-it-la-conference-40.jpg",
-          "alt": "Actus n°19 - Prove-it: la conférence 4.0"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°19 - Prove-it: la conférence 4.0",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de février 2025)",
-        "link": "/blog/actus-n-19-prove-it-la-conf-rence-4-0",
+        "link": "/blog/prove-it-la-conference-40",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Evenèments"
           }
         ],
         "author": {
@@ -432,19 +519,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 février 2025"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de février 2025)",
+        "date": "25/02/2025"
       },
       {
         "coverImage": {
           "src": "/assets/license_logicielle.jpg",
-          "alt": "Prix des Logiciels Industriels"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Prix des Logiciels Industriels",
-        "excerpt": "Licence payante ou gratuite ? Propriétaire ou OpenSource ? Les tendances et suggestions.",
-        "link": "/blog/prix-des-logiciels-industriels",
+        "link": "/blog/logiciel-industriels-licence-payante-ou-gratuite",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -454,19 +541,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "19 février 2025"
+        "excerpt": "Licence payante ou gratuite ? Propriétaire ou OpenSource ? Les tendances et suggestions.",
+        "date": "19/02/2025"
       },
       {
         "coverImage": {
           "src": "/assets/carriere-automatisme-industrie-communaute.jpg",
-          "alt": "Evolution dans l'industrie:carrière, automatisme et communauté"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Evolution dans l'industrie:carrière, automatisme et communauté",
-        "excerpt": "Retour aux Origines avec Hocine BOUCHEMAL, Bertrand AYENE, Bourahima KAMAGATE, Giovanni AGBOCOU, Veysel DOGANEL",
-        "link": "/blog/evolution-dans-l-industrie-carri-re-automatisme-et-communaut",
+        "link": "/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -476,19 +566,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "11 février 2025"
+        "excerpt": "Retour aux Origines avec Hocine BOUCHEMAL, Bertrand AYENE, Bourahima KAMAGATE, Giovanni AGBOCOU, Veysel DOGANEL",
+        "date": "11/02/2025"
       },
       {
         "coverImage": {
           "src": "/assets/ladder-et-process-control-programmation-et-opensource.jpg",
-          "alt": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de janvier 2025)",
-        "link": "/blog/actus-n-18-ladder-process-control-programmation-opensource",
+        "link": "/blog/ladder-et-process-control-programmation-et-opensource",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -498,19 +591,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "28 janvier 2025"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de janvier 2025)",
+        "date": "28/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/stop_aux_formations_et_communaute_en_ligne.jpg",
-          "alt": "STOP aux Formations et Communautés en ligne !"
+          "alt": "Intégrateur SCADA"
         },
         "title": "STOP aux Formations et Communautés en ligne !",
-        "excerpt": "Des astuces utiles pour choisir sa formation et crée une communauté.",
-        "link": "/blog/stop-aux-formations-et-communaut-s-en-ligne",
+        "link": "/blog/stop-aux-formations-et-communaute-en-ligne",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Astuces Carrière"
+          },
+          {
+            "label": "Transfert de Compétences"
           }
         ],
         "author": {
@@ -520,19 +616,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "22 janvier 2025"
+        "excerpt": "Des astuces utiles pour choisir sa formation et crée une communauté.",
+        "date": "22/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/protectionnisme-technologies-futures-en-industrie.jpg",
-          "alt": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de novembre et de décembre 2024)",
-        "link": "/blog/actus-n-17-protectionnisme-technologies-futures-en-industrie",
+        "link": "/blog/protectionnisme-technologies-futures-en-industrie",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -542,19 +641,25 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "09 janvier 2025"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷 (mois de novembre et de décembre 2024)",
+        "date": "09/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/nos-galeres-en-industrie.jpg",
-          "alt": "Nos Galères en Usine ft. Adrien SORCI"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Nos Galères en Usine ft. Adrien SORCI",
-        "excerpt": "Bilan 2024 avec Marc AKOTO",
-        "link": "/blog/nos-gal-res-en-usine-ft-adrien-sorci",
+        "link": "/blog/nos-galères-en-industrie",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Machines Vintage"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -564,19 +669,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 janvier 2025"
+        "excerpt": "Bilan 2024 avec Marc AKOTO",
+        "date": "04/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/retrofit-hardware-en-industrie.jpg",
-          "alt": "Rétrofit carte électronique Advantech - obsolescence machine industrielle"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Rétrofit carte électronique Advantech - obsolescence machine industrielle",
-        "excerpt": "Comment gérer l'obsolescence d'une machine industrielle équipée d'une carte électronique Advantech",
-        "link": "/blog/r-trofit-carte-lectronique-advantech-obsolescence-machine-in",
+        "link": "/blog/retrofit-carte-electronique-advantech",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "PC Industriel"
+          },
+          {
+            "label": "Cycle de Vie et Obsolescence"
           }
         ],
         "author": {
@@ -586,19 +694,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 janvier 2025"
+        "excerpt": "Comment gérer l'obsolescence d'une machine industrielle équipée d'une carte électronique Advantech",
+        "date": "04/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/cest-qui-autem.jpg",
-          "alt": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel"
+          "alt": "Intégrateur SCADA"
         },
         "title": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel",
-        "excerpt": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
-        "link": "/blog/c-est-qui-autem-notre-activit-d-int-grateur-automation-indus",
+        "link": "/blog/cest-qui-autem",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -608,19 +716,25 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 janvier 2025"
+        "excerpt": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
+        "date": "04/01/2025"
       },
       {
         "coverImage": {
           "src": "/assets/news-octobre-2024.jpg",
-          "alt": "Actus n°16 - Robot Optimus & FrameworX"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°16 - Robot Optimus & FrameworX",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0: octobre 2024, 🏭 Commentée par un spécialiste de l'automatisation 👷",
-        "link": "/blog/actus-n-16-robot-optimus-frameworx",
+        "link": "/blog/robot-optimus-et-frameworkX",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Motion & Robotique"
+          },
+          {
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -630,19 +744,44 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "20 novembre 2024"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0: octobre 2024, 🏭 Commentée par un spécialiste de l'automatisation 👷",
+        "date": "20/11/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/christiana-yapi-une-roboticienne-pionniere.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Christiana YAPI - Une roboticienne pionnière en Côte d'Ivoire",
+        "link": "/blog/christiana-yapi-une-roboticienne-pionniere",
+        "tags": [
+          {
+            "label": "Motion & Robotique"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Christiana YAPI nous partage son expérience sur la robotique à travers cet échange très riche.",
+        "date": "11/11/2024"
       },
       {
         "coverImage": {
           "src": "/assets/exalens-process-monitoring-software.jpg",
-          "alt": "Exalens: Rétro-Ingénierie automatique avec IA"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Exalens: Rétro-Ingénierie automatique avec IA",
-        "excerpt": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
-        "link": "/blog/exalens-r-tro-ing-nierie-automatique-avec-ia",
+        "link": "/blog/exalens-process-monitoring-software",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -652,19 +791,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "11 novembre 2024"
+        "excerpt": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
+        "date": "11/11/2024"
       },
       {
         "coverImage": {
           "src": "/assets/4-raisons-dadopter-docker-en industrie.jpg",
-          "alt": "4 raisons d'adopter DOCKER en Industrie"
+          "alt": "Intégrateur SCADA"
         },
         "title": "4 raisons d'adopter DOCKER en Industrie",
-        "excerpt": "4 raisons d'adopter DOCKER en Industrie | Containerisation VS Virtualisation",
-        "link": "/blog/4-raisons-d-adopter-docker-en-industrie",
+        "link": "/blog/adopter-docker-en-industrie",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -674,19 +813,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "21 octobre 2024"
+        "excerpt": "4 raisons d'adopter DOCKER en Industrie | Containerisation VS Virtualisation",
+        "date": "21/10/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-septembre-2024.jpg",
-          "alt": "Actus n°15 - Automobile et IoT - Septembre 2024"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°15 - Automobile et IoT - Septembre 2024",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍ (mois de septembre 2024)",
-        "link": "/blog/actus-n-15-automobile-et-iot-septembre-2024",
+        "link": "/blog/automobile-et-iot",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -696,19 +838,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "10 octobre 2024"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍ (mois de septembre 2024)",
+        "date": "10/10/2024"
       },
       {
         "coverImage": {
           "src": "/assets/retrofit-digitaliser.jpg",
-          "alt": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?",
-        "excerpt": "Quelle est la priorité si l'on doit choisir entre faire un Rétrofit ou Digitaliser ?",
-        "link": "/blog/retrofit-ou-digitaliser-priorit-pour-moderniser-innover",
+        "link": "/blog/retrofit-digitaliser",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Gestion Projet Stratégique"
+          },
+          {
+            "label": "Cycle de Vie et Obsolescence"
           }
         ],
         "author": {
@@ -718,19 +863,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "10 octobre 2024"
+        "excerpt": "Quelle est la priorité si l'on doit choisir entre faire un Rétrofit ou Digitaliser ?",
+        "date": "10/10/2024"
       },
       {
         "coverImage": {
           "src": "/assets/recruter-un-technicien.png",
-          "alt": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle"
+          "alt": "Intégrateur SCADA"
         },
         "title": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle",
-        "excerpt": "🔥Comment recruter un technicien en industrie 👷‍♂️ 7 étapes en ingénierie industrielle",
-        "link": "/blog/recruter-un-e-technicien-ne-en-industrie-7-tapes-en-ing-nier",
+        "link": "/blog/recruter-un-technicien",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Machines Vintage"
+          },
+          {
+            "label": "Transfert de Compétences"
           }
         ],
         "author": {
@@ -740,19 +888,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "22 septembre 2024"
+        "excerpt": "🔥Comment recruter un technicien en industrie 👷‍♂️ 7 étapes en ingénierie industrielle",
+        "date": "22/09/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news_ete_2024.jpg",
-          "alt": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6",
-        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍",
-        "link": "/blog/actus-n-14-open-source-raffinerie-dangote-incident-microsoft",
+        "link": "/blog/news-aout-2024",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -762,19 +913,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "09 septembre 2024"
+        "excerpt": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍",
+        "date": "09/09/2024"
       },
       {
         "coverImage": {
           "src": "/assets/equilibre-vie-perso-pro-pour-techiciens-en-industrie.jpg",
-          "alt": "Equilibre vie perso - pro pour Techniciens en Industrie"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Equilibre vie perso - pro pour Techniciens en Industrie",
-        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
-        "link": "/blog/equilibre-vie-perso-pro-pour-techniciens-en-industrie",
+        "link": "/blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Machines Vintage"
           }
         ],
         "author": {
@@ -784,19 +935,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "14 juillet 2024"
+        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+        "date": "14/07/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-juin-2024.jpg",
-          "alt": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre",
-        "excerpt": "Les actualités du mois de juin 2024: SnowFlake Data, Scada AWS et un Expert à suivre.",
-        "link": "/blog/actus-n-13-snowflake-data-scada-aws-et-un-expert-suivre",
+        "link": "/blog/news-juin-2024",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Supervision SCADA"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -806,19 +960,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "14 juillet 2024"
+        "excerpt": "Les actualités du mois de juin 2024: SnowFlake Data, Scada AWS et un Expert à suivre.",
+        "date": "14/07/2024"
       },
       {
         "coverImage": {
           "src": "/assets/les-techniciens-proposent-des-solutions.jpg",
-          "alt": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
-        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
-        "link": "/blog/sauver-l-industrie-les-techniciens-proposent-des-solutions",
+        "link": "/blog/les-techniciens-proposent-des-solutions",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -828,19 +982,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "29 juin 2024"
+        "excerpt": "7 points pour relever les défis auxquels sont confrontés les techniciens dans l'industrie moderne.",
+        "date": "29/06/2024"
       },
       {
         "coverImage": {
           "src": "/assets/les-techniciens-fuient-lindustrie.jpg",
-          "alt": "Réflexion: Les techniciens fuient les usines"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Réflexion: Les techniciens fuient les usines",
-        "excerpt": "Pourquoi les meilleurs quittent l'industrie ?",
-        "link": "/blog/r-flexion-les-techniciens-fuient-les-usines",
+        "link": "/blog/les-techniciens-fuient-lindustrie",
         "tags": [
           {
-            "label": "Carrière & Formation"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -850,19 +1004,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "29 juin 2024"
+        "excerpt": "Pourquoi les meilleurs quittent l'industrie ?",
+        "date": "29/06/2024"
       },
       {
         "coverImage": {
           "src": "/assets/politique-et-industrie-en-france.jpg",
-          "alt": "Politique et Industrie en France"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Politique et Industrie en France",
-        "excerpt": "Je compare les programmes des candidats",
         "link": "/blog/politique-et-industrie-en-france",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Article"
           }
         ],
         "author": {
@@ -872,19 +1026,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "18 juin 2024"
+        "excerpt": "Je compare les programmes des candidats",
+        "date": "18/06/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/defi-de-l-industrialisation-en-afrique.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Défis de l'Industrialisation en Afrique avec Boubacar MARIGO",
+        "link": "/blog/defi-de-l-industrialisation-en-afrique",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Découvre les défis de l'Industrialisation en Afrique avec Boubacar MARIGO",
+        "date": "18/06/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-mai-2024.jpg",
-          "alt": "Actus n°12 - Arduino, SQL et OT Benchmark 📰"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°12 - Arduino, SQL et OT Benchmark 📰",
-        "excerpt": "Les actualités du mois de mai 2024: Arduino, SQL et OT Benchmark.",
-        "link": "/blog/actus-n-12-arduino-sql-et-ot-benchmark",
+        "link": "/blog/arduino-sql-ot-bencmark",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Article"
           }
         ],
         "author": {
@@ -894,19 +1070,44 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 juin 2024"
+        "excerpt": "Les actualités du mois de mai 2024: Arduino, SQL et OT Benchmark.",
+        "date": "04/06/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/custom-solution-design.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Custom solution design - Embedded technology & the Future of IoT with Matthew Smith",
+        "link": "/blog/custom-solution-design",
+        "tags": [
+          {
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "Actualités TECH"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "In this article, explore \"when designing a custom solution becomes a better choice\".",
+        "date": "04/06/2024"
       },
       {
         "coverImage": {
           "src": "/assets/factory_automation_insider.jpg",
-          "alt": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers"
+          "alt": "Intégrateur SCADA"
         },
         "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers",
-        "excerpt": "Un partage entre experts, riche en vérités sur différents aspects de l'industrie",
-        "link": "/blog/l-industrie-volue-sp-ciale-insiders-factory-automation-aveng",
+        "link": "/blog/factory-automation-insiders",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -916,19 +1117,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 juin 2024"
+        "excerpt": "Un partage entre experts, riche en vérités sur différents aspects de l'industrie",
+        "date": "01/06/2024"
       },
       {
         "coverImage": {
           "src": "/assets/armoir-beckhoff.jpg",
-          "alt": "Armoire d'automatisme - Beckhoff - Identifier les organes"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme - Beckhoff - Identifier les organes",
-        "excerpt": "Identification des différents éléments de la gamme Beckhoff présent dans un banc d'essai",
-        "link": "/blog/armoire-d-automatisme-beckhoff-identifier-les-organes",
+        "link": "/blog/armoire-automatisme-beckhoff",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -938,19 +1139,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "08 mai 2024"
+        "excerpt": "Identification des différents éléments de la gamme Beckhoff présent dans un banc d'essai",
+        "date": "08/05/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-avril-2024.jpg",
-          "alt": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe",
-        "excerpt": "Les actualités du mois d'avril 2024 dont le salon Hannover Messe",
-        "link": "/blog/actus-n-11-le-combat-hardware-vs-software-hannover-messe",
+        "link": "/blog/news-avril-2024",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Article"
           }
         ],
         "author": {
@@ -960,19 +1161,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 mai 2024"
+        "excerpt": "Les actualités du mois d'avril 2024 dont le salon Hannover Messe",
+        "date": "01/05/2024"
       },
       {
         "coverImage": {
           "src": "/assets/agro_et_pharma.jpg",
-          "alt": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX",
-        "excerpt": "A la découverte du monde de l'industrie Agro et pharmaceutique",
-        "link": "/blog/industrie-agro-pharma-en-belgique-antoine-castiaux",
+        "link": "/blog/industrie-agroalimentaire-et-pharmaceutique",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Article"
           }
         ],
         "author": {
@@ -982,19 +1183,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "28 avril 2024"
+        "excerpt": "A la découverte du monde de l'industrie Agro et pharmaceutique",
+        "date": "28/04/2024"
       },
       {
         "coverImage": {
           "src": "/assets/actu10.jpg",
-          "alt": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰",
-        "excerpt": "Rétrospective sur les 12 derniers mois d'Actualités mensuelles de l'industrie 4.0",
-        "link": "/blog/actu-n-10-uns-grok-industrie-bilan-12-mois-d-actualit-s",
+        "link": "/blog/bilan-de-12-mois-dactualite",
         "tags": [
           {
-            "label": "Actualités"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1004,19 +1205,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 avril 2024"
+        "excerpt": "Rétrospective sur les 12 derniers mois d'Actualités mensuelles de l'industrie 4.0",
+        "date": "01/04/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/dashboard-excel.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Digitalisation industrielle avec Excel ? Olivier YOUMBI",
+        "link": "/blog/dashboard-excel",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Les dashboards entièrement développés sur Excel avec un expert Olivier YOUMBI",
+        "date": "30/03/2024"
       },
       {
         "coverImage": {
           "src": "/assets/zone-atex.jpg",
-          "alt": "Zone ATEX en Industrie Pharma - Esteban TORIBIO"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Zone ATEX en Industrie Pharma - Esteban TORIBIO",
-        "excerpt": "Comment automatiser des machines quand on est en zone ATEX avec un expert Esteban TORIBIO",
-        "link": "/blog/zone-atex-en-industrie-pharma-esteban-toribio",
+        "link": "/blog/zone-atex",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1026,19 +1249,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "20 mars 2024"
+        "excerpt": "Comment automatiser des machines quand on est en zone ATEX avec un expert Esteban TORIBIO",
+        "date": "20/03/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-fevrier-2024.jpg",
-          "alt": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde",
-        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
-        "link": "/blog/actu-n-9-cybers-curit-connectivit-industrielle-technologie-d",
+        "link": "/blog/news-fevrier-2024",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1048,19 +1271,63 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "10 mars 2024"
+        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
+        "date": "10/03/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/stéphane_dantigny.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Opportunités et métiers futurs - Stephane DANTIGNY",
+        "link": "/blog/opportunites-et-metiers-futurs",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "L'expérience d'un expert en Electricité, Automatisme et Instrumentation (EAI): Stéphane DANTIGNY.",
+        "date": "25/02/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/challenge-champion-france.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "WorldSkills: challenge Industrie 4.0",
+        "link": "/blog/challenge-champion-france",
+        "tags": [
+          {
+            "label": "Evenèments"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Incarnation de l'excellence industrielle avec Lazhar Benchelloug et Hugo Marquez.",
+        "date": "18/02/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-janvier-2024.jpg",
-          "alt": "Actus n°8 - Métallurgie, IHM, Langues, IA"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°8 - Métallurgie, IHM, Langues, IA",
-        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
-        "link": "/blog/actus-n-8-m-tallurgie-ihm-langues-ia",
+        "link": "/blog/news-janvier-2024",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1070,19 +1337,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "17 février 2024"
+        "excerpt": "Actualités industrielles en janvier 2024 : Métallurgie, IHM, Langues, IA.",
+        "date": "17/02/2024"
       },
       {
         "coverImage": {
           "src": "/assets/demo-live-mistubishi.jpg",
-          "alt": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE",
-        "excerpt": "Démo en LIVE pour interfacer l'automate Mitsubishi avec la plateforme Ignition.",
-        "link": "/blog/mitsubishi-x-ignition-d-mo-connecter-un-automate-en-modbustc",
+        "link": "/blog/demo-live-automate-mitsubishi",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1092,19 +1362,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "17 février 2024"
+        "excerpt": "Démo en LIVE pour interfacer l'automate Mitsubishi avec la plateforme Ignition.",
+        "date": "17/02/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/architecture-dentreprise.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Enterprise Architecture & Digital Transformation - Bindioa OUALI",
+        "link": "/blog/entreprise-architecture",
+        "tags": [
+          {
+            "label": "Astuces Carrière"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "The reality of digital transformation is that People and Processes get often neglected while choosing and deploying a new Technology. Discover more in this article.",
+        "date": "11/02/2024"
       },
       {
         "coverImage": {
           "src": "/assets/news-decembre-2023.jpg",
-          "alt": "Actus n°7 - Codesys, Flow Dashboard, Biggest Factory"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°7 - Codesys, Flow Dashboard, Biggest Factory",
-        "excerpt": "Actualités industrielles en novembre 2023 : Codesys, Flow Dashboard, Biggest Factory.",
-        "link": "/blog/actus-n-7-codesys-flow-dashboard-biggest-factory",
+        "link": "/blog/news-decembre-2023",
         "tags": [
           {
-            "label": "Actualités"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1114,19 +1406,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "03 février 2024"
+        "excerpt": "Actualités industrielles en novembre 2023 : Codesys, Flow Dashboard, Biggest Factory.",
+        "date": "03/02/2024"
       },
       {
         "coverImage": {
           "src": "/assets/ia-midjourney.jpg",
-          "alt": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney",
-        "excerpt": "Teste du générateur d'images Midjourney sur le thème de l'industrie 🏭 : Quelle représentation graphique l'algorithme se fait de l'industrie ?",
-        "link": "/blog/que-sait-l-ia-sur-l-industrie-un-ing-nieur-teste-midjourney",
+        "link": "/blog/midjourney-ia-et-industrie",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -1136,19 +1428,44 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "03 février 2024"
+        "excerpt": "Teste du générateur d'images Midjourney sur le thème de l'industrie 🏭 : Quelle représentation graphique l'algorithme se fait de l'industrie ?",
+        "date": "03/02/2024"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/vision_et_ia.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "IA, Vision, Robotique - Mohamed KONATE",
+        "link": "/blog/vision-ia-robotique",
+        "tags": [
+          {
+            "label": "IA & Machine Learning"
+          },
+          {
+            "label": "Instrumentation-Capteurs"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Vision IA et Robotique: challenges et perception sur le management de l'innovation dans les équipes R&D et bureaux d'études.",
+        "date": "13/12/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_novembre_2023.jpg",
-          "alt": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem",
-        "excerpt": "Actualités industrielles en novembre 2023 : Digitalisation, Simulation, Protocoles Séries",
-        "link": "/blog/actus-n-6-digitalisation-simulation-protocoles-s-rie-autem",
+        "link": "/blog/digitalisation-simulation-protocoles-series",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1158,19 +1475,63 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "28 novembre 2023"
+        "excerpt": "Actualités industrielles en novembre 2023 : Digitalisation, Simulation, Protocoles Séries",
+        "date": "28/11/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/formation-emploi-carriere.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Formation, Emploi, Carrière - Balthazar N'GABRA",
+        "link": "/blog/formation-emploi-carriere",
+        "tags": [
+          {
+            "label": "Astuces Carrière"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Unique perspective and perception in world of industrial automation in Cameroon.",
+        "date": "17/11/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/agroindustrie-et-ingenierie-en-afrique.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "AgroIndustrie et Ingénierie en Afrique - TOURE Mamery",
+        "link": "/blog/agroindustrie-et-ingenierie-en-afrique",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Performance et consommation énergétique: l'intrumentation et l'automatisme comme outil de mesure ces valeurs.",
+        "date": "10/11/2023"
       },
       {
         "coverImage": {
           "src": "/assets/marc-golden-tech.jpg",
-          "alt": "Communication Réseau Industriel - AUTEM"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Communication Réseau Industriel - AUTEM",
-        "excerpt": "Partage de mon expérience au concours Golden Tech 2022.",
-        "link": "/blog/communication-r-seau-industriel-autem",
+        "link": "/blog/communication-reseau-industriel",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1180,19 +1541,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 novembre 2023"
+        "excerpt": "Partage de mon expérience au concours Golden Tech 2022.",
+        "date": "01/11/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_septembre_octobre_2023.png",
-          "alt": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell",
-        "excerpt": "Actualités industrielles en septembre et octobre 2023 : Rexroth, Dell, Opto22, Rockwell",
-        "link": "/blog/actus-n-5-edge-industriel-rexroth-dell-opto22-rockwell",
+        "link": "/blog/edge-industriel-rexroth-dell-opto22-rockwell",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1202,19 +1563,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "29 octobre 2023"
+        "excerpt": "Actualités industrielles en septembre et octobre 2023 : Rexroth, Dell, Opto22, Rockwell",
+        "date": "29/10/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/haute_tension.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Electricité et haute Tension en Afrique - N'KOU Paterne",
+        "link": "/blog/electricite-et-haute-tension-en-afrique",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Electrité et haute tension en Afrique: acteurs de l'écosystème électrique et perspectives sur le développement des compétences nécessaires en haute tension.",
+        "date": "17/10/2023"
       },
       {
         "coverImage": {
           "src": "/assets/edge_benchmark.jpg",
-          "alt": "EDGE Benchmark Comparatif"
+          "alt": "Intégrateur SCADA"
         },
         "title": "EDGE Benchmark Comparatif",
-        "excerpt": "Comparaison de 4 solutions EDGE : CtrlX by Rexroth, TwinCAT/BSD by Beckhoff, Edge Controller by Wago, Groov Epic by Opto22",
         "link": "/blog/edge-benchmark-comparatif",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1224,19 +1607,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "26 septembre 2023"
+        "excerpt": "Comparaison de 4 solutions EDGE : CtrlX by Rexroth, TwinCAT/BSD by Beckhoff, Edge Controller by Wago, Groov Epic by Opto22",
+        "date": "26/09/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/robotic-no-code-augmentus.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Robotics no-code with Augmentus | Daryl LIM",
+        "link": "/blog/robotic-no-code-augmentus",
+        "tags": [
+          {
+            "label": "Motion & Robotique"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Complex Robot Programming Simplified with Augmentus",
+        "date": "05/09/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_juillet_2023.jpg",
-          "alt": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
-        "excerpt": "Actus industrielles - Juillet|Août 2023 : NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
-        "link": "/blog/actus-n-4-nodered-private-proxy-mes-interop-rabilit-version-",
+        "link": "/blog/news-juillet-2023",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1246,19 +1651,41 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "29 août 2023"
+        "excerpt": "Actus industrielles - Juillet|Août 2023 : NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
+        "date": "29/08/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/industrie-navale.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Industrie Navale et Maritime avec Mohamed CISSOUMA",
+        "link": "/blog/industrie-navale",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Décryptage de l'essentiel à savoir sur l'industrie Navale en 2023.",
+        "date": "17/08/2023"
       },
       {
         "coverImage": {
           "src": "/assets/scada_autem.jpg",
-          "alt": "Automatisme industriel et tertiaire"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automatisme industriel et tertiaire",
-        "excerpt": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
-        "link": "/blog/automatisme-industriel-et-tertiaire",
+        "link": "/blog/prestation-automatisme-industriel-tertiaire",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1268,7 +1695,8 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "13 août 2023"
+        "excerpt": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
+        "date": "13/08/2023"
       },
       {
         "coverImage": {
@@ -1276,11 +1704,10 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Intégrateur SCADA",
-        "excerpt": "Quel avantage pour vos projets industriels ?",
-        "link": "/blog/int-grateur-scada",
+        "link": "/blog/integrateur-scada",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Supervision SCADA"
           }
         ],
         "author": {
@@ -1290,19 +1717,85 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "13 août 2023"
+        "excerpt": "Quel avantage pour vos projets industriels ?",
+        "date": "13/08/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/freelance_industrie.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Le freelancing dans l'industrie - avec Karim BELAMRI",
+        "link": "/blog/freelance-en-industrie",
+        "tags": [
+          {
+            "label": "Astuces Carrière"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Découvrez le freelancing en industrie et les bonnes pratiques pour s'y lancer avec Karim BELAMRI",
+        "date": "10/08/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/cle_de_reussite_pour_projet_4_0.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa",
+        "link": "/blog/cle-de-conduite-pour-reussir-son-projet-4-0",
+        "tags": [
+          {
+            "label": "Gestion Projet Stratégique"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Découvrez clés de conduite du changement pour réussir son projet 4.0 avec Rija Rakotoarisoa",
+        "date": "03/08/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/chaudronnerie_etdigital.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Chaudronnerie & Digital - avec Nicolas COUSIN",
+        "link": "/blog/chaudronnerie-et-digital",
+        "tags": [
+          {
+            "label": "Article"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "(Re)Découvrez la chaudronnerie sous l'angle du digital avec Nicolas COUSIN",
+        "date": "20/07/2023"
       },
       {
         "coverImage": {
           "src": "/assets/payant_ou_open_source.jpg",
-          "alt": "Payant OU Open-Source - Choisir son Logiciel industriel"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Payant OU Open-Source - Choisir son Logiciel industriel",
-        "excerpt": "Découvre à travers cet article les avantages des logiciels Open-Source par rapport aux logiciels payants",
-        "link": "/blog/payant-ou-open-source-choisir-son-logiciel-industriel",
+        "link": "/blog/choisir-son-logiciel-industriel",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1312,19 +1805,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "13 juillet 2023"
+        "excerpt": "Découvre à travers cet article les avantages des logiciels Open-Source par rapport aux logiciels payants",
+        "date": "13/07/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_juin_2023.jpg",
-          "alt": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
-        "excerpt": "Actualités industrielles en juin 2023 : MongoDB, SAP, VivaTech, United Manufacturing Hub",
-        "link": "/blog/actus-n-3-mongodb-sap-vivatech-united-manufacturing-hub",
+        "link": "/blog/news-juin-2023",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1334,19 +1827,47 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "30 juin 2023"
+        "excerpt": "Actualités industrielles en juin 2023 : MongoDB, SAP, VivaTech, United Manufacturing Hub",
+        "date": "30/06/2023"
+      },
+      {
+        "coverImage": {
+          "src": "/assets/digitalisation.jpg",
+          "alt": "Intégrateur SCADA"
+        },
+        "title": "Digitalisation de la Gestion de l'EAU - avec Guillaume GIMENEZ - 2Gi",
+        "link": "/blog/digitalisation-de-la-gestion-de-leau",
+        "tags": [
+          {
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "GTB-GMAO"
+          },
+          {
+            "label": "Instrumentation-Capteurs"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "Télégestion dans le secteur de l'eau avec 2Gi: infrastructure, flux de donnée et gestion de projet.",
+        "date": "16/06/2023"
       },
       {
         "coverImage": {
           "src": "/assets/convergence.jpg",
-          "alt": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix",
-        "excerpt": "Décrypte de la Convergence OT/IT avec Nicolas GONZALEZ: Convergence IT/OT, potentiel, compétences nécessaires et Cloud.",
-        "link": "/blog/convergence-it-ot-l-industrie-l-re-du-num-rique-avec-nicolas",
+        "link": "/blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1356,19 +1877,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "09 juin 2023"
+        "excerpt": "Décrypte de la Convergence OT/IT avec Nicolas GONZALEZ: Convergence IT/OT, potentiel, compétences nécessaires et Cloud.",
+        "date": "09/06/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_mai_2023.jpg",
-          "alt": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
-        "excerpt": "Actualités industrielles en mai 2023 : MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
-        "link": "/blog/actus-n-2-mqtt-azure-tesla-robotique-ai-plantformance-st-gob",
+        "link": "/blog/actualités-tech-mqtt-azure-tesla-ia-and-industrie",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1378,19 +1902,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "01 juin 2023"
+        "excerpt": "Actualités industrielles en mai 2023 : MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
+        "date": "01/06/2023"
       },
       {
         "coverImage": {
           "src": "/assets/pilotage.jpg",
-          "alt": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software",
-        "excerpt": "Découvrez les solutions de connectivité pour relier vos usines à distance, optimiser la production et assurer une gestion efficace des opérations industrielles.",
-        "link": "/blog/pilotage-usine-distance-vpn-ssl-connectivit-hardware-softwar",
+        "link": "/blog/pilotage-usine-a-distance",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1400,19 +1927,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 mai 2023"
+        "excerpt": "Découvrez les solutions de connectivité pour relier vos usines à distance, optimiser la production et assurer une gestion efficace des opérations industrielles.",
+        "date": "25/05/2023"
       },
       {
         "coverImage": {
           "src": "/assets/benchmark.jpg",
-          "alt": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor",
-        "excerpt": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
-        "link": "/blog/benchmark-comparatif-scada-jean-romain-bardet-sylvain-pastor",
+        "link": "/blog/benchmark-comparatif-scada",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Supervision SCADA"
           }
         ],
         "author": {
@@ -1422,19 +1949,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "11 mai 2023"
+        "excerpt": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
+        "date": "11/05/2023"
       },
       {
         "coverImage": {
           "src": "/assets/logiciel_sur_mesure.jpg",
-          "alt": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent",
-        "excerpt": "Logiciels sur-mesure et sur-étagère: Découverte et exploration du thème avec deux experts.",
-        "link": "/blog/logiciels-sur-mesure-dans-l-industrie-jean-romain-bardet-her",
+        "link": "/blog/logiciels-sur-mesure-vs-sur-etagere",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1444,19 +1971,25 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 mai 2023"
+        "excerpt": "Logiciels sur-mesure et sur-étagère: Découverte et exploration du thème avec deux experts.",
+        "date": "04/05/2023"
       },
       {
         "coverImage": {
           "src": "/assets/news_avril_2023.jpg",
-          "alt": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC",
-        "excerpt": "Actualités industrielles en Avril 2023 : Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC décryptées et analysées.",
-        "link": "/blog/actus-n-1-ignition-cloud-d-cret-bacs-ctrlx-core-virtual-plc",
+        "link": "/blog/news-avril-2023",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
+          },
+          {
+            "label": "Supervision SCADA"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1466,19 +1999,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "27 avril 2023"
+        "excerpt": "Actualités industrielles en Avril 2023 : Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC décryptées et analysées.",
+        "date": "27/04/2023"
       },
       {
         "coverImage": {
           "src": "/assets/automaticien.jpg",
-          "alt": "3k de la communauté AUTEM + Débat méthode VS marques"
+          "alt": "Intégrateur SCADA"
         },
         "title": "3k de la communauté AUTEM + Débat méthode VS marques",
-        "excerpt": "Automaticien, une question de méthode ou de marques : débat sur la question lors de la célébration des 3000 abonnés de la communauté AUTEM.",
-        "link": "/blog/3k-de-la-communaut-autem-d-bat-m-thode-vs-marques",
+        "link": "/blog/automaticien-methode-vs-marques",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1488,19 +2021,22 @@
             "alt": "Marc Akoto"
           }
         },
+        "excerpt": "Automaticien, une question de méthode ou de marques : débat sur la question lors de la célébration des 3000 abonnés de la communauté AUTEM.",
         "date": "20 avr. 2023"
       },
       {
         "coverImage": {
           "src": "/assets/logiciel_industriel.jpg",
-          "alt": "Logiciels industriels : prêts pour l'industrie 4.0 ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Logiciels industriels : prêts pour l'industrie 4.0 ?",
-        "excerpt": "Les logiciels industriels sont-ils adaptés à l'industrie 4.0 ? Réflexion sur leur évolution pour répondre aux nouveaux défis.",
-        "link": "/blog/logiciels-industriels-pr-ts-pour-l-industrie-4-0",
+        "link": "/blog/logiciel-industriel",
         "tags": [
           {
-            "label": "Actualités"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -1510,19 +2046,19 @@
             "alt": "Marc Akoto"
           }
         },
+        "excerpt": "Les logiciels industriels sont-ils adaptés à l'industrie 4.0 ? Réflexion sur leur évolution pour répondre aux nouveaux défis.",
         "date": "13 avr. 2023"
       },
       {
         "coverImage": {
           "src": "/assets/chiffrage.jpg",
-          "alt": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel",
-        "excerpt": "Conseils pour maîtriser le budget de vos projets dans l'industrie, l'automatisme, les machines et les logiciels.",
-        "link": "/blog/budget-projets-10-conseils-industrie-automatisme-machines-lo",
+        "link": "/blog/chiffrage",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1532,19 +2068,19 @@
             "alt": "Marc Akoto"
           }
         },
+        "excerpt": "Conseils pour maîtriser le budget de vos projets dans l'industrie, l'automatisme, les machines et les logiciels.",
         "date": "6 avr. 2023"
       },
       {
         "coverImage": {
           "src": "/assets/open_source_4_0.jpg",
-          "alt": "Open-Source & Industrie 4.0"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Open-Source & Industrie 4.0",
-        "excerpt": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
-        "link": "/blog/open-source-industrie-4-0",
+        "link": "/blog/open-source-et-industrie-4-0",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1554,19 +2090,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "30 mars 2023"
+        "excerpt": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
+        "date": "30/03/2023"
       },
       {
         "coverImage": {
           "src": "/assets/prospection.jpg",
-          "alt": "Prospecter : client, employeur, marché, mission en tant qu'automaticien"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Prospecter : client, employeur, marché, mission en tant qu'automaticien",
-        "excerpt": "Rechercher des clients et des employeurs pour décrocher des missions sur le marché, en tant qu'automaticien.",
-        "link": "/blog/prospecter-client-employeur-march-mission-en-tant-qu-automat",
+        "link": "/blog/prospection",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1576,19 +2112,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "16 mars 2023"
+        "excerpt": "Rechercher des clients et des employeurs pour décrocher des missions sur le marché, en tant qu'automaticien.",
+        "date": "16/03/2023"
       },
       {
         "coverImage": {
           "src": "/assets/ai.jpg",
-          "alt": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?",
-        "excerpt": "ChatGPT dans l'industrie 4.0 : analyse de l'impact de l'IA sur les processus industriels",
-        "link": "/blog/chatgpt-ladder-grafcet-l-ia-dans-l-industrie-4-0",
+        "link": "/blog/chatgpt",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -1598,19 +2134,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "09 mars 2023"
+        "excerpt": "ChatGPT dans l'industrie 4.0 : analyse de l'impact de l'IA sur les processus industriels",
+        "date": "09/03/2023"
       },
       {
         "coverImage": {
           "src": "/assets/salaire.jpg",
-          "alt": "A Combien sont payés les automaticiens ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "A Combien sont payés les automaticiens ?",
-        "excerpt": "Analyse des salaires des automaticiens : chiffres et enjeux actuels pour cette profession de l'industrie.",
-        "link": "/blog/a-combien-sont-pay-s-les-automaticiens",
+        "link": "/blog/le-salaire-des-automaticiens",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1620,19 +2156,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "02 mars 2023"
+        "excerpt": "Analyse des salaires des automaticiens : chiffres et enjeux actuels pour cette profession de l'industrie.",
+        "date": "02/03/2023"
       },
       {
         "coverImage": {
           "src": "/assets/gmao.jpg",
-          "alt": "Comment digitaliser sa maintenance avec la GMAO ?"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Comment digitaliser sa maintenance avec la GMAO ?",
-        "excerpt": "La digitalisation de la maintenance industrielle grâce à la GMAO, pour une meilleure gestion et organisation des opérations de maintenance.",
-        "link": "/blog/comment-digitaliser-sa-maintenance-avec-la-gmao",
+        "link": "/blog/gmao",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "GTB-GMAO"
           }
         ],
         "author": {
@@ -1642,19 +2178,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "23 février 2023"
+        "excerpt": "La digitalisation de la maintenance industrielle grâce à la GMAO, pour une meilleure gestion et organisation des opérations de maintenance.",
+        "date": "23/02/2023"
       },
       {
         "coverImage": {
           "src": "/assets/femmes_expertes.jpg",
-          "alt": "Parole d'expertes : femmes & actrices de l'industrie"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Parole d'expertes : femmes & actrices de l'industrie",
-        "excerpt": "Des femmes expertes partagent leur point de vue sur la mixité, les stéréotypes, les quotas et les métiers techniques dans l'industrie.",
-        "link": "/blog/parole-d-expertes-femmes-actrices-de-l-industrie",
+        "link": "/blog/parole-dexpertes",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1664,19 +2200,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "23 février 2023"
+        "excerpt": "Des femmes expertes partagent leur point de vue sur la mixité, les stéréotypes, les quotas et les métiers techniques dans l'industrie.",
+        "date": "23/02/2023"
       },
       {
         "coverImage": {
           "src": "/assets/cognex.png",
-          "alt": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem",
-        "excerpt": "Configuration et utilisation d'une caméra COGNEX pour effectuer la lecture des datamatrix avec Ignition.",
-        "link": "/blog/cognex-lecture-datamatrix-en-modbus-avec-ignition-autem",
+        "link": "/blog/cognex-lecture-data-matrix",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Supervision SCADA"
+          },
+          {
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1686,19 +2225,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "24 mars 2022"
+        "excerpt": "Configuration et utilisation d'une caméra COGNEX pour effectuer la lecture des datamatrix avec Ignition.",
+        "date": "24/03/2022"
       },
       {
         "coverImage": {
           "src": "/assets/historiser_des_donnees_opc.png",
-          "alt": "SQL Kepware Datalogger | Historiser des données OPC | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem",
-        "excerpt": "Historiser des données en OPC - SQL Kepware Datalogger: Les différentes étapes pour repérer une erreur sur une ligne de production.",
-        "link": "/blog/sql-kepware-datalogger-historiser-des-donn-es-opc-autem",
+        "link": "/blog/historiser-des-donnee-en-opc",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Supervision SCADA"
+          },
+          {
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1708,19 +2250,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "18 mars 2022"
+        "excerpt": "Historiser des données en OPC - SQL Kepware Datalogger: Les différentes étapes pour repérer une erreur sur une ligne de production.",
+        "date": "18/03/2022"
       },
       {
         "coverImage": {
           "src": "/assets/reseaux_industriels.png",
-          "alt": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM"
+          "alt": "Intégrateur SCADA"
         },
         "title": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM",
-        "excerpt": "Découvrez les différents protocoles de communication servant à mettre les machines en réseaux",
-        "link": "/blog/r-seaux-industriels-de-communication-5-protocoles-autem",
+        "link": "/blog/protocoles-de-communication-industriels",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1730,19 +2272,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 mars 2022"
+        "excerpt": "Découvrez les différents protocoles de communication servant à mettre les machines en réseaux",
+        "date": "04/03/2022"
       },
       {
         "coverImage": {
           "src": "/assets/feux_tricolore.png",
-          "alt": "Automatiser des feux - Simulation 2 - Carrefour | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automatiser des feux - Simulation 2 - Carrefour | Autem",
-        "excerpt": "Les différentes étapes pour programmer et simuler un feu tricolore avec un seul timer avec une méthode optimiser.",
-        "link": "/blog/automatiser-des-feux-simulation-2-carrefour-autem",
+        "link": "/blog/automatiser-des-feux-tricolores",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1752,19 +2294,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "24 février 2022"
+        "excerpt": "Les différentes étapes pour programmer et simuler un feu tricolore avec un seul timer avec une méthode optimiser.",
+        "date": "24/02/2022"
       },
       {
         "coverImage": {
           "src": "/assets/incendie.png",
-          "alt": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM"
+          "alt": "Intégrateur SCADA"
         },
         "title": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM",
-        "excerpt": "Comment fonctionne normalement un système de sécurité incendie ?",
-        "link": "/blog/s-curit-incendie-alarmes-et-d-tection-automatique-autem",
+        "link": "/blog/securite-incendie-alarmes-et-detection-automatique",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1774,19 +2316,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "13 février 2022"
+        "excerpt": "Comment fonctionne normalement un système de sécurité incendie ?",
+        "date": "13/02/2022"
       },
       {
         "coverImage": {
           "src": "/assets/schneider_electric.png",
-          "alt": "Armoire d'automatisme - Schneider Electric"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme - Schneider Electric",
-        "excerpt": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
-        "link": "/blog/armoire-d-automatisme-schneider-electric",
+        "link": "/blog/armoire-automatisme-schneider-electrique",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1796,19 +2338,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "11 février 2022"
+        "excerpt": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
+        "date": "11/02/2022"
       },
       {
         "coverImage": {
           "src": "/assets/portail_fermerture_auto.png",
-          "alt": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem",
-        "excerpt": "Fonctionnement d'un système automate de gestion d'ouverture et de fermerture automatique d'un portail.",
-        "link": "/blog/microcontr-leur-vs-automate-portail-fermetures-auto-autem",
+        "link": "/blog/portail-fermeture-automatique",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1818,19 +2360,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "02 février 2022"
+        "excerpt": "Fonctionnement d'un système automate de gestion d'ouverture et de fermerture automatique d'un portail.",
+        "date": "02/02/2022"
       },
       {
         "coverImage": {
           "src": "/assets/aeroport.png",
-          "alt": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM"
+          "alt": "Intégrateur SCADA"
         },
         "title": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM",
-        "excerpt": "Sauras-tu trouver le point commun présent à l'intérieur de tous les pupitres présent dans les aéroports ?",
-        "link": "/blog/automatisme-a-roport-passerelles-d-embarquement-autem",
+        "link": "/blog/automatisme-et-aeroport",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1840,19 +2382,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "25 janvier 2022"
+        "excerpt": "Sauras-tu trouver le point commun présent à l'intérieur de tous les pupitres présent dans les aéroports ?",
+        "date": "25/01/2022"
       },
       {
         "coverImage": {
           "src": "/assets/rockwell.png",
-          "alt": "Armoire d'automatisme ROCKWELL"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme ROCKWELL",
-        "excerpt": "Identification des différents éléments de la gamme ROCKWELL présent dans un banc d'essai",
-        "link": "/blog/armoire-d-automatisme-rockwell",
+        "link": "/blog/armoire-automatisme-rockwell",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1862,19 +2404,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "10 janvier 2022"
+        "excerpt": "Identification des différents éléments de la gamme ROCKWELL présent dans un banc d'essai",
+        "date": "10/01/2022"
       },
       {
         "coverImage": {
           "src": "/assets/siemens_armoire_electric.png",
-          "alt": "Siemens Armoire d’automatisme | Identifier les organes | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem",
-        "excerpt": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
-        "link": "/blog/siemens-armoire-d-automatisme-identifier-les-organes-autem",
+        "link": "/blog/armoire-automatisme-siemens",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1884,19 +2426,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "06 janvier 2022"
+        "excerpt": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
+        "date": "06/01/2022"
       },
       {
         "coverImage": {
           "src": "/assets/competence.png",
-          "alt": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem",
-        "excerpt": "Découvre les compétences d'un automaticien en 2022",
-        "link": "/blog/automaticien-10-comp-tences-pour-tre-automaticien-en-2022-au",
+        "link": "/blog/10-competences-pour-automaticien",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -1906,19 +2451,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "03 janvier 2022"
+        "excerpt": "Découvre les compétences d'un automaticien en 2022",
+        "date": "03/01/2022"
       },
       {
         "coverImage": {
           "src": "/assets/automatem340.png",
-          "alt": "Automate M340 Unity Loader | Mis à jour du firmware | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Automate M340 Unity Loader | Mis à jour du firmware | Autem",
-        "excerpt": "Apprenez à mettre à jour des automates M340 et des modules Ethernet NOC 04 01",
-        "link": "/blog/automate-m340-unity-loader-mis-jour-du-firmware-autem",
+        "link": "/blog/automate-m340",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1928,19 +2473,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "27 décembre 2021"
+        "excerpt": "Apprenez à mettre à jour des automates M340 et des modules Ethernet NOC 04 01",
+        "date": "27/12/2021"
       },
       {
         "coverImage": {
           "src": "/assets/domore.png",
-          "alt": "Do-More | Communiquer en Ethernet/IP | Autem Services"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Do-More | Communiquer en Ethernet/IP | Autem Services",
-        "excerpt": "Apprenez à communiquer au protocole Ethernet IP grâce au simulateur Do More",
-        "link": "/blog/do-more-communiquer-en-ethernet-ip-autem-services",
+        "link": "/blog/domore",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1950,19 +2495,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "24 décembre 2021"
+        "excerpt": "Apprenez à communiquer au protocole Ethernet IP grâce au simulateur Do More",
+        "date": "24/12/2021"
       },
       {
         "coverImage": {
           "src": "/assets/electrocution.png",
-          "alt": "Electricité | Electrocution: 100 A ou 24.000 V | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Electricité | Electrocution: 100 A ou 24.000 V | Autem",
-        "excerpt": "100A-24V VS 0,1A-24000V, que choisiras-tu ?",
-        "link": "/blog/electricit-electrocution-100-a-ou-24-000-v-autem",
+        "link": "/blog/electrocution",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Article"
           }
         ],
         "author": {
@@ -1972,19 +2517,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "21 décembre 2021"
+        "excerpt": "100A-24V VS 0,1A-24000V, que choisiras-tu ?",
+        "date": "21/12/2021"
       },
       {
         "coverImage": {
           "src": "/assets/wireshark.png",
-          "alt": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem",
-        "excerpt": "Découvrez le logiciel Wireshark",
-        "link": "/blog/protocoles-r-seaux-iiot-5-filtres-wireshark-autem",
+        "link": "/blog/filtre-wireshark",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -1994,19 +2539,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "19 décembre 2021"
+        "excerpt": "Découvrez le logiciel Wireshark",
+        "date": "19/12/2021"
       },
       {
         "coverImage": {
           "src": "/assets/ihm_web_wincc.png",
-          "alt": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
-        "excerpt": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
-        "link": "/blog/ihm-web-wincc-pc-connect-un-automate-s7-1500-autem",
+        "link": "/blog/pc-connecte-a-un-automate-s7-1500",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2016,19 +2561,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "17 décembre 2021"
+        "excerpt": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
+        "date": "17/12/2021"
       },
       {
         "coverImage": {
           "src": "/assets/diagnostic_profinet_reseau_siemens.png",
-          "alt": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem",
-        "excerpt": "Profinet - Les différentes étapes pour faire du diagnostique sur les réseaux Profinet avec le logiciel PRONETA | AUTEM.",
-        "link": "/blog/proneta-diagnostic-profinet-sur-r-seau-siemens-autem",
+        "link": "/blog/diagnostic-profinet-sur-reseau-siemens",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -2038,19 +2586,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "24 novembre 2021"
+        "excerpt": "Profinet - Les différentes étapes pour faire du diagnostique sur les réseaux Profinet avec le logiciel PRONETA | AUTEM.",
+        "date": "24/11/2021"
       },
       {
         "coverImage": {
           "src": "/assets/studio_5000_rockwell.png",
-          "alt": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem",
-        "excerpt": "Utilisation du logiciel Studio 5000 pour programmer les gammes d’automates premium de Rockwell",
-        "link": "/blog/rockwell-studio-programmer-un-automate-allen-bradley-autem",
+        "link": "/blog/programmer-un-automate-allen-bradley",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2060,19 +2608,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "18 novembre 2021"
+        "excerpt": "Utilisation du logiciel Studio 5000 pour programmer les gammes d’automates premium de Rockwell",
+        "date": "18/11/2021"
       },
       {
         "coverImage": {
           "src": "/assets/ip_shifter.png",
-          "alt": "Adresse IP | Changer son adresse IP en 1 clic | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Adresse IP | Changer son adresse IP en 1 clic | Autem",
-        "excerpt": "IP Shifter - Apprenez à changer votre adresse IP avec l'outil qui va vous permettre de vous connecter plus rapidement à vos machines.",
-        "link": "/blog/adresse-ip-changer-son-adresse-ip-en-1-clic-autem",
+        "link": "/blog/changer-son-adresse-ip",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "Article"
           }
         ],
         "author": {
@@ -2082,19 +2630,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "07 novembre 2021"
+        "excerpt": "IP Shifter - Apprenez à changer votre adresse IP avec l'outil qui va vous permettre de vous connecter plus rapidement à vos machines.",
+        "date": "07/11/2021"
       },
       {
         "coverImage": {
           "src": "/assets/kepware_excel.png",
-          "alt": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem",
-        "excerpt": "Automate & Microsoft Excel - Les différentes étapes pour apprendre à controler ton automate avec un fichier Excel.",
-        "link": "/blog/kepware-connecter-excel-un-automate-siemens-s7-1500-autem",
+        "link": "/blog/connecter-excel-a-un-automate-siemens-s7-1500",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Supervision SCADA"
+          },
+          {
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2104,19 +2655,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "04 novembre 2021"
+        "excerpt": "Automate & Microsoft Excel - Les différentes étapes pour apprendre à controler ton automate avec un fichier Excel.",
+        "date": "04/11/2021"
       },
       {
         "coverImage": {
           "src": "/assets/uaexpert.png",
-          "alt": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
-        "excerpt": "OPC UA - Découverte du protocole OPC UA à travers une simulation reliant un serveur OPC, PLCSIM et un client OPC, UA expert.",
-        "link": "/blog/uaexpert-serveur-plcsim-communiquer-en-opc-ua-autem",
+        "link": "/blog/communiquer-en-opcua",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -2126,19 +2680,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "31 octobre 2021"
+        "excerpt": "OPC UA - Découverte du protocole OPC UA à travers une simulation reliant un serveur OPC, PLCSIM et un client OPC, UA expert.",
+        "date": "31/10/2021"
       },
       {
         "coverImage": {
           "src": "/assets/somachine.png",
-          "alt": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem",
-        "excerpt": "Schneider Electric et connexion USB - Résolution du problème de \"périphérique USB non reconnu\" sur certains automates Schneider Electric.",
-        "link": "/blog/m340-m221-r-tablir-la-connexion-usb-avec-somachine-autem",
+        "link": "/blog/retablir-la-connexion-usb-avec-so-machine",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2148,19 +2702,22 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "26 octobre 2021"
+        "excerpt": "Schneider Electric et connexion USB - Résolution du problème de \"périphérique USB non reconnu\" sur certains automates Schneider Electric.",
+        "date": "26/10/2021"
       },
       {
         "coverImage": {
           "src": "/assets/plcsim_modbus.png",
-          "alt": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
-        "excerpt": "Mb Client, Modsim, PLCSIM Advanced - les différentes étapes pour établir une communication au protocole modbus avec 3 entités.",
-        "link": "/blog/plcsim-x-modbus-communiquer-sans-automate-mb-client-autem",
+        "link": "/blog/communiquer-sans-automate",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
+          },
+          {
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -2170,19 +2727,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "08 juillet 2021"
+        "excerpt": "Mb Client, Modsim, PLCSIM Advanced - les différentes étapes pour établir une communication au protocole modbus avec 3 entités.",
+        "date": "08/07/2021"
       },
       {
         "coverImage": {
           "src": "/assets/modbus.png",
-          "alt": "Modbus | Simuler un échange directement sur ton PC | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Modbus | Simuler un échange directement sur ton PC | Autem",
-        "excerpt": "Protocole de communication Modbus - Les différentes étapes pour simuler un échange Modbus directement sur ton PC .",
-        "link": "/blog/modbus-simuler-un-change-directement-sur-ton-pc-autem",
+        "link": "/blog/modbus-simuler-un-echange-sur-ton-pc",
         "tags": [
           {
-            "label": "Industrie"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -2192,19 +2749,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "10 juin 2021"
+        "excerpt": "Protocole de communication Modbus - Les différentes étapes pour simuler un échange Modbus directement sur ton PC .",
+        "date": "10/06/2021"
       },
       {
         "coverImage": {
           "src": "/assets/rslogix500.png",
-          "alt": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem",
-        "excerpt": "Rockwell RSLogix500 - Les différentes étapes pour apprenez à créer vos premiers LADDER avec le logiciel RSLogix 500.",
-        "link": "/blog/rockwell-rslogix500-programmer-des-automates-allen-bradley-a",
+        "link": "/blog/rslogix-programmer-des-automates-allen-bradley",
         "tags": [
           {
-            "label": "Automatisme"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2214,19 +2771,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "28 mai 2021"
+        "excerpt": "Rockwell RSLogix500 - Les différentes étapes pour apprenez à créer vos premiers LADDER avec le logiciel RSLogix 500.",
+        "date": "28/05/2021"
       },
       {
         "coverImage": {
           "src": "/assets/wincc_ecran.png",
-          "alt": "WinCC Configurer un écran de supervision SIEMENS | Autem"
+          "alt": "Intégrateur SCADA"
         },
         "title": "WinCC Configurer un écran de supervision SIEMENS | Autem",
-        "excerpt": "WinCC, Siemens, IHM - Les différentes étapes pour comprendre les IHM, WinCC, TIA Portal et apprendre à configurer un écran de supervision.",
-        "link": "/blog/wincc-configurer-un-cran-de-supervision-siemens-autem",
+        "link": "/blog/wincc-configurer-un-ecran-de-supervision",
         "tags": [
           {
-            "label": "SCADA & Supervision"
+            "label": "Supervision SCADA"
           }
         ],
         "author": {
@@ -2236,19 +2793,19 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "06 mai 2021"
+        "excerpt": "WinCC, Siemens, IHM - Les différentes étapes pour comprendre les IHM, WinCC, TIA Portal et apprendre à configurer un écran de supervision.",
+        "date": "06/05/2021"
       },
       {
         "coverImage": {
           "src": "/assets/diagnostic_machine.png",
-          "alt": "Comment diagnostiquer une panne machine | AUTEM"
+          "alt": "Intégrateur SCADA"
         },
         "title": "Comment diagnostiquer une panne machine | AUTEM",
-        "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
-        "link": "/blog/comment-diagnostiquer-une-panne-machine-autem",
+        "link": "/blog/diagnostique-panne-machine",
         "tags": [
           {
-            "label": "Data & IIoT"
+            "label": "Instrumentation-Capteurs"
           }
         ],
         "author": {
@@ -2258,7 +2815,8 @@
             "alt": "Marc Akoto"
           }
         },
-        "date": "29 avril 2021"
+        "excerpt": "Maintenance Industrielle - Le guide ultime pour comprendre comment diagnostiquer une panne machine en industrie.",
+        "date": "29/04/2021"
       }
     ]
   }

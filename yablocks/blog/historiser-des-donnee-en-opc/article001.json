@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/historiser-des-donnee-en-opc/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "SQL KEPWARE DATALOGGER",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. Alors imaginons que tu es dans ton usine et le responsable de production t’appelle en te disant qu’il y a une erreur qui arrive régulièrement sur une ligne de production. C’est une erreur qui est liée aux automates mais on ne sait pas à quel moment cette erreur arrive."
+          },
+          {
+            "text": "L’une des solutions pour trouver ce bug c’est de te mettre comme cette personne (sur l’image) sur la machine, te brancher à l’automate et attendre le moment où l’erreur va arriver."
+          },
+          {
+            "text": "Ce n’est peut-être pas la manière la plus optimale. Ou bien une autre solution c’est tout simplement d’enregistrer les données de tout ce qui se passe dans son automate au niveau de la base de données SQL . Tu peux te créer une base de données SQL , la mettre en lien avec l’automate. Ainsi, tu verras exactement avec l’analyse de données à quel moment le bug survient, pourquoi il survient et enfin, résoudre le bug. C’est ce qu’on va voir dans à travers cet article. On regarde ensemble comment historisées en SQL des données qui viennent de l’usine en OPC . On peut atteindre cet bjectif avec un outil qui s’appelle \"Data Logger\" qui est un module du logiciel \"Kepware\" . Alors on va faire un premier point par atteindre cet objectif ?"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_1.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Les prérequis",
+        "paragraphs": [
+          {
+            "text": "Déjà tu auras besoin de te brancher au niveau de l’automate et de récupérer les données en OPC . Là tu as l’adresse IP (192.168.0.165) de ton automate. Pour récupérer les données en OPC , j’utilise KEPServer qui est un serveur OPC mais aussi un convertisseur de données . Il va récupérer le format des données de ton automate, le convertir au format OPC. Et ainsi, tu as tes données qui sont disponibles au niveau de KEPServer . KEPServer est hébergé sur un serveur ou bien sur un PC. Il a sa propre adresse IP que j’ai mentionnés (192.168.0.109) . Et la troisième étape, c’est d’envoyer ces données au pc-là dans une base de données SQL . Là typiquement c’est “Microsoft SQL Server” mais on pouvait bien utiliser autre chose : MySql, Sqlite… En tout cas une base de données qui enregistre tous les signaux qui vont venir de l’automate. La base de données est hébergée sur un serveur qui à son adresse IP (192.168.0.172) . Ce sont les trois éléments dont tu as besoin pour enregistrer les données de ton automate."
+          },
+          {
+            "text": "Alors, déjà on a le programme de l’automate. Je suis en ligne avec un automate qui est sur une certaine adresse IP. Là typiquement c’est un automate virtuel mais il est sur l’adresse IP : “192.168.0.165“ ."
+          },
+          {
+            "text": "Du côté automate, c'est bon."
+          },
+          {
+            "text": "Ensuite, serveur OPC , \"KEPServer\" , va faire le lien entre l’automate et les données OPC . Il est hébergé sur le PC. Le PC machine a une adresse IP. Pour la trouver, je viens ici dans \"ipconfig\" retrouver l’adresse IP de ma machine. Le serveur OPC prend cette adresse IP là: \"192.168.0.109\" ."
+          },
+          {
+            "text": "Et maintenant on cherche le serveur SQL. Il se trouve ici."
+          },
+          {
+            "text": "Et il est sur une autre machine virtuelle. Il pourrait être sur un serveur dédié, sur un autre pc, qui est relié au réseau dans la même plage. Et lui du coup, son adresse IP se retrouve là, et se termine par par \" 172 \"."
+          },
+          {
+            "text": "On retrouve bien tout notre architecture qui est déjà établie avec les bonnes adresses IP. On est prêt pour faire la configuration. C’est la première étape importante : \"vérifiez sur ton infrastructures que toutes les communications sont bien établies\" ."
+          },
+          {
+            "text": "Une des erreurs qui peut arriver régulièrement, c’est tout ce qui est lié au pare feu . C’est-à-dire entre les communications au niveau de chaque interface , soit automates-serveurs OPC ou serveurs OPC - serveurs Sql. Mais on peut avoir des firewalls ou des règles de sécurité qui bloquent la communication . A ce moment-là, soit on enlève ses règles de sécurité mais ce n’est pas forcément le plus sécurisé. Ou bien on ajoute des exceptions de communication avec les différents ports qui correspondent au protocole pour OPC, pour Sql. On met les exceptions qui vont bien. Au niveau de l’infrastructure, on est bon."
+          },
+          {
+            "text": "Alors au niveau de la configuration. Comment programme-t-on cela ? On vient déjà au niveau du serveur OPC récupérer les données de l’automate."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_2.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Configuration de la communication – automate et serveur OPC",
+        "paragraphs": [
+          {
+            "text": "Alors là pour faire simple dans l’automate on est en train de superviser juste deux variables : \"un compteur\" qui est de type entier. On le voit s’incrémenter ici."
+          },
+          {
+            "text": "Et on vient récupérer la valeur \"d’une alarme\" qui est tout ou rien, de types booléens."
+          },
+          {
+            "text": "Et ces deux valeurs-là, on vient les configurer ici dans notre serveur OPC. L’automate, on le déclare comme canal Profinet parce que c’est du Siemens. Si c’était autre chose comme Schneider, on aurait pris du Modbus ou d’autres protocoles. En Profinet, on récupère les signaux et on marque bien l’adresse qui correspond à chaque variable . Le \"DB1\" c’est celui qui contiennent \"nos variables\" que j’ai \"encadré en rouge\" ."
+          },
+          {
+            "text": "Et le \"Word 0\" contient \"le compteur\" ( \"en orange\" ) et le \"bit 2.0\" contient \"l’alarme\" ( \"en jaune\" )."
+          },
+          {
+            "text": "Jusque-là, on a les bonnes valeurs. On regarde avec le \"Quick Client\" les variables qui sont envoyées. Là, on voit bien qu’au niveau du canal Profinet, on a nos deux valeurs qui remontent. On passe à “false” ici."
+          },
+          {
+            "text": "Et au niveau du nombre entier, on voit bien l’incrémentation qui se fait à chaque fois de 1 entre l’automate et le serveur OPC ."
+          },
+          {
+            "text": "Là, on a déjà fait notre première partie : c’est la configuration de la communication entre notre automate et le serveur OPC ."
+          },
+          {
+            "text": "Ensuite il reste la deuxième partie : entre le serveur OPC et notre base de données Sql . C’est là que rentre en jeu le fameux module \" Data Logger \"."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_7.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Configuration de la communication – serveur OPC et base de donnée SQL",
+        "paragraphs": [
+          {
+            "text": "\"Data logger\" c’est quoi ? C’est tout simplement un plugin qui fait partie de la suite KEPServeur. Il se trouve ici au niveau de \"Data Logger\". Et on va créer un nouveau \"data log\". Je vais l’appeler \"historisation\"."
+          },
+          {
+            "text": "Ensuite je vais lui donner ce qu’on appelle un \"Data source Name\" . Là il est marqué par défaut mais je vais supprimer le recréer."
+          },
+          {
+            "text": "Le \"Data Source Name\" tout simplement, c’est là où on va enregistrer nos données . Typiquement c’est notre base de données Sql . Je viens ici cliquez sur \" Configure DSN \" – Ajouter . Dans la liste déroulante, je choisis Sql Server ."
+          },
+          {
+            "text": "Ensuite je vais lui donner un nom : \"mon_serveur_sql\". Le serveur me demande le nom du serveur. Là il faut bien \"le nombre d'hôte\" de la machine. A quoi cela correspond. Quand on vient sur notre serveur Sql, on voit là le nom du serveur. Là typiquement c’est \"DESKTOP\" avec une série de caractères alphanumériques. On va rentrer ce nom là au niveau de cette case-là."
+          },
+          {
+            "text": "Je clique sur suivant. Au niveau de l’authentification on va utiliser les identifiants de connexion spécifique aux serveurs Sql Je coche cette case-là."
+          },
+          {
+            "text": "L’ID correspond au super admin et ensuite tu rentres juste après ton mot de passe . C’est le mot de passe que tu auras définies au niveau de ton serveur Sql qu’il faut rentrer ici ."
+          },
+          {
+            "text": "Ensuite notre Data Logger va détecter l’ensembles des bases de données qui sont configurées dans le serveur Sql . Si la base de données par défaut ne correspond pas à ce que tu veux, il faut venir choisir la bonne ici dans la liste. Moi j’avais créé une base de données qui s’appelle \"kepware_log\". Et c’est bien de celle-là qu’on a besoin."
+          },
+          {
+            "text": "Cela correspond à cette base de données ici."
+          },
+          {
+            "text": "Une fois qu’on a défini la base de donnée, je clique sur suivant, je laisse tous les paramètres tel quel. Je vais juste cocher cette case là parce que j’ai envie que les bonnes heures soient renseigner entre mon serveur OPC et mon serveur SQL ."
+          },
+          {
+            "text": "Et je clique sur \" Terminer \"."
+          },
+          {
+            "text": "Alors une fois qu’on a fini, on va tester notre source de données. Je viens cliquez ici sur \"Tester la source de données\" et là on me dit : \"Data Logger a réussi à effectuer le test de connexion à mon serveur SQL\" . Je cliquer sur OK."
+          },
+          {
+            "text": "On a rajouté notre source de données système."
+          },
+          {
+            "text": "Je valide et on le voit apparaître ici, \"mon_serveur_sql\"."
+          },
+          {
+            "text": "Ensuite je vais retaper mes identifiants qui correspondent à ma base de données. Le super admin ou autres identifiants que tu as configuré sur la base. Je rentre le mot de passe. Et c’est tout pour cette partie-là."
+          },
+          {
+            "text": "Pour l’onglet \"général\" , c'est fait. Une fois qu’on a fini cet onglet-là, on a deux autres onglets ."
+          },
+          {
+            "text": "On va les faire un à un."
+          },
+          {
+            "text": "L’onglet suivant, \"Data Map\" . Là on va définir qu’est-ce qu’on veut enregistrer dans la base . Alors on vient ici cliquez sur \" Ajouter \"."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_14.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Définir les données à enregistrer",
+        "paragraphs": [
+          {
+            "text": "Dans cette petite case-là on va venir sélectionner nos données. Ces données vont correspondre à notre canal Profinet sur l’automate qui a été définie."
+          },
+          {
+            "text": "On voit ici les deux grandeurs qui apparaissent . Je vais sélectionner déjà celle-là."
+          },
+          {
+            "text": "Ensuite, on va sélectionner notre \" compteur ” qui était de type entier. Et je veux bien rajouter aussi \" l’heure ” qui correspond à chaque changement de valeur. Je vais venir ici choisir l’heure du système. Je clique sur \" System ” à ce niveau-là, et j’ai choisi l’heure local de notre système pour que à chaque changement de valeur qui est enregistré on enregistre aussi la date. On saura à quel moment on a eu tel défaut que je suis en train de rechercher."
+          },
+          {
+            "text": "Je valide et ensuite on choisit dans quelle table de la base on va enregistrer les données. Au niveau de la base, j’avais défini une table qui s’appelle \" historique ” qui a trois colonnes : “le timestamp ” (la date/heure), \" le compteur ” et \" l’alarme \"."
+          },
+          {
+            "text": "Je vais récupérer cette table-là et enregistrer mes données dedans. J’enregistre dans une table existante. Il faut juste sélectionner la bonne table. Ma table elle s’appelait \" historique \"."
+          },
+          {
+            "text": "Pour la table, on est bon."
+          },
+          {
+            "text": "Ensuite le format de la table. On a soit l’option \" narrow ” ou \" wide \". On choisira la deuxième option parce que j’ai envie que chaque valeur corresponde à une colonne. Je veux que ma valeur “entier” corresponde à la colonne “compteur” par exemple, et ma valeur “booléen” corresponde à ma colonne “alarme” ."
+          },
+          {
+            "text": "Et je vais ici cliquez sur \" Map Field ” pour faire le lien entre ma valeur OPC et puis la colonne de la base de données . C’est une étape importante aussi pour pouvoir bien relier chaque valeur à la colonne où elle doit être enregistrée."
+          },
+          {
+            "text": "Déjà je clique sur l’heure du système . Je vais l’enregistrer dans la colonne “timestamp” ."
+          },
+          {
+            "text": "Je viens cliquez ici sur \" link \". On voit que le lien se rajoute."
+          },
+          {
+            "text": "Ensuite pour mon booléen . Je le rajoute sur l’alarme qui est de type “bit” ."
+          },
+          {
+            "text": "Les types de valeurs correspondent. Je clique sur \" link ” encore. Et mon entier sur mon compteur de type “Integer” . Je clique sur \" link \". Et OK. Pour l'onglet \" Data Map \", on est bon."
+          },
+          {
+            "text": "On va passer à l’onglet, au niveau des \" trigger \". Au niveau des “trigger”, on a déjà une option qui est rajoutée par défaut mais on peut en rajouter d’autres."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_30.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Définir le type de déclencheur",
+        "paragraphs": [
+          {
+            "text": "Concrètement quand tu cliques sur “Ajouter”, on a trois possibilités : soit \" un trigger automatique qui se fait avec une certaine fréquence tout le temps \", ou bien \" un trigger qui est basé sur un calendrier ”. Typiquement si tu as envie d’enregistrer tout ce qui s’est passé le week-end, tu décroches tous les jours de semaine et tu gardes juste samedi dimanche avec les heures qui correspondent. Ainsi, tu peux cibler à quel moment tu enregistres les données pour ne pas enregistrer tout le temps et surchargé le trafic de réseau."
+          },
+          {
+            "text": "Là tu peux spécifier aussi un planning.La troisième option c’est \" suivant une condition \". On a plusieurs conditions qui peuvent être liées a à peu près tous les tags qui existent dans ton serveur OPC . Il y a plusieurs options. On choisira l’option par défaut: \" enregistrer tout le temps avec un certain intervalle s. C’est l’option de type \" always triggered \". Je clique sur suivant."
+          },
+          {
+            "text": "L’intervalle, je l’ai juste marqué à une 1s ou 1000 millis secondes ."
+          },
+          {
+            "text": "Ensuite je n’ai pas envie qu’à chaque changement de valeur, il y a un enregistrement. Je veux vraiment que ce soit toutes les une seconde. Je décoche cette case-là et je garde uniquement le compteur des 1s. Je clique sur suivant."
+          },
+          {
+            "text": "Et je clique sur “terminer”. A priori on a terminé notre configuration du “Data Logger”. Alors, j’enregistre."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_43.png",
+          "alt": "Historiser des données en OPC"
+        }
+      },
+      {
+        "heading": "Tester la simulation",
+        "paragraphs": [
+          {
+            "text": "Pour l’instant, je vais l’arrêter. Je vais Désactiver ce log group que j’ai crée."
+          },
+          {
+            "text": "Je vais purger ma base c’est-à-dire supprimer ce qu’il y avait dans ma table. Et recommencer pour qu’on voit à quoi correspond l’enregistrement. Là, je supprime tout ce qu’il y avait dans cette table-là. Et, on va suivre ensemble est-ce qu’il y a des valeurs qui arrivent dans la table ou pas."
+          },
+          {
+            "text": "Je reviens dans mon KEPServer. Je vais cliquez ici sur le bouton \" Unable Log Group ” pour démarrer la communication entre mon serveur OPC et ma base de données SQL."
+          },
+          {
+            "text": "Au niveau du serveur, on dit que l’historisation a démarré."
+          },
+          {
+            "text": "Je vais venir vérifier cela dans mon serveur SQL. Je sélectionne les cases où les lignes qui ont été rajoutées. Là je vois qu’il y a des données qui arrivent. Et l’heure correspond à peu près à l’heure d’enregistrement de ces données-là. On suppose que c’est bien ce qui arrive de l’automate. On peut retrouver les mêmes types d’incrémentation : 1 à chaque fois. Ce qu’on avait tout à l’heure dans l’automate, on les retrouve ici dans notre base de données."
+          },
+          {
+            "text": "Après tu peux faire une analyse, un enregistrement et vérifier à quel moment tu as ton erreur. On va le faire ensemble pour l’exemple. Je viens ici enregistrer toutes mes données au format “csv” par exemple pour pouvoir analyser dans Excel. Et on va ouvrir un tableur Excel pour voir au niveau des valeurs à quel moment se fait le changement. Je vais ouvrir les logs qui ont été enregistrés. On retrouve ici les mêmes enregistrements qu’on avait dans la base de données."
+          },
+          {
+            "text": "C'est tout simplement pour pouvoir afficher par exemple un graphe. Je vais venir ici l’afficher sous forme de courbes. Et on retrouve en fait au fil du temps là le changement des valeurs pour mon compteur et on peut faire la même chose pour l’alarme. On voit qu’elle passe de 0 à 1 avec une certaine fréquence qui est à priori constante ."
+          },
+          {
+            "text": "Si on avait une erreur a détecté là au niveau des changements de valeurs qui nous semble anormal, on peut venir ici, tracer un graphique et analyser tout simplement de manière visuelle plutôt que de venir se brancher sur l’automate et puis espérer que l’erreur arrivent au moment où on est branché."
+          },
+          {
+            "text": "Du coup, quelques petites techniques pour relier ton serveur SQL avec ton automate et puis enregistrer les données au format OPC ."
+          },
+          {
+            "text": "Si tu souhaites avoir les fichiers de configuration, que j’ai utilisé dans cette démo, n’hésite pas à le marquer en commentaire. Tu pourras ainsi manipuler par toi même. Et puis, je te dis à très bientôt dans un prochain article."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/historiser_des_donnees_opc_49.png",
+          "alt": "Historiser des données en OPC"
+        }
+      }
+    ]
+  }
+}

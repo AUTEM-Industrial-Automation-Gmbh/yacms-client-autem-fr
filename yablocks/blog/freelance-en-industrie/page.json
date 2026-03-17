@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Le freelancing dans l'industrie - avec Karim BELAMRI | Blog AUTEM",
+    "description": "Découvrez le freelancing en industrie et les bonnes pratiques pour s'y lancer avec Karim BELAMRI",
+    "keywords": [
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

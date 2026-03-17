@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/vision-ia-robotique/cta002"
+  },
+  "data": {
+    "title": "Un projet IA pour votre usine ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "Déploiement de modèles IA on-premise & Edge"
+      },
+      {
+        "icon": "trending-up",
+        "text": "Maintenance prédictive et détection d'anomalies"
+      },
+      {
+        "icon": "bar-chart",
+        "text": "Analytics industriels et dashboards intelligents"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

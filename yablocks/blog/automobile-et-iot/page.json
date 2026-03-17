@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°15 - Automobile et IoT - Septembre 2024 | Blog AUTEM",
+    "description": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍ (mois de septembre 2024)",
+    "keywords": [
+      "IoT Réseau",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

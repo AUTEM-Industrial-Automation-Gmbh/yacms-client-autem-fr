@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google | Blog AUTEM",
+    "description": "Actualités industrielles en mai 2023 : MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
+    "keywords": [
+      "IoT Réseau",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

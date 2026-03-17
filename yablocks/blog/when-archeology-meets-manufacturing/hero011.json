@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/when-archeology-meets-manufacturing/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "When Archeology meets Manufacturing",
+    "tags": [
+      {
+        "label": "Evolution de l'industrie",
+        "type": "secteur"
+      },
+      {
+        "label": "Machines Vintage",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "01/02/26",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

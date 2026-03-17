@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/formation-et-industrie/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Aujourd'hui nous allons parler de formation et d'industrie avec Yannick SUTRA , professeur en particulier en Automatisme Industriel. Et cet article sera un point de confrontation de points de vue entre la vision des techniciens qui sont dans des usines et les personnes comme Yannick SUTRA qui maintiennent les savoir-faire pour les techniciens actuels et futurs."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Yannick SUTRA",
+            "href": "https://www.linkedin.com/in/yannick-sutra-bba1571a3/"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/o5NmwnvPdxU?si=HVG1qY0pR3Gjgq2G"
+      },
+      {
+        "heading": "Qui est Yannick SUTRA",
+        "paragraphs": [
+          {
+            "text": "Découvrez qui est Yannick SUTRA dans l'intégralité de la section ci-après:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (26min:52s)",
+            "href": "https://www.youtube.com/watch?v=o5NmwnvPdxU&t=130s"
+          }
+        ]
+      },
+      {
+        "heading": "Les formations dans le futur",
+        "paragraphs": [
+          {
+            "text": "Alors, comment former les techniciens du futur ? Déjà, il faut noter qu'il existe des technos qui évoluent de plus en plus vite. Par rapport à cette évolution, comment pourrait-on adapter la formation à cette formation-là ?"
+          },
+          {
+            "text": "Pour répondre à cette question, il faut déjà savoir qu'il n'y a pas vraiment de formation dans le vrai automatisme. Et face à ceci, l'une des solutions serait de créer des partenariats pour former les professeurs afin que ces derniers puissent le transmettre aux jeunes."
+          },
+          {
+            "text": "Une autre solution serait que les professeurs fassent également une vraie immersion dans de vraies entreprises industrielles dans le but de voir comment on peut apprendre le vrai automatisme."
+          },
+          {
+            "text": "Une veille technologique est aussi de mise avec des entreprises ou du matériel de pointe afin que les jeunes ne soient pas déconnectés."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (7min:52s)",
+            "href": "https://www.youtube.com/watch?v=o5NmwnvPdxU&t=1742s"
+          }
+        ]
+      },
+      {
+        "heading": "Obsolescence et compétences",
+        "paragraphs": [
+          {
+            "text": "Il y aura toujours des compétences qui vont perdurer dans le temps, telles que la programmation. En termes d'obsolescence, c'est le protocole en série."
+          },
+          {
+            "text": "Quoi qu'il en soit, il y a des compétences qu'il faut pouvoir identifier comme constantes ou bien à pérenniser."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (19min:26s)",
+            "href": "https://www.youtube.com/watch?v=o5NmwnvPdxU&t=2214s"
+          }
+        ]
+      }
+    ]
+  }
+}

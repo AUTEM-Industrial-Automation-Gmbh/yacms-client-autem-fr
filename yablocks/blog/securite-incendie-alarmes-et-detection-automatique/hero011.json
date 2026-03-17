@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/securite-incendie-alarmes-et-detection-automatique/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "13/02/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

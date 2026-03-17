@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/10-competences-pour-automaticien/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "10 compétences utiles",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. On va parler aujourd’hui des compétences à la fois \"Hard skills\" et \"Soft skills ."
+          },
+          {
+            "text": "Pourquoi j’ai choisi d’en parler ? Parce que ces derniers temps j’ai eu la chance de discuter avec pas mal de monde. Soit des techniciens qui sont déjà dans l’industrie ou bien des étudiants qui sont en cours de formation ou d’autres professionnels de différentes spécialisations. Et, un des sujets qui revient souvent c’est par rapport à l’industrie 4.0: Qu’est-ce qu’il faudrait avoir comme compétences pour pouvoir opérer dans l'industrie 4.0 ? Ce que je veux partager avec toi sont les les 10 compétences les plus importants, selon moi, au niveau des compétences à développer. Après c’est un avis personnel. C’est strictement individuel. Si tu as d’autres avis ou bien que tu souhaites rajouter une compétence que j’ai oublié de me le mentionner, signale le moi. Grâce aux commentaires, tu peux justement faire bénéficier tes idées à beaucoup plus de monde."
+          },
+          {
+            "text": "Du coup on va parler tout de suite de la première compétence qui selon moi est importante."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Maîtriser le Process",
+        "paragraphs": [
+          {
+            "text": "Qu'est ce qu' \"un process\" ? C’est tout ce qui est organes physiques de la machine, du coup partie mécanique, partie électrique. Tout ce qui fait le fonctionnement vraiment physique de la machine . Par exemple on peut avoir des équipements qui sont spécialisés sur l’industrie agroalimentaire, l’industrie chimique. Ils ne vont pas fonctionner de la même manière que des machines qui sont destinées à assembler des voitures dans l’automobile ou à faire de l’acier dans la métallurgie. Du coup, quand tu arrives face à une machine, ce qui est très important, c’est de savoir comment est-ce que cette machine fonctionne. Qu’est-ce qu’elle sort comme produit ? Quelles sont les étapes de production ?. Parce que, à un moment donné, tu vas devoir lire des plans mécaniques, lire des schémas électriques, ouvrir l’armoire électrique de la machine et puis identifier les différents organes. Pour moi c’est la première compétence clé à avoir pour commencer à intervenir sur la machine. Deuxième compétence clé du coup pour moi c’est \"le leadership\" ou encore \"le travail en équipe\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/process.png",
+          "alt": "Image 1 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "Le Leadership",
+        "paragraphs": [
+          {
+            "text": "Alors, pourquoi le leadership ? Tout simplement parce que dans l’industrie on n’est jamais seul. On travaille toujours en équipe. D’ailleurs petit salut à tous mes collègues qui liront cet article-là. On travaille toujours ensemble et en fait c’est super important d’être capable de dire des choses comme: \"je me suis trompé\", \"tu as raison\" . Ce sont des choses assez basiques: dire \"merci\", \"s’il te plaît\", s’excuser, demander pardon quand on a fait une faute . Et cela vaut aussi dans l’industrie. De plus, tu peux être amené, en tant qu’automaticien à prendre la responsabilité soit d’un groupe ou d’un projet et à ce moment-là c’est d’autant plus important d’être capable de prendre du recul, ne pas être borné sur ses idées et être capable de penser différemment, d’écouter. Cela contribue à avoir la meilleure équipe possible et à donner le meilleur pour faire avancer des projets de la manière la plus dynamique possible. On passe maintenant au troisième point important: \"la programmation\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/leadership.png",
+          "alt": "Image 2 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "La Programmation",
+        "paragraphs": [
+          {
+            "text": "On n’y échappe pas et c’est vraiment le cœur du métier d’automaticien. \"Programmer des machines\" . Cela veut dire \"maîtriser les langages de programmation des automates\" : tout ce qui est LADDER, Grafcet, langage de fonction bloc , les listes d’instruction ou bien des langages plus évolués. Maintenant, dans tout ce qui est systèmes de supervision, on utilise beaucoup le python ou les bases de données SQL . Tout ce qui tourne autour de la programmation, cela aide énormément en tant qu’automaticien. Cette compétence sera très facile pour des gens qui viennent de l’IT, mais c’est aussi accessible pour des gens qui viennent de la mécanique ou de l’électricité tout simplement parce qu'avec un petit peu d’autonomie dans l’apprentissage, on arrive à bien maîtriser les langages, à pouvoir les mettre en pratique. Et de toute façon, les langages qui aura dans cinq (5) ans, dans dix (10) ans, peut-être qu’on ne les connaît pas encore parce que la technologie évolue. Mais ce qui est important en tant que programmeur machine c’est de toujours se mettre d’actualité , de toujours se former pour bien maîtriser tous les langages de programmation qui te serviront pour tes machines. Alors 4e compétences maintenant \"Le troobleshooting\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/programmation.png",
+          "alt": "Image 3 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "Le Troobleshooting",
+        "paragraphs": [
+          {
+            "text": "Pour moi c'est \"mettre la main dans le cambouis\" . En fait c’est tout ce qui tourne autour de l’art de dépanner une machine . Il y a quelque chose que je reproche à beaucoup de monde c’est notamment tous ceux qui ont le niveau ingénieur et qui reste dans le bureau, et se dise “ouais moi je suis juste là pour la conception et c’est le boulot des techniciens”. C’est une grosse erreur, parce qu’on passe à côté de beaucoup de choses quand on réagit de la sorte. Et au contraire le fait d’aller sur le terrain, quand il y a des soucis, d’être le premier à proposer des solutions, c'est cela qui va faire de toi quelqu’un de compétent parce que tu sais réagir dans l’urgence, tu sais réagir face à des pannes. Et même cela va te permettre dans tes conceptions de pouvoir anticiper comment est-ce que la machine réagira en cas de panne. C'est très important de savoir dépanner, de savoir faire du diagnostic, aller sur le terrain, de demander de l’aide. Parfois on n’a pas toutes les infos. Dans ce cas, on peut demander au technicien le plus compétent de tel domaine, à l’électricien qui est tous les jours sur la machine de nous donner un coup de main pour pouvoir ouvrir tel organe qu’on ne connaît pas… Le plus important, c’est de \"rester ouverts\", \"ne pas avoir le melon\", \"être toujours force de proposition\" et puis au final, \"arriver à dépanner tous les systèmes automatisés\" . Numéro 5 maintenant : la méthodologie."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/troubleshooting.png",
+          "alt": "Image 4 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "La méthodologie",
+        "paragraphs": [
+          {
+            "text": "Pour moi, la cinquième compétence est \"la méthodologie\" . Tout ce qui est compétences d’organisation, de rigueur, de structure . C’est quelque chose qui n’est pas forcément évident pour tout le monde, mais pour moi c’est très important aujourd’hui. On est dans des systèmes très complexes dans l’industrie où parfois on ne peut pas tout maîtriser seul. Mais le plus important là-dedans c’est d’être capable en fait de décomposer la machine pour pouvoir résoudre morceau par morceau chacun des problèmes. On a l’exemple parfait des gens qui conçoivent des machines neuves pour des projets, de nouveaux systèmes. En fait qu’est-ce qu’on va faire ? On va venir changer tout un fonctionnement ou bien, partir d’un fonctionnement existant et puis en créer un nouveau. On appelle cela \"l’analyse fonctionnelle\" et en général cela demande de pouvoir se structurer et puis pensez à tous les scénarios possibles avant même d’aborder la programmation, d’aborder le câblage. Tout ce qui est de l’ordre de l’organisation , de la méthodologie , de nos jours, c’est ce qui va être le plus recherché pour être capable de dépanner ou de programmer des machines. Numéro 6 : l’analyse de données ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/methodologie.png",
+          "alt": "Image 5 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "L’Analyse de Données",
+        "paragraphs": [
+          {
+            "text": "\"L’analyse de données\" ou \"Data analisys\" : décompositions des données, collectes, synthèses. Aujourd’hui, les décideurs en industrie ont besoin d’avoir des tableaux de bord, des Dashboard, des KPI, des indicateurs qui leur permettent de prendre des décisions rationnelles éclairées par des infos factuelles. Et du coup tout automaticien qui est capable d’aller piocher dans la machine les infos, de synthétiser ces infos et de les présenter dans un format lisible, cet automaticien-là il va être tout simplement très important dans la prise de décision, dans la boucle de décision. Si on veut choisir telles solutions plutôt qu’une autre et que tu es capable d’apporter des arguments à partir des données de ta machine, je t'encourage car c’est très valorisé et en plus pour toi ce sera une valeur ajoutée d’autant plus gratifiant. Pour moi c’est l’une des compétences clés. Numéro 7 maintenant: \"cybersécurité\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/dataanalize.png",
+          "alt": "Image 6 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "Cybersécurité",
+        "paragraphs": [
+          {
+            "text": "Pour moi c’est une compétence qu’il faut avoir. Il y a la partie vraiment opérationnelle: OT . En général, on parle de Operationnal Technology Et il y a la partie IT : \"Information Technology\" : tout ce qui concerne les développeurs, les administrateurs système. Et de nos jours les automaticiens sont de plus en plus amenés à faire un petit peu des deux. Et la cybersécurité c’est vraiment au cœur aujourd’hui des industries. On ne dit pas d’être dans un mode défensif ou attaquant. Il ne s'agit pas de tout ce qui est de l’ordre du conflictuel. Au contraire on demande tout simplement d’être capable de comprendre un réseau industriel , un réseau de machines , tout ce qui touche aux routeurs, au firewall au protocole de communication et d’être capable de mettre en place dans ta machine tous les murs de protection qui vont éviter, en cas d’attaque, de perdre toute la production. Il faut être capable aujourd’hui de concevoir et de programmer des machines qui sont sécurisées. La cybersécurité, c’est une compétence sûr laquelle il faut se former. Tout le monde n’a pas le même niveau et on ne naît pas en tant qu’automaticiens, ingénieurs cybersécurité. Mais par contre c’est très important qu’on soit capable d’intervenir sur des problèmes réseaux, de pouvoir mettre en place des firewalls ou bien des zones démilitarisées sur nos machines . Cela permet de sécuriser la machine et puis le boulot de tout le monde."
+          },
+          {
+            "text": "Du coup compétences numéro 8 maintenant on va parler de tout ce qui est \"esprit critique\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cybersecurity.png",
+          "alt": "Image 7 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "Esprit critique",
+        "paragraphs": [
+          {
+            "text": "Pour moi c’est très important pour un automaticien d’avoir l’esprit critique. Alors tu me diras qu’en France ou dans tous les milieux francophones on est super bon dans ce sens. OK. Mais il y a encore plein de comportements que j’observe, en industrie; et cela n’engage que moi. C’est une observation personnelle. Je vois beaucoup de gens dire : “on a toujours fait comme ça” ou “c’est toujours comme ça qu’on a fonctionné du coup on ne change pas” . Pour moi ce n’est pas de l’esprit critique. L’esprit critique c’est tout simplement être capable de prendre toutes les données d’un problème ou d’une situation, l’analyser avec beaucoup de recul sans prendre en compte les avis de X ou Y et puis ensuite, ne pas se laisser avoir par ses émotions parce qu’on est tous des personnes humaines et du coup, on a tous nos biais cognitifs. L’esprit critique c’est tout simplement apporter un peu de rationalité dans la prise de décision face à des problèmes techniques ou organisationnels . Si tu es quelqu’un de carrés, de poser, qui a un sang froid pour analyser les infos, ta manière d’analyser de manière critique va être très capital pour toute ton équipe et pour toutes les machines que tu auras à programmer."
+          },
+          {
+            "text": "Alors avant-dernière compétence selon moi c’est tout ce qui relève de \"la communication\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/criticalmind.png",
+          "alt": "Image 8 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "La Communication",
+        "paragraphs": [
+          {
+            "text": "En fait en tant qu’automaticien on est beaucoup amené à communiquer que ce soit de manière écrite avec toutes les analyses fonctionnelles, les documents rédigés qu’on produit comme documentation technique ou bien que ce soit à l’oral qu’on fait des ateliers pour pouvoir prendre, collecter toutes les contraintes sur un projet. Plus on communique de manière facile et plus le projet se passe bien. Au début ce n’est pas forcément évident pour tout le monde notamment pour ceux qui débutent, mais plus on va au-devant des gens, plus on est à l’aise pour convaincre, pour pouvoir expliquer ce qu’on a dans la tête. Ce n’est pas toujours facile de transcrire de manière directe ce qu’on a dans la tête du coup, cela simplifie les choses. Avoir un langage qui est adapté à chacun au niveau de la communication c’est très important. Par exemple tous les jours on est amené à discuter avec des fournisseurs, on doit convaincre nos collègues, on doit convaincre des clients. Tout cela participe au succès du projet. Du coup, plus on communique et mieux cela se passe . Communiquer, c’est pour moi la 9e compétence."
+          },
+          {
+            "text": "10ème compétence maintenant très importante pour être automaticien, pour moi, c’est \"l’optimisme\" ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/communication.png",
+          "alt": "Image 9 | 10 compétences indispensables pour un automaticien"
+        }
+      },
+      {
+        "heading": "L’optimisme",
+        "paragraphs": [
+          {
+            "text": "Alors on a dit qu’on va parler de Hardskills et de Softskills. Tu as vu toutes les compétences qu’on a dites là, il y a une bonne partie qui relève quand même des softskills et l’optimisme pour moi c’est vraiment une compétence clé quand on est automaticien. Pourquoi ? Parce qu’en général tu es face à des problèmes et du coup si tu es quelqu’un de pessimiste face à des problèmes qui sont aussi négatifs, cela ne peut q’engendrer que du négatif et du coup pour moi être optimiste c’est pas juste être naïf ou être celui qui veut donner des leçons à tout le monde. C’est tout simplement être dans une démarche de résolution de problème, être dans une démarche de je suis force de proposition ok on n’y arrive pas, mais on va collecter tout ce qu’il nous faut pour y arriver . Tenir ce genre de raisonnement est quelque chose qui va beaucoup t’aider. Par exemple si tu es face à du dépannage ou bien si tu es dans une équipe qui manque de souffle il faut apporter de l’énergie. La personne optimisme en général c’est la personne qui redonne un petit peu confiance à tout le monde et du coup qui permet à tout le monde de collecter les infos, de rassembler les compétences et ensuite de résoudre le problème face à une machine ou face à une conception ou face à un choix technologique qu’il faut faire."
+          },
+          {
+            "text": "Pour moi, dernière compétence avec laquelle je vais te laisser dans cet article, c’est \"l’optimisme\" . Alors je serais très intéressé de savoir ce que toi tu rajouterais à cette liste de compétences pour un automaticien. N’hésite pas à marquer des commentaires avec tout ce qui te vient en tête."
+          },
+          {
+            "text": "À bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/optimisme.png",
+          "alt": "Image 10 | 10 compétences indispensables pour un automaticien"
+        }
+      }
+    ]
+  }
+}

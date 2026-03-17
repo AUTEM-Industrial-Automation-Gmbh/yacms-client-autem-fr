@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/news-juin-2024/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Je vous partage trois actualités que j'ai découvertes pendant le mois de juin. On parlera de SnowFlake la plateforme de données , on parlera également de supervision dans le cloud et pour finir je vous parlerai d'un challenge dans le monde IT/OT qui vient de se terminer et qui a été réalisé par Matthew Smith ."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Matthew Smith",
+            "href": "https://linkedin.com/in/darthfiber"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/g8kaHQ3esdU?si=3munW0kzwkkPc4fz"
+      },
+      {
+        "heading": "SnowFlake Data",
+        "paragraphs": [
+          {
+            "text": "Première actualité: La brèche de données chez SnowFlake. Environ 200 à 300 millions de comptes utilisateurs (les adresses mail) ont été récupérés par des hackers. C'est une preuve que tous les services en ligne sont très interconnectés. Dans ce cas précis, la brèche est passée par une plateforme qui était connectée à SnowFlake et qui gérait des comptes de pièces d'automobile."
+          },
+          {
+            "text": "Vu qu'on s'approche de l'été, c'est peut-être le moment de faire une bonne campagne de sécurisation de vos comptes email en utilisant des coffres-forts de mots de passe pour avoir des mots de passe durcis que vous pouvez conserver et mettre à jour vos mots de passe."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (01min:49s)",
+            "href": "https://www.youtube.com/watch?v=g8kaHQ3esdU&t=31s"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Snowflake data Breach : sécurisez vos mots de passe | 🌍 Site web"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Scada AWS",
+        "paragraphs": [
+          {
+            "text": "Deuxième actualité : AWS a publié un article concernant les infrastructures de supervision SCADA vers le cloud. Ceci peut être pertinent pour des entreprises ou des usines qui ont déjà atteint une certaine maturité avec les infrastructures qui tournent et qui supervisent leurs équipements sur site et qui veulent passer à une infrastructure plus large."
+          },
+          {
+            "text": "Autre chose importante avec ces architectures, c'est qu'il faut faire attention : tout ce qui est équipement sur site doit être géré en priorité en interne; il ne faudrait pas que des configurations locales se retrouvent dans le cloud."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (02min:15s)",
+            "href": "https://www.youtube.com/watch?v=g8kaHQ3esdU&t=140s"
+          },
+          {
+            "text": "Article AWS sur le périmètre Cloud-based SCADA ... | Site web",
+            "href": "https://aws.amazon.com/blogs/industries/improve-your-industrial-operations-with-cloud-scada/"
+          }
+        ]
+      },
+      {
+        "heading": "Un Expert à suivre",
+        "paragraphs": [
+          {
+            "text": "Troisième actualité : Le challenge de Matthew Smith - il vient de terminer trois mois d'affilée où il a posté chaque jour un contenu sur le monde IT/OT et les télécommunications. Il a abordé beaucoup de sujets comme la société civile et la géopolitique/économie. Pas mal de choses à apprendre et des sujets vraiment intéressants. Je recommande vivement d'y jeter un coup d'œil."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section à travers cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (01min:44s)",
+            "href": "https://www.youtube.com/watch?v=g8kaHQ3esdU&t=275s"
+          },
+          {
+            "text": "Matthew Smith de FieldCloud termine le Challenge OT, IT et Telecom | Site web",
+            "href": "https://www.linkedin.com/in/darthfiber/recent-activity/all/"
+          }
+        ]
+      }
+    ]
+  }
+}

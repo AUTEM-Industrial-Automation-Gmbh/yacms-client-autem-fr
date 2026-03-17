@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "WinCC Configurer un écran de supervision SIEMENS | Autem | Blog AUTEM",
+    "description": "WinCC, Siemens, IHM - Les différentes étapes pour comprendre les IHM, WinCC, TIA Portal et apprendre à configurer un écran de supervision.",
+    "keywords": [
+      "Supervision SCADA",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

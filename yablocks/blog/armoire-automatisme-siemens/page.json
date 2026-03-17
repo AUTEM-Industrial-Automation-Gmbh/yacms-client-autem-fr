@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem | Blog AUTEM",
+    "description": "Identification des différents éléments de la gamme Siemens présent dans un banc d'essai",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

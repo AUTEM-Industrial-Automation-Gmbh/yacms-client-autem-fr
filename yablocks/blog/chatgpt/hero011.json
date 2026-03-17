@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/chatgpt/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?",
+    "tags": [
+      {
+        "label": "IA & Machine Learning",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "09/03/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

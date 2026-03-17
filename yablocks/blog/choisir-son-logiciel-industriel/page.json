@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Payant OU Open-Source - Choisir son Logiciel industriel | Blog AUTEM",
+    "description": "Découvre à travers cet article les avantages des logiciels Open-Source par rapport aux logiciels payants",
+    "keywords": [
+      "Architecture Systèmes",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}
