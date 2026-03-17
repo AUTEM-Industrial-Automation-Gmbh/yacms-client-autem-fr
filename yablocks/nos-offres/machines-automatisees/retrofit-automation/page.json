@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "Rétrofit Automation — Migration d'automates industriels | AUTEM",
+    "description": "AUTEM migre vos automates obsolètes (Siemens S7-300, TSX, SLC-500…) vers des plateformes modernes. Cycle complet : audit, migration programme, FAT, SAT, formation. Multimarque et documenté.",
+    "keywords": [
+      "rétrofit automatisme",
+      "migration automate industriel",
+      "retrofit PLC",
+      "modernisation automate",
+      "Siemens S7-300",
+      "migration TIA Portal",
+      "automate obsolète",
+      "AUTEM",
+      "programmation automate"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
+}

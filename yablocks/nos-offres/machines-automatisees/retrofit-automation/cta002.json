@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "offre/machines-automatisees/retrofit-automation/cta002"
+  },
+  "data": {
+    "title": "Votre automate est obsolète ou en fin de vie ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago, Eaton"
+      },
+      {
+        "icon": "file-text",
+        "text": "Documentation complète livrée à chaque projet"
+      },
+      {
+        "icon": "users",
+        "text": "Formation incluse pour l'autonomie de vos équipes"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

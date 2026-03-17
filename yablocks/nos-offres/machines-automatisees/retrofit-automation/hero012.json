@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "offre/machines-automatisees/retrofit-automation/hero012"
+  },
+  "data": {
+    "overtitle": "MACHINES AUTOMATISÉES",
+    "title": "Rétrofit & Migration d'automates industriels.",
+    "subtitle": "Votre automate est obsolète, le fournisseur est injoignable, les pièces sont introuvables ? AUTEM migre vos systèmes vers des technologies modernes — sans arrêter votre production plus que nécessaire.",
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Rétrofit automate industriel AUTEM — migration PLC"
+    }
+  }
+}
