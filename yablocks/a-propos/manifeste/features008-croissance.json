@@ -4,12 +4,12 @@
     "section": "a-propos/manifeste/features008-croissance"
   },
   "data": {
-    "title": "Penser sa croissance comme une chaîne de production",
-    "content": "<p><strong>La croissance d'une entreprise industrielle repose sur plusieurs moteurs interconnectés</strong>, exactement comme les machines d'une chaîne de production en usine.</p><p>Pour assurer l'efficacité opérationnelle d'une usine, vos machines doivent être performantes et fonctionner en harmonie.</p><p>Il en va de même pour votre croissance : chaque moteur joue un rôle précis, et tous sont interdépendants.</p>",
+    "title": "La performance industrielle repose sur une chaîne cohérente",
+    "content": "<p><strong>La digitalisation d'une usine ne se résume pas à installer un logiciel.</strong> Elle repose sur une pyramide d'automatisation où chaque niveau est interdépendant.</p><p>Le terrain (capteurs, automates, actionneurs) alimente la supervision (SCADA, IHM), qui remonte les données vers le pilotage (MES, ERP, cloud). Chaque maillon compte.</p><p>Un automate mal configuré fausse vos KPI. Une supervision incomplète aveugle vos opérateurs. Un MES sans données fiables ne sert à rien.</p>",
     "image": {
-      "src": "/images/moteurs_de_croissance_industriels.jpg",
-      "alt": "Moteurs de croissance industriels interconnectés"
+      "src": "/images/background-indus.jpg",
+      "alt": "Chaîne d'automatisation industrielle AUTEM"
     },
-    "caption": "Si un seul de ces moteurs ralentit, toute votre chaîne ralentit. Vous devinez la suite... Votre croissance en pâtit."
+    "caption": "Si un seul niveau est défaillant, toute votre chaîne de performance en pâtit."
   }
 }

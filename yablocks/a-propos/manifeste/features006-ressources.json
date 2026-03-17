@@ -4,37 +4,37 @@
     "section": "a-propos/manifeste/ressources"
   },
   "data": {
-    "overtitle": "ALLER PLUS LOIN",
-    "title": "Découvrez notre méthode en détail",
+    "overtitle": "PASSEZ À L'ACTION",
+    "title": "Démarrons votre projet de digitalisation industrielle",
     "cards": [
       {
-        "title": "Réserver votre atelier stratégique offert",
-        "description": "Un diagnostic personnalisé de vos leviers de croissance",
+        "title": "Discutons de votre projet",
+        "description": "Un échange de 30 minutes pour comprendre vos enjeux et identifier les premières pistes d'action concrètes.",
         "image": {
-          "src": "/images/workshop.jpg",
-          "alt": "Atelier stratégique Nile"
+          "src": "/images/background-indus.jpg",
+          "alt": "Projet d'automatisme industriel AUTEM"
         },
         "size": "big",
         "actions": [
           {
-            "text": "Je prends RDV maintenant",
+            "text": "Prendre contact",
             "link": "/contact",
             "variant": "primary"
           }
         ]
       },
       {
-        "title": "Lire le livre « Zéro Friction » écrit par Karim Bouras, fondateur et dirigeant de Nile.",
-        "description": "L'expérience client au service de la croissance industrielle",
+        "title": "Se former à l'automatisme industriel",
+        "description": "Des cours en ligne sur Udemy pour techniciens et ingénieurs souhaitant monter en compétences sur les systèmes automatisés.",
         "image": {
-          "src": "/images/book-zero-friction.jpg",
-          "alt": "Livre Zéro Friction par Karim Bouras"
+          "src": "/images/ignition-scada.jpeg",
+          "alt": "Formation automatisme industriel en ligne"
         },
         "size": "big",
         "actions": [
           {
-            "text": "Acheter",
-            "link": "/livre-zero-friction",
+            "text": "Voir les formations",
+            "link": "https://www.udemy.com",
             "variant": "secondary"
           }
         ]

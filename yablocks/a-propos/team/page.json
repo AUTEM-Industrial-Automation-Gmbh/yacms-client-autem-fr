@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "L'Équipe — Nile, co-pilote de la croissance industrielle",
-    "description": "Notre équipe réunit des experts seniors en data, IA, tech, HubSpot, marketing, sales et développement web pour répondre à tous vos enjeux industriels.",
+    "title": "L'Équipe — AUTEM, Experts en Automatisme & Digitalisation Industrielle",
+    "description": "L'équipe AUTEM réunit des experts en automatisme industriel, SCADA, IoT et ingénierie logicielle pour accompagner vos projets de digitalisation d'usines.",
     "keywords": [
       "équipe",
-      "experts",
-      "croissance industrielle",
-      "HubSpot",
-      "marketing",
-      "sales",
-      "Nile"
+      "automaticien",
+      "ingénieur automatisme",
+      "SCADA",
+      "ingénieur logiciel industriel",
+      "AUTEM"
     ]
   },
   "theme": "autem-default",

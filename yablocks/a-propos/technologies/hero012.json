@@ -4,12 +4,12 @@
     "section": "a-propos/nos-technologies/hero012"
   },
   "data": {
-    "overtitle": "Les Technologies Nile",
-    "title": "Nos Agents IA, Apps & connecteurs",
-    "subtitle": "Notre suite d’outils propriétaires transforme votre portail HubSpot en un moteur de croissance encore plus intelligent et performant. Vos données sont fiabilisées, vos processus fluidifiés, et l’exécution simplifiée pour vos équipes.",
+    "overtitle": "NOS TECHNOLOGIES",
+    "title": "Une maîtrise complète de la chaîne technologique industrielle.",
+    "subtitle": "De l'automate Siemens au SCADA Ignition, des protocoles industriels aux solutions MES et IoT — AUTEM couvre l'intégralité des niveaux de votre pyramide d'automatisation.",
     "backgroundImage": {
-      "src": "/images/background-marketing.webp",
-      "alt": ""
+      "src": "/images/background-indus.jpg",
+      "alt": "Technologies industrielles AUTEM"
     }
   }
 }

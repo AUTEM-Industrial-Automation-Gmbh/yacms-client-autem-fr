@@ -4,42 +4,42 @@
     "section": "a-propos/technologies/features010-connecteurs"
   },
   "data": {
-    "overtitle": "NOS CONNECTEURS HUBSPOT",
-    "title": "Faites circuler vos données sans friction.",
+    "overtitle": "ÉLECTROTECHNIQUE & RÉSEAUX",
+    "title": "L'environnement complet de la machine, maîtrisé.",
     "cards": [
       {
         "image": {
-          "src": "/images/Connecteur_Pappers_HubSpot.png",
-          "alt": "Connecteur Pappers HubSpot"
+          "src": "/images/background-indus.jpg",
+          "alt": "Automatisme électrique et électrotechnique industrielle"
         },
-        "title": "Enrichissement automatique des fiches entreprises HubSpot",
+        "title": "Automatisme électrique & électrotechnique",
         "bullets": [
           {
-            "text": "Ajout des données Pappers à partir du SIREN/SIRET (CA, NAF, effectifs…)"
+            "text": "Variateurs SEW (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)"
           },
           {
-            "text": "Enrichissement en temps réel sur HubSpot"
+            "text": "Schémas électriques : EPlan, SEE Electrical — habilitation BT"
           },
           {
-            "text": "Fonctionne sur les entreprises françaises"
+            "text": "Sécurité machine : Pilz, Pepperl+Fuchs — niveaux SIL intégrés"
           }
         ]
       },
       {
         "image": {
-          "src": "/images/Connecteur_Monday_HubSpot.webp",
-          "alt": "Connecteur Monday HubSpot"
+          "src": "/images/portfolio-references.jpg",
+          "alt": "Réseaux industriels et vision industrielle"
         },
-        "title": "Unification du suivi client et de la gestion interne des tickets",
+        "title": "Réseaux industriels & vision",
         "bullets": [
           {
-            "text": "Synchronisation bidirectionnelle des tickets HubSpot ↔ Monday"
+            "text": "Infrastructure réseau : VPN, anneau redondant, VLAN, NAT/PAT"
           },
           {
-            "text": "Échange des infos : titre, statut, responsable, contenu, client"
+            "text": "Switchs, routeurs, capteurs IOLink, convergence OT/IT"
           },
           {
-            "text": "Mise à jour en temps réel entre les deux outils"
+            "text": "Vision industrielle : lecteurs Cognex, Sick — traceabilité et contrôle qualité"
           }
         ]
       }

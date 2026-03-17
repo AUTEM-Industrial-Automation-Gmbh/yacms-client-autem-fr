@@ -6,19 +6,19 @@
   "data": {
     "stats": [
       {
-        "value": "30",
-        "label": "Réduire le cycle de vente",
-        "suffix": "%"
+        "value": "10",
+        "label": "Années d'expérience en automatisme industriel",
+        "suffix": "+"
       },
       {
         "value": "15",
-        "label": "De productivité commerciale en 6 mois",
-        "suffix": "%"
+        "label": "Clients accompagnés en France et à l'international",
+        "suffix": "+"
       },
       {
-        "value": "2",
-        "label": "Plus de leads qualifiés",
-        "suffix": "x"
+        "value": "8",
+        "label": "Secteurs couverts : Luxe, Logistique, Chimie, Agroalimentaire...",
+        "suffix": ""
       }
     ]
   }

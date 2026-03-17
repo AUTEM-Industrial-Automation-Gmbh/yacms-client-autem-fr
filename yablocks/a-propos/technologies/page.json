@@ -1,8 +1,20 @@
 {
   "meta": {
-    "title": "Nos Technologies",
-    "description": "",
-    "keywords": []
+    "title": "Nos Technologies — AUTEM, Automatisme & SCADA Industriel",
+    "description": "AUTEM maîtrise l'ensemble de la chaîne technologique industrielle : automates Siemens, Rockwell, Schneider, SCADA Ignition (Gold), protocoles OPC-UA, MQTT, Profinet, et solutions MES/IoT.",
+    "keywords": [
+      "automate industriel",
+      "Siemens",
+      "Rockwell",
+      "Schneider",
+      "Ignition SCADA",
+      "intégrateur certifié Gold",
+      "OPC-UA",
+      "MQTT",
+      "MES",
+      "IoT industriel",
+      "AUTEM"
+    ]
   },
   "theme": "autem-default",
   "blocks": [

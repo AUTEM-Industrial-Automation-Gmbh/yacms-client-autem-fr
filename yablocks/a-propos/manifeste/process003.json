@@ -4,38 +4,38 @@
         "section": "a-propos/manifeste/process003"
     },
     "data": {
-        "overtitle": "NOTRE APPROCHE",
-        "title": "Des parcours ancrés dans des enjeux terrain",
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "Une approche structurée, du cahier des charges à la mise en service",
         "steps": [
             {
-                "title": "Structurer",
-                "description": "Mettre de l'ordre dans vos processus.",
+                "title": "Audit",
+                "description": "Analyse de votre parc machine, systèmes existants et besoins prioritaires.",
+                "icon": "search"
+            },
+            {
+                "title": "Conception",
+                "description": "Analyse fonctionnelle, architecture système et choix des technologies adaptées.",
                 "icon": "layout"
             },
             {
-                "title": "Équiper",
-                "description": "Déployer les bons outils digitaux, au bon moment, pour les bonnes raisons.",
-                "icon": "users"
-            },
-            {
-                "title": "Optimiser",
-                "description": "Automatiser tout ce qui peut l'être et intégrer intelligemment l'IA pour accélérer.",
+                "title": "Réalisation",
+                "description": "Programmation automates, développement SCADA, intégration réseau et configuration.",
                 "icon": "layers"
             },
             {
-                "title": "Former",
-                "description": "Monter vos équipes en compétences pour les rendre autonomes sur vos leviers de croissance.",
+                "title": "Tests",
+                "description": "Tests en plateforme, FAT (Factory Acceptance Test) et SAT (Site Acceptance Test).",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Mise en service",
+                "description": "Démarrage sur site, accompagnement des équipes production et validation terrain.",
+                "icon": "zap"
+            },
+            {
+                "title": "Formation",
+                "description": "Transfert de compétences aux techniciens pour une autonomie complète sur vos systèmes.",
                 "icon": "book-open"
-            },
-            {
-                "title": "Réorganiser",
-                "description": "Placer les bonnes personnes, aux bons rôles, avec des objectifs clairs.",
-                "icon": "move"
-            },
-            {
-                "title": "Acculturer",
-                "description": "Faire évoluer les mentalités et les pratiques.",
-                "icon": "thumbs-up"
             }
         ]
     }

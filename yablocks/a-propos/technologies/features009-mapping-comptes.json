@@ -4,34 +4,34 @@
     "section": "a-propos/technologies/features009-mapping-comptes"
   },
   "data": {
-    "overtitle": "AGENT IA",
-    "title": "Mapping de comptes",
+    "overtitle": "SUPERVISION SCADA",
+    "title": "Ignition SCADA — Intégrateur certifié GOLD",
     "paragraphs": [
       {
-        "text": "Notre agent IA analyse automatiquement la structure des entreprises à partir de leurs données légales et identifie leurs liens capitalistiques (maison mère, filiales)."
+        "text": "AUTEM est intégrateur certifié GOLD Ignition by Inductive Automation, la plateforme SCADA moderne qui remplace les solutions vieillissantes par une supervision web, modulaire et sans licence par client."
       },
       {
-        "text": "Cette lecture \"groupe\" change la donne : elle permet de comprendre qui décide, qui possède quoi, et comment prioriser vos actions commerciales ou marketing."
+        "text": "Nous intervenons également sur les solutions WinCC (Siemens), WinCC OA, Wonderware / AVEVA System Platform — pour les migrations comme pour les nouveaux projets."
       }
     ],
     "highlights": [
       {
-        "text": "Cartographie claire des groupes et filiales"
+        "text": "Ignition (Inductive Automation) — certifié GOLD Partner"
       },
       {
-        "text": "Identification des maisons mères et liens capitalistiques"
+        "text": "Siemens WinCC, WinCC OA"
       },
       {
-        "text": "Analyse rapide et exploitable, sans retraitement manuel"
+        "text": "Wonderware / AVEVA System Platform / InduSoft"
       },
       {
-        "text": "Synchronisation avec HubSpot pour retrouver la cartographie directement dans votre CRM"
+        "text": "IHM, alarmes temps réel, historisation, rapports de production"
       }
     ],
-    "conclusion": "Idéal pour cibler des comptes stratégiques, adapter vos approches grands comptes et structurer une prospection multi-entités plus efficace.",
+    "conclusion": "De la migration d'une supervision obsolète à la mise en place d'un SCADA complet from scratch, AUTEM réalise toutes les étapes : architecture, développement, tests et démarrage sur site.",
     "image": {
-      "src": "/images/company_analyzer.png",
-      "alt": "Interface de l'outil de mapping de comptes"
+      "src": "/images/ignition-scada.jpeg",
+      "alt": "Supervision SCADA Ignition certifié GOLD AUTEM"
     },
     "reverse": true
   }

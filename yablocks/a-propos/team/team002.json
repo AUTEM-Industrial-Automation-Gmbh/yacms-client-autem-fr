@@ -5,188 +5,117 @@
     },
     "data": {
         "overtitle": "L'ÉQUIPE",
-        "title": "Notre équipe talentueuse",
-        "subtitle": "Rencontrez les experts qui donnent vie à vos projets",
+        "title": "Les experts derrière vos projets industriels",
+        "subtitle": "Automatisme, SCADA, IoT, développement logiciel — une équipe complémentaire au service de votre digitalisation.",
         "members": [
             {
-                "name": "Karim",
-                "title": "CEO & Fondateur",
-                "location": "Basé sur Valence 🇫🇷",
-                "description": "Entrepreneur passionné avec une vision stratégique forte pour accompagner la croissance des entreprises industrielles.",
+                "name": "Marc Akoto",
+                "title": "Fondateur & Expert Automaticien",
+                "location": "Fribourg 🇨🇭",
+                "description": "Automaticien spécialisé en SCADA, MES et IoT industriel. Fondateur d'AUTEM, intégrateur certifié GOLD Ignition avec 10+ ans d'expérience sur des projets industriels en France et à l'international.",
                 "image": {
-                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Karim-1.png",
-                    "alt": "Karim - CEO & Fondateur"
+                    "src": "/images/team/marc-akoto.jpg",
+                    "alt": "Marc Akoto - Fondateur AUTEM"
                 },
-                "hoverImage": {
-                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Karim-1.jpg",
-                    "alt": "Karim - Photo décontractée"
-                },
-                "linkedin": "https://www.linkedin.com/in/karimbouras",
+                "linkedin": "https://www.linkedin.com/in/akoto/",
                 "qualities": [
                     {
-                        "text": "Entrepreneuriat"
+                        "text": "Automatisme industriel"
                     },
                     {
-                        "text": "Vision stratégique"
+                        "text": "SCADA Ignition Gold"
                     },
                     {
-                        "text": "Growth"
+                        "text": "IoT / IIoT"
                     },
                     {
-                        "text": "Sales & Marketing"
+                        "text": "Vision projet"
                     }
                 ],
                 "skills": [
                     {
-                        "text": "Growth Strategy"
+                        "text": "Siemens TIA Portal"
                     },
                     {
-                        "text": "Sales Management"
+                        "text": "Ignition SCADA"
                     },
                     {
-                        "text": "Marketing Digital"
+                        "text": "MES / TRS"
                     },
                     {
-                        "text": "Business Development"
+                        "text": "OPC-UA / MQTT"
                     }
                 ]
             },
             {
-                "name": "Camille",
-                "title": "COO & Directrice associée",
-                "location": "Basé sur Valence 🇫🇷",
-                "description": "+10 ans d'expérience en pilotage de la performance opérationnelle, dont 3 ans en tant qu'associée",
+                "name": "Idriss Benguezzou",
+                "title": "Ingénieur Logiciel Industriel",
+                "location": "Saint-Étienne 🇫🇷",
+                "description": "Ingénieur en développement logiciel spécialisé dans les applications industrielles. Renforce l'équipe sur les développements sur mesure, l'intégration des systèmes et les solutions logicielles embarquées.",
                 "image": {
-                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Camille-3.png",
-                    "alt": "Camille - COO & Directrice associée"
+                    "src": "/images/team/idriss-benguezzou.jpg",
+                    "alt": "Idriss Benguezzou - Ingénieur Logiciel Industriel"
                 },
-                "hoverImage": {
-                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Camille%20(1).jpg",
-                    "alt": "Camille - Photo décontractée"
-                },
-                "linkedin": "https://www.linkedin.com/in/camillefolliot/",
+                "linkedin": "https://www.linkedin.com/in/idriss-benguezzou",
                 "qualities": [
                     {
-                        "text": "Leadership"
+                        "text": "Développement logiciel"
                     },
                     {
-                        "text": "Recrutement"
+                        "text": "Intégration systèmes"
                     },
                     {
-                        "text": "Performance Opérationnelle"
+                        "text": "Applications industrielles"
                     }
                 ],
                 "skills": [
                     {
-                        "text": "Pilotage Opérationnel"
+                        "text": "Développement logiciel"
                     },
                     {
-                        "text": "Management d'Équipe"
+                        "text": "Intégration API & services"
                     },
                     {
-                        "text": "Recrutement"
+                        "text": "Systèmes embarqués"
                     },
                     {
-                        "text": "Performance Management"
+                        "text": "Architecture logicielle"
                     }
                 ]
             },
             {
-                "name": "Lydie",
-                "title": "Studio Manager",
-                "location": "Basé sur Valence 🇫🇷",
-                "description": "15 ans d'expérience en gestion de projet dont 8 chez Nile",
+                "name": "Alexandre Saïdi",
+                "title": "Ingénieur Automaticien",
+                "location": "Lyon 🇫🇷",
+                "description": "Ingénieur automaticien autonome et polyvalent, capable de piloter un projet d'automatisation de bout en bout : de l'analyse fonctionnelle jusqu'à la mise en service sur site.",
                 "image": {
-                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Lydie-1.png",
-                    "alt": "Lydie - Studio Manager"
+                    "src": "/images/team/alexandre-saidi.jpg",
+                    "alt": "Alexandre Saïdi - Ingénieur Automaticien"
                 },
-                "linkedin": "https://www.linkedin.com/in/lydie-deborne/",
+                "linkedin": "https://www.linkedin.com/in/alexandre-s-0b7b33119/",
                 "qualities": [
                     {
-                        "text": "Management"
+                        "text": "Autonomie complète"
                     },
                     {
-                        "text": "Performance opérationnelle"
+                        "text": "Programmation automates"
                     },
                     {
-                        "text": "Gestion de projet"
+                        "text": "Mise en service"
                     }
                 ],
                 "skills": [
                     {
-                        "text": "Hubspot Platform Consulting"
+                        "text": "Programmation PLC/API"
                     },
                     {
-                        "text": "Hubspot Certified Trainer"
+                        "text": "Analyse fonctionnelle"
                     },
                     {
-                        "text": "Hubspot Data Integration"
+                        "text": "SCADA / IHM"
                     },
                     {
-                        "text": "Project Management"
-                    }
-                ]
-            },
-            {
-                "name": "Mathieu",
-                "title": "Sales Executive",
-                "location": "Basé sur Toulouse 🇫🇷",
-                "description": "Expert en ventes consultatives B2B, avec +12 ans d'expérience : 8 ans chez des éditeurs SaaS dédiés au marketing et à la vente, et 4 ans dans l'intégration de services sur des projets complexes.",
-                "image": {
-                    "src": "https://www.agencenile.com/hubfs/Image-site-2025/profil_mathieu_page_team.png",
-                    "alt": "Mathieu - Sales Executive"
-                },
-                "hoverImage": {
-                    "src": "https://www.agencenile.com/hubfs/21.png",
-                    "alt": "Mathieu - Photo décontractée"
-                },
-                "linkedin": "https://www.linkedin.com/in/mathieunogaret",
-                "qualities": [
-                    {
-                        "text": "Sales Hub"
-                    },
-                    {
-                        "text": "Marketing Hub"
-                    },
-                    {
-                        "text": "Inbound Sales"
-                    },
-                    {
-                        "text": "Consulting HubSpot"
-                    }
-                ],
-                "skills": [
-                    {
-                        "text": "Ventes consultatives"
-                    },
-                    {
-                        "text": "Growth"
-                    },
-                    {
-                        "text": "Sales Enablement"
-                    }
-                ]
-            },
-            {
-                "name": "Alisa",
-                "title": "Finance Administrator Officer",
-                "location": "Basé à Valence 🇫🇷",
-                "description": "+10 ans d'expérience en gestion financière et administrative, j'assure depuis 3 ans la solidité administrative et budgétaire de Nile",
-                "image": {
-                    "src": "https://www.agencenile.com/hubfs/Alisa-1.png",
-                    "alt": "Alisa - Finance Administrator Officer"
-                },
-                "hoverImage": {
-                    "src": "https://www.agencenile.com/hubfs/Alisa-1.jpg",
-                    "alt": "Alisa - Photo décontractée"
-                },
-                "linkedin": "https://www.linkedin.com/in/alisa-chapuis-92750750/",
-                "skills": [
-                    {
-                        "text": "Processus"
-                    },
-                    {
-                        "text": "Pilotage financier"
+                        "text": "Mise en service terrain"
                     }
                 ]
             }

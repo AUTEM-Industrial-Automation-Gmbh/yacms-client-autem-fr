@@ -4,31 +4,34 @@
     "section": "a-propos/technologies/features009-siren-finder"
   },
   "data": {
-    "overtitle": "AGENT IA",
-    "title": "SIREN Finder",
+    "overtitle": "MES & IIoT",
+    "title": "Pilotage de production et connectivité industrielle",
     "paragraphs": [
       {
-        "text": "Notre agent IA détecte automatiquement le SIREN de vos entreprises cibles à partir de leur nom de domaine, puis l'ajoute à vos fiches dans HubSpot."
+        "text": "Au-delà de la supervision, AUTEM intègre des solutions MES pour piloter l'exécution des ordres de fabrication, mesurer le TRS et suivre la performance de ligne en temps réel."
       },
       {
-        "text": "Ce petit identifiant change tout : il permet d'accéder à des données fiables et vérifiées (chiffre d'affaires, effectifs, secteur d'activité…)."
+        "text": "Pour la connectivité IIoT, nous mettons en place les architectures réseau et protocoles nécessaires pour faire remonter les données des machines jusqu'au cloud — en toute sécurité."
       }
     ],
     "highlights": [
       {
-        "text": "Identification SIREN ultra-précise"
+        "text": "MES & TRS — suivi de production, ordres de fabrication (ISA95)"
       },
       {
-        "text": "Intégration directe dans HubSpot, sans action manuelle"
+        "text": "Seckiot — cybersécurité et connectivité IoT des systèmes industriels"
       },
       {
-        "text": "Compatible avec notre app Pappers pour enrichir encore plus finement"
+        "text": "OPC-UA, MQTT, BACnet — protocoles de communication industrielle"
+      },
+      {
+        "text": "Architecture réseau : Profinet, Profibus, Ethernet/IP, Modbus, AS-i"
       }
     ],
-    "conclusion": "Résultat : un premier niveau d'enrichissement, indispensable pour garder une base entreprise propre, fiable, et exploitable. Idéal pour prioriser votre prospection et créer des segments précis pour vos campagnes marketing.",
+    "conclusion": "Résultat : vos données machines remontent automatiquement, vos KPI sont calculés en temps réel, et vos équipes de production pilotent grâce à des tableaux de bord fiables.",
     "image": {
-      "src": "/images/Image_Siren_finder.png",
-      "alt": "Interface de SIREN Finder dans HubSpot"
+      "src": "/images/kpi-industrie.jpg",
+      "alt": "Pilotage MES TRS IoT industriel AUTEM"
     },
     "reverse": false
   }

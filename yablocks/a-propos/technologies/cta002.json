@@ -4,23 +4,23 @@
     "section": "a-propos/nos-technologies/cta002"
   },
   "data": {
-    "title": "Prêt à libérer votre potentiel de croissance ?",
+    "title": "Votre projet de digitalisation industrielle commence ici.",
     "benefits": [
       {
-        "icon": "bar-chart",
-        "text": "Approche ROIste"
+        "icon": "award",
+        "text": "Intégrateur certifié GOLD Ignition"
       },
       {
-        "icon": "users",
-        "text": "+300 industriels accompagnés"
+        "icon": "cpu",
+        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago"
       },
       {
-        "icon": "shield",
-        "text": "HubSpot Diamond Partner"
+        "icon": "clock",
+        "text": "10+ ans d'expérience terrain"
       }
     ],
     "cta": {
-      "text": "Prendre RDV",
+      "text": "Discutons de votre projet",
       "link": "/contact"
     }
   }

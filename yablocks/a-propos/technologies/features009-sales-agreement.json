@@ -4,28 +4,34 @@
     "section": "a-propos/technologies/features009-sales-agreement"
   },
   "data": {
-    "overtitle": "APP HUBSPOT",
-    "title": "Sales Agreement",
+    "overtitle": "AUTOMATES & API",
+    "title": "Programmation d'automates industriels multimarques",
     "paragraphs": [
       {
-        "text": "Notre app Sales Agreement structure le suivi des engagements clients directement dans HubSpot. Vous pouvez enfin créer vos contrats avec des volumes, des prix négociés, des objectifs de réassort ou des remises, et suivre leur exécution dans le temps — sans sortir du CRM."
+        "text": "AUTEM vous accompagne dans la programmation, la maintenance et l'évolution de vos automates industriels, de la phase d'analyse fonctionnelle jusqu'à la mise en service sur site."
+      },
+      {
+        "text": "Nous intervenons sur l'ensemble du cycle projet : conception de l'architecture, programmation des cycles automatisés, tests en plateforme (FAT), mise en service (SAT) et formation des équipes maintenance."
       }
     ],
     "highlights": [
       {
-        "text": "Création d'un objet \"Contrat\" dans HubSpot"
+        "text": "Siemens S7-300/400/1200/1500 (TIA Portal)"
       },
       {
-        "text": "Suivi des volumes, prix, remises et échéances"
+        "text": "Rockwell / Allen Bradley (Studio 5000)"
       },
       {
-        "text": "Alertes automatiques si les objectifs ne sont pas atteints"
+        "text": "Schneider Electric (Unity Pro / EcoStruxure)"
+      },
+      {
+        "text": "Wago, Eaton — et autres constructeurs sur demande"
       }
     ],
-    "conclusion": "Résultat : vos commerciaux gagnent en visibilité sur les volumes engagés, votre suivi devient plus structuré et proactif, et vos données sont exploitables directement dans vos reportings.",
+    "conclusion": "Résultat : vos programmes sont documentés, maintenables et évolutifs. Vos techniciens peuvent intervenir en autonomie. Et vos lignes de production tournent sans surprise.",
     "image": {
-      "src": "/images/8.jpg",
-      "alt": "Capture d'écran de l'application Sales Agreement dans HubSpot"
+      "src": "/images/background-indus.jpg",
+      "alt": "Programmation automate industriel Siemens Rockwell Schneider AUTEM"
     },
     "reverse": false
   }
