@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/footer/FooterColumns",
-    "section": "home/footer-columns"
+    "section": "shared/footer-columns"
   },
   "data": {
     "brand": {

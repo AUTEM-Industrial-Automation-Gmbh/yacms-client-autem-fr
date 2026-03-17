@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/navigation/Navigation004",
-    "section": "autem/navigation"
+    "section": "shared/navigation"
   },
   "data": {
     "logo": {
