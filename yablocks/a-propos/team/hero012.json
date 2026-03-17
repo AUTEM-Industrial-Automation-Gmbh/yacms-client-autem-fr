@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "a-propos/team/hero012"
+  },
+  "data": {
+    "overtitle": "L'ÉQUIPE",
+    "title": "La Team AUTEM",
+    "subtitle": "Un concentré d'expertises dans une équipe à taille humaine, spécialiste de votre secteur industriel.\n\n"
+  }
+}
