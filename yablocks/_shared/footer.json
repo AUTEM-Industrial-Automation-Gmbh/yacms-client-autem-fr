@@ -26,66 +26,24 @@
     ],
     "linkGroups": [
       {
-        "title": "Machines Automatisées",
+        "title": "Enjeux",
         "links": [
           {
-            "text": "Rétrofit Automatisme",
+            "text": "Machines Automatisées",
             "href": "/nos-offres/machines-automatisees/retrofit-automation"
           },
           {
-            "text": "IoT & Réseaux Communication",
-            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
+            "text": "Logiciels de Pilotage",
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
           },
           {
-            "text": "Revamping Électrique",
-            "href": "/nos-offres/machines-automatisees/revamping-electrique"
-          },
-          {
-            "text": "Rénovation PC Industriel",
-            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
+            "text": "Avis Technique",
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
           }
         ]
       },
       {
-        "title": "Logiciels de Pilotage",
-        "links": [
-          {
-            "text": "KPI, MES, TRS, OEE",
-            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
-          },
-          {
-            "text": "Analyse Data, Pareto, ROI",
-            "href": "/nos-offres/logiciels-pilotage/analyse-data"
-          },
-          {
-            "text": "Supervision SCADA Ignition",
-            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
-          },
-          {
-            "text": "GTB & GMAO",
-            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
-          }
-        ]
-      },
-      {
-        "title": "Avis Technique",
-        "links": [
-          {
-            "text": "Architecture de Systèmes",
-            "href": "/nos-offres/avis-technique/architecture-systemes"
-          },
-          {
-            "text": "Assistance Projets Stratégiques",
-            "href": "/nos-offres/avis-technique/assistance-projets"
-          },
-          {
-            "text": "Cycle de Vie & Obsolescence",
-            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
-          }
-        ]
-      },
-      {
-        "title": "Entreprise",
+        "title": "Equipe",
         "links": [
           {
             "text": "À propos",
