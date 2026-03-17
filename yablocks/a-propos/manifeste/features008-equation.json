@@ -1,14 +1,14 @@
 {
-    "meta": {
-        "component": "blocks/content/features/Features008",
-        "section": "a-propos/manifeste/features008-equation"
-    },
-    "data": {
-        "title": "Les 3 variables de l'équation de croissance",
-        "content": "<p>Vous voyez là, notre méthodologie de croissance.</p><p>Celle-là même que nous avons affinée avec les années, fait évoluer pour permettre à nos clients d'obtenir des résultats concrets et mesurables.</p>",
-        "image": {
-            "src": "/images/3-variables-equation-croissance.webp",
-            "alt": "Les 3 variables de l'équation de croissance Nile"
-        }
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "a-propos/manifeste/features008-equation"
+  },
+  "data": {
+    "title": "Les 3 variables de l'équation de croissance",
+    "content": "<p>Vous voyez là, notre méthodologie de croissance.</p><p>Celle-là même que nous avons affinée avec les années, fait évoluer pour permettre à nos clients d'obtenir des résultats concrets et mesurables.</p>",
+    "image": {
+      "src": "/images/12.jpg",
+      "alt": "Les 3 variables de l'équation de croissance Nile"
     }
+  }
 }
