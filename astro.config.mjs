@@ -8,8 +8,7 @@ import sitemap from '@astrojs/sitemap';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-    site: 'https://zestones.github.io',
-    base: '/yacms-client-autem',
+    site: 'https://autem.ch',
     integrations: [react(), sitemap()],
     build: {
         inlineStylesheets: 'always',
