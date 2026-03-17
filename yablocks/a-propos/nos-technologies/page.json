@@ -4,6 +4,8 @@
     "description": "",
     "keywords": []
   },
-  "theme": "light",
-  "blocks": []
+  "theme": "autem-default",
+  "blocks": [
+    "./hero012.json"
+  ]
 }

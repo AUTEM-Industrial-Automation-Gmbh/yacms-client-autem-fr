@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "a-propos/nos-technologies/hero012"
+  },
+  "data": {
+    "overtitle": "Les Technologies Nile",
+    "title": "Nos Agents IA, Apps & connecteurs",
+    "subtitle": "Notre suite d’outils propriétaires transforme votre portail HubSpot en un moteur de croissance encore plus intelligent et performant. Vos données sont fiabilisées, vos processus fluidifiés, et l’exécution simplifiée pour vos équipes."
+  }
+}
