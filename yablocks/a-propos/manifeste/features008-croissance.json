@@ -1,15 +1,15 @@
 {
-    "meta": {
-        "component": "blocks/content/features/Features008",
-        "section": "a-propos/manifeste/features008-croissance"
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "a-propos/manifeste/features008-croissance"
+  },
+  "data": {
+    "title": "Penser sa croissance comme une chaîne de production",
+    "content": "<p><strong>La croissance d'une entreprise industrielle repose sur plusieurs moteurs interconnectés</strong>, exactement comme les machines d'une chaîne de production en usine.</p><p>Pour assurer l'efficacité opérationnelle d'une usine, vos machines doivent être performantes et fonctionner en harmonie.</p><p>Il en va de même pour votre croissance : chaque moteur joue un rôle précis, et tous sont interdépendants.</p>",
+    "image": {
+      "src": "/images/moteurs_de_croissance_industriels.jpg",
+      "alt": "Moteurs de croissance industriels interconnectés"
     },
-    "data": {
-        "title": "Penser sa croissance comme une chaîne de production",
-        "content": "<p><strong>La croissance d'une entreprise industrielle repose sur plusieurs moteurs interconnectés</strong>, exactement comme les machines d'une chaîne de production en usine.</p><p>Pour assurer l'efficacité opérationnelle d'une usine, vos machines doivent être performantes et fonctionner en harmonie.</p><p>Il en va de même pour votre croissance : chaque moteur joue un rôle précis, et tous sont interdépendants.</p>",
-        "image": {
-            "src": "/images/moteurs-de-croissance-industriels.jpg",
-            "alt": "Moteurs de croissance industriels interconnectés"
-        },
-        "caption": "Si un seul de ces moteurs ralentit, toute votre chaîne ralentit. Vous devinez la suite... Votre croissance en pâtit."
-    }
+    "caption": "Si un seul de ces moteurs ralentit, toute votre chaîne ralentit. Vous devinez la suite... Votre croissance en pâtit."
+  }
 }
