@@ -6,6 +6,7 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "./hero012.json"
+    "./hero012.json",
+    "./cta002.json"
   ]
 }

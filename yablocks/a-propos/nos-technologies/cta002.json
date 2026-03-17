@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "a-propos/nos-technologies/cta002"
+  },
+  "data": {
+    "title": "Prêt à libérer votre potentiel de croissance ?",
+    "benefits": [
+      {
+        "icon": "bar-chart",
+        "text": "Approche ROIste"
+      },
+      {
+        "icon": "users",
+        "text": "+200 clients industriels accompagnés"
+      },
+      {
+        "icon": "shield",
+        "text": "HubSpot Diamond Partner"
+      }
+    ],
+    "cta": {
+      "text": "Prendre RDV",
+      "link": "/contact"
+    }
+  }
+}
