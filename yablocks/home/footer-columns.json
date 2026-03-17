@@ -5,43 +5,39 @@
   },
   "data": {
     "brand": {
-      "alt": "Mon Entreprise",
-      "tagline": "Votre partenaire de confiance depuis 2020. Nous accompagnons les professionnels et les particuliers avec des solutions sur mesure."
+      "alt": "AUTEM Industrial Automation Gmbh",
+      "tagline": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie."
     },
     "contact": {
-      "phone": "+33 1 23 45 67 89",
-      "email": "contact@example.com",
-      "address": "123 rue Example, 75001 Paris",
-      "hours": "Lun-Ven : 9h-18h"
+      "phone": "+41 78 442 73 53",
+      "email": "team@autem.ch",
+      "address": "Route d'Avry 19, Matran 1753, Fribourg, Suisse",
+      "hours": "Lun-Ven : 7h-17h"
     },
     "socialLinks": [
       {
-        "platform": "facebook",
-        "href": "https://example.com"
+        "platform": "linkedin",
+        "href": "https://www.linkedin.com/company/autemautomation/"
       },
       {
-        "platform": "facebook",
-        "href": "https://example.com"
-      },
-      {
-        "platform": "facebook",
-        "href": "https://example.com"
+        "platform": "youtube",
+        "href": "https://www.youtube.com/@AUTEM_Industrial_Automation"
       }
     ],
     "linkGroups": [
       {
-        "title": "Services",
+        "title": "Nos offres de services",
         "links": [
           {
-            "text": "Chauffage",
+            "text": "Machines Automatisées",
             "href": "/services/chauffage"
           },
           {
-            "text": "Plomberie",
+            "text": "Logiciels de Pilotage",
             "href": "/services/plomberie"
           },
           {
-            "text": "Climatisation",
+            "text": "Avis technique",
             "href": "/services/climatisation"
           }
         ]
@@ -100,7 +96,7 @@
     },
     "certifications": [
       {
-        "src": "Sample text",
+        "src": "/logos/ignition.png",
         "alt": "Sample text"
       },
       {
