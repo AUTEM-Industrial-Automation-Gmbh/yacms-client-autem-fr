@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "On ne remplace pas votre IPC — on sécurise votre outil de production.",
+        "paragraphs": [
+            {
+                "text": "Migrer un PC industriel, c'est toucher au cœur du système de pilotage — là où une erreur peut arrêter la ligne. Nous préparons chaque migration comme un projet à risque maîtrisé : backup complet, migration en parallèle, tests en plateforme, puis bascule rapide et planifiée sur site."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Backup complet du projet existant avant toute modification"
+            },
+            {
+                "text": "Migration préparée en parallèle — arrêt de production minimal et planifié"
+            },
+            {
+                "text": "Tests fonctionnels exhaustifs avant tout déploiement sur site"
+            },
+            {
+                "text": "Choix de plateforme indépendant : Beckhoff, Siemens IPC, Advantech — selon vos contraintes réelles"
+            },
+            {
+                "text": "Durcissement OS et bonnes pratiques cybersécurité inclus dans chaque migration"
+            },
+            {
+                "text": "Formation des équipes et documentation complète livrée à la mise en service"
+            }
+        ],
+        "conclusion": "Le résultat : un IPC moderne, un OS supporté, des licences valides, vos équipes formées — et votre production hors de danger pour les 15 prochaines années.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Ingénieur AUTEM — migration PC industriel IPC supervision"
+        },
+        "reverse": true
+    }
+}

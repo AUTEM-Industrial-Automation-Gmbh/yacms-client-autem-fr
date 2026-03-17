@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "title": "Rénovation PC Industriel — Migration IPC & logiciels de supervision | AUTEM",
+        "description": "AUTEM migre vos PC industriels obsolètes (Windows XP/7, IPC fanless hors support) vers du matériel récent et des logiciels supportés. WinCC, InduSoft, FactoryTalk, Ignition. Vos projets sont conservés.",
+        "keywords": [
+            "PC industriel obsolète",
+            "migration IPC",
+            "rénovation pc industriel",
+            "Windows XP industriel",
+            "migration WinCC",
+            "migration InduSoft",
+            "Beckhoff IPC",
+            "Siemens IPC",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

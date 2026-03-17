@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/machines-automatisees/renovation-pc-industriel/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur la rénovation de PC industriels",
+        "items": [
+            {
+                "question": "Mon logiciel de supervision est en version ancienne — peut-il être migré sans tout recréer ?",
+                "answer": "Dans la majorité des cas, oui. Les projets WinCC, InduSoft ou FactoryTalk View peuvent être migrés vers des versions récentes en conservant les écrans, les alarmes, les tags et les historiques. La quantité de travail de portage dépend de l'écart de version, mais nous évitons systématiquement de repartir de zéro."
+            },
+            {
+                "question": "Peut-on remplacer l'IPC sans changer l'automate ni le réseau ?",
+                "answer": "Oui. Le PC industriel peut être remplacé indépendamment de l'automate et de l'infrastructure réseau. Nous conservons les communications existantes (Profinet, OPC-UA, Modbus, etc.) et adaptons uniquement la couche applicative et matérielle côté PC."
+            },
+            {
+                "question": "Combien de temps dure une migration de PC industriel ?",
+                "answer": "Une migration simple (même logiciel, version plus récente, matériel compatible) prend 1 à 3 jours sur site. Une migration vers une nouvelle plateforme logicielle (ex. InduSoft → Ignition) prend 2 à 6 semaines selon la taille du projet HMI/SCADA existant."
+            },
+            {
+                "question": "Windows XP est-il vraiment un risque si la machine n'est pas connectée à Internet ?",
+                "answer": "Oui. Même sans connexion Internet directe, un OS sans support expose la production aux pannes matérielles sans possibilité de réinstallation, aux infections via clés USB, et à l'incompatibilité progressive avec les logiciels tiers. De plus, les exigences réglementaires (ISO 27001, NIS2, assurances industrielles) rendent un système non supporté potentiellement non conforme."
+            },
+            {
+                "question": "Quel matériel recommandez-vous pour remplacer un IPC fanless ?",
+                "answer": "Nous recommandons du matériel industriel certifié (Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron) selon les contraintes environnementales, la durée de vie souhaitée et le budget. Nous ne sommes affiliés à aucun constructeur — nous choisissons la plateforme qui correspond à votre situation réelle."
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "offre/machines-automatisees/renovation-pc-industriel/hero012"
+  },
+  "data": {
+    "overtitle": "MACHINES AUTOMATISÉES",
+    "title": "Rénovation & Migration de PC industriels.",
+    "subtitle": "Votre IPC tourne sous Windows XP, les pièces de rechange n'existent plus et votre logiciel de supervision ne peut plus être mis à jour ? AUTEM migre votre infrastructure PC industriel vers des plateformes modernes — sans perdre vos projets existants.",
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Rénovation PC industriel IPC migration AUTEM"
+    }
+  }
+}

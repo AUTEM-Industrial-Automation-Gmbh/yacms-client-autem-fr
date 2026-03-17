@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "offre/machines-automatisees/renovation-pc-industriel/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Projet BEMA Grenoble — machine compactage papier"
+    },
+    "quote": "La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc. AUTEM a livré exactement ce qui était attendu, dans les délais.",
+    "author": {
+      "name": "Responsable Bureau d'Études",
+      "role": "BEMA — Grenoble"
+    }
+  }
+}

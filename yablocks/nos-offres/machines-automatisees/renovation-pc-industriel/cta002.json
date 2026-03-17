@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/cta002"
+    },
+    "data": {
+        "title": "Votre PC industriel est obsolète ou tourne sous un OS en fin de vie ?",
+        "benefits": [
+            {
+                "icon": "cpu",
+                "text": "Migration matérielle et logicielle : Beckhoff, Siemens IPC, Advantech"
+            },
+            {
+                "icon": "layers",
+                "text": "Projets WinCC, InduSoft, FactoryTalk conservés et portés vers des versions supportées"
+            },
+            {
+                "icon": "shield",
+                "text": "OS durci, licences à jour, documentation complète livrée à la mise en service"
+            }
+        ],
+        "cta": {
+            "text": "Discutons de votre projet",
+            "link": "/contact"
+        }
+    }
+}
