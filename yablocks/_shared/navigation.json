@@ -63,15 +63,15 @@
             "description": "Audit agnostique, Projets techniques",
             "items": [
               {
-                "label": "Architecture de Systèmes",
+                "label": "Architecture Systèmes",
                 "href": "/offre/data"
               },
               {
-                "label": "Assistance de projets stratégiques",
+                "label": "Assistance Projets Stratégiques",
                 "href": "/offre/data#reseaux"
               },
               {
-                "label": "Cycle de Vie et Gestion de l'Obsolescence",
+                "label": "Cycle de Vie et Obsolescence",
                 "href": "/offre/data#pilotage"
               }
             ]
