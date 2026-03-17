@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/ignition-scada/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Certifié Gold Ignition — et automaticien. Pas juste développeur SCADA.",
+        "paragraphs": [
+            {
+                "text": "Un intégrateur SCADA qui ne comprend pas l'automate en dessous livre des écrans qui affichent la mauvaise donnée. AUTEM développe aussi bien le programme API que la supervision — ce qui change tout dans la qualité des données, la pertinence des alarmes et la cohérence de l'ensemble."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Certification Gold Ignition — validée par Inductive Automation sur les pratiques, livrables et compétences techniques"
+            },
+            {
+                "text": "Double compétence automate + SCADA : les données sont collectées proprement à la source — pas raccrochées en bout de chaîne"
+            },
+            {
+                "text": "Architecture UDT structurée et versionnée Git : votre projet Ignition est maintenable par n'importe quel intégrateur qualifié"
+            },
+            {
+                "text": "Migration sans repartir de zéro : nous portons vos projets WinCC, InduSoft et FactoryTalk en conservant écrans et historiques"
+            },
+            {
+                "text": "Aucune affiliation fabricant : nous recommandons Ignition parce que c'est le meilleur outil pour votre besoin — pas pour des raisons commerciales"
+            },
+            {
+                "text": "Formation des équipes internes incluse : vos développeurs peuvent étendre le projet sans faire appel à nous"
+            }
+        ],
+        "conclusion": "Le résultat : une supervision moderne, maintenable, ouverte, développée selon les pratiques Gold Ignition — que vos équipes peuvent s'approprier dès le premier jour.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Intégrateur Ignition Gold AUTEM — supervision SCADA industrielle"
+        },
+        "reverse": true
+    }
+}

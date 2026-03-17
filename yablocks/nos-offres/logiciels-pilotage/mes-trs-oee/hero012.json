@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/hero012"
+    },
+    "data": {
+        "overtitle": "LOGICIELS DE PILOTAGE",
+        "title": "KPI Production — MES, TRS, OEE.",
+        "subtitle": "Votre production se pilote encore au tableau blanc et à la feuille Excel ? AUTEM connecte vos machines, calcule votre TRS en temps réel et rend vos KPIs actionnables — là où ils servent : sur le terrain.",
+        "backgroundImage": {
+            "src": "/images/kpi-industrie.jpg",
+            "alt": "KPI production MES TRS OEE tableau de bord industriel — AUTEM"
+        }
+    }
+}

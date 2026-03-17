@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/logiciels-pilotage/gtb-gmao/stats001"
+    },
+    "data": {
+        "stats": [
+            { "value": "10", "label": "Années d'expérience en supervision industrielle et infrastructure bâtiment", "suffix": "+" },
+            { "value": "3", "label": "Protocoles GTB maîtrisés : BACnet, Modbus, LonWorks", "suffix": "" },
+            { "value": "15", "label": "Clients accompagnés en France et à l'international", "suffix": "+" },
+            { "value": "100", "label": "Des projets livrés avec documentation et formation équipe maintenance", "suffix": "%" }
+        ]
+    }
+}

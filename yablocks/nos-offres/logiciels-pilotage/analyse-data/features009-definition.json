@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/analyse-data/features009-definition"
+    },
+    "data": {
+        "overtitle": "ANALYSE DATA INDUSTRIELLE",
+        "title": "Pareto, VSM, ROI : structurer la donnée pour décider",
+        "paragraphs": [
+            {
+                "text": "Utiliser vos données de production existantes — ou collecter les données manquantes — pour identifier les pertes cachées, cartographier les flux, prioriser les actions d'amélioration et chiffrer leur retour sur investissement."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Analyse Pareto des pannes et arrêts : identification des équipements critiques et des causes racines"
+            },
+            {
+                "text": "Cartographie VSM as-is : mesure des temps de cycle, d'attente et des stocks intermédiaires"
+            },
+            {
+                "text": "VSM to-be : modélisation du flux optimisé et quantification des gains potentiels"
+            },
+            {
+                "text": "Calcul ROI pour chaque action d'amélioration : payback, économies annuelles, réduction des pertes"
+            },
+            {
+                "text": "Mise en place des tableaux de bord de suivi des actions d'amélioration continue"
+            },
+            {
+                "text": "Livrables actionnables : rapport Pareto, VSM as-is/to-be, feuille de route priorisée"
+            }
+        ],
+        "conclusion": "Résultat : une feuille de route d'amélioration continue que vous pouvez défendre en interne — avec des données, pas des opinions.",
+        "image": {
+            "src": "/images/kpi-industrie.jpg",
+            "alt": "Analyse Pareto VSM performance industrielle — AUTEM"
+        },
+        "reverse": false
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/logiciels-pilotage/ignition-scada/hero012"
+    },
+    "data": {
+        "overtitle": "LOGICIELS DE PILOTAGE",
+        "title": "Supervision SCADA — Ignition Gold Certified.",
+        "subtitle": "Votre supervision est vieillissante, les licences par tag explosent et vos écrans sont inaccessibles hors du poste opérateur ? AUTEM est intégrateur certifié Gold Ignition — le niveau de certification le plus exigeant d'Inductive Automation.",
+        "backgroundImage": {
+            "src": "/images/ignition-scada.jpeg",
+            "alt": "Supervision SCADA Ignition industriel certifié Gold — AUTEM"
+        }
+    }
+}

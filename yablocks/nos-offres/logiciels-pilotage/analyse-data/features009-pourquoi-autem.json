@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/analyse-data/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Analyse terrain, pas analyse de tableaux de bord.",
+        "paragraphs": [
+            {
+                "text": "Une analyse Pareto menée depuis un bureau sur des données mal collectées aboutit à de mauvais plans d'action. AUTEM mène ses analyses de terrain : nous observons, nous interrogeons les opérateurs, nous croisons les données avec ce que nous voyons — et nous livrons des conclusions que votre équipe peut défendre."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Nous partons des données réelles : SCADA, automates, ERP, papier si nécessaire — pas d'hypothèses théoriques"
+            },
+            {
+                "text": "Double compétence automatisme + analyse industrielle : nous comprenons pourquoi une panne se produit, pas seulement qu'elle se produit"
+            },
+            {
+                "text": "Indépendance totale : nos recommandations ne sont liées à aucune vente de logiciel ou d'équipement"
+            },
+            {
+                "text": "Méthodologie structurée : Pareto + VSM + arbre des causes + ROI, livrés ensemble, pas séparément"
+            },
+            {
+                "text": "Livrables actionnables et défendables en comité de direction — avec chiffres et hypothèses transparentes"
+            },
+            {
+                "text": "Transfert de méthode : vos équipes apprennent à reproduire l'analyse en autonomie"
+            }
+        ],
+        "conclusion": "Le résultat : vous savez où sont vos vraies pertes, combien elles coûtent, et dans quel ordre les traiter — sans avoir à deviner.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Ingénieur AUTEM — analyse data Pareto VSM performance industrielle"
+        },
+        "reverse": true
+    }
+}

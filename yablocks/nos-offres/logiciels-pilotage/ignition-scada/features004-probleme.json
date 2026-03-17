@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/logiciels-pilotage/ignition-scada/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition Gold — Inductive Automation"
+            },
+            {
+                "src": "/logos/wonderware.png",
+                "alt": "AVEVA Wonderware"
+            },
+            {
+                "src": "/logos/wincc.png",
+                "alt": "Siemens WinCC"
+            }
+        ],
+        "headline": "Une supervision ne devrait pas vous coûter une licence par tag, bloquer vos équipes sur un seul poste et refuser de s'ouvrir sur tablette.",
+        "paragraphs": [
+            {
+                "text": "WinCC V6, iFIX, InduSoft, FactoryTalk View SE — des centaines d'industriels tournent encore sur des plateformes SCADA qui coûtent une fortune à maintenir. Licences par tag qui explosent dès qu'on ajoute un équipement, architecture client-serveur lourde qui nécessite un PC dédié par poste, mises à jour bloquées depuis des années par crainte d'incompatibilité."
+            },
+            {
+                "text": "Le résultat : une supervision qui ressemble à son âge. Des écrans figés depuis 2008. Des alarmes qu'on acquitte sans les lire parce qu'il y en a trop. Des données inaccessibles depuis le bureau, la tablette ou le téléphone. Et une dépendance totale à l'intégrateur d'origine — qui a parfois disparu."
+            },
+            {
+                "text": "Ignition, développé par Inductive Automation, casse ce modèle : licence plate (illimitée en tags, clients et connexions), architecture web-native (accessible depuis n'importe quel navigateur), API ouverte (pas de dépendance propriétaire), et une marketplace de modules qui s'adapte à chaque besoin — MES, reporting, MQTT, historien."
+            },
+            {
+                "text": "AUTEM est intégrateur certifié Gold — le niveau le plus exigeant d'Inductive Automation. Ce n'est pas un titre commercial : c'est la validation par l'éditeur lui-même que nos pratiques de développement, nos livrables et nos compétences techniques sont au plus haut niveau."
+            }
+        ],
+        "closing": "Une supervision moderne ne devrait pas vous coûter plus cher quand vous grandissez — elle devrait s'adapter."
+    }
+}

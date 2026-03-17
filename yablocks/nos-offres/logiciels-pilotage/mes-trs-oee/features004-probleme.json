@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition MES — Inductive Automation"
+            },
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens — WinCC & SIMATIC"
+            },
+            {
+                "src": "/logos/unilever.jpg",
+                "alt": "Unilever — Oise"
+            }
+        ],
+        "headline": "Ce que vous ne mesurez pas vous coûte plus que ce que vous imaginez.",
+        "paragraphs": [
+            {
+                "text": "La plupart des ateliers industriels ont un TRS. Quelques-uns le calculent. Beaucoup le calculent avec un jour de décalage, à partir de relevés papier, par une seule personne — souvent le chef d'équipe — avant une réunion. Le problème : à ce moment-là, la perte est déjà consommée."
+            },
+            {
+                "text": "Les micro-arrêts sous 5 minutes ne sont jamais tracés. Les changements de série sont estimés au doigt mouillé. Les pannes répétitives sur le même équipement s'accumulent sans jamais déclencher de plan d'action structuré. Et la GMAO ne reçoit jamais les données du terrain en temps réel."
+            },
+            {
+                "text": "Un MES bien intégré change l'équation : le TRS est calculé automatiquement depuis les signaux automates, les causes de perte sont saisies par les opérateurs à la source, et les tableaux de bord sont visibles par tout le monde — opérateurs, chefs d'équipe, direction — sans extraire une seule feuille Excel."
+            },
+            {
+                "text": "AUTEM conçoit et déploie ce type d'intégration depuis les automates jusqu'aux écrans de supervision, en passant par la base de données et les KPIs — avec une double compétence automatisme et informatique industrielle que peu d'intégrateurs peuvent offrir."
+            }
+        ],
+        "closing": "Un TRS mesuré en temps réel, c'est une ligne de production qui peut s'améliorer — et une direction qui peut décider."
+    }
+}

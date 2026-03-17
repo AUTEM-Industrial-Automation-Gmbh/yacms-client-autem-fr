@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/logiciels-pilotage/analyse-data/stats001"
+    },
+    "data": {
+        "stats": [
+            { "value": "10", "label": "Années d'expérience en analyse de performance industrielle", "suffix": "+" },
+            { "value": "3", "label": "Méthodologies d'analyse maîtrisées : Pareto, VSM, arbre des causes", "suffix": "" },
+            { "value": "15", "label": "Clients accompagnés en amélioration continue", "suffix": "+" },
+            { "value": "100", "label": "Des missions livrées avec feuille de route priorisée et ROI chiffré", "suffix": "%" }
+        ]
+    }
+}

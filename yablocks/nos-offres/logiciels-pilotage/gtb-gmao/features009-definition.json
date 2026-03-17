@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/gtb-gmao/features009-definition"
+    },
+    "data": {
+        "overtitle": "GTB — GMAO",
+        "title": "Supervision bâtiment et maintenance pilotée par les données : périmètre",
+        "paragraphs": [
+            {
+                "text": "Connecter les équipements du bâtiment industriel (CVC, éclairage, énergie, utilités) à une supervision unifiée, et alimenter la GMAO avec des données terrain en temps réel pour passer d'une maintenance curative à une maintenance préventive basée sur l'état réel des équipements."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "GTB : supervision CVC, éclairage, énergie, groupes froids, compresseurs, utilités"
+            },
+            {
+                "text": "Protocoles BACnet IP/MS-TP, Modbus TCP/RTU, LonWorks — intégration de tous les équipements terrain existants"
+            },
+            {
+                "text": "Tableau de bord énergie : consommation par zone, par équipement, par heure — détection des dérives"
+            },
+            {
+                "text": "GMAO : gestion des ordres de travail, planification maintenance préventive, historique des interventions"
+            },
+            {
+                "text": "Déclenchement automatique des OT préventifs depuis les données terrain (compteurs horaires, températures, vibrations)"
+            },
+            {
+                "text": "Supervision unifiée process + bâtiment sur une seule plateforme Ignition — une seule interface pour tout"
+            }
+        ],
+        "conclusion": "Résultat : des consommations énergétiques maîtrisées, des pannes évitées grâce à la maintenance préventive, et une traçabilité complète de toutes les interventions — accessible par toute l'équipe maintenance.",
+        "image": {
+            "src": "/images/background-indus.jpg",
+            "alt": "GTB supervision bâtiment industriel GMAO maintenance AUTEM"
+        },
+        "reverse": false
+    }
+}

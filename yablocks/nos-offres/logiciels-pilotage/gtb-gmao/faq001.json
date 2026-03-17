@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/logiciels-pilotage/gtb-gmao/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur la GTB et la GMAO industrielle",
+        "items": [
+            {
+                "question": "Quelle différence entre GTB, GTC et BMS ?",
+                "answer": "Ces trois termes désignent pratiquement la même chose avec des nuances d'usage. BMS (Building Management System) est le terme international. GTB (Gestion Technique du Bâtiment) est le terme francophone officiel pour la supervision des équipements d'un bâtiment. GTC (Gestion Technique Centralisée) désigne plus spécifiquement la supervision centralisée multi-bâtiments. Dans un contexte industriel, GTB est le terme le plus courant — c'est celui que nous utilisons."
+            },
+            {
+                "question": "Nos équipements CVC sont anciens et n'ont pas de port BACnet — peut-on quand même les intégrer ?",
+                "answer": "Oui, dans la plupart des cas. Les équipements sans BACnet peuvent être intégrés via Modbus RTU (présent sur de nombreux régulateurs CVC anciens), des convertisseurs de protocoles (Modbus → BACnet), des modules d'acquisition déportés ou des passerelles séries. Nous évaluons les options lors de l'audit terrain — l'objectif est toujours d'éviter de remplacer du matériel qui fonctionne."
+            },
+            {
+                "question": "Quelle GMAO recommandez-vous ?",
+                "answer": "Nous n'avons pas de GMAO partenaire ou exclusif. Notre recommandation dépend de votre taille, de votre contexte et de votre budget : pour les PME industrielles, des solutions comme Mobility Work, Fiix ou Carl Source sont pertinentes. Pour une intégration forte avec Ignition (déclenchement automatique d'OT depuis les données terrain), nous développons des modules GMAO sur mesure. Nous vous présentons les options et vous aidons à choisir — sans commission sur la vente."
+            },
+            {
+                "question": "Le projet GTB peut-il se faire en plusieurs phases ?",
+                "answer": "Oui, et c'est souvent la meilleure approche. Une première phase peut couvrir l'énergie électrique (compteurs, tableaux), une deuxième le CVC (régulation, températures, consommation thermique), une troisième les utilités (air comprimé, eau, vapeur). Chaque phase apporte une valeur immédiate sans attendre la réalisation complète."
+            },
+            {
+                "question": "Peut-on connecter la GTB et la GMAO à notre supervision process existante ?",
+                "answer": "Oui. C'est précisément ce que nous cherchons à faire : une supervision unifiée process + bâtiment sur une seule plateforme (Ignition de préférence) avec un seul point d'entrée pour les équipes. Si vous avez déjà une supervision process existante (WinCC, FactoryTalk…), nous pouvons soit l'étendre, soit mettre en place Ignition en parallèle et y rapatrier progressivement les deux univers."
+            }
+        ]
+    }
+}

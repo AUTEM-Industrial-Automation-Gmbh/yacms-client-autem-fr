@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/logiciels-pilotage/ignition-scada/trust-logos002"
+    },
+    "data": {
+        "title": "Nous migrons depuis toutes les plateformes SCADA",
+        "subtitle": "Et nous intervenons aussi sur WinCC, FactoryTalk et Wonderware si votre infrastructure l'impose",
+        "logos": [
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition — Gold Certified Integrator"
+            },
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens — WinCC, TIA Portal"
+            },
+            {
+                "src": "/logos/rockwell.png",
+                "alt": "Rockwell — FactoryTalk View SE/ME"
+            },
+            {
+                "src": "/logos/wonderware.png",
+                "alt": "AVEVA Wonderware — System Platform"
+            },
+            {
+                "src": "/logos/wincc.png",
+                "alt": "Siemens WinCC — supervision industrielle"
+            }
+        ]
+    }
+}

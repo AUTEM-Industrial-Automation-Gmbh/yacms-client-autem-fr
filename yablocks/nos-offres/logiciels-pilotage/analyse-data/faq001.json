@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/logiciels-pilotage/analyse-data/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur l'analyse data et l'amélioration continue",
+        "items": [
+            {
+                "question": "Quelle différence entre une analyse Pareto et un VSM ?",
+                "answer": "L'analyse Pareto classe les causes de perte par ordre de fréquence ou d'impact pour identifier les 20 % de causes qui génèrent 80 % des problèmes. C'est une analyse quantitative sur des événements passés. Le VSM (Value Stream Mapping) est une cartographie visuelle du flux de production : il montre comment la matière et l'information circulent, où les stocks s'accumulent, où les temps d'attente se créent. Les deux sont complémentaires : le Pareto dit « quoi » améliorer, le VSM dit « où » et « pourquoi » dans le flux."
+            },
+            {
+                "question": "On a des données en Excel depuis 5 ans — peut-on partir de là ?",
+                "answer": "Oui, c'est même fréquent. Nous structurons et nettoyons vos données Excel existantes avant toute analyse. Si ces données sont insuffisantes ou peu fiables, nous mettons en place une collecte terrain complémentaire (relevés opérateurs, extraction SCADA, compteurs) pour la durée nécessaire. Nous ne reportons jamais à cause d'un manque de données — nous nous adaptons à ce que vous avez."
+            },
+            {
+                "question": "Combien de temps dure une mission d'analyse ?",
+                "answer": "Une mission d'analyse ciblée (audit terrain + Pareto + feuille de route) prend généralement 2 à 4 semaines selon la taille de l'atelier et la disponibilité des données. Un projet VSM complet (as-is + to-be + ROI + présentation direction) s'étend plutôt sur 4 à 6 semaines."
+            },
+            {
+                "question": "Le ROI est-il vraiment calculable avant de démarrer les améliorations ?",
+                "answer": "Oui, avec des hypothèses transparentes. Nous calculons le ROI à partir des données de perte mesurées (arrêts, rebuts, temps d'attente) et d'une hypothèse de réduction réaliste basée sur des projets comparables. Nous présentons toujours les hypothèses avec le résultat — vous pouvez les challenger et les adapter à votre contexte. Un ROI bien documenté avec ses hypothèses vaut mieux qu'un chiffre sorti de nulle part."
+            },
+            {
+                "question": "Peut-on piloter l'amélioration continue après la mission ?",
+                "answer": "Oui. Nous mettons en place les indicateurs de suivi et les tableaux de bord qui permettent à vos équipes de piloter l'avancement des actions en autonomie. Si vous souhaitez un accompagnement dans la durée (coaching équipe, revue mensuelle des KPIs), nous pouvons le proposer sous forme de mission de suivi."
+            }
+        ]
+    }
+}

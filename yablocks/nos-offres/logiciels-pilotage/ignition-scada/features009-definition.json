@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/ignition-scada/features009-definition"
+    },
+    "data": {
+        "overtitle": "SUPERVISION SCADA IGNITION",
+        "title": "Ce qu'Ignition change — et pourquoi la certification Gold compte",
+        "paragraphs": [
+            {
+                "text": "Ignition est une plateforme SCADA/MES/IIoT développée par Inductive Automation, basée sur une architecture web-native et un modèle de licence plate. AUTEM est certifié Gold — le niveau le plus élevé — ce qui signifie une évaluation rigoureuse par l'éditeur de nos compétences, livrables et pratiques de développement."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Licence plate : illimitée en tags, screens, clients et connexions — le coût ne dépend pas de votre croissance"
+            },
+            {
+                "text": "Web-native : accessible depuis n'importe quel navigateur, tablette ou PC — sans client lourd à installer"
+            },
+            {
+                "text": "OPC-UA et MQTT Sparkplug B natifs — connexion directe à tous les automates et équipements modernes"
+            },
+            {
+                "text": "Historien intégré, reporting natif, MES en option — une seule plateforme pour la supervision, les KPIs et les données"
+            },
+            {
+                "text": "Migration depuis WinCC, InduSoft, FactoryTalk, Wonderware — projets portés sans repartir de zéro"
+            },
+            {
+                "text": "Développement structuré UDT (Unified Data Types), versionné Git — maintenable par un autre intégrateur sans risque"
+            }
+        ],
+        "conclusion": "Résultat : une supervision moderne, accessible depuis partout, sans explosion de coût de licence, développée selon les meilleures pratiques Ignition — vérifiées par l'éditeur lui-même.",
+        "image": {
+            "src": "/images/ignition-scada.jpeg",
+            "alt": "Ignition SCADA Gold — supervision industrielle AUTEM"
+        },
+        "reverse": false
+    }
+}

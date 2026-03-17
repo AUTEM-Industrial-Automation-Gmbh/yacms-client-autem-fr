@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/trust-logos002"
+    },
+    "data": {
+        "title": "Compatible avec tous vos automates et logiciels de supervision",
+        "subtitle": "Multimarque et agnostique — nous nous adaptons à votre infrastructure existante",
+        "logos": [
+            { "src": "/logos/ignition.png", "alt": "Ignition — MES, SCADA, Inductive Automation" },
+            { "src": "/logos/siemens.png", "alt": "Siemens — S7, WinCC, SIMATIC" },
+            { "src": "/logos/rockwell.png", "alt": "Rockwell Allen-Bradley — FactoryTalk" },
+            { "src": "/logos/schneider.png", "alt": "Schneider Electric — EcoStruxure" },
+            { "src": "/logos/wonderware.png", "alt": "AVEVA Wonderware — System Platform" }
+        ]
+    }
+}

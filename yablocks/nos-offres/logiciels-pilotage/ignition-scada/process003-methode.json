@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/logiciels-pilotage/ignition-scada/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'audit supervision à la mise en production Ignition : 5 étapes",
+        "steps": [
+            {
+                "title": "Audit supervision existante",
+                "description": "Inventaire de la plateforme actuelle : version, tags, écrans, alarmes, historique. Identification des points à migrer, des fonctionnalités clés et des contraintes réseau. Évaluation du risque de migration et définition du plan de bascule.",
+                "icon": "search"
+            },
+            {
+                "title": "Architecture & maquettage Ignition",
+                "description": "Définition de l'architecture Ignition : serveur, Gateway redondant ou non, modules (SCADA, MES, Reporting, MQTT, Perspective…). Maquettage des UDT (Unified Data Types), structures de tags et navigation écrans. Validation avec vos équipes avant tout développement.",
+                "icon": "layers"
+            },
+            {
+                "title": "Développement & migration",
+                "description": "Développement des écrans, alarmes, tags et rapports. Migration des projets existants (WinCC, InduSoft, Wonderware) vers Ignition. Code versionné Git et documenté. Travail en parallèle de la production existante.",
+                "icon": "cpu"
+            },
+            {
+                "title": "Tests & recette",
+                "description": "Tests de communication avec les automates (OPC-UA, Modbus, driver natif), validation des alarmes et de l'historique, tests de charge et de redondance. Recette formelle avec vos équipes avant déploiement.",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Formation & support post-démarrage",
+                "description": "Formation des opérateurs sur l'interface Ignition, formation des développeurs internes sur la maintenance et l'extension du projet. Livraison de la documentation technique complète. Support post-démarrage disponible.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

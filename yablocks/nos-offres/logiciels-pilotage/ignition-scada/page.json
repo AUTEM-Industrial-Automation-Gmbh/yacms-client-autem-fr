@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "title": "Supervision SCADA Ignition — Intégrateur Certifié Gold | AUTEM",
+        "description": "AUTEM est intégrateur certifié Gold Ignition (Inductive Automation). Migration WinCC, InduSoft, FactoryTalk vers Ignition. Licence plate, web-native, OPC-UA et MQTT Sparkplug B.",
+        "keywords": [
+            "Ignition SCADA",
+            "intégrateur Ignition Gold",
+            "Inductive Automation",
+            "supervision industrielle",
+            "migration WinCC Ignition",
+            "SCADA web",
+            "OPC-UA MQTT SCADA",
+            "licence plate SCADA",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

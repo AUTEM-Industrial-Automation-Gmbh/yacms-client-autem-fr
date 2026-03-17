@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/cta002"
+    },
+    "data": {
+        "title": "Votre production se pilote encore à l'aveugle ou avec un jour de décalage ?",
+        "benefits": [
+            { "icon": "bar-chart", "text": "TRS calculé automatiquement depuis vos automates — pas depuis des relevés papier" },
+            { "icon": "layers", "text": "Tableaux de bord par poste, équipe et direction — accessibles depuis navigateur" },
+            { "icon": "book-open", "text": "Formation opérateurs et documentation complète livrées à la mise en production" }
+        ],
+        "cta": {
+            "text": "Démarrer votre projet MES",
+            "link": "/contact"
+        }
+    }
+}

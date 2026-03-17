@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/logiciels-pilotage/analyse-data/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition — historien de données industriel"
+            },
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens — SIMATIC"
+            },
+            {
+                "src": "/logos/arcelormittal.jpg",
+                "alt": "ArcelorMittal — Luxembourg"
+            }
+        ],
+        "headline": "Des données, il y en a partout. Des décisions basées sur ces données — beaucoup moins.",
+        "paragraphs": [
+            {
+                "text": "La plupart des usines que nous rencontrons ont des données. Parfois 10 ans d'historique SCADA, des exports Excel accumulés, des tableaux de bord construits au fil du temps. Le problème : personne ne sait vraiment les lire. Et quand un problème survient — une panne récurrente, une dérive qualité, un goulot de production —, on revient à l'interprétation chacun de son côté."
+            },
+            {
+                "text": "L'analyse Pareto permet d'identifier les 20 % de causes qui génèrent 80 % des pertes. La cartographie VSM (Value Stream Mapping) révèle où le flux de valeur est interrompu, où les temps d'attente s'accumulent, où les retouches masquent des problèmes de fond. Mais ces analyses ne valent rien si elles ne débouchent pas sur des actions priorisées, chiffrées et suivies."
+            },
+            {
+                "text": "AUTEM mène ces analyses à partir de vos données réelles — SCADA, automates, ERP, papier si nécessaire. Nous ne livrons pas des slides PowerPoint : nous livrons des actions concrètes avec un chiffrage ROI que vos équipes peuvent défendre en comité de direction."
+            }
+        ],
+        "closing": "Une analyse sans plan d'action, c'est un rapport. Une analyse avec ROI et priorisation, c'est un levier de décision."
+    }
+}
