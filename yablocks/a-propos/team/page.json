@@ -1,0 +1,21 @@
+{
+    "meta": {
+        "title": "L'Équipe — Nile, co-pilote de la croissance industrielle",
+        "description": "Notre équipe réunit des experts seniors en data, IA, tech, HubSpot, marketing, sales et développement web pour répondre à tous vos enjeux industriels.",
+        "keywords": [
+            "équipe",
+            "experts",
+            "croissance industrielle",
+            "HubSpot",
+            "marketing",
+            "sales",
+            "Nile"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./team002.json",
+        "../../_shared/footer.json"
+    ]
+}

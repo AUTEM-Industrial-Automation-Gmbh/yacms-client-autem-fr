@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "component": "blocks/content/team/Team002",
+        "section": "team/team002"
+    },
+    "data": {
+        "overtitle": "L'ÉQUIPE",
+        "title": "Notre équipe talentueuse",
+        "subtitle": "Rencontrez les experts qui donnent vie à vos projets",
+        "members": [
+            {
+                "name": "Karim",
+                "title": "CEO & Fondateur",
+                "location": "Basé sur Valence 🇫🇷",
+                "description": "Entrepreneur passionné avec une vision stratégique forte pour accompagner la croissance des entreprises industrielles.",
+                "image": {
+                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Karim-1.png",
+                    "alt": "Karim - CEO & Fondateur"
+                },
+                "hoverImage": {
+                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Karim-1.jpg",
+                    "alt": "Karim - Photo décontractée"
+                },
+                "linkedin": "https://www.linkedin.com/in/karimbouras",
+                "qualities": [
+                    {
+                        "text": "Entrepreneuriat"
+                    },
+                    {
+                        "text": "Vision stratégique"
+                    },
+                    {
+                        "text": "Growth"
+                    },
+                    {
+                        "text": "Sales & Marketing"
+                    }
+                ],
+                "skills": [
+                    {
+                        "text": "Growth Strategy"
+                    },
+                    {
+                        "text": "Sales Management"
+                    },
+                    {
+                        "text": "Marketing Digital"
+                    },
+                    {
+                        "text": "Business Development"
+                    }
+                ]
+            },
+            {
+                "name": "Camille",
+                "title": "COO & Directrice associée",
+                "location": "Basé sur Valence 🇫🇷",
+                "description": "+10 ans d'expérience en pilotage de la performance opérationnelle, dont 3 ans en tant qu'associée",
+                "image": {
+                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Camille-3.png",
+                    "alt": "Camille - COO & Directrice associée"
+                },
+                "hoverImage": {
+                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Camille%20(1).jpg",
+                    "alt": "Camille - Photo décontractée"
+                },
+                "linkedin": "https://www.linkedin.com/in/camillefolliot/",
+                "qualities": [
+                    {
+                        "text": "Leadership"
+                    },
+                    {
+                        "text": "Recrutement"
+                    },
+                    {
+                        "text": "Performance Opérationnelle"
+                    }
+                ],
+                "skills": [
+                    {
+                        "text": "Pilotage Opérationnel"
+                    },
+                    {
+                        "text": "Management d'Équipe"
+                    },
+                    {
+                        "text": "Recrutement"
+                    },
+                    {
+                        "text": "Performance Management"
+                    }
+                ]
+            },
+            {
+                "name": "Lydie",
+                "title": "Studio Manager",
+                "location": "Basé sur Valence 🇫🇷",
+                "description": "15 ans d'expérience en gestion de projet dont 8 chez Nile",
+                "image": {
+                    "src": "https://49231539.fs1.hubspotusercontent-na1.net/hubfs/49231539/Nile-Theme/images/team/Lydie-1.png",
+                    "alt": "Lydie - Studio Manager"
+                },
+                "linkedin": "https://www.linkedin.com/in/lydie-deborne/",
+                "qualities": [
+                    {
+                        "text": "Management"
+                    },
+                    {
+                        "text": "Performance opérationnelle"
+                    },
+                    {
+                        "text": "Gestion de projet"
+                    }
+                ],
+                "skills": [
+                    {
+                        "text": "Hubspot Platform Consulting"
+                    },
+                    {
+                        "text": "Hubspot Certified Trainer"
+                    },
+                    {
+                        "text": "Hubspot Data Integration"
+                    },
+                    {
+                        "text": "Project Management"
+                    }
+                ]
+            },
+            {
+                "name": "Mathieu",
+                "title": "Sales Executive",
+                "location": "Basé sur Toulouse 🇫🇷",
+                "description": "Expert en ventes consultatives B2B, avec +12 ans d'expérience : 8 ans chez des éditeurs SaaS dédiés au marketing et à la vente, et 4 ans dans l'intégration de services sur des projets complexes.",
+                "image": {
+                    "src": "https://www.agencenile.com/hubfs/Image-site-2025/profil_mathieu_page_team.png",
+                    "alt": "Mathieu - Sales Executive"
+                },
+                "hoverImage": {
+                    "src": "https://www.agencenile.com/hubfs/21.png",
+                    "alt": "Mathieu - Photo décontractée"
+                },
+                "linkedin": "https://www.linkedin.com/in/mathieunogaret",
+                "qualities": [
+                    {
+                        "text": "Sales Hub"
+                    },
+                    {
+                        "text": "Marketing Hub"
+                    },
+                    {
+                        "text": "Inbound Sales"
+                    },
+                    {
+                        "text": "Consulting HubSpot"
+                    }
+                ],
+                "skills": [
+                    {
+                        "text": "Ventes consultatives"
+                    },
+                    {
+                        "text": "Growth"
+                    },
+                    {
+                        "text": "Sales Enablement"
+                    }
+                ]
+            },
+            {
+                "name": "Alisa",
+                "title": "Finance Administrator Officer",
+                "location": "Basé à Valence 🇫🇷",
+                "description": "+10 ans d'expérience en gestion financière et administrative, j'assure depuis 3 ans la solidité administrative et budgétaire de Nile",
+                "image": {
+                    "src": "https://www.agencenile.com/hubfs/Alisa-1.png",
+                    "alt": "Alisa - Finance Administrator Officer"
+                },
+                "hoverImage": {
+                    "src": "https://www.agencenile.com/hubfs/Alisa-1.jpg",
+                    "alt": "Alisa - Photo décontractée"
+                },
+                "linkedin": "https://www.linkedin.com/in/alisa-chapuis-92750750/",
+                "skills": [
+                    {
+                        "text": "Processus"
+                    },
+                    {
+                        "text": "Pilotage financier"
+                    }
+                ]
+            }
+        ]
+    }
+}
