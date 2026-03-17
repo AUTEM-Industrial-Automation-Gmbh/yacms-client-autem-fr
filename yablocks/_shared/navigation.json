@@ -41,19 +41,19 @@
             "description": "Mesure, Performance, Pilotage",
             "items": [
               {
-                "label": "KPI de Production : MES, TRS, OEE",
+                "label": "KPI, MES, TRS, OEE",
                 "href": "/offre/informatique-industrielle"
               },
               {
-                "label": "Analyse Data, Résolution de goulots",
+                "label": "Data, Pareto, VSM, ROI",
                 "href": "/offre/informatique-industrielle#mes"
               },
               {
-                "label": "Supervision Scada IGNITION (Certifié Gold)",
+                "label": "Supervision SCADA",
                 "href": "/offre/ignition-scada"
               },
               {
-                "label": "GTB et GMAO",
+                "label": "GTB, GMAO",
                 "href": ""
               }
             ]
