@@ -7,7 +7,7 @@
     "items": [
       {
         "overtitle": "Machines Automatisées",
-        "title": "On rénove vos machines précieuses.",
+        "title": "On rénove vos machines précieuses",
         "description": "Nous améliorons vos machines existantes, qu'il s'agisse des automates programmables, des ordinateurs de contrôle, des cartes électroniques, du câblage électrique, des axes motion. Votre machine repart pour un cycle, et vos équipes aussi. Car qui dit RETROfit dit RETROspective. La rénovation d'une machine est souvent une occasion de transmission générationnelle : relecture des process, transmission des savoir-faire avant le départ d'un vétéran.",
         "image": {
           "src": "/images/background-indus.jpg",
@@ -59,7 +59,7 @@
             "href": "/offre/ignition-scada"
           },
           {
-            "text": "Analyse Data, Résolution de goulots",
+            "text": "Analyse Data, Pareto, VSM, ROI",
             "href": "/offre/informatique-industrielle"
           },
           {
@@ -87,8 +87,8 @@
       },
       {
         "overtitle": "Avis technique",
-        "title": "On sécurise vos projets techniques",
-        "description": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour des projets, formations ou besoin de conseils, nous nous mettons dans la peau de vos équipes internes pour défendre les intérêts de votre usine auprès de vos interlocuteurs externes.",
+        "title": "On sécurise vos décisions techniques",
+        "description": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour un projet, une formation, ou un besoin de conseils, nous nous mettons dans la peau de vos équipes pour défendre les intérêts de votre usine auprès de vos interlocuteurs internes et externes.",
         "image": {
           "src": "/images/manufacturing.jpg",
           "alt": "Digitalisation usine IIoT data industrielle"
