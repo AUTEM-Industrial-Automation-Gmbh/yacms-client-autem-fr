@@ -4,7 +4,7 @@
     "section": "home/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisme ou de digitalisation industrielle ?",
+    "title": "Prêt à retrouver votre lustre d'antan ?",
     "benefits": [
       {
         "icon": "award",
@@ -20,7 +20,7 @@
       }
     ],
     "cta": {
-      "text": "Contactez-nous",
+      "text": "Une URGENCE technique ?",
       "link": "/contact"
     }
   }
