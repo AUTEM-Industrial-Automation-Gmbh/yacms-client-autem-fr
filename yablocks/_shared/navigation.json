@@ -15,55 +15,63 @@
         "label": "Notre offre",
         "groups": [
           {
-            "label": "Automatisme",
-            "description": "Programmation & contrôle-commande",
+            "label": "Machines Automatisées",
+            "description": "Rénovation, Rétrofit, Revamping",
             "items": [
               {
-                "label": "Automates programmables",
+                "label": "Rétrofit Automatisme",
                 "href": "/offre/automatisme"
               },
               {
-                "label": "Variateurs & motion control",
+                "label": "IoT, Réseaux, Communication",
                 "href": "/offre/automatisme#variateurs"
               },
               {
-                "label": "Études électriques & schémas",
+                "label": "Revamping électrique",
                 "href": "/offre/automatisme#etudes-electriques"
+              },
+              {
+                "label": "Rénovation PC Industriel",
+                "href": ""
               }
             ]
           },
           {
-            "label": "Informatique industrielle",
-            "description": "SCADA, MES & supervision",
+            "label": "Logiciels de pilotage",
+            "description": "Mesure, Performance, Pilotage",
             "items": [
               {
-                "label": "Intégration SCADA",
+                "label": "KPI de Production : MES, TRS, OEE",
                 "href": "/offre/informatique-industrielle"
               },
               {
-                "label": "Logiciel MES",
+                "label": "Analyse Data, Résolution de goulots",
                 "href": "/offre/informatique-industrielle#mes"
               },
               {
-                "label": "Ignition SCADA (Certifié Gold)",
+                "label": "Supervision Scada IGNITION (Certifié Gold)",
                 "href": "/offre/ignition-scada"
+              },
+              {
+                "label": "GTB et GMAO",
+                "href": ""
               }
             ]
           },
           {
-            "label": "Data & Digitalisation",
-            "description": "IIoT, connectivité & pilotage",
+            "label": "Avis technique",
+            "description": "Audit agnostique, Projets techniques",
             "items": [
               {
-                "label": "Acquisition de données (IIoT)",
+                "label": "Architecture de Systèmes",
                 "href": "/offre/data"
               },
               {
-                "label": "Réseaux industriels",
+                "label": "Assistance de projets stratégiques",
                 "href": "/offre/data#reseaux"
               },
               {
-                "label": "Pilotage & KPI",
+                "label": "Cycle de Vie et Gestion de l'Obsolescence",
                 "href": "/offre/data#pilotage"
               }
             ]
@@ -78,7 +86,7 @@
             "description": "L'automatisme au service de l'industrie",
             "items": [
               {
-                "label": "Qui sommes-nous",
+                "label": "Qui sommes-nous ?",
                 "href": "/a-propos"
               },
               {
@@ -117,7 +125,7 @@
       }
     ],
     "cta": {
-      "text": "Contactez-nous",
+      "text": "Une URGENCE technique ?",
       "href": "/contact"
     }
   }

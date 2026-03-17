@@ -4,23 +4,23 @@
     "section": "home/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisme ou de digitalisation industrielle ?",
+    "title": "Prêt à retrouver votre lustre d'antan ?",
     "benefits": [
       {
         "icon": "award",
-        "text": "Intégrateur Ignition Certifié GOLD"
+        "text": "Label de Pérennité"
       },
       {
         "icon": "shield",
-        "text": "Expertise multi-constructeurs (Siemens, Rockwell, Schneider)"
+        "text": "Polyvalent et Agnostique"
       },
       {
         "icon": "users",
-        "text": "Interventions France & International"
+        "text": "Pragmatique et Humain"
       }
     ],
     "cta": {
-      "text": "Contactez-nous",
+      "text": "Une URGENCE technique ?",
       "link": "/contact"
     }
   }

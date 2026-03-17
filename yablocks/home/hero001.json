@@ -4,20 +4,20 @@
     "section": "landing-page/hero010"
   },
   "data": {
-    "badge": "Intégrateur Certifié GOLD Ignition",
-    "title": "Industrielle & Digitalisation",
-    "subtitle": "Nous optimisons la performance de vos usines grâce à l'automatisation de vos machines, la supervision SCADA et le pilotage de vos données de production. Intégrateur certifié GOLD Ignition.",
+    "badge": "from Obsolete Machines to Smart Manufacturing",
+    "title": "Entre Vintage et Modernité.",
+    "subtitle": "Anticipez l'obsolescence en Industrie. Rénovez les machines obsolètes, pour retrouver performance et autonomie. Sécurisez vos décisions techniques par des vétérans rôdés, et des spécialistes agnostiques.",
     "backgroundImage": {
-      "src": "/images/bg.webp",
+      "src": "/images/pont_poya_fribourg_passerelle_vintage_modernite.jpg",
       "alt": "Automatisme industriel SCADA et digitalisation des usines"
     },
     "cta": {
       "primary": {
-        "text": "Contactez-nous",
+        "text": "Une URGENCE technique ?",
         "link": "/contact"
       },
       "secondary": {
-        "text": "Voir nos réalisations",
+        "text": "Voir nos cas clients",
         "link": "/cas-clients"
       }
     },

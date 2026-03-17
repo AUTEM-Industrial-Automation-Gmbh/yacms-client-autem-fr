@@ -6,28 +6,28 @@
   "data": {
     "items": [
       {
-        "overtitle": "AUTOMATISME",
-        "title": "Programmation & Contrôle-Commande",
-        "description": "Nous concevons, programmons et mettons en service vos systèmes automatisés. De l'analyse fonctionnelle à la mise en production, AUTEM couvre l'intégralité du cycle de vie de vos automates, variateurs et systèmes de sécurité.",
+        "overtitle": "Machines Automatisées",
+        "title": "On rénove vos machines précieuses.",
+        "description": "Nous améliorons vos machines existantes, qu'il s'agisse des automates programmables, des ordinateurs de contrôle, des cartes électroniques, du câblage électrique, des axes motion. Votre machine repart pour un cycle, et vos équipes aussi. Car qui dit RETROfit dit RETROspective. La rénovation d'une machine est souvent une occasion de transmission générationnelle : relecture des process, transmission des savoir-faire avant le départ d'un vétéran.",
         "image": {
           "src": "/images/background-indus.jpg",
           "alt": "Programmation automate industriel PLC"
         },
         "checklist": [
           {
-            "text": "Automates PLC (Siemens, Rockwell, Schneider)",
+            "text": "Rétrofit Automation",
             "href": "/offre/automatisme"
           },
           {
-            "text": "Variateurs & motion control (SEW, Eaton, Sinamics)",
+            "text": "Rénovation PC Industriel",
             "href": "/offre/automatisme#variateurs"
           },
           {
-            "text": "Études électriques & schémas (EPLAN)",
+            "text": "IoT, Réseaux, Communication",
             "href": "/offre/automatisme#etudes-electriques"
           },
           {
-            "text": "Sécurité machines (Pilz, Pepperl+Fuchs)",
+            "text": "Revamping électrique",
             "href": "/offre/automatisme#securite"
           }
         ],
@@ -46,25 +46,29 @@
         }
       },
       {
-        "overtitle": "INFORMATIQUE INDUSTRIELLE",
-        "title": "SCADA, MES & Supervision",
-        "description": "Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Intégrateur certifié GOLD Ignition, nous déployons des solutions de pilotage pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
+        "overtitle": "Logiciels de Pilotage",
+        "title": "On mesure votre performance",
+        "description": "L'essentiel de vos données machines dans un outil de pilotage simple. Nous remplaçons le suivi papier et les écrans IHM obsolètes par des logiciels de supervision SCADA modernes. Nous allions le meilleur de l'informatique moderne, aux standards industriels pour exploiter vos machines à tout moment, sur n'importe quelle plateforme.",
         "image": {
           "src": "/images/kpi-industrie.jpg",
           "alt": "Supervision SCADA Ignition industrielle"
         },
         "checklist": [
           {
-            "text": "Ignition SCADA (Certifié Gold)",
+            "text": "KPI de Production : MES, TRS, OEE",
             "href": "/offre/ignition-scada"
           },
           {
-            "text": "SCADA : Wonderware, WinCC, AVEVA",
+            "text": "Analyse Data, Résolution de goulots",
             "href": "/offre/informatique-industrielle"
           },
           {
-            "text": "Logiciel MES & TRS",
+            "text": "Supervision Scada IGNITION (Certifié Gold)",
             "href": "/offre/informatique-industrielle#mes"
+          },
+          {
+            "text": "GTB et GMAO",
+            "href": ""
           }
         ],
         "cta": {
@@ -82,24 +86,24 @@
         }
       },
       {
-        "overtitle": "DATA & DIGITALISATION",
-        "title": "IIoT, Connectivité & Pilotage",
-        "description": "Nous collectons, stockons et analysons les données de vos machines pour vous offrir une visibilité en temps réel sur vos installations. En 1 semaine, accédez à l'essentiel de vos données machines dans un outil de pilotage simple.",
+        "overtitle": "Avis technique",
+        "title": "On sécurise vos projets techniques",
+        "description": "Vous cherchez des conseils neutres ne venant ni de vendeurs de machines, ni d'intégrateurs affiliés à un produit ? Chez Autem nous sommes des indépendants et des spécialistes agnostiques. Que ce soit pour des projets, formations ou besoin de conseils, nous nous mettons dans la peau de vos équipes internes pour défendre les intérêts de votre usine auprès de vos interlocuteurs externes.",
         "image": {
           "src": "/images/manufacturing.jpg",
           "alt": "Digitalisation usine IIoT data industrielle"
         },
         "checklist": [
           {
-            "text": "Acquisition de données IIoT (MQTT, OPC-UA)",
+            "text": "Architecture de Systèmes",
             "href": "/offre/data"
           },
           {
-            "text": "Réseaux industriels (Profinet, EtherNet/IP)",
+            "text": "Assistance de projets stratégiques",
             "href": "/offre/data#reseaux"
           },
           {
-            "text": "KPI, TRS & suivi énergétique",
+            "text": "Cycle de Vie et Gestion de l'Obsolescence",
             "href": "/offre/data#pilotage"
           }
         ],
