@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features005",
+    "section": "a-propos/manifeste/equation-croissance"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODOLOGIE",
+    "title": "Les 3 variables de l'équation de croissance",
+    "paragraphs": [
+      {
+        "text": "Vous voyez là, notre méthodologie de croissance."
+      },
+      {
+        "text": "Celle-là même que nous avons affinée avec les années, fait évoluer pour permettre à nos clients d'obtenir des résultats concrets et mesurables."
+      }
+    ],
+    "image": {
+      "src": "/images/3-variables-equation-croissance.webp",
+      "alt": "Les 3 variables de l'équation de croissance Nile"
+    }
+  }
+}

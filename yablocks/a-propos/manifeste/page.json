@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Manifeste — Nile, co-pilote de la croissance industrielle",
+    "description": "Ici, on explique la vision que l'on a de la croissance pour les industriels ambitieux. Le monde de l'industrie a changé. Votre façon de vendre doit changer aussi.",
+    "keywords": [
+      "manifeste",
+      "croissance industrielle",
+      "transformation digitale",
+      "industrie",
+      "PME ETI",
+      "méthode zéro friction",
+      "Nile"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero002.json",
+    "./content001-symptomes.json",
+    "./content001-nouvelle-donne.json",
+    "./content001-croissance.json",
+    "./content001-accompagnement.json",
+    "./process001.json",
+    "./features005-equation.json",
+    "./stats001.json",
+    "./content001-methode.json",
+    "./features006-ressources.json",
+    "../../_shared/footer.json"
+  ]
+}

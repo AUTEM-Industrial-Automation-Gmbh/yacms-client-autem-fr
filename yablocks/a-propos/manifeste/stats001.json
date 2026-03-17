@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/stats/Stats001",
+    "section": "a-propos/manifeste/stats001"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "30",
+        "label": "Réduire le cycle de vente",
+        "suffix": "%"
+      },
+      {
+        "value": "15",
+        "label": "De productivité commerciale en 6 mois",
+        "suffix": "%"
+      },
+      {
+        "value": "2",
+        "label": "Plus de leads qualifiés",
+        "suffix": "x"
+      }
+    ]
+  }
+}

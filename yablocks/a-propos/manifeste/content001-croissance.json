@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ContentBlock001",
+    "section": "a-propos/manifeste/croissance"
+  },
+  "data": {
+    "title": "Penser sa croissance comme une chaîne de production",
+    "lead": "La croissance d'une entreprise industrielle repose sur plusieurs moteurs interconnectés, exactement comme les machines d'une chaîne de production en usine.",
+    "paragraphs": [
+      "Pour assurer l'efficacité opérationnelle d'une usine, vos machines doivent être performantes et fonctionner en harmonie.",
+      "Il en va de même pour votre croissance : chaque moteur joue un rôle précis, et tous sont interdépendants.",
+      "Si un seul de ces moteurs ralentit, toute votre chaîne ralentit. Vous devinez la suite... Votre croissance en pâtit."
+    ],
+    "image": {
+      "src": "/images/moteurs-de-croissance-industriels.jpg",
+      "alt": "Moteurs de croissance industriels interconnectés"
+    },
+    "layout": "imageRight"
+  }
+}

@@ -82,34 +82,20 @@
         "label": "À propos",
         "groups": [
           {
-            "label": "Notre vision",
+            "label": "Découvrir AUTEM",
             "description": "L'automatisme au service de l'industrie",
             "items": [
               {
-                "label": "Qui sommes-nous ?",
-                "href": "/a-propos"
+                "label": "Manifeste",
+                "href": "/a-propos/manifeste"
               },
               {
-                "label": "Nos valeurs",
-                "href": "/a-propos#valeurs"
-              }
-            ]
-          },
-          {
-            "label": "Nos technologies",
-            "description": "Expertise multi-constructeurs",
-            "items": [
-              {
-                "label": "Siemens / Rockwell / Schneider",
-                "href": "/technologies"
+                "label": "Équipe",
+                "href": "/a-propos/equipe"
               },
               {
-                "label": "Ignition / Wonderware / WinCC",
-                "href": "/technologies#scada"
-              },
-              {
-                "label": "Réseaux & Vision",
-                "href": "/technologies#reseaux-vision"
+                "label": "Technologies",
+                "href": "/a-propos/technologies"
               }
             ]
           }

@@ -1,57 +1,61 @@
 {
   "meta": {
     "component": "blocks/layout/footer/FooterColumns",
-    "section": "_shared/footer"
+    "section": "home/footer-columns"
   },
   "data": {
     "brand": {
-      "name": "AUTEM Services",
-      "logo": "/logos/autem-logo.png",
-      "tagline": "Automatisme, Informatique Industrielle & Digitalisation. Nous optimisons la performance de vos usines grâce à l'automatisation et au pilotage de données.",
-      "alt": "AUTEM Services Logo"
+      "alt": "AUTEM Industrial Automation Gmbh",
+      "tagline": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie."
     },
     "contact": {
-      "address": "60 rue François 1er\n75008 Paris",
-      "phone": "+33 6 17 43 68 02",
-      "email": "contact@autem-services.fr",
-      "hours": "Lun-Ven : 8h-18h"
+      "phone": "+41 78 442 73 53",
+      "email": "team@autem.ch",
+      "address": "Route d'Avry 19, Matran 1753, Fribourg, Suisse",
+      "hours": "Lun-Ven : 7h-17h"
     },
+    "socialLinks": [
+      {
+        "platform": "linkedin",
+        "href": "https://www.linkedin.com/company/autemautomation/"
+      },
+      {
+        "platform": "youtube",
+        "href": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+      }
+    ],
     "linkGroups": [
       {
-        "title": "Notre offre",
+        "title": "Nos offres de services",
         "links": [
           {
-            "text": "Automatisme",
-            "href": "/offre/automatisme"
+            "text": "Machines Automatisées",
+            "href": "/services/chauffage"
           },
           {
-            "text": "Informatique industrielle",
-            "href": "/offre/informatique-industrielle"
+            "text": "Logiciels de Pilotage",
+            "href": "/services/plomberie"
           },
           {
-            "text": "Data & Digitalisation",
-            "href": "/offre/data"
-          },
-          {
-            "text": "Ignition SCADA",
-            "href": "/offre/ignition-scada"
+            "text": "Avis technique",
+            "href": "/services/climatisation"
           }
         ]
       },
       {
-        "title": "L'entreprise",
+        "title": "Entreprise",
         "links": [
           {
             "text": "À propos",
-            "href": "/a-propos"
+            "href": "/about"
           },
           {
-            "text": "Nos technologies",
-            "href": "/technologies"
+            "text": "Réalisations",
+            "href": "/realisations"
           },
           {
-            "text": "Cas clients",
-            "href": "/cas-clients"
+            "text": "Contact",
+            "href": "/contact"
           }
         ]
       },
@@ -59,30 +63,22 @@
         "title": "Ressources",
         "links": [
           {
-            "text": "Formations",
-            "href": "/formations"
+            "text": "FAQ",
+            "href": "/faq"
           },
           {
-            "text": "Contact",
-            "href": "/contact"
+            "text": "Blog",
+            "href": "/blog"
+          },
+          {
+            "text": "Devis gratuit",
+            "href": "/devis"
           }
         ]
       }
     ],
-    "socialLinks": [
-      {
-        "platform": "linkedin",
-        "href": "https://www.linkedin.com/company/autemautomation/"
-      }
-    ],
-    "certifications": [
-      {
-        "src": "/logos/ignition.png",
-        "alt": "Intégrateur Ignition Certifié Gold"
-      }
-    ],
     "legal": {
-      "copyright": "AUTEM Services — SIREN : 918 577 354. Tous droits réservés.",
+      "copyright": "Tous droits réservés.",
       "links": [
         {
           "text": "Mentions légales",
@@ -91,8 +87,26 @@
         {
           "text": "Politique de confidentialité",
           "href": "/confidentialite"
+        },
+        {
+          "text": "CGU",
+          "href": "/cgu"
         }
       ]
-    }
+    },
+    "certifications": [
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      }
+    ]
   }
 }

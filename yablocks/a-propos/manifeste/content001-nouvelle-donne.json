@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/content/features/ContentBlock001",
+    "section": "a-propos/manifeste/nouvelle-donne"
+  },
+  "data": {
+    "title": "La nouvelle donne industrielle",
+    "lead": "→ Là où avant le produit et l'innovation technologique étaient un avantage concurrentiel suffisant, il ne l'est plus.",
+    "paragraphs": [
+      "→ Là où avant les entreprises industrielles historiques reposaient sur de solides appuis, l'ouverture des marchés a déséquilibré l'ordre établi.",
+      "→ Là où avant les clients se contentaient d'un catalogue et d'une relation client non-suivie, le niveau d'exigence est aujourd'hui décuplé.",
+      "Parce que les lignes bougent et le progrès s'accélère de façon constante, l'immobilisme n'est plus une option, c'est un risque majeur. Attendre que les choses bougent d'elles-mêmes en plaçant ses espoirs sur des facteurs externes, c'est se condamner à subir.",
+      "Chez Nile, nous pensons qu'avant de vouloir transformer l'image ou influencer les politiques industrielles, les entreprises doivent déjà s'attaquer à leurs propres pratiques internes. Repenser la manière de vendre, prioriser l'adoption du digital, pour reprendre le contrôle de leur croissance."
+    ],
+    "layout": "imageRight"
+  }
+}

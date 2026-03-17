@@ -27,6 +27,6 @@
     "./features005.json",
     "./features006.json",
     "./cta002.json",
-    "./footer-columns.json"
+    "../_shared/footer.json"
   ]
 }

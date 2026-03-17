@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "component": "blocks/content/process/ProcessStep001",
+    "section": "a-propos/manifeste/process001"
+  },
+  "data": {
+    "badge": "NOTRE APPROCHE",
+    "title": "Des parcours ancrés dans des enjeux terrain",
+    "steps": [
+      {
+        "title": "Structurer",
+        "description": "Mettre de l'ordre dans vos processus.",
+        "icon": "settings"
+      },
+      {
+        "title": "Équiper",
+        "description": "Déployer les bons outils digitaux, au bon moment, pour les bonnes raisons.",
+        "icon": "zap"
+      },
+      {
+        "title": "Optimiser",
+        "description": "Automatiser tout ce qui peut l'être et intégrer intelligemment l'IA pour accélérer.",
+        "icon": "target"
+      },
+      {
+        "title": "Former",
+        "description": "Monter vos équipes en compétences pour les rendre autonomes sur vos leviers de croissance.",
+        "icon": "file-text"
+      },
+      {
+        "title": "Réorganiser",
+        "description": "Placer les bonnes personnes, aux bons rôles, avec des objectifs clairs.",
+        "icon": "globe"
+      },
+      {
+        "title": "Acculturer",
+        "description": "Faire évoluer les mentalités et les pratiques.",
+        "icon": "sparkles"
+      }
+    ]
+  }
+}

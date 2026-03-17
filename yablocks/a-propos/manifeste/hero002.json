@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero002",
+    "section": "a-propos/manifeste/hero002"
+  },
+  "data": {
+    "badge": "LE MANIFESTE DE NILE",
+    "title": "On ne fera pas l'industrie du futur",
+    "titleHighlight": "avec les méthodes du siècle passé.",
+    "subtitle": "La croissance industrielle a changé. Et vous ? Vous avez investi dans l'innovation produit, automatisé vos chaînes, imaginé l'usine du futur. Pourtant, votre manière de vendre est restée coincée quelque part dans les années 2000. Si nous n'avons pas de recette miracle, nous avons une méthode pour accompagner votre transformation.",
+    "cta": {
+      "primary": {
+        "text": "Découvrir notre approche",
+        "link": "#approche"
+      },
+      "secondary": {
+        "text": "Prendre RDV",
+        "link": "/contact"
+      }
+    }
+  }
+}
