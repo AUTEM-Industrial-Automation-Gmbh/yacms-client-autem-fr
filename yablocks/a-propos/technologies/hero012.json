@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "a-propos/nos-technologies/hero012"
+  },
+  "data": {
+    "overtitle": "NOS TECHNOLOGIES",
+    "title": "Une maîtrise complète de la chaîne technologique industrielle.",
+    "subtitle": "De l'automate Siemens au SCADA Ignition, des protocoles industriels aux solutions MES et IoT — AUTEM couvre l'intégralité des niveaux de votre pyramide d'automatisation.",
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Technologies industrielles AUTEM"
+    }
+  }
+}

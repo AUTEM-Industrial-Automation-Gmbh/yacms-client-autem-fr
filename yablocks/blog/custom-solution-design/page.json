@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Custom solution design - Embedded technology & the Future of IoT with Matthew Smith | Blog AUTEM",
+    "description": "In this article, explore \"when designing a custom solution becomes a better choice\".",
+    "keywords": [
+      "IoT Réseau",
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

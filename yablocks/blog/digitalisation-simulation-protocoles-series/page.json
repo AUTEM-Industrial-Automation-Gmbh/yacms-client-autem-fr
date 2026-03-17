@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem | Blog AUTEM",
+    "description": "Actualités industrielles en novembre 2023 : Digitalisation, Simulation, Protocoles Séries",
+    "keywords": [
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

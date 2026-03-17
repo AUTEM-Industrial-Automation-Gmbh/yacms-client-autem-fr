@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-juin-2023/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "30/06/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

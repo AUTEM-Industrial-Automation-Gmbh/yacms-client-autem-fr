@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/avis-technique/architecture-systemes/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De la compréhension du besoin à la spécification livrée : 5 étapes",
+        "steps": [
+            {
+                "title": "Cadrage & compréhension du besoin",
+                "description": "Entretiens avec vos équipes pour capturer les enjeux opérationnels, les contraintes de maintenabilité, les exigences de disponibilité et les standards internes. Identification des systèmes existants et des interfaces à conserver ou migrer.",
+                "icon": "search"
+            },
+            {
+                "title": "Analyse fonctionnelle et organique",
+                "description": "Décomposition des fonctions en briques élémentaires : modes de marche, transitions, E/S, interfaces opérateurs, alarmes, communications. Identification des exigences de performance (temps de cycle, temps de réponse, disponibilité cible).",
+                "icon": "file-text"
+            },
+            {
+                "title": "Spécification d'architecture",
+                "description": "Définition de la topologie réseau (segmentation OT/IT, VLAN, DMZ), du choix des équipements (automates, IPC, serveurs SCADA), des protocoles de communication (OPC-UA, Profinet, Ethernet/IP) et de la stratégie de redondance.",
+                "icon": "layers"
+            },
+            {
+                "title": "Revue critique & validation",
+                "description": "Présentation de l'architecture devant vos équipes techniques, réponse aux questions de maintenabilité et de cybersécurité, intégration des retours, validation formelle du document de spécification.",
+                "icon": "shield"
+            },
+            {
+                "title": "Accompagnement à la consultation",
+                "description": "Si nécessaire, assistance à la rédaction du cahier des charges pour appel d'offres, analyse comparative des réponses fournisseurs, recommandations objectives sur le choix final.",
+                "icon": "thumbs-up"
+            }
+        ]
+    }
+}

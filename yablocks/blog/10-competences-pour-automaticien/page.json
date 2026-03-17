@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem | Blog AUTEM",
+    "description": "Découvre les compétences d'un automaticien en 2022",
+    "keywords": [
+      "Automation",
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

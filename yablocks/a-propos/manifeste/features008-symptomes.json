@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "a-propos/manifeste/features008-symptomes"
+    },
+    "data": {
+        "title": "4 signaux qui indiquent que votre système industriel doit évoluer",
+        "content": "<ul><li><strong>Vos données de production sont inaccessibles ou peu fiables</strong> — pas de visibilité temps réel sur vos KPI et performances machines.</li><li>Vos techniciens diagnostiquent en aveugle, sans historique d'alarmes ni supervision centralisée.</li><li>Vos automates anciens freinent la productivité et deviennent impossibles à maintenir ou faire évoluer.</li><li>Votre outil de supervision est obsolète, cloisonné ou tout simplement absent.</li></ul>"
+    }
+}

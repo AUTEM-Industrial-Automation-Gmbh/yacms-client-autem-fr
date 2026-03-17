@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos002",
+    "section": "offre/machines-automatisees/retrofit-automation/trust-logos002"
+  },
+  "data": {
+    "title": "Nous intervenons sur toutes les plateformes automates",
+    "subtitle": "Multimarque et agnostique — nous choisissons la technologie adaptée à vos contraintes",
+    "logos": [
+      {
+        "src": "/logos/siemens.png",
+        "alt": "Siemens — TIA Portal S7-1200/1500"
+      },
+      {
+        "src": "/logos/rockwell.png",
+        "alt": "Rockwell Allen-Bradley — Studio 5000"
+      },
+      {
+        "src": "/logos/schneider.png",
+        "alt": "Schneider Electric — EcoStruxure Modicon"
+      },
+      {
+        "src": "/logos/eaton.png",
+        "alt": "Eaton — XSoft-CoDeSys"
+      },
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Ignition — migration IHM SCADA"
+      }
+    ]
+  }
+}

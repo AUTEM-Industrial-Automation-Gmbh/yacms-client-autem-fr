@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/automatisme-et-aeroport/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Automatisme & Aéroport",
+        "paragraphs": [
+          {
+            "text": "Alors j’ai pris l’avion y a quelques jours et à chaque fois en sortant de la salle d’embarquement je passais par des tunnels comme ceux-ci qui mènent directement à la porte de l’avion."
+          },
+          {
+            "text": "Là sur la photo c’était au terminal F de l’aéroport Charles de Gaulle à Paris . Et au bout du tunnel juste avant de passer la porte de l’avion à chaque fois je voyais un pupitre comme ceci."
+          },
+          {
+            "text": "Du coup, j’ai pris quelques photos parce que j’ai remarqué un point commun qui a attiré mon attention. Est-ce que tu pourras deviner de quel point commun il s’agit ? Je te laisse réfléchir. Tu peux copier l’image et zoomer et à la fin de cet article, je te dirais bien quel est ce point commun qui a attiré mon attention entre tous ces pupitres dans les passerelles d’embarquement. Alors, déjà regardons à quoi servent ces pupitres. Ce sont des pupitres qui servent à contrôler tout simplement le tunnel qui ressemble à ceux-ci"
+          },
+          {
+            "text": "et qui est une passerelle d’embarquement passagers. Si tu prends l’avion, tu devrais rencontrer souvent ce genre de machine là. Et en fait c’est tout simplement un sas qui va permettre de relier les différentes salles d’embarquement aux différentes portes de l’avion. Si il y en a qu’une, c’est celle de l’avant. Si il y en a deux un peut comme sur les A380, tu auras deux passerelles d’embarquement. Du coup c’est des passerelles télescopiques. Elles peuvent s’étendre pour pouvoir rejoindre exactement la position de la porte avec la bonne hauteur. Il y a des systèmes d’anticollision, de détection de la distance pour la sécurité et elles permettent de faire à la fois l’accostage et puis le désamarrage une fois que l’avion est prêt à décoller. Du coup, en bout de tunnel on a un pupitre de commandes qui est situées là,"
+          },
+          {
+            "text": "juste avant à porte de l’avion et c’est un pupitre qui comporte différents organes pour contrôler automatiquement les mouvements de la passerelle."
+          },
+          {
+            "text": "On va pouvoir jouer par exemple ici sur le joystick qu’on voit sur la droite et la petite manivelle en noir qui nous permet de se rapprocher ou de s’éloigner de la porte de l’avion. On a différents boutons qui permettent de faire différentes opérations et on a notamment une IHM, une interface homme-machine : c’est l’écran qu’on voit au milieu de l’image qui nous permet d’avoir un report des informations sur l’état de toute notre passerelle."
+          },
+          {
+            "text": "Du coup pour revenir au pupitre du début est-ce que tu as identifié le point commun ? Si on zoom sur les IHM tu vas te rendre compte qu’à chaque fois c’était des IHM de la marque Schneider Electric avec la référence “Magelis” : des “IHM Magelis” de Schneider Electric ."
+          },
+          {
+            "text": "Alors je ne sais pas trop pourquoi, mais visiblement dans toutes les passerelles où je suis passé, c’était Schneider Electric qui avait le monopole des interfaces homme-machine. Je pense que ceux qui sont de Schneider et qui liront cet article seront bien contents."
+          },
+          {
+            "text": "C'est quelque chose qui a attiré ma curiosité et j’aimerais bien comprendre pourquoi. Ceux qui sont de Schneider et qui auront vu cet article, si vous avez une petite explication pour savoir pourquoi du Magalis à chaque fois. Je voudrais bien savoir. Je pense qu’il doit avoir une petite raison derrière mais je laisse les autres expliquer cela."
+          },
+          {
+            "text": "On retrouve ici également du télémécanique : il y a une marque Schneider : c’est l’ancien nom des IHM."
+          },
+          {
+            "text": "Magelis aussi est encore sur les deux dernières IHM que j’ai vues, au niveau des pupitres de contrôle des passerelles."
+          },
+          {
+            "text": "Pour ceux qui sont dans la construction de tunnels, j’aimerais bien avoir une petite raison. Je pense que d'autres personnes qui liront cet article seront intéresserés également. Si vous pouvez marquer en commentaire quelque chose pour nous indiquer pourquoi est-ce Schneider Electric est le monopole de toutes les IHM dans les passerelles d’embarquement de passagers."
+          },
+          {
+            "text": "Alors du coup, c’est un exemple typique d’application courant de l’automatisme que tu peux croiser dans la vie de tous les jours. Si tu te balades en ville, autour de toi, tu en verras plein de systèmes du genre. Du coup je t’invite à ouvrir les yeux quand tu te balades tous les jours. Tu verras que l’automatisme est beaucoup plus présent dans nos villes qu’on le croit."
+          },
+          {
+            "text": "On se dit à bientôt pour de prochains articles."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/aeroport_1.png",
+          "alt": "industry40,industrie40,autem,marc akoto,industrial automation,schneider,modicon,schneider electric,energy,magelis,IHM…"
+        }
+      }
+    ]
+  }
+}

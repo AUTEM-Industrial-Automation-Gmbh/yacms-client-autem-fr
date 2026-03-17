@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/trust/TrustLogos002",
+    "section": "offre/machines-automatisees/revamping-electrique/trust-logos002"
+  },
+  "data": {
+    "title": "Technologies électriques maîtrisées",
+    "subtitle": "Multimarque et agnostique — nous choisissons les équipements adaptés à votre machine et votre budget",
+    "logos": [
+      { "src": "/logos/siemens.png", "alt": "Siemens — Sinamics variateurs et drives" },
+      { "src": "/logos/sew.png", "alt": "SEW-Eurodrive — Movitrac, Movidrive" },
+      { "src": "/logos/eaton.png", "alt": "Eaton — RASP, RAMO variateurs" },
+      { "src": "/logos/pilz.png", "alt": "Pilz — sécurité machine SIL PNOZ" },
+      { "src": "/logos/pepperl-fuchs.png", "alt": "Pepperl+Fuchs — capteurs sécurité" },
+      { "src": "/logos/eplan.png", "alt": "EPlan — schémas électriques industriels" }
+    ]
+  }
+}

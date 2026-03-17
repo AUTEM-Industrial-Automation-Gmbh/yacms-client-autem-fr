@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/stats/Stats001",
+    "section": "offre/machines-automatisees/retrofit-automation/stats001"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "10",
+        "label": "Années d'expérience en rétrofit industriel",
+        "suffix": "+"
+      },
+      {
+        "value": "6",
+        "label": "Marques d'automates maîtrisées",
+        "suffix": "+"
+      },
+      {
+        "value": "15",
+        "label": "Clients accompagnés en France et à l'international",
+        "suffix": "+"
+      },
+      {
+        "value": "100",
+        "label": "Des projets livrés avec documentation complète",
+        "suffix": "%"
+      }
+    ]
+  }
+}

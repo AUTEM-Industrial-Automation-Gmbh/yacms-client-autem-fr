@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/retablir-la-connexion-usb-avec-so-machine/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "26/10/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

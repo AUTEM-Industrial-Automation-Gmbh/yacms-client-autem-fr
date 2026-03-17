@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/missing-your-true-identity/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Many industrial engineers who have been acheologists. Many engineers who have been brillant researchs, brillant scientists. We're going to see here three symptoms that show you why you should be a scientist rather than an engineer. It's not bad. It's just the reality of things. Let's explore 3 reason why you should probably take a turn in your career."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/YC3g5iFPM9o?si=J9bYW1ilnAuw17RT"
+      },
+      {
+        "heading": "Theory vs. Application",
+        "paragraphs": [
+          {
+            "text": "Scientist is someone whose primary orientation is toward theory and the advancement of science itself. For them, technology is the focus of their work ."
+          },
+          {
+            "text": "In contrast, the Engineer takes a more \"contextualized\" approach. Their focus isn't on the beauty of the science, but on its practical application within a specific environment—in this case, the industrial manufacturing floor . While a scientist might study a robot to understand its mechanics, an engineer only cares about that robot in terms of how it solves a specific problem on the production line."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (00 min : 28 s)",
+            "href": "https://www.youtube.com/watch?v=YC3g5iFPM9o&t=22s"
+          }
+        ]
+      },
+      {
+        "heading": "Problem Solving for ROI",
+        "paragraphs": [
+          {
+            "text": "In a manufacturing setting, technology is just a tool, not the destination ."
+          },
+          {
+            "text": "From The Scientific: You develop or improve technology to push the boundaries of what is possible . From The Engineer: You just want to solve the problem . \"No matter what technology was used or what methodology was used,\" the success of an engineer is measured by the Return on Investment (ROI) ."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (04 min : 38 s)",
+            "href": "https://www.youtube.com/watch?v=YC3g5iFPM9o&t=50s"
+          }
+        ]
+      },
+      {
+        "heading": "Objectivity vs. \"Skin in the Game",
+        "paragraphs": [
+          {
+            "text": "Let's dive in into the mindset required for each role. Scientists, researchers, and archaeologists seek pure objectivity—they want to work silently with raw facts and data that aren't \"disturbed\" by human opinion or critical thinking . This is why they often prefer working with things like AI and robots that follow strict logic."
+          },
+          {
+            "text": "Engineering, however, is not straightforward . It requires: Critical Thinking : Analyzing the specific nuances of a situation that data alone might miss. Human/Business Context : Understanding that sometimes the \"true experts\" provide solutions based on experience and opinions that might not seem \"objective\" but are exactly what the business needs to survive. Leadership and Coordination : Unlike the scientist who might work in a lab, the engineer must navigate the \"messy\" human elements of cooperation and leadership to get a project finished in a real-world manufacturing environment."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (02 min : 16 s)",
+            "href": "https://www.youtube.com/watch?v=YC3g5iFPM9o&t=328s"
+          }
+        ]
+      }
+    ]
+  }
+}

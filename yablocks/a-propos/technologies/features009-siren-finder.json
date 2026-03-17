@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "a-propos/technologies/features009-siren-finder"
+  },
+  "data": {
+    "overtitle": "MES & IIoT",
+    "title": "Pilotage de production et connectivité industrielle",
+    "paragraphs": [
+      {
+        "text": "Au-delà de la supervision, AUTEM intègre des solutions MES pour piloter l'exécution des ordres de fabrication, mesurer le TRS et suivre la performance de ligne en temps réel."
+      },
+      {
+        "text": "Pour la connectivité IIoT, nous mettons en place les architectures réseau et protocoles nécessaires pour faire remonter les données des machines jusqu'au cloud — en toute sécurité."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "MES & TRS — suivi de production, ordres de fabrication (ISA95)"
+      },
+      {
+        "text": "Seckiot — cybersécurité et connectivité IoT des systèmes industriels"
+      },
+      {
+        "text": "OPC-UA, MQTT, BACnet — protocoles de communication industrielle"
+      },
+      {
+        "text": "Architecture réseau : Profinet, Profibus, Ethernet/IP, Modbus, AS-i"
+      }
+    ],
+    "conclusion": "Résultat : vos données machines remontent automatiquement, vos KPI sont calculés en temps réel, et vos équipes de production pilotent grâce à des tableaux de bord fiables.",
+    "image": {
+      "src": "/images/kpi-industrie.jpg",
+      "alt": "Pilotage MES TRS IoT industriel AUTEM"
+    },
+    "reverse": false
+  }
+}

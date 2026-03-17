@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Zone ATEX en Industrie Pharma - Esteban TORIBIO | Blog AUTEM",
+    "description": "Comment automatiser des machines quand on est en zone ATEX avec un expert Esteban TORIBIO",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

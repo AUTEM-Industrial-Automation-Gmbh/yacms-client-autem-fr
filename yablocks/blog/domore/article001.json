@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/domore/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "DO-MORE - Communication en Ethernet/IP",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. Content de te revoir dans ce nouvel article."
+          },
+          {
+            "text": "Alors, imaginons que tu veux tester un appareil qui communique au protocole Ethernet IP. Tu peux le faire en utilisant un simulateur qui est gratuit et qui s'appelle \"Do more\" . Dans cet article, je vais te montrer un exemple pour apprendre à l'utiliser."
+          },
+          {
+            "text": "Déjà petit disclaimer, avant de commencer j'ai un peu hésité avant de faire cet article-là. Parce que cela nécessite quand même de bien connaître le protocole Ethernet Ip , beaucoup plus la modélisation objet CIP de Rockwell , avec tout ce qui est notion de classe, instances, attributs. Si tous ces termes-là ne te parlent pas vraiment ce que je te recommande c’est plutôt de lire cet article : Wireshark 🦈 – Un bon réflexe . Cela te sera certainement beaucoup plus utile. Maintenant libre à toi si tu as envie de continuer avec nous pour savoir au moins les étapes et reproduire la simulation chez toi, tu es le bienvenu."
+          },
+          {
+            "text": "Alors déjà on va simuler une communication de type client-serveur entre deux automates. On aura deux automates virtuelles : un qui sera client, l’autre qui sera serveur. On est en Ethernet Ip , du coup le client s’appelle “Scanner“ , le serveur s’appelle “Adapteur“ . Maintenant au niveau des adresses IP. Le premier automate virtuel sera dans une machine virtuelle sur l'adresse 1.10 et le deuxième automate, l'automate virtuelle (qui sera serveur) sera sur un PC avec l'adresse IP 1.23 on note bien ces adresses-là. Cela nous servira pour la suite pour configurer. Ensuite, les infos qu'on vient lire sur l'automate serveurs : elles sont modélisées avec la représentation CIP c'est-à-dire un objet , une instance ou un attribut ou plusieurs . Du coup concrètement cet automate virtuel là aura un objet du type “Assembly” : le code hexadécimal pour la classe Assembly c'est 0x04 . Après dans l'objet on aura une instance avec l'identifiant 101 et dans cette instance on aura nos fameuses données qui correspondent au code 0x03 en EthernetIp et ce sera nos données de type data . Du coup, ce sera la simulation qu'on va faire. On a l'adresse IP du serveur (de l'automate adapteur) et dans cet automate adapteur là, les infos du serveur c'est l'objet, l'instance et l'attribut . On a ce qu'il nous faut pour configurer. On va commencer par configurer l'adapteur(le serveur) et ensuite on va faire la même chose côté scanner (le client)."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Do More Simulator - Lancement et création du projet",
+        "paragraphs": [
+          {
+            "text": "Pour faire cela, on va lancer déjà l'automate virtuel: \"Do more Simulator\" ."
+          },
+          {
+            "text": "Quand tu auras installé le logiciel avec le lien à la fin de cet article, tu devrais avoir le simulateur d'automate et puis le logiciel pour le configurer qui s'appelle \"Designer\" ."
+          },
+          {
+            "text": "Je le mets en mode terminal du coup il est accessible depuis le Designer que je vais lancer maintenant."
+          },
+          {
+            "text": "On va se mettre déjà sur un nouveau projet. Je clique sur New projets offlines ."
+          },
+          {
+            "text": "Je choisis le simulateur puisque du coup c'est un automate virtuel qu'on gère dans notre cas."
+          },
+          {
+            "text": "Ici je vais nommer le projet, vu qu'on est côté serveur on va dire \"serveur démo\" ."
+          },
+          {
+            "text": "Je clique sur OK. Et ensuite on va se connecter à notre fameux automate virtuel qui est là."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_1.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      },
+      {
+        "heading": "Automate Virtuel - Lancement",
+        "paragraphs": [
+          {
+            "text": "Je vais venir ici cliquez sur PLC, connect ."
+          },
+          {
+            "text": "Dans la liste on a notre automate virtuel qui est ici. Je clique sur \"connecter\" , \"go online\" , \"continuer\" , suivant \"terminer\" . Du coup on est en ligne avec notre automate."
+          },
+          {
+            "text": "Maintenant on va faire la configuration de notre serveur Ethernet Ip ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_5.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      },
+      {
+        "heading": "Serveur Ethernet IP - Configuration",
+        "paragraphs": [
+          {
+            "text": "Je viens ici cliquer sur configurer ."
+          },
+          {
+            "text": "On retrouve là l'adresse IP qu'on a dite pour le serveur, l'automate prend l'adresse IP de notre PC."
+          },
+          {
+            "text": "Jusque-là c'est cohérent. Après on a besoin d'activer la capacité adapteur sur cet automate-là parce que c'est lui qui va être serveur. Du coup, je clique ici sur cette coche-là"
+          },
+          {
+            "text": "et dans les paramètres ( Ethernet/Ip Settings… ) on va venir régler un certain nombre de choses."
+          },
+          {
+            "text": "Déjà on a le port TCP qui correspond à Ethernet Ip et prend la valeur par défaut. On va le laisser comme tel."
+          },
+          {
+            "text": "Par contre il faut un bloc de données pour pouvoir rentrer notre objet, notre instance et nos attributs. Je vais ouvrir ici le bloc 1 en cliquant sur cette case-là."
+          },
+          {
+            "text": "Et à l'intérieur on va rentrer tout ce qui a pour modéliser notre objet. On voit que la classe est déjà par défaut à 4. Classe de type Assembly . Du coup on garde."
+          },
+          {
+            "text": "Ensuite l'instance par défaut on a le numéro 101 qui correspond en hexadécimal à 65 . Je vais laisser pareil. Et ensuite, l'attribut, c'est un attribut de type \"Data\" . Chez Ethernet Ip, le code c'est hexadécimal 3 . Jusque-là c'est bon. On est cohérent avec ce qu'on voulait programmer."
+          },
+          {
+            "text": "Après j'ai besoin d'activer la lecture et l'écriture des données depuis un client au niveau du serveur. Du coup, je vais bien cocher ces deux cases-là: \"enable read\", \"enable write\" ainsi, on sera capable d'accéder en lecture et en écriture ."
+          },
+          {
+            "text": "Du coup je vais définir ce qu'on a dans nos blocs de mémoires. Je vais pouvoir enregistrer là-dedans. Pour l'exemple, je prendrai des nombres entiers codés sur 16 bits. Chez \"Do more\" c'est modélisé avec des objets de type V , V pour l'entier coder sur 16 bits . Et du coup on va commencer à V0 jusque V9. On va on compter 10 . V0 jusque V9. Et je clique sur OK."
+          },
+          {
+            "text": "Je valide. Je vais compiler ici en cliquant sur check ."
+          },
+          {
+            "text": "Et ensuite, écrire sur le PLC en cliquant ici \"Write PLC\" ."
+          },
+          {
+            "text": "Je fais un téléchargement du projet dans l'automate virtuel."
+          },
+          {
+            "text": "Là on charge le programme là-dessus. Je clique sur Oui . Je vais passer en mode Run . Je vérifie ici."
+          },
+          {
+            "text": "Si ce n'est pas passer manuellement ou automatiquement je le forcer manuellement pour le mettre en mode démarrage. Du coup, le serveur Ethernet IP est configuré et accessible. On va passer maintenant côté client."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_7.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      },
+      {
+        "heading": "Automate Virtuel Client - Configuration",
+        "paragraphs": [
+          {
+            "text": "Du côté scanner on va également lancer un automate virtuel là-dessus qui sera cette fois-ci clients/scanner Ethernet IP . Je reprends le même logiciel sur la VM pour programmer notre automate client. Là je fais un nouveau projet. Je vais l’appeler client démo . Je clique sur OK."
+          },
+          {
+            "text": "Et on va se mettre en ligne avec notre automate virtuel. Je clique sur Connecter , comme tout à l’heure. Je choisis l'automate virtuel. Il apparaît avec 2 adresses IP . Je vais prendre la version \"localhost\" . Et je clique sur connecter, Go Online, continuer, suivant, terminer ."
+          },
+          {
+            "text": "Là on est en ligne avec l'automate virtuel client. Maintenant on va aussi le configurer pour qu'il soit capable d'aller lire sur le serveur ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_20.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      },
+      {
+        "heading": "Option de lecture automate/Serveur - Configuration",
+        "paragraphs": [
+          {
+            "text": "Je viens ici cliquez sur configurer ."
+          },
+          {
+            "text": "On vérifie là qu'on a la bonne adresse IP ."
+          },
+          {
+            "text": "Ensuite je vais venir définir ici dans mes devices un nouveau device ."
+          },
+          {
+            "text": "Le nouveau device va correspondre à mon scanner Ethernet IP . Typiquement, c'est mon client qu'il faut que je définisse. Je lui donne un nom. Je vais l'appeler \"client scanne\" ."
+          },
+          {
+            "text": "Et accessoirement je vais aussi augmenter un peu le timeout . Ainsi, il y aura 3000 millisecondes pour attendre la réponse au niveau de la communication ."
+          },
+          {
+            "text": "Une fois que c'est fait, je reviens ici dans LADDER et maintenant on va créer une fonction sur la ligne LADDER qui permet de recevoir le message EthernetIp ."
+          },
+          {
+            "text": "C'est cette fonction là, protocole standard, EthernetIp message . Je viens ici faire un glisser-déposer sur la ligne 1 ."
+          },
+          {
+            "text": "L'élément qui fera cette interrogation sera mon fameux client scanne que j'ai défini tout à l'heure."
+          },
+          {
+            "text": "Mon \"client_scanne\" va interroger le serveur qui à l'adresse IP qu'on a vue tout à l'heure 1.23 . Le client, le serveur, le port Ethernet, enfin TCP du protocole ethernetIp."
+          },
+          {
+            "text": "Au niveau de classes, instances et attributs, on a les bonnes valeurs et on va faire une fonction. Ce sera un service : c'est-à-dire qu'il va venir lire le contenu dans la donnée."
+          },
+          {
+            "text": "Jusque-là c'est bon. Ensuite on a deux booléens: le C0 pour indiquer que la lecture est réussi et C1 pour indiquer que la lecture a eu une erreur. On espère que le C0 soit à \"1\" pour dire \"succès\" et C1 soit à \"0\" pour dire \"qu'il n'y a pas d'erreur\" ."
+          },
+          {
+            "text": "Ensuite, comme données de lecture, on vient prendre comme on a dit des entiers. Ce sera des V qui commencent à 0 jusqu'à 9. On en a \"10\" (de V0 à V9) ."
+          },
+          {
+            "text": "Et ensuite le buffer, je vais le mettre sur un entier qui n'a rien à voir avec notre plage sur les mémoires. Je vais le mettre sur le V99 ."
+          },
+          {
+            "text": "On fait le buffer ici et ensuite on vient remplir V0 jusqu’au V9 . Ensuite je clique sur OK. Et je vais rajouter une dernière chose. C'est un signal, un contact pour déclencher notre lecture parce que je n'ai pas envie de lire en permanence."
+          },
+          {
+            "text": "Je vais juste lire à certains moments. Je vais le faire avec un booléen . Chez \"Do more\" cela des “C” et je vais dire arbitrairement par exemple C16 ce sera le booléen pour activer la lecture ."
+          },
+          {
+            "text": "Je viens ici cliquez sur \"data\" pour me préparer à modifier les différents registres."
+          },
+          {
+            "text": "On a le déclencheur C16 pour déclencher la lecture , ensuite on a les différents registres V0 jusque V9 . Mais je vais m'arrêter là, aux quatre premiers. Je vais faire un clic droit ici sur \"Edit Mode\" pour pouvoir changer chacune de ces valeurs-là."
+          },
+          {
+            "text": "Tout est OK. Je valide. Je charge maintenant dans mon automate client."
+          },
+          {
+            "text": "Une fois que c'est chargé, je vais passer en mode \"Run\" ."
+          },
+          {
+            "text": "On a observé déjà qu'il y a quelques valeurs qui ont l'impression d'être arrivées."
+          },
+          {
+            "text": "On va vérifier ces valeurs. Je repars du côté de mon scanner. Je vais essayer d'afficher de part et d'autre le serveur côté PC et puis le client côté VM ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_25.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      },
+      {
+        "heading": "Vérification et test",
+        "paragraphs": [
+          {
+            "text": "Du côté de notre serveur, l'adapteur, on a les différentes valeurs mémoires et ici on peut les modifier. Si je mets des 2 partout et je clique ici sur écrire tous, il me modifie toutes les valeurs et tu les vois ici surtout en automate virtuel serveur."
+          },
+          {
+            "text": "Maintenant, côté client, on doit pouvoir activer C16 pour lancer la lecture. Je clique ici sur \"ON\""
+          },
+          {
+            "text": "et je vais juste écrire celui-là pendant, un petit instant et on voit les valeurs ici qui arrivent: V0, V1, V2, V3 qui correspondent à ce qu'on a ici."
+          },
+          {
+            "text": "Au niveau du C0, l'indices de succès on est OK. C1, l'indice d'erreur on est OK aussi parce que c'est à OFF ."
+          },
+          {
+            "text": "On va essayer de faire pareil en modifiant quelques valeurs par exemple V1 on va le mettre à 5 et V3 on va le mettre à 50 ."
+          },
+          {
+            "text": "J'applique la modif et on va redéclencher une nouvelle lecture. Je remets OFF (en cliquant ensuite sur l'icône de lecture) et je remets ON (en cliquant ensuite sur l'icône de lecture) . Tu vois les valeurs qui sont bien récupérées par le client."
+          },
+          {
+            "text": "Du coup c'est tout pour la partie \"Do more\". C'est le logiciel qui va te permettre de simuler une communication au protocole ethernetIp . Par exemple si à la place du serveur, l'automate virtuel ici, tu avais un variateur ou quelque chose qui parle en ethernetIp, tu peux utiliser \"Do more\" en tant que client pour venir lire les valeurs ou les écrire, les modifier…"
+          },
+          {
+            "text": "Si tu as déjà utilisé \"Do more\" ou si cet article te semble utile, n'hésite pas à laisser un commentaire. Cela fait toujours plaisir."
+          },
+          {
+            "text": "On se retrouve dans un nouvel article."
+          },
+          {
+            "text": "À bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/domore_50.png",
+          "alt": "ethernetIP,do more,do more ethernet ip,do-more ethernet/ip,vfd,domore ethernet ip,ethernet,communication,tutorial…"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/domore/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Do-More | Communiquer en Ethernet/IP | Autem Services",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "10 min lecture",
+      "publishDate": "24/12/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

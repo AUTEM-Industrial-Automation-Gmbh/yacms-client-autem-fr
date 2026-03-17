@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/formation-emploi-carriere/cta002"
+  },
+  "data": {
+    "title": "Développez vos compétences industrielles",
+    "benefits": [
+      {
+        "icon": "book-open",
+        "text": "Formations automatisme & supervision adaptées"
+      },
+      {
+        "icon": "users",
+        "text": "Coaching et accompagnement de techniciens"
+      },
+      {
+        "icon": "award",
+        "text": "Préparation aux certifications industrielles"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

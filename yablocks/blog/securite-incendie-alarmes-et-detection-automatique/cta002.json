@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/securite-incendie-alarmes-et-detection-automatique/cta002"
+  },
+  "data": {
+    "title": "Un projet d'automatisation industrielle ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "Intégration automates Siemens, Rockwell, Schneider"
+      },
+      {
+        "icon": "settings",
+        "text": "Programmation PLC & variateurs de vitesse"
+      },
+      {
+        "icon": "zap",
+        "text": "Mise en service et maintenance sur site"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

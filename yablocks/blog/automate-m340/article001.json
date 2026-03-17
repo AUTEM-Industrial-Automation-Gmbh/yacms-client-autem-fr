@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/automate-m340/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Automate M340 Unity Loader",
+        "paragraphs": [
+          {
+            "text": "On va parler de Schneider Electric notamment des automates M340 et des modules Ethernet NOC 04 01 . Pourquoi ? Parce que parfois on a besoin de mettre à jour le firmware et du coup c’est ce qu’on va voir ensemble dans cet article."
+          },
+          {
+            "text": "Déjà sur le RAC, sur lequel je me base pour écrire cet article, on a plusieurs choses comme un module de puissance, l’automate au milieu et ensuite à droite on a notre module Ethernet NOC 0401."
+          },
+          {
+            "text": "Dans un précédent article on avait déjà vu que pour se connecter à un automate on avait deux moyens : soit en USB ou soit via Ethernet . Du coup les deux choses qu’on va faire dans cet article, c’est que l’on va tenter les deux types de connexions pour mettre à jour le firmware. Du côté USB on va mettre à jour le firmware de l’automate M340 en connexion en sérielle. Et du côté Ethernet on va mettre à jour le firmware de notre module Ethernet. Tu verras. Les deux approches et ces approches te serviront pour ces deux matériels bien spécifiques."
+          },
+          {
+            "text": "Alors pour faire ces opérations, on utilise le logiciel Unity Loader de Schneider Electric et c’est ce qu’on va faire ensemble maintenant."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/automatem340_1.png",
+          "alt": "schneider,modicon,automate,tcp,connecter,connexion,en ligne,firmware,M340,schneider electric,energy,rs485,usb,ethernet…"
+        }
+      },
+      {
+        "heading": "Mise à jour du Firmaware en USB",
+        "paragraphs": [
+          {
+            "text": "Je viens ici ouvrir Unity Loader. Et on va commencer par l’automate. On a dit qu’on va se connecter en USB."
+          },
+          {
+            "text": "Dans ce cas-là, l’adresse qu’il faut marquer normalement c’est “SIS” pour système . Par défaut il apparaît. Et du coup je clique sur “Connecter”. On va voir si il le retrouve."
+          },
+          {
+            "text": "Il me dit que le micro logiciel n’est pas compatible, mais il semble l’avoir retrouvé. L’automate est en mode Run, la carte mémoire est OK et au niveau du firmware si je viens dans cet onglet-là, j’ai les caractéristiques en ligne de mon automate, l’adresse MAC et tout le reste."
+          },
+          {
+            "text": "Et ce qui est intéressant ici c’est qu’on peut voir la version de firmware qui est actuellement chargé dans ma CPU, dans le 340 et ensuite on a un autre firmware pour la partie Web. Du coup pour mettre à jour le firmware je vais venir ici chercher dans le PC, le fichier qui va bien."
+          },
+          {
+            "text": "Cela correspondra à mon automate. On n’a dit que c’est un 340-2000."
+          },
+          {
+            "text": "Il passe en vert parce qu'il correspond à ce qu’on a physiquement sur le RAC."
+          },
+          {
+            "text": "Du coup, j’ai plus qu’à cliquer ici pour afficher le sens du transfert. Je vais faire un transfert du PC vers l’automate."
+          },
+          {
+            "text": "Et une fois que le sens est défini je clique sur “Transférer”. Il me demande si je souhaite poursuivre le transfert. Je clique sur “Oui”."
+          },
+          {
+            "text": "Voulez-vous continuez (là, l'automate s'arrêtera.Surtout si tu es en production, ÉVITE DE L’ARRÊTER pour éviter de faire des dommages ou bien arrêter la production. C’est préférable de faire cela sur un temps d’arrêt maintenance). Je clique sur “Oui”."
+          },
+          {
+            "text": "Et le chargement du firmware va être exécuté."
+          },
+          {
+            "text": "Typiquement, les mises à jour de firmware, souvent c’est pour soit parer à des défauts cyber sécurité ou bien des défauts qui ont été identifiés par le constructeur. Dans notre cas c’est Schneider qui fournit les versions de firmware. J’ai mis les liens à la fin de l'article. Tu peux avoir les versions qui correspondent au matériel qui est utilisé ici dans cet article et puis si tu as d’autres matériels dont tu as besoin du firmware, tu peux aller sur le site de Schneider Electric et retrouver tout ce qu’il te faut. Maintenant que c’est terminé, je vais cliquer ici sur “Fermer”. On remarque bien que les deux versions de firmware sont à jour que ce soit entre le PC ou l’automate."
+          },
+          {
+            "text": "On vient d'effectuer les mises à jour pour la partie USB. Dans notre cas typique, c’est pour l’automate M340."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/automatem340_2.png",
+          "alt": "schneider,modicon,automate,tcp,connecter,connexion,en ligne,firmware,M340,schneider electric,energy,rs485,usb,ethernet…"
+        }
+      },
+      {
+        "heading": "2: Mise à jour du Firmaware en Ethernet avec Ethernet NOC",
+        "paragraphs": [
+          {
+            "text": "Maintenant on va voir comment mettre à jour le firmware en Ethernet avec le module Ethernet NOC 0401. Pour cela, on va venir ici, utilisez Unity Loader."
+          },
+          {
+            "text": "Mais cette fois-ci on va se mettre en Ethernet. Je vais me déconnecter de l’automate et je vais passer maintenant en Ethernet pour pouvoir atteindre notre module Ethernet."
+          },
+          {
+            "text": "Je sais qu’il est à l’adresse 1.68 et ensuite, une fois que j’ai sélectionné l’adresse"
+          },
+          {
+            "text": "ici je reviens, au niveau des firmwares et je vais faire “Connecter”."
+          },
+          {
+            "text": "Il me dit que le logiciel n’est pas compatible. C’est parce qu’on n’avait pas sélectionné la version de l’automate avant. Mais sur le module on a ces infos-là. Le firmware du module Ethernet en version 2.1 et ensuite la version web 1.02 . Je viens sélectionner ici, sur le PC, le fichier qui va bien, qui correspond à mon module NOC."
+          },
+          {
+            "text": "Ce sera la version 2.10 qui sera chargée . Le vert c’est pour indiquer qu’on est bien sur les mêmes types de matériels ."
+          },
+          {
+            "text": "Comme ça on est sûr de pas charger n’importe quoi à l’intérieur. On a le sens de chargement et ensuite je vais venir cliquer sur “Transférer” pour transférer mon firmware. Je poursuis et on lance du coup le chargement."
+          },
+          {
+            "text": "Une fois que le chargement est terminé, je viens cliquer ici sur “Fermer”."
+          },
+          {
+            "text": "On a mis à jour le micrologiciel et c’est terminé. Les versions maintenant correspondent."
+          },
+          {
+            "text": "On a les dernières versions de firmware dans le module Ethernet et puis, une fois que c’est fait, je peux tout simplement me déconnecter de mon matériel."
+          },
+          {
+            "text": "C'est tout pour la modification de firmware avec le logiciel Unity Pro . C’est l’outil qui va te permettre de faire des mises à jour soit en USB sur un automate modicon M340 ou soit en Ethernet avec un module NOC. Si cet article t’a été utile, n’hésite pas à le partager ou à laisser un petit commentaire. Du coup, on se retrouve très prochainement dans un autre article."
+          },
+          {
+            "text": "A bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/automatem340_12.png",
+          "alt": "schneider,modicon,automate,tcp,connecter,connexion,en ligne,firmware,M340,schneider electric,energy,rs485,usb,ethernet…"
+        }
+      }
+    ]
+  }
+}

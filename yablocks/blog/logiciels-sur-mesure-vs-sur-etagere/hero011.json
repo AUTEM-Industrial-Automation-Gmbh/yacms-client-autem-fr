@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/logiciels-sur-mesure-vs-sur-etagere/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent",
+    "tags": [
+      {
+        "label": "Architecture Systèmes",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "04/05/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

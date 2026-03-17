@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/retrofit-digitaliser/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?",
+    "tags": [
+      {
+        "label": "Gestion Projet Stratégique",
+        "type": "secteur"
+      },
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "10/10/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

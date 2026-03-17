@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Exalens: Rétro-Ingénierie automatique avec IA | Blog AUTEM",
+    "description": "Exalens, un outil innovant basé facilier vos rétrofits ou moderniser de vieilles machines.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

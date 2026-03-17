@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/logiciels-pilotage/analyse-data/cta002"
+    },
+    "data": {
+        "title": "Vous savez qu'il y a des pertes, mais pas exactement où ni combien ?",
+        "benefits": [
+            { "icon": "bar-chart", "text": "Analyse Pareto, VSM et arbre des causes — depuis vos données réelles" },
+            { "icon": "target", "text": "Feuille de route priorisée avec ROI chiffré et hypothèses transparentes" },
+            { "icon": "file-text", "text": "Livrables actionnables et défendables en comité de direction" }
+        ],
+        "cta": {
+            "text": "Demander un diagnostic data",
+            "link": "/contact"
+        }
+    }
+}

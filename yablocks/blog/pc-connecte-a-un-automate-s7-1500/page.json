@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem | Blog AUTEM",
+    "description": "Wincc Unified - Les différentes étapes pour utiliser un SMART Phone pour commander un automate de la marque Siemens.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

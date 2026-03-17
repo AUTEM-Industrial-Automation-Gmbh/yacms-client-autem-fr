@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/gmao/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Dans le contexte de l'industrie 4.0 et de la façon d'apprendre à digitaliser sa maintenance avec la GMAO, Florian Sessé, intégrateur de solutions digitales et représentant de Yuman au Cameroun et dans la sous-région de l'Afrique, ainsi que Pascal Vivet, cofondateur de Yuman, viennent partager et présenter respectivement leurs points de vue sur ce que la maintenance 4.0 peut apporter comme solution et l'outil Yuman, une solution de GMAO moderne et intuitive qui vient s'imposer comme un outil révolutionnaire. Yuman est comme un médecin qui facilite la transition vers la digitalisation de la maintenance en prévenant les problèmes de vos machines."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/s_m-6wqt-xY"
+      },
+      {
+        "heading": "Présentation de la maintenance 4.0",
+        "paragraphs": [
+          {
+            "text": "La maintenance 4.0 utilise les nouvelles technologies pour améliorer l'efficacité et la performance des équipements. Elle a vu le jour après de nombreuses révolutions industrielles telles que la révolution hydraulique, électrique (qui a contribué à la production en masse) et programmable (avec la naissance des automates programmables). Elle se base sur la collecte et l'analyse de données en temps réel pour anticiper les pannes et les défaillances, ce qui permet de planifier les opérations de maintenance de manière proactive. La maintenance 4.0 s'appuie sur des outils numériques tels que les GMAO (Gestion de la Maintenance Assistée par Ordinateur), les objets connectés, l'intelligence artificielle, le Big Data, la réalité augmentée et la réalité virtuelle. Ces outils permettent de surveiller les équipements en temps réel, d'optimiser les tâches de maintenance et de réduire les temps d'arrêt."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les niveaux de maturation de la maintenance 4.0",
+        "paragraphs": [
+          {
+            "text": "Il existe quatre niveaux de maturation de la maintenance 4.0. Le niveau 1 correspond à une maintenance basée sur le temps, le niveau 2 à une maintenance préventive, le niveau 3 à une maintenance prédictive et le niveau 4 à une maintenance prescriptive. Plus on avance dans les niveaux de maturation, plus la maintenance devient proactive et prédictive, ce qui permet d'optimiser les opérations de maintenance."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les avantages de la maintenance 4.0",
+        "paragraphs": [
+          {
+            "text": "La maintenance 4.0 offre de nombreux avantages pour les entreprises, notamment : Une réduction des coûts de maintenance et des temps d'arrêt Une amélioration de la qualité des produits et de la sécurité des travailleurs Une augmentation de la disponibilité des équipements Une meilleure utilisation des ressources Une réduction de l'impact environnemental."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "5 étapes pour digitaler sa Maintenance",
+        "paragraphs": [
+          {
+            "text": "Étape 1 : Collecter les données et suivre la production La première étape consiste à collecter les données en temps réel sur les machines auprès des opérateurs. Cela implique souvent l'installation de capteurs pour mesurer les vibrations, les températures, les délibérations, les dépassements de seuil, etc. Ces données permettent de suivre la production et de détecter les dérives de la machine, déclenchant ainsi des interventions des techniciens pour éviter les pannes."
+          },
+          {
+            "text": "Étape 2: Favoriser le management virtuel La deuxième étape consiste à intégrer ces données à une plateforme de supervision pour une analyse en temps réel et une planification des opérations de maintenance. Cependant, certains outils digitaux peuvent ne pas être adaptés aux techniciens sur le terrain, ce qui peut conduire à une utilisation limitée. Le but étant principalement de s’assurer de la redistribution de l’information, l’utilisation d'applications mobiles pour smartphone ou tablette permettra aux techniciens de recevoir des alertes et des informations sur leur planning et leurs actions de maintenance."
+          },
+          {
+            "text": "Étape 3 : Planifier les opérations La troisième étape consiste à avoir une gestion visuelle et planifiée des opérations de maintenance. Les techniciens peuvent ainsi être responsabilisés en ayant l'information directement entre les mains et ne pas avoir besoin de se référer à des tableaux blancs ou des écrans de PC."
+          },
+          {
+            "text": "Étape 4 : Optimiser la maintenance La quatrième étape consiste à développer la maintenance prédictive, qui permet de prévoir les pannes et d'agir avant qu'elles ne se produisent. Cela peut conduire à une réduction des coûts de maintenance et à une augmentation de la disponibilité des équipements. L’optimisation de la maintenance aura donc pour but de rendre le travail plus efficace, comme avoir une idée de comment les équipements fonctionnent ou comment améliorer la productivité des techniciens. En somme, d’optimiser les interventions."
+          },
+          {
+            "text": "Étape 5 : Digitaliser les contrôles qualité Enfin, la cinquième étape consiste à mettre en place une organisation agile et collaborative, qui permet de partager l'information entre les techniciens et les managers. Cela renforce la collaboration et la circulation de l'information, ce qui peut réduire les coûts pour l'entreprise. Cependant, les intervenants soulignent que seules environ 10% des entreprises sont à la maturité de la maintenance 4.0, et environ 30% ont atteint le niveau de la maintenance 3.0 en Europe en 2018. Il reste donc beaucoup de travail à faire pour améliorer la maintenance prédictive et l'utilisation des technologies digitales dans l'industrie."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Démonstration – Cas pratique avec Yuman",
+        "paragraphs": [
+          {
+            "text": "Point 1 : Présentation des données avec Yuman"
+          },
+          {
+            "text": "Pour commencer sa démo,Pascal nous montre dans le Live une première vue de l’interface Yuman qui recense le patrimoine technique qui représente le terrain de jeu de l’équipe de maintenance, avec un petit QR Code en dessous de la fiche de chaque équipement qui sert à demander une intervention pour cet équipement."
+          },
+          {
+            "text": "Point 2 : Planification des maintenances avec Yuman"
+          },
+          {
+            "text": "Pascal nous montre ensuite comment la GMAO peut aider à la planification de la maintenance avec ce que l’on doit réviser de façon récurrente en proposant des plannings préventifs basés sur l'utilisation réelle des équipements grâce au calendrier général de l’usine qui affiche la liste des actions maintenances qui doivent être réalisées, leur récurrence ainsi que le coût des opérations à agréger ce qui permet de prévoir les stocks à l’avance et gérer ses provisions au besoin ."
+          },
+          {
+            "text": "Point 3 : Gestion de stocks et approvisionnement avec Yuman"
+          },
+          {
+            "text": "Pascal nous montre enfin une vue de stock de pièces détachées avec des niveaux de stock minimum (sur la droite de la figure), et grâce à ces données, on peut lancer le réapprovisionnement des produits qui ont atteint leurs niveaux de stock minimum directement chez le fournisseur ou en l’envoyant à un ERP."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Le futur de la GMAO",
+        "paragraphs": [
+          {
+            "text": "Les technologies déterminantes telles que les architectures cloud, les data centers, le mobile qui nous permettent d’aller chercher l’efficacité chez une équipe de maintenance ne sont pas encore entrées chez les industriels bien que ces technologies aideront à avoir un impact fort. En somme, la GMAO permettra de collecter l’information facilement, de l’enregistrer, de la centraliser, de la redistribuer et cela associé à des objectifs métiers augmente l’efficacité de l’équipe au service des industriels."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

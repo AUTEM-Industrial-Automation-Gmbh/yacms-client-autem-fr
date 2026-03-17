@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Automaticien et intégrateur MES — pas juste un développeur d'écrans.",
+        "paragraphs": [
+            {
+                "text": "Un projet MES mal intégré, c'est un tableau de bord magnifique qui affiche des données fausses — parce que personne n'a vérifié comment l'automate remonte ses signaux. AUTEM part du terrain : nous comprenons les programmes automates, nous choisissons les bons points de collecte, et nous validons chaque donnée avant d'afficher le moindre KPI."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Double compétence automatisme + MES : on récupère les données depuis l'automate, pas depuis un export Excel manuel"
+            },
+            {
+                "text": "Intégration Ignition native (Gold Certified) — ou WinCC, FactoryTalk selon votre infrastructure existante"
+            },
+            {
+                "text": "Modèle de données conçu avec vos équipes terrain — pas importé depuis un template générique"
+            },
+            {
+                "text": "IHM opérateur simple et rapide : adoption en moins d'une journée sur tous nos projets"
+            },
+            {
+                "text": "Rapport de shift automatique généré et envoyé sans intervention humaine"
+            },
+            {
+                "text": "Formation complète incluse : opérateurs, chefs d'équipe et responsables production"
+            }
+        ],
+        "conclusion": "Le résultat : un TRS calculé à la seconde, des causes de perte connues et actionnables, et une équipe de production qui pilote avec des chiffres réels — pas des estimations.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Ingénieur AUTEM — intégration MES TRS OEE production industrielle"
+        },
+        "reverse": true
+    }
+}

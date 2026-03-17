@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Equilibre vie perso - pro pour Techniciens en Industrie",
+    "tags": [
+      {
+        "label": "Machines Vintage",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "14/07/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

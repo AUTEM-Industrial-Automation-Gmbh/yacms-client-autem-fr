@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/machines-automatisees/revamping-electrique/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience en électrotechnique industrielle",
+                "suffix": "+"
+            },
+            {
+                "value": "3",
+                "label": "Niveaux SIL maîtrisés (SIL 1, 2 et 3 / Cat. 4 PLe)",
+                "suffix": ""
+            },
+            {
+                "value": "6",
+                "label": "Marques de variateurs et drives configurés",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des projets livrés avec schémas as-built et dossier SIL",
+                "suffix": "%"
+            }
+        ]
+    }
+}

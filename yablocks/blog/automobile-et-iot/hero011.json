@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/automobile-et-iot/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°15 - Automobile et IoT - Septembre 2024",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "10/10/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

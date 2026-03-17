@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-avril-2024/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "01/05/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

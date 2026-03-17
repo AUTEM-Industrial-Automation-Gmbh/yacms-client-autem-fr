@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/avis-technique/assistance-projets/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'expression du besoin à la réception technique : 6 étapes",
+        "steps": [
+            {
+                "title": "Expression du besoin & cadrage",
+                "description": "Interviews des équipes terrain, opérateurs, maintenance et direction pour capturer les enjeux réels — pas seulement les exigences formelles. Rédaction d'un document de cadrage partagé comme base du projet.",
+                "icon": "search"
+            },
+            {
+                "title": "Rédaction du cahier des charges",
+                "description": "Formalisation des exigences fonctionnelles, techniques, de performance, de cybersécurité et de maintenabilité. Structure adaptée à un appel d'offres ou une consultation directe intégrateur.",
+                "icon": "file-text"
+            },
+            {
+                "title": "Sélection de l'intégrateur",
+                "description": "Analyse comparative des offres reçues : évaluation technique, cohérence avec les specs, expérience du candidat, qualité documentaire proposée, risques projet. Synthèse et recommandation objective.",
+                "icon": "users"
+            },
+            {
+                "title": "Suivi de conception & revues",
+                "description": "Participation aux revues de conception, validation des plans électriques et des choix d'architecture, gestion des demandes de modification, traçabilité des décisions techniques tout au long du projet.",
+                "icon": "layers"
+            },
+            {
+                "title": "FAT & SAT — tests d'acceptation",
+                "description": "Préparation des protocoles de tests (FAT en atelier intégrateur, SAT sur site client), conduite des recettes, gestion des réserves et validation formelle de la mise en service.",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Réception & documentation finale",
+                "description": "Constitution du Dossier des Ouvrages Exécutés (DOE), vérification de la complétude documentaire (manuels, programmes commentés, schémas as-built), formation des équipes internes.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

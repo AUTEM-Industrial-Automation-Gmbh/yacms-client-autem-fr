@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "🏭 6 Habits that kill Old Machines | Blog AUTEM",
+    "description": "Let's explore 6 Habits that kill Old Machines",
+    "keywords": [
+      "Cycle de Vie et Obsolescence",
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

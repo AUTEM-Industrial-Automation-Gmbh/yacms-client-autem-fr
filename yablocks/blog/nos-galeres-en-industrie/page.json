@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "Nos Galères en Usine ft. Adrien SORCI | Blog AUTEM",
+    "description": "Bilan 2024 avec Marc AKOTO",
+    "keywords": [
+      "Evolution de l'industrie",
+      "Machines Vintage",
+      "Interview-Atelier LIVE",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

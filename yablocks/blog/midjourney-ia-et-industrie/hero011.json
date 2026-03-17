@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/midjourney-ia-et-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney",
+    "tags": [
+      {
+        "label": "IA & Machine Learning",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "03/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

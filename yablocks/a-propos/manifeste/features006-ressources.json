@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features006",
+    "section": "a-propos/manifeste/ressources"
+  },
+  "data": {
+    "overtitle": "PASSEZ À L'ACTION",
+    "title": "Démarrons votre projet de digitalisation industrielle",
+    "cards": [
+      {
+        "title": "Discutons de votre projet",
+        "description": "Un échange de 30 minutes pour comprendre vos enjeux et identifier les premières pistes d'action concrètes.",
+        "image": {
+          "src": "/images/background-indus.jpg",
+          "alt": "Projet d'automatisme industriel AUTEM"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Prendre contact",
+            "link": "/contact",
+            "variant": "primary"
+          }
+        ]
+      },
+      {
+        "title": "Se former à l'automatisme industriel",
+        "description": "Des cours en ligne sur Udemy pour techniciens et ingénieurs souhaitant monter en compétences sur les systèmes automatisés.",
+        "image": {
+          "src": "/images/ignition-scada.jpeg",
+          "alt": "Formation automatisme industriel en ligne"
+        },
+        "size": "big",
+        "actions": [
+          {
+            "text": "Voir les formations",
+            "link": "https://www.udemy.com",
+            "variant": "secondary"
+          }
+        ]
+      }
+    ]
+  }
+}

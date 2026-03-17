@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/digitalisation-simulation-protocoles-series/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "28/11/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

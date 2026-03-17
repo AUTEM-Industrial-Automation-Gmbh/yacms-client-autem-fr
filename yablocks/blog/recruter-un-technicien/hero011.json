@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/recruter-un-technicien/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle",
+    "tags": [
+      {
+        "label": "Machines Vintage",
+        "type": "secteur"
+      },
+      {
+        "label": "Transfert de Compétences",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "22/09/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Modbus | Simuler un échange directement sur ton PC | Autem | Blog AUTEM",
+    "description": "Protocole de communication Modbus - Les différentes étapes pour simuler un échange Modbus directement sur ton PC .",
+    "keywords": [
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-juin-2024/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "14/07/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

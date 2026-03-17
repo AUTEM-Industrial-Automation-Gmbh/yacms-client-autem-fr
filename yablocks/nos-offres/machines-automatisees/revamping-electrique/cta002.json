@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/machines-automatisees/revamping-electrique/cta002"
+    },
+    "data": {
+        "title": "Votre installation électrique vieillit ou n'est plus documentée ?",
+        "benefits": [
+            {
+                "icon": "zap",
+                "text": "Variateurs & sécurité SIL : SEW, Siemens Sinamics, Pilz, Pepperl+Fuchs"
+            },
+            {
+                "icon": "file-text",
+                "text": "Schémas as-built livrés en EPlan ou SEE Electrical — sources natives éditables"
+            },
+            {
+                "icon": "shield",
+                "text": "Conformité EN ISO 13849 / IEC 62061 — validation SIL formalisée et documentée"
+            }
+        ],
+        "cta": {
+            "text": "Demander un audit électrique",
+            "link": "/contact"
+        }
+    }
+}

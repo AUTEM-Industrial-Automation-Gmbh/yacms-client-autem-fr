@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "a-propos/manifeste/features008-equation"
+  },
+  "data": {
+    "title": "La digitalisation industrielle en 3 niveaux",
+    "content": "<p>Chez AUTEM, nous structurons tous nos projets autour de la pyramide d'automatisation.</p><p><strong>Niveau 1 — Terrain :</strong> automates (PLC/API), capteurs, actionneurs, réseaux industriels.</p><p><strong>Niveau 2 — Supervision :</strong> SCADA, IHM, télémétrie, alarmes temps réel, historisation.</p><p><strong>Niveau 3 — Pilotage :</strong> MES, TRS, connectivité IoT/IIoT, tableaux de bord et reporting.</p>",
+    "image": {
+      "src": "/images/kpi-industrie.jpg",
+      "alt": "Pyramide d'automatisation industrielle AUTEM — terrain, supervision, pilotage"
+    }
+  }
+}

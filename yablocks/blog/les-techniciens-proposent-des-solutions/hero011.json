@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/les-techniciens-proposent-des-solutions/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "7 min lecture",
+      "publishDate": "29/06/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

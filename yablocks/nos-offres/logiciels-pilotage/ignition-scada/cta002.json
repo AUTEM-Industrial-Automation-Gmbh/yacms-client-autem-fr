@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/logiciels-pilotage/ignition-scada/cta002"
+    },
+    "data": {
+        "title": "Votre supervision est vieillissante, trop coûteuse en licences ou inaccessible hors du poste opérateur ?",
+        "benefits": [
+            {
+                "icon": "award",
+                "text": "Intégrateur certifié Gold Ignition — le niveau le plus exigeant d'Inductive Automation"
+            },
+            {
+                "icon": "layers",
+                "text": "Migration depuis WinCC, InduSoft, FactoryTalk — projets et historiques conservés"
+            },
+            {
+                "icon": "globe",
+                "text": "Architecture web-native : accessible depuis n'importe quel navigateur, tablette ou PC"
+            }
+        ],
+        "cta": {
+            "text": "Discutons de votre projet SCADA",
+            "link": "/contact"
+        }
+    }
+}

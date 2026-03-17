@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/gmao/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Comment digitaliser sa maintenance avec la GMAO ?",
+    "tags": [
+      {
+        "label": "GTB-GMAO",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "23/02/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/avis-technique/architecture-systemes/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience en conception et validation d'architectures de systèmes industriels",
+                "suffix": "+"
+            },
+            {
+                "value": "6",
+                "label": "Secteurs couverts : luxe, logistique, mobilité, chimie, agroalimentaire, métallurgie",
+                "suffix": "+"
+            },
+            {
+                "value": "15",
+                "label": "Clients accompagnés sur des projets d'architecture et d'intégration de systèmes",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des livrables d'architecture accompagnés de documentation technique complète et de schémas",
+                "suffix": "%"
+            }
+        ]
+    }
+}

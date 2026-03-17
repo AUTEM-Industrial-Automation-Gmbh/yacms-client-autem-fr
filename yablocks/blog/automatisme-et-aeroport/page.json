@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM | Blog AUTEM",
+    "description": "Sauras-tu trouver le point commun présent à l'intérieur de tous les pupitres présent dans les aéroports ?",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

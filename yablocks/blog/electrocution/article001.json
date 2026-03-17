@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/electrocution/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Electrocution: 100A ou 24000V ?",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. On va parler d'électricité aujourd'hui. Alors bienvenue dans cet article. Récemment j'ai fait un sondage LinkedIn en posant la question suivante : \"tu es en face de deux câbles nus sous tension et tu dois en toucher un. Lequel choisis-tu pour rester en vie : l'option a) 100 A sous 24 V ou l'option b) 0,1 A sous 24000 V ?\""
+          },
+          {
+            "text": "Alors tu peux retrouver le lien du sondage à la fin de cet article. Et curieusement 70% des personnes se sont trompés sur ce sondage du coup pour éviter à d'autres personnes de mourir électrocuté, j'ai trouvé qu'il était urgent de faire un petit rappel."
+          },
+          {
+            "text": "Déjà d'après toi pour savoir la situation la plus dangereuse est-ce qu'il faut regarder du côté du courant ou du côté de la tension ? Je te laisse réfléchir trois secondes."
+          },
+          {
+            "text": "Si tu dis \"du côté du courant\", tu t'es trompé et si tu dis \"la tension\" tu t'es encore trompé. En fait il faut regarder les deux. Alors c'est vrai que le courant va traverser le corps humain et créer des dommages sur les organes, mais les électrons du courant ne peuvent pas traverser le corps si la tension est trop basse. C'est bien le couple tension/courant qui va créer l'électrocution et nous nous retrouvons devant notre bon vieil Ohm avec sa loi \"U = R x I\" . Si on regarde le courant, la quantité de courant qui circule dans une ligne électrique va dépendre uniquement des caractéristiques du conducteur. Il y a par exemple deux caractéristiques : soit il y a une protection de type disjoncteur qui limite le courant autorisé en basse tension comme en haute tension ou bien ; il y a une résistance dont la valeur est suffisamment grande pour limiter le courant."
+          },
+          {
+            "text": "Par exemple ici il peut y avoir une résistance de 240000 ohms qui va faire que pour 24000 V, le courant qui circule au final est tout juste de 0,1 A dans le conducteur. Maintenant on va regarder le courant qui peut circuler dans le corps humain. Lorsqu'on touche une ligne nue sous tension, notre corps devient conducteur entre cette ligne et le sol. Encore une fois le courant qui circule ne dépend pas des caractéristiques de la ligne qu'on touche, mais plutôt des caractéristiques de notre corps en tant que conducteur. Alors déjà la première caractéristique : on n'a pas de disjoncteur dans notre corps du coup, on va plutôt regarder la deuxième caractéristique du côté de la résistance. On sait que la résistance du corps humain est d'environ 1000 ohms lorsque la peau est sèche pour être précis: le comportement de notre corps varie en fonction de la tension, mais là pour l'exemple on va prendre une moyenne fixe. Si on prend 1000 ohms et qu'on fait le calcul avec la loi d'ohm pour 24 volts on obtient 24 mA . On regarde maintenant le temps d'exposition et on est déjà dans la limite de \"non lâcher\" c'est-à-dire le moment où tu n'arrives plus à retirer ta main du câble. Alors, en espérant qu'il y ait un interrupteur différentiel qui détecte le court-circuit sur le câble et qui coupent l'alimentation en quelques millisecondes, tu peux encore t''en sortir avec plus de peur que de mal. Jusque-là tout va bien."
+          },
+          {
+            "text": "Par contre si on fait le même raisonnement avec la loi d'ohm sur la ligne 24000 V, on obtient 24 A . Au niveau du temps d'exposition on est carrément dans la limite d'arrêt cardiaque même pour une fraction de seconde on a déjà dépassé 24 fois le seuil de mort qui est environ 1 A du coup-là c'est MORT INSTANTANEE et même pour une milliseconde d'exposition."
+          },
+          {
+            "text": "Alors pour revenir à notre question de départ, aussi surprenant que cela puisse paraître on n'aura pas la même quantité de courant qui va circuler dans le câble et dans ton corps tout simplement parce que ton corps a des caractéristiques différentes en l'occurrence 1000 ohms de résistance en moyenne . Du coup vaut mieux toucher le câble de 24 V et recevoir 24 mA pendant quelques millisecondes plutôt que de toucher le câble de 24000 V qui fera passer 24 A c'est-à-dire 24 fois le seuil de mort . Et puis de toute façon, tu dois bien t'en douter, il vaut mieux ne pas toucher de câbles nus du tout . C'est tout pour ce rappel sur les dangers du courant électrique."
+          },
+          {
+            "text": "Assez basique, mais vu que beaucoup de personnes se sont trompées sur le sondage je trouvais important de faire ce petit rappel. Si tu souhaites laisser un commentaire, je serais ravi d'avoir ton avis."
+          },
+          {
+            "text": "Si tu penses que cette vidéo peut sauver la vie de quelqu'un, partages !"
+          },
+          {
+            "text": "A bientôt !"
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/obsolescence-perennite-penurie-inconnues/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Aujourd'hui nous allons parler de la pérénité, l'obsolescence, la pénurie, une équation à 7 inconnues. Avec de nombreux articles actuellement sur le sujet, j'exposerai en 7 points, les principales facteurs de l'équation."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/_vbYIvEK-dA?si=AoVicH5_cD4M73x-"
+      },
+      {
+        "heading": "Le facteur temps",
+        "paragraphs": [
+          {
+            "text": "Qui dit pérennité dit facteur temps . Et le premier facteur qui joue contre nous, c'est le temps."
+          },
+          {
+            "text": "Certains appareils que vous pourriez peut-être retrouver en usine ont déjà plus de 20 ans, et la question qu'il faut se poser est la suivante : Que fait-on de ces équipements-là, qui durent dans le temps, qui ont été conçus pour être robustes, mais dont on ne sait plus comment les gérer ?"
+          },
+          {
+            "text": "Le 1 er facteur donc à prendre en compte si le sujet d'obsolescence se fait sentir, c'est le facteur temps ."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (01min:24s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=30s"
+          }
+        ]
+      },
+      {
+        "heading": "Employés / Embauchés",
+        "paragraphs": [
+          {
+            "text": "Concernant l'aspect de l'obsolescence , les personnes les plus anciennes et les plus expérimentées de l'entreprise ont un rôle crucial à jouer. Ainsi, il est essentiel de mettre l'accent sur la constitution d'une base de connaissances , ainsi que sur la documentation des tâches réalisées , avant que les machines ne quittent définitivement l'entreprise."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (1min:11s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=114s"
+          }
+        ]
+      },
+      {
+        "heading": "Les compétences",
+        "paragraphs": [
+          {
+            "text": "Un autre aspect est beaucoup plus lié aux compétences et à la stratégie. Les compétences ne sont pas forcément techniques, mais peuvent aussi être orientées sur les compétences stratégiques pour un manager qui ne sait pas trop ce qu'il devrait faire de ses équipements obsolètes."
+          },
+          {
+            "text": "Ce qu'il faut retenir de ce point, c'est qu'il faut se faire former et se faire guider pour savoir comment gérer ce type de machines, ainsi que pour déterminer avec le management quelle est la bonne stratégie à adopter."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (0min:42s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=152s"
+          }
+        ]
+      },
+      {
+        "heading": "Hardware Supply",
+        "paragraphs": [
+          {
+            "text": "Un autre aspect du sujet est lié à la fourniture de matériel physique, ou Hardware Supply. Comment se débrouille-t-on pour trouver des cartes électroniques rares ?"
+          },
+          {
+            "text": "Pour une carte que l'on n'arrive pas à trouver ou qui n'est plus produite, deux solutions s'offrent à nous : soit constituer un stock permettant de fonctionner pendant plusieurs années, soit trouver des alternatives."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (0min:46s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=194s"
+          }
+        ]
+      },
+      {
+        "heading": "Aspect Logiciel",
+        "paragraphs": [
+          {
+            "text": "Au niveau logiciel, certains vieux systèmes Windows sont encore très présents dans l'industrie et ne sont plus vraiment maintenus."
+          },
+          {
+            "text": "Une question se pose : Que fait-on de ces systèmes ?"
+          },
+          {
+            "text": "Dans ce cas, il y a tout un aspect d'évolution des technologies à prendre en compte. Il est donc conseillé de faire un petit inventaire de tous les systèmes présents dans l'usine, non seulement au niveau du Hardware, mais aussi du Software."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (0min:34s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=240s"
+          }
+        ]
+      },
+      {
+        "heading": "Standard et Normes",
+        "paragraphs": [
+          {
+            "text": "Le 6 e aspect est lié aux standards et aux normes."
+          },
+          {
+            "text": "Ici, il s'agit de documenter tous les processus standards."
+          },
+          {
+            "text": "La question est de savoir si l'on doit mobiliser des équipes techniques pour gérer la partie documentation, tout en tenant compte du fait que ces équipes sont déjà fortement sollicitées."
+          },
+          {
+            "text": "Ce qui est certain, c'est qu'il est possible d'automatiser de nombreuses procédures, documentations et spécifications."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (0min:57s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=274s"
+          }
+        ]
+      },
+      {
+        "heading": "Les fournisseurs",
+        "paragraphs": [
+          {
+            "text": "Le dernier aspect concerne les fournisseurs ainsi que l'ensemble de l'écosystème. Une usine représente un écosystème composé d'acteurs internes et externes. L'objectif est de tirer le meilleur parti de chaque équipe, de chaque acteur, afin de faire progresser l'usine."
+          },
+          {
+            "text": "La question à se poser est la suivante : Comment organiser ces équipes pour obtenir la meilleure contribution de chacune d'elles et garantir la satisfaction de l'utilisateur final du produit ?"
+          },
+          {
+            "text": "Découvrez l'intégralité de cette section ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (1min:16s)",
+            "href": "https://www.youtube.com/watch?v=_vbYIvEK-dA&t=331s"
+          }
+        ]
+      }
+    ]
+  }
+}

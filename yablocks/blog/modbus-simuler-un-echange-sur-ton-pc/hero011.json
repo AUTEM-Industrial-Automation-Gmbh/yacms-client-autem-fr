@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/modbus-simuler-un-echange-sur-ton-pc/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Modbus | Simuler un échange directement sur ton PC | Autem",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "10/06/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

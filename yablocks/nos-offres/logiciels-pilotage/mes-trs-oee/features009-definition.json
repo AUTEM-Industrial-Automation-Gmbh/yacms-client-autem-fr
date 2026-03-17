@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/features009-definition"
+    },
+    "data": {
+        "overtitle": "MES — TRS — OEE",
+        "title": "De la donnée terrain au tableau de bord décisionnel : périmètre et définitions",
+        "paragraphs": [
+            {
+                "text": "Collecter automatiquement les données de production depuis vos automates, calculer les indicateurs de performance (TRS/OEE) en temps réel, et les restituer sur des tableaux de bord adaptés à chaque niveau — opérateur, chef d'équipe, direction."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Intégration directe depuis les automates (Siemens, Rockwell, Schneider) — pas de saisie manuelle"
+            },
+            {
+                "text": "Calcul TRS (Disponibilité × Performance × Qualité) et OEE en temps réel"
+            },
+            {
+                "text": "Saisie des causes de perte par les opérateurs directement sur IHM ou tablette"
+            },
+            {
+                "text": "Tableaux de bord par poste, par ligne, par équipe — accessibles depuis navigateur"
+            },
+            {
+                "text": "Historique des données, tendances, comparaisons shift-to-shift et semaine-à-semaine"
+            },
+            {
+                "text": "Alertes temps réel : dérive TRS, seuil de rejet qualité, durée d'arrêt anormale"
+            }
+        ],
+        "conclusion": "Résultat : une équipe de production qui prend ses décisions sur la base de données réelles — pas de perceptions. Et une direction qui peut mesurer l'impact de chaque action d'amélioration.",
+        "image": {
+            "src": "/images/kpi-industrie.jpg",
+            "alt": "Tableau de bord TRS OEE MES production temps réel — AUTEM"
+        },
+        "reverse": false
+    }
+}

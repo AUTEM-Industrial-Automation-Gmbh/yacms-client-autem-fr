@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience en intégration MES et supervision industrielle",
+                "suffix": "+"
+            },
+            {
+                "value": "5",
+                "label": "Plateformes SCADA/MES maîtrisées : Ignition, WinCC, FactoryTalk, Wonderware, InduSoft",
+                "suffix": "+"
+            },
+            {
+                "value": "15",
+                "label": "Clients accompagnés en France et à l'international",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des projets livrés avec formation opérateurs et documentation complète",
+                "suffix": "%"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Rétrofit carte électronique Advantech - obsolescence machine industrielle | Blog AUTEM",
+    "description": "Comment gérer l'obsolescence d'une machine industrielle équipée d'une carte électronique Advantech",
+    "keywords": [
+      "PC Industriel",
+      "Cycle de Vie et Obsolescence",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

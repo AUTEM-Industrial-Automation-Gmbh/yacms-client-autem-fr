@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/chiffrage/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "6 avr. 2023",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

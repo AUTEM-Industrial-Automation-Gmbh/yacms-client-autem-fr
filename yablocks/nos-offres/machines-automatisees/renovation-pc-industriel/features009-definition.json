@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/features009-definition"
+    },
+    "data": {
+        "overtitle": "RÉNOVATION PC INDUSTRIEL",
+        "title": "Migration IPC : de quoi parle-t-on exactement ?",
+        "paragraphs": [
+            {
+                "text": "Remplacer le PC industriel obsolète — matériel et/ou logiciel — par une solution récente, supportée et maintenable. Tout en conservant les projets applicatifs existants et en assurant la continuité de production."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Migration matérielle : Beckhoff CX/CP, Siemens SIMATIC IPC, Advantech, Kontron, Box PC panel"
+            },
+            {
+                "text": "Migration OS : Windows XP/7/CE → Windows 10/11 IoT Entreprise LTSC"
+            },
+            {
+                "text": "Migration WinCC V6/V7 → WinCC V8 ou WinCC Unified (TIA Portal)"
+            },
+            {
+                "text": "Migration InduSoft Web Studio → AVEVA Edge ou Ignition"
+            },
+            {
+                "text": "Migration FactoryTalk View ME/SE → versions actuelles ou Ignition"
+            },
+            {
+                "text": "Conservation et portage des projets HMI/SCADA : écrans, alarmes, tags, historiques"
+            }
+        ],
+        "conclusion": "Résultat : votre IPC repart sur des bases saines — OS supporté, licences à jour, documentation complète. Pour une durée de vie de 10 à 15 ans supplémentaires.",
+        "image": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Migration PC industriel IPC supervision Windows — AUTEM rénovation"
+        },
+        "reverse": false
+    }
+}

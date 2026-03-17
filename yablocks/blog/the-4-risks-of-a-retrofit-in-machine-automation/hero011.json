@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/the-4-risks-of-a-retrofit-in-machine-automation/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "The 4 risks of a RETROFIT in Machine Automation",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "Machines Vintage",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "15/02/26",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

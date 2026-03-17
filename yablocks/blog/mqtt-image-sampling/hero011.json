@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/mqtt-image-sampling/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "MQTT Image Sampling : Historize as TimeSeries in Docker",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "06/05/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

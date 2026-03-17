@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'audit terrain à la mise en production : 5 étapes",
+        "steps": [
+            {
+                "title": "Audit terrain & cartographie",
+                "description": "Inventaire des machines, des signaux disponibles, des indicateurs déjà calculés et des flux de données existants. Identification des goulots, des postes critiques et des données manquantes.",
+                "icon": "search"
+            },
+            {
+                "title": "Modèle de données & KPIs",
+                "description": "Définition avec vos équipes des indicateurs pertinents : TRS, OEE, taux de rebut, cadence, temps de changement de série. Modélisation de la structure de données et des règles de calcul.",
+                "icon": "bar-chart"
+            },
+            {
+                "title": "Intégration automates & collecte",
+                "description": "Connexion aux automates (Siemens, Rockwell, Schneider) via OPC-UA, Modbus ou driver natif. Déclenchement des compteurs, détection des arrêts, capture des signaux qualité.",
+                "icon": "cpu"
+            },
+            {
+                "title": "Tableaux de bord & IHM opérateurs",
+                "description": "Développement des écrans de saisie opérateur (causes de perte, commentaires), des dashboards par niveau (ligne, atelier, site) et des rapports de shift automatiques.",
+                "icon": "layers"
+            },
+            {
+                "title": "Formation & mise en production",
+                "description": "Formation des opérateurs, chefs d'équipe et responsables production. Déploiement progressif par ligne, ajustement des seuils et des indicateurs, support au démarrage.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

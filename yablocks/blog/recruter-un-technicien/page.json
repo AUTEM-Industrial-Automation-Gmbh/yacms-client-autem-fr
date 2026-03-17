@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle | Blog AUTEM",
+    "description": "🔥Comment recruter un technicien en industrie 👷‍♂️ 7 étapes en ingénierie industrielle",
+    "keywords": [
+      "Machines Vintage",
+      "Transfert de Compétences",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

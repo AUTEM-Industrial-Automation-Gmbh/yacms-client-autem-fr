@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/machines-automatisees/retrofit-automation/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur le rétrofit d'automates",
+        "items": [
+            {
+                "question": "Combien de temps dure un projet de rétrofit ?",
+                "answer": "Cela dépend de la complexité du programme existant et de la taille de la machine. Un rétrofit ciblé (migration S7-300 vers S7-1500 sur une machine simple) prend 2 à 4 semaines. Un projet complet avec mise à jour IHM et formation des équipes s'étend généralement sur 4 à 8 semaines."
+            },
+            {
+                "question": "Peut-on migrer sans arrêter la production ?",
+                "answer": "Dans la plupart des cas, oui. Nous développons et testons en parallèle sur banc, puis basculons lors d'un arrêt planifié réduit (weekend, maintenance préventive). Le FAT absorbe l'essentiel des corrections avant d'arriver sur site."
+            },
+            {
+                "question": "Que se passe-t-il si la documentation de la machine est perdue ?",
+                "answer": "C'est l'un des cas les plus fréquents. Nous récupérons le programme directement depuis l'automate, nous le relisons intégralement, et nous rédigeons une nouvelle analyse fonctionnelle avec vos équipes. Le projet repart sur des bases saines, avec une documentation complète à la livraison."
+            },
+            {
+                "question": "Travaillez-vous sur toutes les marques d'automates ?",
+                "answer": "Oui. AUTEM est agnostique et multimarque : Siemens (TIA Portal S7-1200/1500), Rockwell Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure Modicon), Wago et Eaton. Nous recommandons la plateforme qui correspond à vos contraintes — budget, compétences équipe, parc existant."
+            },
+            {
+                "question": "La formation des équipes est-elle incluse ?",
+                "answer": "Oui, le transfert de compétences fait partie de notre engagement sur chaque projet. Nous formons vos techniciens sur le nouveau programme, l'environnement de développement et les procédures de dépannage. L'objectif : une autonomie complète dès la mise en service."
+            }
+        ]
+    }
+}

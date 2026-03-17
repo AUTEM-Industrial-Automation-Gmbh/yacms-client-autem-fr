@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/avis-technique/assistance-projets/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur l'assistance à la maîtrise d'ouvrage technique",
+        "items": [
+            {
+                "question": "Quelle différence entre un AMOA et un chef de projet intégrateur ?",
+                "answer": "Le chef de projet intégrateur représente l'entreprise qui réalise les travaux — son objectif est de livrer dans les délais et marges. L'AMOA (Assistance à Maîtrise d'Ouvrage) représente le client : son rôle est de s'assurer que ce qui est livré correspond bien aux besoins initiaux, dans les règles de l'art, avec la documentation requise. AUTEM joue ce second rôle — indépendant de tout prestataire."
+            },
+            {
+                "question": "À quelle phase du projet intervenez-vous ?",
+                "answer": "Idéalement dès l'expression du besoin, pour structurer les spécifications avant tout engagement avec un intégrateur. Mais nous pouvons aussi intervenir en cours de projet pour reprendre la gestion technique d'un projet qui s'emballe, ou en fin de projet pour préparer les tests de réception et garantir la qualité de la documentation finale."
+            },
+            {
+                "question": "Mon projet est déjà en cours avec un intégrateur — pouvez-vous quand même intervenir ?",
+                "answer": "Oui. C'est une situation fréquente. Nous pouvons faire un état des lieux technique du projet, identifier les écarts par rapport aux spécifications initiales, et proposer un plan d'action pour cadrer la suite — sans mettre en péril la relation avec l'intégrateur. Notre approche est factuelle et constructive."
+            },
+            {
+                "question": "Combien coûte une prestation d'AMOA ?",
+                "answer": "Cela dépend du périmètre et de la phase où nous intervenons. Une assistance complète de l'expression du besoin à la réception représente typiquement 5 à 15% du montant de réalisation. Une intervention ciblée (rédaction de cahier des charges, conduite de FAT/SAT) est facturée à la mission sur devis. Contactez-nous avec les éléments de votre projet pour un chiffrage rapide."
+            },
+            {
+                "question": "Travaillez-vous sur des projets hors France ?",
+                "answer": "Oui. Nous avons accompagné des projets en Belgique (Thalys, Bruxelles), au Canada (TM), en Israël (Wonderlogix), en Russie (Danone/CoVostok), au Luxembourg (ArcelorMittal) et au Maroc (St-Gobain). Nous intervenons en France, en Europe et à l'international, en français et en anglais."
+            }
+        ]
+    }
+}

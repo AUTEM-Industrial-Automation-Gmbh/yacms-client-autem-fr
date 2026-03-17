@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Train your local AI to think like YOU 🧠 | Blog AUTEM",
+    "description": "Knowledge Base productivity",
+    "keywords": [
+      "Transfert de Compétences",
+      "IA & Machine Learning",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

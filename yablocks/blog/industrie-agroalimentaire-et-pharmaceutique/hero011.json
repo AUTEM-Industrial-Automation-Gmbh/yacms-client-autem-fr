@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/industrie-agroalimentaire-et-pharmaceutique/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "28/04/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

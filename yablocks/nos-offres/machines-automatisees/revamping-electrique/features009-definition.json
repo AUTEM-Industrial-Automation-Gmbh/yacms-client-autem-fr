@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/machines-automatisees/revamping-electrique/features009-definition"
+    },
+    "data": {
+        "overtitle": "REVAMPING ÉLECTRIQUE",
+        "title": "Remise à niveau de l'infrastructure électrique : périmètre et contenu",
+        "paragraphs": [
+            {
+                "text": "Reprendre la maîtrise de l'infrastructure électrique d'une machine existante — variateurs, câblage, sécurités, documentation — sans remplacer la machine ni son automatisme. L'objectif : une installation connue, conforme et maintenable par vos équipes."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Remplacement ou mise à jour des variateurs et axes motion (SEW, Siemens Sinamics, Eaton)"
+            },
+            {
+                "text": "Révision du câblage et des tableaux électriques selon les normes en vigueur"
+            },
+            {
+                "text": "Mise en conformité sécurité machine : analyse SIL, relais Pilz, capteurs Pepperl+Fuchs"
+            },
+            {
+                "text": "Rédaction ou refonte des schémas électriques sous EPlan Electric P8 ou SEE Electrical"
+            },
+            {
+                "text": "Livraison d'un dossier technique complet : schémas as-built, fiches variateurs, rapport SIL"
+            },
+            {
+                "text": "Intervention possible sur machines en production avec plan de prévention HSE"
+            }
+        ],
+        "conclusion": "À distinguer du rétrofit automation (couche logicielle et automate) et de la rénovation PC industriel (couche supervision). Le revamping électrique adresse spécifiquement l'infrastructure physique : puissance, câblage, variation de vitesse et sécurité.",
+        "image": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Revamping électrique industriel — armoire variateurs sécurité SIL AUTEM"
+        },
+        "reverse": false
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "GTB & GMAO Industriels — Supervision Bâtiment et Maintenance | AUTEM",
+        "description": "AUTEM déploie la GTB (BACnet, Modbus) et la GMAO pour superviser vos bâtiments industriels, maîtriser vos consommations énergétiques et passer d'une maintenance curative à une maintenance préventive basée sur les données.",
+        "keywords": [
+            "GTB industrielle",
+            "GMAO industrielle",
+            "BACnet Modbus supervision bâtiment",
+            "maintenance préventive industrielle",
+            "tableau de bord énergie usine",
+            "GTC supervision",
+            "EcoStruxure Building",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

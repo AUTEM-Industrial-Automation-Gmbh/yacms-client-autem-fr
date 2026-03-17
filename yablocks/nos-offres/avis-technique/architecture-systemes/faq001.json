@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/avis-technique/architecture-systemes/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur la définition d'architecture de systèmes industriels",
+        "items": [
+            {
+                "question": "À quel moment faire appel à un expert en architecture ?",
+                "answer": "Le plus tôt possible : avant de choisir un fournisseur, avant de lancer un appel d'offres, et surtout avant de signer avec un intégrateur. Une prestation d'architecture en amont coûte une fraction du prix d'un mauvais choix à corriger 3 ans plus tard. Nous intervenons aussi en cours de projet pour auditer une architecture existante et identifier les risques."
+            },
+            {
+                "question": "Quelle différence entre architecture OT et architecture IT ?",
+                "answer": "L'architecture OT (Operational Technology) concerne les systèmes de contrôle-commande : automates, supervision SCADA, réseaux Profinet/Ethernet IP, capteurs. L'IT (Information Technology) couvre les systèmes d'information : ERP, MES, serveurs, infrastructure réseau bureautique. L'enjeu est leur convergence : faire communiquer les deux mondes avec les bons protocoles (OPC-UA, REST) sans compromettre la sécurité des systèmes de production."
+            },
+            {
+                "question": "Travaillez-vous avec toutes les marques d'automates ?",
+                "answer": "Oui. Nous maîtrisons Siemens (S7-1500, TIA Portal), Rockwell/Allen-Bradley (Studio 5000), Schneider Electric (EcoStruxure), Wago, Beckhoff et Eaton. Nous n'avons aucun partenariat commercial avec ces fabricants — notre recommandation est uniquement guidée par vos contraintes techniques et opérationnelles."
+            },
+            {
+                "question": "Prenez-vous en compte la cybersécurité dans les architectures ?",
+                "answer": "Systématiquement. La cybersécurité OT n'est plus optionnelle. Nous intégrons les bonnes pratiques de la norme IEC 62443 dans chaque architecture : segmentation réseau (DMZ entre OT et IT), contrôle des accès distants, politique de patch management, et identification des composants sensibles. Nous pouvons également réaliser un audit de la maturité cybersécurité de vos systèmes existants."
+            },
+            {
+                "question": "Pouvez-vous valider l'architecture proposée par un intégrateur ?",
+                "answer": "Oui. C'est une mission fréquente : un intégrateur vous a remis une proposition d'architecture et vous souhaitez un avis indépendant avant de signer. Nous analysons la proposition, identifions les risques (techniques, contractuels, maintenabilité), et vous remettons un rapport d'analyse avec recommandations."
+            }
+        ]
+    }
+}

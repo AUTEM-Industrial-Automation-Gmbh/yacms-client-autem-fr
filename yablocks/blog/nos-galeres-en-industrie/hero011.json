@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/nos-galeres-en-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Nos Galères en Usine ft. Adrien SORCI",
+    "tags": [
+      {
+        "label": "Evolution de l'industrie",
+        "type": "secteur"
+      },
+      {
+        "label": "Machines Vintage",
+        "type": "categorie"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "04/01/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

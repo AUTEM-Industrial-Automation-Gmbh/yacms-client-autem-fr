@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/formation-emploi-carriere/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Intro et présentation",
+        "paragraphs": [
+          {
+            "text": "This week, we welcome a new expert, Balthazar N'GABRA , an electrical engineer, instrumentation and automation specialist with an impressively versatile profile, whose exemplary journey illustrates the profound impact of education on professional development. A graduate in Fundamental Physics, Balthazar continued his studies at the Faculty of Industrial Engineering at the Polytechnic School of Douala, Cameroon, gaining access to this prestigious institution through a competitive examination. His academic journey then took him to India, where he earned his engineering degree."
+          },
+          {
+            "text": "Balthazar will share not only the key stages and challenges of his academic path, but he will also offer his unique perspective on the world of industrial automation in Cameroon. He will also share his view on the evolution of his perception of the engineering profession, contrasting his past ideas with the reality he knows after obtaining his degree."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Balthazar N'GABRA",
+            "href": "https://www.linkedin.com/in/balthazar-ngabra/"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/jtSV6s_QKVM?si=mTQbrTSY2AvWqqv-"
+      },
+      {
+        "heading": "Finding a job in industry",
+        "paragraphs": [
+          {
+            "text": "Balthazar identifies two primary obstacles in his job search journey: the lack of opportunities to establish local connections and the demanding criteria of years of experience , typically ranging from three to five years. This is a significant hurdle for new and young graduates who do not possess such experience."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Academics and Training",
+        "paragraphs": [
+          {
+            "text": "Balthazar's journey through academia and training proved to be a multifaceted challenge, encompassing both social and academic aspects. Reflecting on his time in India, he highlights how such environments propel individuals to push beyond their conventional boundaries. The rigorous academic culture in India demands that students, including himself, exert extraordinary effort and dedication. The intensity of study there requires students to exceed their limitations, which, for Balthazar, was not just challenging but also deeply enriching and stimulating."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Automation and Industry in Cameroon",
+        "paragraphs": [
+          {
+            "text": "Upon returning to Cameroon, Balthazar observed notable similarities in industrial equipment with some machinery sourced from China and other pieces hailing from the USA."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Final word",
+        "paragraphs": [
+          {
+            "text": "Balthazar initially perceived the engineering profession as shrouded in mystery. It was during the heart of his education that he gained a deep appreciation for this field. He now views the role of an engineer as not just challenging, but also immensely fascinating and fulfilling."
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Page LinkedIn de Balthazar N'GABRA | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Page LinkedIn de Balthazar N'GABRA | Site web",
+            "href": "https://www.linkedin.com/in/balthazar-ngabra/"
+          }
+        ]
+      }
+    ]
+  }
+}

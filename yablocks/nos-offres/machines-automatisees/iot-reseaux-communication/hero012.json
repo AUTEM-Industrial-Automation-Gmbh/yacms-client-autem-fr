@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "offre/machines-automatisees/iot-reseaux-communication/hero012"
+  },
+  "data": {
+    "overtitle": "MACHINES AUTOMATISÉES",
+    "title": "IoT, Réseaux & Communication Industrielle.",
+    "subtitle": "Vos automates, capteurs et systèmes de supervision ne se parlent pas ? AUTEM conçoit et déploie l'architecture de communication qui unifie votre terrain OT avec vos outils IT — de manière sécurisée et documentée.",
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Réseau industriel IoT communication OPC-UA MQTT — AUTEM"
+    }
+  }
+}

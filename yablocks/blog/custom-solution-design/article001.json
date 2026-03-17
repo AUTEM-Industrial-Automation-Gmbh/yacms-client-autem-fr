@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/custom-solution-design/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "When does designing a custom solution become the best choice? We will discover this together in this article with an expert: Matthew Smith We will find the answer to this question through various specific cases applied to a given field."
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Matthew Smith",
+            "href": "https://linkedin.com/in/darthfiber"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/VqzDMR7GjVc?si=dZ8zoUwO65eZJ-Do"
+      },
+      {
+        "heading": "Standard Solution VS Custom Solution - An Overview",
+        "paragraphs": [
+          {
+            "text": "Discover the entirety of this section through the following excerpt:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Discover it here | Video (05min:18s)",
+            "href": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=35s"
+          }
+        ]
+      },
+      {
+        "heading": "Standard Solution VS Custom solution - Agriculture case",
+        "paragraphs": [
+          {
+            "text": "Scenario 1: We want to be able to analyze the humidity level of a certain type of molecule in a specific type of environment. Which solutions should we consider?"
+          },
+          {
+            "text": "In this particular case, according to Matthew, it needs to be analyzed using two different approaches because each solution depends on several factors. Mainly, by 2024, there is already a variety of mature, custom-made products where the unit cost is really affordable. And it is entirely legitimate to purchase a custom sensor based on the criteria we are looking for. However, in previous years, it was necessary to go back to the fundamentals of the criteria we are looking for because no solutions existed yet. So if we put ourselves in the shoes of a company that manufactures only custom sensors for agriculture, the success of the solutions proposed by this company will depend on the solutions that already exist on the market and the added value that this company's solutions bring. One of the reasons we turn to custom solutions is that it serves as an opportunity for learning."
+          },
+          {
+            "text": "Explore this case in full through this excerpt:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (09min:24s)",
+            "href": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=353s"
+          }
+        ]
+      },
+      {
+        "heading": "Expert Arduino Engineer VS Control Monitoring Factory Case",
+        "paragraphs": [
+          {
+            "text": "Scenarios 2: In this second case, we have a company with 5 highly advanced Arduino experts who implement all projects from the initial phase and a company that must conduct quality control monitoring. Which of the two cases would be more beneficial?"
+          },
+          {
+            "text": "According to Matthew, this is a somewhat difficult case to discuss. Especially when you have a team of 5 Arduino engineers. This demonstrates a solid knowledge of embedded systems where one can do without anything abstract to the project. Which is a strong point. The advantage here is that we can apply technical skills for specific needs. But for someone who is not familiar with the company's activities, it may seem unproductive because their methods can be compared to outdated methods. Because they do not rely on what others are doing outside of the company to adapt and learn from them."
+          },
+          {
+            "text": "Explore this case in full through this excerpt:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (04min:40s)",
+            "href": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=917s"
+          }
+        ]
+      },
+      {
+        "heading": "Manufactured with few skills available case",
+        "paragraphs": [
+          {
+            "text": "Scenario 3: In this third case, we put ourselves in the context of a country where expertise is not yet present. How to build a production factory with very few available skills. Should we turn to a customized solution to train people which will take more time or should we turn to an off-the-shelf solution?"
+          },
+          {
+            "text": "According to Matthew, in this specific case, there is a specific keyword: Capacity Building . Capacity Building essentially means much more than learning and acquiring knowledge. Capacity means that one is able to practice and that one is also able to participate in terms of a means or in terms of possession of power to be able to participate. And so, in this industrial development strategy, there is a large part of education, and sometimes it is necessary to be able to establish this expertise from another locality on the development site. It requires people capable of learning the fundamentals, applying the fundamentals, undertaking innovation projects..."
+          },
+          {
+            "text": "Explore this case in full through this excerpt:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (06min:13s)",
+            "href": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1197s"
+          }
+        ]
+      },
+      {
+        "heading": "Textile Industries case",
+        "paragraphs": [
+          {
+            "text": "Scenarios 4: In this fourth case, we place ourselves in the context of sectors where most of their equipment that they use for specific tasks are designed for specific tasks. Is this a good thing for these sectors or is it a situation that delays these sectors compared to others?"
+          },
+          {
+            "text": "\"If it's part of a competitive advantage, no problem,\" Matthew tells us. Certain circumstances may cause the reason why we choose to develop a custom device for a given process to change as well. Therefore, it is necessary to continually revisit the question."
+          },
+          {
+            "text": "Explore this case in full through this excerpt:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (07min:00s)",
+            "href": "https://www.youtube.com/watch?v=VqzDMR7GjVc&t=1570s"
+          }
+        ]
+      },
+      {
+        "heading": "Cultural aspect of technological project",
+        "paragraphs": [
+          {
+            "text": "The impact of technological projects on society is profound and requires special attention to cultural and psychological aspects. It is increasingly important to consider how these projects shape human interactions and social structures. Technological projects should not only focus on technical innovation but also on their harmonious integration into the social fabric, taking into account the needs, behaviors, and expectations of people."
+          },
+          {
+            "text": "Discover the full excerpt here:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (08min:56s)",
+            "href": "https://youtube.com/shorts/mQznb_cTWpo"
+          }
+        ]
+      }
+    ]
+  }
+}

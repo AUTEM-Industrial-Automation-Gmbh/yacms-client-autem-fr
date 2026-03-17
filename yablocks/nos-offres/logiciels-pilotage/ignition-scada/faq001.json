@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/logiciels-pilotage/ignition-scada/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur la supervision Ignition SCADA",
+        "items": [
+            {
+                "question": "Qu'est-ce que la certification Gold Ignition et qu'est-ce qu'elle garantit ?",
+                "answer": "La certification Gold est le niveau de certification le plus élevé délivré par Inductive Automation aux intégrateurs Ignition. Elle valide les compétences techniques de l'équipe, la qualité des livrables, les pratiques de développement (architecture UDT, versioning, documentation) et l'expérience projet. C'est une évaluation externe par l'éditeur — pas un titre auto-déclaré. Elle garantit que vous faites appel à un intégrateur dont les pratiques ont été vérifiées par le fabricant du logiciel."
+            },
+            {
+                "question": "Ignition est-il adapté aux PME industrielles ou uniquement aux grands sites ?",
+                "answer": "Ignition est particulièrement adapté aux PME car il ne pénalise pas la croissance : la licence est plate (illimitée en tags, clients et connexions), ce qui signifie que le coût ne grimpe pas quand vous ajoutez des machines, des utilisateurs ou des sites. Dès 5 à 10 machines à superviser, Ignition devient compétitif face aux plateformes à licence par tag."
+            },
+            {
+                "question": "Peut-on migrer notre WinCC ou notre InduSoft vers Ignition sans tout recréer ?",
+                "answer": "Oui. Nous portons les projets existants vers Ignition : conversion des écrans HMI, récupération de l'historique, migration des alarmes et des tags. La quantité de travail dépend de la taille du projet et de l'écart de version. Nous évaluons le périmètre lors de l'audit initial et proposons un plan de migration par phases pour maintenir la production pendant la transition."
+            },
+            {
+                "question": "Ignition fonctionne-t-il offline ou nécessite-t-il une connexion cloud ?",
+                "answer": "Ignition est 100 % on-premise : il s'installe sur un serveur local, fonctionne sans connexion Internet et ne transmet aucune donnée à l'extérieur sauf configuration explicite. C'est un avantage majeur pour les environnements OT sensibles ou les sites isolés. La connexion cloud (Ignition Edge, MQTT Sparkplug) est optionnelle et indépendante."
+            },
+            {
+                "question": "Combien coûte une licence Ignition ?",
+                "answer": "Inductive Automation publie ses tarifs sur son site (modèle SaaS ou perpétuel). La licence plate Ignition est typiquement compétitive dès 10 à 20 tags par rapport aux plateformes à licence par tag. AUTEM peut vous fournir une estimation selon votre architecture cible. Nous ne prenons pas de commission sur la revente de licences — nous vous orientons vers le modèle qui correspond à votre budget."
+            }
+        ]
+    }
+}

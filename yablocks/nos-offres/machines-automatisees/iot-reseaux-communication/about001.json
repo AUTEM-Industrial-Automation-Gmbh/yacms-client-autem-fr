@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "component": "blocks/content/about/About001",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/about001"
+    },
+    "data": {
+        "sectionLabel": "LE PROBLÈME",
+        "title": "Vos machines produisent des données. Mais personne ne les reçoit.",
+        "subtitle": "« On a 40 automates sur le site. Certains parlent Profibus, d'autres Modbus, d'autres rien du tout. Le SCADA ne voit que la moitié. » — Responsable maintenance, industrie agroalimentaire",
+        "stats": {
+            "tags": [
+                {
+                    "icon": "wifi-off",
+                    "label": "Silos OT"
+                },
+                {
+                    "icon": "alert-triangle",
+                    "label": "Protocoles hétérogènes"
+                },
+                {
+                    "icon": "shield",
+                    "label": "Sécurité absente"
+                }
+            ],
+            "items": [
+                {
+                    "value": "60–80%",
+                    "label": "Des machines industrielles non accessibles à distance"
+                },
+                {
+                    "value": "3–6",
+                    "label": "Protocoles différents sur un même site de production"
+                },
+                {
+                    "value": "0",
+                    "label": "Segmentation réseau OT/IT dans la majorité des PME industrielles"
+                }
+            ],
+            "quote": "Sans architecture de communication maîtrisée, chaque projet d'intégration SCADA, MES ou IoT repart de zéro — avec les mêmes câbles, les mêmes drivers, les mêmes galères."
+        },
+        "valuesTitle": "Ce que ça coûte concrètement",
+        "values": [
+            {
+                "icon": "layers",
+                "text": "Données de production inaccessibles depuis le SCADA ou le MES — pilotage à l'aveugle."
+            },
+            {
+                "icon": "clock",
+                "text": "Chaque nouvelle intégration prend des semaines à cause de l'hétérogénéité des protocoles."
+            },
+            {
+                "icon": "shield",
+                "text": "Réseau OT directement exposé au réseau bureau — aucune segmentation, surface d'attaque maximale."
+            },
+            {
+                "icon": "file-text",
+                "text": "Aucune documentation réseau. Quand l'intégrateur part, la connaissance disparaît avec lui."
+            }
+        ]
+    }
+}

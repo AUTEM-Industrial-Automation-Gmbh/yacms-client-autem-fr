@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/cognex-lecture-data-matrix/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "COGNEX - Découverte",
+        "paragraphs": [
+          {
+            "text": "On va regarder ensemble comment configurer une caméra Congnex pour lire un code de type data matrix . Alors pour ce faire, j’ai une caméra Cognex de la gamme DM 260 qui va venir lire un code 2D, un data matrix et ensuite la caméra va envoyer l’info au protocole modbus vers un client modbus qui est Ignition dans le cas de notre démo."
+          },
+          {
+            "text": "Alors on va configurer dans un premier temps la caméra en tant que serveur modbus et ensuite on regardera comment configurer le client et Ignition pour lire le datamatrix qui est envoyé au protocole modbus . Au niveau de la caméra, là je suis en ligne avec mon DM 260, ma caméra Cognex."
+          },
+          {
+            "text": "Lorsque je clique sur live ici dans le logiciel “dataman“, je vois en direct les images qui sont lues par la caméra (Voir figure suivante)."
+          },
+          {
+            "text": "Alors les étapes de configuration sont assez simples. Quand on se connecte on voit déjà bien l’ensemble des caméras qui apparaissent sur le réseau."
+          },
+          {
+            "text": "Ici, j’ai cette caméra qui est déjà identifié et lorsque je clique dessus et je clique sur connexion, on peut venir à l’intérieur de la caméra, double-cliquez et voir les différentes étapes de configuration"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_1.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Optimisation de l’image",
+        "paragraphs": [
+          {
+            "text": "Première étape c’est d’optimiser l’image . Je vais venir ici cliquez sur régler et on laisse la caméra faire son réglage, son autotuning de manière automatique. Cela va régler l’exposition , la luminosité et différents paramétrages pour qu’on soit dans la bonne configuration en termes de distance, en termes de luminosité pour lire le code."
+          },
+          {
+            "text": "Une fois que le l’optimisation de l’image sera terminée on devrait voir apparaître ici un petit message. On va attendre un peu. Le logiciel nous dit que le tuning est terminé."
+          },
+          {
+            "text": "Là en particulier, tu vois sur l’écran de droite qu’il y a des lectures qui sont déjà déclenchées. Cela montre bien que les codes sont bien identifiés ."
+          },
+          {
+            "text": "Pour la partie optimisation, c’est bon."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_6.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Le type du code à lire",
+        "paragraphs": [
+          {
+            "text": "Ensuite je viens ici au niveau des codes choisir le type de code que je veux lire . Là dans mon cas c’est un code 2D de type “data matrix” mais on aurait pu choisir d’autres types de codes."
+          },
+          {
+            "text": "Une fois que c’est fait, je passe à l’étape suivante au niveau des détails de l’application."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_9.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Le type de déclenchement",
+        "paragraphs": [
+          {
+            "text": "On a différent mode de déclenchement. On peut soit le déclencher sur un signal qui vient d’un automate ou bien d’une entrée/sortie tout ou rien . On peut aussi déclencher la caméra de manière automatique : la caméra “toutes les x secondes“ , va effectuer une lecture."
+          },
+          {
+            "text": "C’est cette option que je choisis et ont défini l’intervalle ou plus précisement la fréquence de lecture : là j’ai mis 1 million de microsecondes ce qui correspond à une seconde . A chaque seconde on aura une lecture."
+          },
+          {
+            "text": "Pour les autres paramètres, je les laissent tels quels. Tout ce qui est exposition vient d’être réglé par la caméra, on passe à la prochaine configuration. Je viens ici dans les formats de données ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_11.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Le format de données",
+        "paragraphs": [
+          {
+            "text": "Je coche ici la case datamatrix vu que c’est ce que je lis et je passe à l’étape suivante."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_14.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Les Entrées/Sorties",
+        "paragraphs": [
+          {
+            "text": "Au niveau des entrées-sorties si j’avais une entrée spécifique que je veux activées depuis un automate, c’est à ce niveau-là que je suis tenu de le faire."
+          },
+          {
+            "text": "Pour l’instant je laisse tout comme tel et je passe à l’étape suivante au niveau des communications ."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_16.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Le type de cmmunication",
+        "paragraphs": [
+          {
+            "text": "Alors il faut définir forcément l’adresse IP de la caméra qui est dans la même plage d’adresse que le client ou bien l’ensemble des machines qui vont recevoir les informations. Bien gardez la bonne plage d’adresse IP , le bon masque de sous-réseau et ensuite on choisit le protocole de communication ."
+          },
+          {
+            "text": "Dans mon cas j’ai choisi le protocole modbus TCP sur le port 502 et tu vois ici apparaître la table de registre, les fameux registres dans lesquels on va pouvoir lire les informations qui arrivent en modbus."
+          },
+          {
+            "text": "Alors pour détailler cette partie-là des registres, on peut regarder en détail la documentation de Cognex."
+          },
+          {
+            "text": "Je te mettrai un lien est là en bas de l’article pour les détails. Mais globalement on a cette table-là. Et les informations de lecture, on peut les récupérer dans ce registre-là qui s’appelle “PLC Output“."
+          },
+          {
+            "text": "Au niveau modbus c’est un registre de type “input resister” qui va commencer à l’adresse “2000” et qui se termine “2005 registres plus loin” à l’adresse “4004“ . Ce sont ces registres-là qu’on va venir prendre pour envoyer la donnée au format modbus et notamment ce qui s’appelle “result data” qui commence au mot 5 du PLC Output . Par exemple le registre “30000 2005“ , ce sera la première chaîne de caractère qui sera envoyée. Ensuite le registre “30000 2006” ce sera la deuxième chaîne de caractères envoyée et ainsi de suite. Encore une fois, pour les détails, je te renvoie à la documentation modbus de Cognex."
+          },
+          {
+            "text": "Une fois que cela est fait, on a configuré ici les différents registres qui seront utilisés et on peut passer à l’étape suivante qui est tout simplement d’enregistrer les paramètres dans la caméra . Et j’enregistre."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_17.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      },
+      {
+        "heading": "Enregistrement et tests",
+        "paragraphs": [
+          {
+            "text": "Si tu as une caméra et tu as envie de tester, je peux envoyer le fichier de configuration. Marque juste en commentaire pour que je t’envoie ce fichier-là pour tester. C’est enregistré dans la caméra et on a des lectures qui apparaissent ici. Alors si je zoome tu vois ici la chaîne de caractères qui est remontée et correspondait à ce qui est lu par la caméra."
+          },
+          {
+            "text": "Là, c'est pour la partie serveur. Ce qu’on a dit c’est que on a une partie client qui reçoit l’info en modbus et dans notre cas c’est “Ignition“. On va configurer maintenant Ignition qui sert tout simplement de clients modbus. Alors au niveau Ignition, si tu es familier avec l’interface Ignition, tu sais qu’il faut d’abord définir des tags. Pour les tags j’ai un modèle de données, un datatype standard que j’ai récupéré sur le même format que la table d’adressage de cognex."
+          },
+          {
+            "text": "Je reprends ici les différents registres qui sont listés. Tu reconnais ici notamment le registre 2005 pour la première chaîne, le registre 2006 pour la deuxième chaîne de caractères et ainsi de suite. On va venir lire dans les tags les dix premiers caractères de l’information qui est envoyée."
+          },
+          {
+            "text": "Ensuite, on retrouve ici les différents caractères ASCII qui correspondent à l’information modbus qu’on reçoit."
+          },
+          {
+            "text": "Et une fois qu’on a cette information au niveau des tags, on peut créer un petit écran, une interface visuelle pour pouvoir tout simplement regarder cette information soit sur une tablette ou bien sur une page web ."
+          },
+          {
+            "text": "Là, j’ai repris tout simplement mes différentes chaînes de caractères (en jaune) une par une et je fais juste une concaténation (en rouge) pour qu’on puisse voir le mot global qui est envoyé."
+          },
+          {
+            "text": "Une fois qu’on a fini la configuration, on peut ensuite sauvegarder notre page Ignition, notre client modbus. Si tu as envie de recevoir la configuration tu peux juste marquer un message, je t’enverrai aussi pour que tu puisses tester."
+          },
+          {
+            "text": "Et maintenant on va voir le résultat. Pour tester ce qu’on vient de configurer, je t’invite à vérifier ici ce qui se passe sur cet écran de téléphone. Alors on a notre caméra DM 260 qui sert du serveur modbus pour lire des datamatrix, des codes 2D ici."
+          },
+          {
+            "text": "Et en fonction de l’info qui est lu, on reçoit sur le client modbus les chaînes de caractères qui correspondent aux codes datamatrix . Là, le client modbus c’est Ignition avec une petite page web sur le téléphone pour monitorer le tout. Là “DM 260” ce sont les caractères qui correspondent à ceux datamatrix-là."
+          },
+          {
+            "text": "On va passer au data matrix suivant et tu vas voir ce qui change sur l’écran toujours."
+          },
+          {
+            "text": "Maintenant les caractères qui apparaissent c’est “Vision” pour “vision“ ."
+          },
+          {
+            "text": "On va au datamatrix suivant."
+          },
+          {
+            "text": "Et on retrouve une autre chaîne du caractère ( Caméra ). Pareil pour le suivant. Si je change à chaque fois on remonte différentes infos modbus à notre client ."
+          },
+          {
+            "text": "C'est tout pour cet article sur Vision, les caméras qui permettent de lire des codes dans les usines . On a pu configurer et tester une communication modbus entre notre caméra et un client modbus . N’hésite pas, si tu as besoin des fichiers, à le demander."
+          },
+          {
+            "text": "À bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/cognex_22.png",
+          "alt": "automatisme,industrie40,autem,marc akoto,vision,camera,Cognex,Dataman,DM260,Ignition,lecteur,code barre,modbus,Scanner…"
+        }
+      }
+    ]
+  }
+}

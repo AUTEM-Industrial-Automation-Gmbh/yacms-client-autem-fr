@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/avis-technique/cycle-de-vie-obsolescence/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur la gestion de l'obsolescence industrielle",
+        "items": [
+            {
+                "question": "Comment savoir si mes automates sont en risque d'obsolescence ?",
+                "answer": "Les premiers indicateurs sont : l'âge des équipements (plus de 10 ans pour un automate est un signal), les notifications de fin de support des fabricants, les difficultés croissantes à trouver des pièces de rechange, les logiciels qui ne fonctionnent plus que sur des OS non supportés (Windows XP, 7), et les prestataires de maintenance qui refusent de prendre en charge certains équipements. Un audit structuré permet de quantifier le niveau de risque avec précision."
+            },
+            {
+                "question": "Quelle différence entre fin de support et fin de vie ?",
+                "answer": "La fin de support signifie que le fabricant ne publie plus de mises à jour (firmware, correctifs de sécurité) et réduit son support technique. L'équipement continue à fonctionner mais devient vulnérable. La fin de vie (EOL — End of Life) signifie l'arrêt de la production et souvent l'arrêt des pièces de rechange. C'est ce second seuil qui représente le risque de production le plus sérieux — d'autant que le stock de pièces chez les distributeurs s'épuise progressivement."
+            },
+            {
+                "question": "Faut-il tout remplacer d'un coup ?",
+                "answer": "Non. L'approche recommandée est un plan de renouvellement échelonné selon la criticité des équipements et vos fenêtres d'arrêt disponibles. On commence par ce qui est le plus critique pour la continuité de production, ou le plus urgent selon les informations des fabricants. Une migration totale en une seule intervention est en général plus risquée et plus coûteuse qu'un programme sur 3 à 5 ans."
+            },
+            {
+                "question": "L'audit d'obsolescence concerne-t-il aussi les logiciels ?",
+                "answer": "Absolument. Les logiciels sont souvent oubliés : WinCC Flexible, WinCC Classic, InduSoft — certains ne sont plus maintenus ou ne fonctionnent que sur des OS en fin de support. Les licences logicielles liées à une version matérielle peuvent aussi bloquer une migration. Notre audit couvre le parc matériel ET logiciel, en incluant les versions des environnements de développement (Step 7, TIA Portal, Studio 5000)."
+            },
+            {
+                "question": "Pouvez-vous réaliser les remplacements identifiés dans l'audit ?",
+                "answer": "Oui. AUTEM peut mener à la fois l'audit d'obsolescence et les rétrofits identifiés comme prioritaires. Cela présente un avantage concret : l'équipe qui a cartographié le parc connaît déjà l'installation, les programmes existants et les interdépendances. La transition de l'audit à la migration est plus fluide et mieux documentée."
+            }
+        ]
+    }
+}

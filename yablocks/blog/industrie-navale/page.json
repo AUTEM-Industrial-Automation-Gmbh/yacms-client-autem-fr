@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Industrie Navale et Maritime avec Mohamed CISSOUMA | Blog AUTEM",
+    "description": "Décryptage de l'essentiel à savoir sur l'industrie Navale en 2023.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features010",
+    "section": "a-propos/technologies/features010-connecteurs"
+  },
+  "data": {
+    "overtitle": "ÉLECTROTECHNIQUE & RÉSEAUX",
+    "title": "L'environnement complet de la machine, maîtrisé.",
+    "cards": [
+      {
+        "image": {
+          "src": "/images/background-indus.jpg",
+          "alt": "Automatisme électrique et électrotechnique industrielle"
+        },
+        "title": "Automatisme électrique & électrotechnique",
+        "bullets": [
+          {
+            "text": "Variateurs SEW (Movitrac, Movidrive), Eaton (RASP), Siemens (Sinamics)"
+          },
+          {
+            "text": "Schémas électriques : EPlan, SEE Electrical — habilitation BT"
+          },
+          {
+            "text": "Sécurité machine : Pilz, Pepperl+Fuchs — niveaux SIL intégrés"
+          }
+        ]
+      },
+      {
+        "image": {
+          "src": "/images/portfolio-references.jpg",
+          "alt": "Réseaux industriels et vision industrielle"
+        },
+        "title": "Réseaux industriels & vision",
+        "bullets": [
+          {
+            "text": "Infrastructure réseau : VPN, anneau redondant, VLAN, NAT/PAT"
+          },
+          {
+            "text": "Switchs, routeurs, capteurs IOLink, convergence OT/IT"
+          },
+          {
+            "text": "Vision industrielle : lecteurs Cognex, Sick — traceabilité et contrôle qualité"
+          }
+        ]
+      }
+    ]
+  }
+}

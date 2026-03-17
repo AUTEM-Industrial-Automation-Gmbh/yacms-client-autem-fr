@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor | Blog AUTEM",
+    "description": "Un aperçu complet des fonctionnalités, performances et avantages des différents systèmes SCADA pour une meilleure prise de décision.",
+    "keywords": [
+      "Supervision SCADA",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

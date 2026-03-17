@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero012",
+    "section": "a-propos/manifeste/hero012"
+  },
+  "data": {
+    "overtitle": "NOTRE VISION",
+    "title": "L'usine du futur se pilote avec des données fiables et des systèmes robustes.",
+    "subtitle": "Vous avez investi dans votre outil de production. Mais vos systèmes vieillissent, vos données sont éparpillées, et votre performance est difficile à mesurer en temps réel. AUTEM est là pour changer ça — du terrain à la supervision, de l'automate au cloud industriel.",
+    "scrollAnchor": "#next-section"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Les automaticiens entrepreneurs | Blog AUTEM",
+    "description": "✋ 3 conseils avant de se mettre à son compte",
+    "keywords": [
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

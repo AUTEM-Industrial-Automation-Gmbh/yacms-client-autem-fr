@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "offre/machines-automatisees/iot-reseaux-communication/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Projet Seckiot Paris — connectivité IoT systèmes industriels"
+    },
+    "quote": "AUTEM a su déployer une connectivité IoT complète sur un parc hétérogène, sans perturber la production. La rigueur technique et la capacité à naviguer entre les protocoles terrain et les exigences de cybersécurité sont remarquables.",
+    "author": {
+      "name": "Directeur Technique",
+      "role": "Seckiot — Paris"
+    }
+  }
+}

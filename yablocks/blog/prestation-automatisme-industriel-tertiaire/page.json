@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Automatisme industriel et tertiaire | Blog AUTEM",
+    "description": "L'automatisme industriel et tertiaire appliquée à la conception, installation et maintenance de machines.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

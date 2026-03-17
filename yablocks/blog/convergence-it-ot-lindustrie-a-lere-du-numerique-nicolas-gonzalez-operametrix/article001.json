@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Podcasts",
+        "paragraphs": [
+          {
+            "text": "Retrouvez également cet article en version audio sur"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🎧 Spotify:"
+            },
+            {
+              "text": "🎧 Apple Podcast"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Spotify:",
+            "href": "https://open.spotify.com/episode/4lJLF6oAZJPrhH1oiyM83S?si=de6a66b7db2142e1"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/SRw3UMEC2RI"
+      },
+      {
+        "heading": "Introduction et présentation d'OperaMetrix",
+        "paragraphs": [
+          {
+            "text": "OperaMetrix , dirigé par Nicolas GONZALEZ , est une compagnie d'intégration de solutions basée à Toulouse et regroupant une équipe hybride d'experts en industrie et en numérique. Le prodigieux constat que cette société a fait est qu'elle a remarqué que la prochaine révolution industrielle se rapprochera beaucoup plus du numérique et donc, a pour vision d'adapter tout un tas d'innovations qui ont eu lieu ces 30 dernières années (suivant une sélection des contraintes industrielles) dans le monde du numérique à l'industrie. Son but : Mieux gérer, mieux visualiser, mieux comprendre et mieux optimiser et piloter les différents systèmes industriels ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Convergence IT/OT et potentiel",
+        "paragraphs": [
+          {
+            "text": "Qui parle de convergence parle également de deux mondes qui se rencontrent : le monde de l'industrie et le monde du numérique . Pour OperaMetrix, ce qui est important est de revenir aux origines. L'automatisme industriel provient de l'électricité industrielle . Sur la partie de l' OT (Operational Technology) , l'informatique étant en pleine croissance, les automates industriels ont été inventés dans le but de remplacer tout le système traditionnel de l'électricité industrielle avec de la logique programmable et de nombreux autres avantages. Ce qui a réellement changé du côté de l'automatisation, c'est le passage des protocoles propriétaires et des interfaces de communication propriétaires à l'Ethernet . Grâce à Ethernet, on a la possibilité de se connecter à un système informatique (à un réseau informatique), mais pas une très grande avancée ces 30 dernières années (la logique étant toujours la même, avec juste des améliorations mineures). De l'autre côté, on a le domaine du numérique, la partie IT (Internet of Things), qui a connu une explosion phénoménale des technologies, des performances, des architectures. Le numérique a fortement évolué et s'est démocratisé du fait que nous sommes tous connectés en permanence grâce à l'internet, ce qui implique un partage de données à travers des réseaux bidirectionnels . Le Cloud a également été aussi dans la vague de l'évolution du numérique et a ainsi permis le stockage de fichiers sur des machines distantes . Cette convergence offre beaucoup de potentiel, notamment : la démarche d'excellence opérationnelle pour tout ce qui est Lean Management, dont le management visuel. l'optimisation de la maintenance et de la gestion , la gestion de flotte de systèmes industriels. La digitalisation des chaînes de production : mise en place d'écrans avec des interfaces très simples et des indicateurs clairs pour permettre aux opérateurs sur la chaîne de production de savoir immédiatement et en temps réel si tout va bien et si on est en condition de cadence maximale. L'intégration dans le système d'information et l'accès en mobilité , dont le besoin est d'avoir une connexion très forte entre le système industriel et les systèmes de gestion de clients, de la logistique, etc."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Compétences nécessaires",
+        "paragraphs": [
+          {
+            "text": "En termes de compétences , pour la partie de la digitalisation, on se poserait la question de savoir quel profil doit-on recruter ? À cette question, c'est la réflexion qui est primordiale. De la même façon que l'automatisme vient de l'électricité industrielle, la formation des automaticiens est orientée de la même manière. La solution optimale est donc d'essayer d'être hybride : chercher à mélanger le profil automaticien et le profil informatique , car c'est le seul moyen d'avoir de réelles compétences sur l'ensemble de la chaîne, puis chercher à être polyvalent entre ces deux domaines."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Cloud chez OperaMetrix",
+        "paragraphs": [
+          {
+            "text": "Lorsque l'on a plus d'usine et qu'on a un espèce de parc de système industriel répartis sur un vaste territoire on est obligé de faire de la télégestion, téléopération d'où la notion de faire à distance . Du coup, en terme de système et de gestion informatique, ces usines optent pour le Cloud : le système informatique de l'usine est hébergé sur une infrastructure dite publique . Cela ne veut pas dire que tout le monde y a accès, mais qu'on est chez un opérateur de Cloud (régional, nationnal ou internationnal), et on héberge notre ERP sur ces systèmes hébergés. On y accède en mode Web en se connectant à ces plateformes et en s'attendant à ce que les systèmes que l'on a déployés dans la nature communiquent directement avec cette plateforme pour lui envoyer des données . Afin de mettre en oeuvre ce type de solution, on a besoin d'intégrateurs qui ont dans leurs équipes des personnes qui ont des compétencs d'administrateur système, d'infrastructure, de réseau, de cybersécurité . Cela implique beaucoup de notion de sécurité à connaître."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

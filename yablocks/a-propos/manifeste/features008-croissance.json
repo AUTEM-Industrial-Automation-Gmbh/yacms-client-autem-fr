@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "a-propos/manifeste/features008-croissance"
+  },
+  "data": {
+    "title": "La performance industrielle repose sur une chaîne cohérente",
+    "content": "<p><strong>La digitalisation d'une usine ne se résume pas à installer un logiciel.</strong> Elle repose sur une pyramide d'automatisation où chaque niveau est interdépendant.</p><p>Le terrain (capteurs, automates, actionneurs) alimente la supervision (SCADA, IHM), qui remonte les données vers le pilotage (MES, ERP, cloud). Chaque maillon compte.</p><p>Un automate mal configuré fausse vos KPI. Une supervision incomplète aveugle vos opérateurs. Un MES sans données fiables ne sert à rien.</p>",
+    "image": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Chaîne d'automatisation industrielle AUTEM"
+    },
+    "caption": "Si un seul niveau est défaillant, toute votre chaîne de performance en pâtit."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/train-your-local-ai/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Train your local AI to think like YOU 🧠",
+    "tags": [
+      {
+        "label": "Transfert de Compétences",
+        "type": "secteur"
+      },
+      {
+        "label": "IA & Machine Learning",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "06/05/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

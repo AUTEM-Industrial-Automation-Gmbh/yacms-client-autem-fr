@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Architecture de Systèmes de Contrôle-Commande | AUTEM",
+        "description": "AUTEM conçoit des architectures de systèmes industriels agnostiques constructeur — spécifications techniques, cahiers des charges, validation d'architecture OT/IT. Expert indépendant multimarque.",
+        "keywords": [
+            "architecture systèmes industriels",
+            "système de contrôle-commande",
+            "architecture SCADA",
+            "spécifications techniques automate",
+            "architecture OT IT",
+            "cahier des charges automatisme",
+            "intégration OT IT industriel",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

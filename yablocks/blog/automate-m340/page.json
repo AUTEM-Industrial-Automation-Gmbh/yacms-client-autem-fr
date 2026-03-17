@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Automate M340 Unity Loader | Mis à jour du firmware | Autem | Blog AUTEM",
+    "description": "Apprenez à mettre à jour des automates M340 et des modules Ethernet NOC 04 01",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

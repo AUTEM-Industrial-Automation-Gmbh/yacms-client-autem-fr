@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/communiquer-sans-automate/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "IoT Réseau",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "08/07/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/retrofit-digitaliser/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Quelle est la priorité si l'on doit choisir entre faire un rétrofit et digitaliser. C'est ce que nous allons découvrir dans cet article à travers des cas spécifiques."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/P2NaPpnAFlo?si=g3VCzfGIth5tC_-W"
+      },
+      {
+        "heading": "Cas 1 - Optimisation de la cadence",
+        "paragraphs": [
+          {
+            "text": "Ce premier cas se base sur l'un de mes clients. Ce dernier a une ligne qui date d'environ 20 ans. L'objectif était d'optimiser la ligne à cause d'un problème de cadence."
+          },
+          {
+            "text": "Ma première réaction était de savoir comment ce client à fait pour savoir qu'il a un problème de cadence. Sa réponse c'est qu'il a fait un constat et a remarqué que la ligne tournait uniquement à 50% de sa capacité."
+          },
+          {
+            "text": "Donc je suis allé sur le site et j'ai remarqué qu'effectivement la ligne tournait plus lentement, mais je ne voyais pas le besoin d'aller plus vite parce que ce qui se trouve juste après cette ligne ne demandais pas assez de puissance."
+          },
+          {
+            "text": "Dans mon cas, pour ce cas précis, je passerais d'abord par une analyse des données de la ligne avant de me prononcer, car faire un rétrofit dans ce cas précis, couterait un gros budget , mais analiser les données nous donnerait plus de détails sur les conséquences de cette faible cadence bien que cela prendrait plus de temps ."
+          },
+          {
+            "text": "Découvrez l'intégralité de ce point ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (06min:48s)",
+            "href": "https://www.youtube.com/live/P2NaPpnAFlo?t=161s"
+          }
+        ]
+      },
+      {
+        "heading": "Digitaler ou Retrofiter ?",
+        "paragraphs": [
+          {
+            "text": "L'une des première questions à se poser est de savoir Pourquoi est ce que l'on veut digitaliser ? ."
+          },
+          {
+            "text": "Quand on a tous répondu à cette question, l'une des solution serait d'abord de fiabiliser l'équipement physique et de ne pas prendre le concept de digitalisation comme un message de mode ou de tendance. La première des choses c'est de mesurer juste pour connaître ce que tu peux gagner sur le champ avant de placer beaucoup d'argent dans un rétrofit car si on dépense beaucoup d'argent et cela n'apporte pas plus, se sera un reproche pour plus tard. Dans l'autre sens, si l'on a pris le temps de monitorer et de regarder ce qu'on peut faire juste pour avoir quelques indices, on peut facilement analyser les risques de l'investissement et prendre de meilleures décisions."
+          },
+          {
+            "text": "Découvrez l'intégralité de ce point ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (10min:20s)",
+            "href": "https://www.youtube.com/live/P2NaPpnAFlo?t=569s"
+          }
+        ]
+      },
+      {
+        "heading": "Cas 2 - Performance des machines",
+        "paragraphs": [
+          {
+            "text": "Pour le coté DIGITAL, j'ai un cas spécifique, une PME qui fait des produits orientés matériaux isolants. Et ils sont un projet de digitalisation vraiment très grand. En interrogeant le responsable de production, c'est uniquement la performance de ses machines qui l'intéressait."
+          },
+          {
+            "text": "Avant toute chose, il faut toujours analyser au début et être au courant des nouveautés qui existent. Il faut savoir évaluer ."
+          },
+          {
+            "text": "En somme, ​​le retrofit ou la digitalisation repondent a des besoins specifiques . Ils doivent repondre à une problematique specifique ( reduction des couts , environements etc )"
+          },
+          {
+            "text": "L'avant-projet et le cadrage de chaque projet sont des étapes très décisives pour la réussite des projets."
+          },
+          {
+            "text": "Découvrez l'intégralité de ce point ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (10min:17s)",
+            "href": "https://www.youtube.com/live/P2NaPpnAFlo?t=1189s"
+          }
+        ]
+      }
+    ]
+  }
+}

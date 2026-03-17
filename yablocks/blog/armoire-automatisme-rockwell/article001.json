@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/armoire-automatisme-rockwell/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "ROCKWELL - Armoire électrique",
+        "paragraphs": [
+          {
+            "text": "Salut à toi ! Bienvenue !"
+          },
+          {
+            "text": "Alors on a encore une photo d’un banc d’essai. Sur ce banc d'essai, on a deux intrus. Je te laisse réfléchir pour voir si tu arrives à les identifiés. Pour commencer, on va parcourir chaque élément un par un et à la fin de l’article, je vais te donner la réponse concernant les intrus."
+          },
+          {
+            "text": "On va commencer par décomposer notre banc d’essai ici comme on l’a déjà fait précédemment en différents éléments. Il y en a 14 qui sont affichés sur l'image ci-dessous."
+          },
+          {
+            "text": "On va commence ligne par ligne à les décomposer comme tu ferais au moment où tu ouvres ton armoire électrique."
+          },
+          {
+            "text": "Première rangée, premier élément qu’on voit ici c’est un “Automate Programmable Industriel” de la marque Allen Bradley . Pourquoi Programmable Industriel ? Parce qu'on le reconnaît grâce à la clé qui sert à mettre l’automate en mode démarrage ou en mode programmation . C’est spécifique à Rockwell. Et aussi on le reconnaît grâce aux modules d’entrées/sorties qui sont sur la droite, avec les liserés bleus qui les identifient. Ces modules permettent de câbler des signaux d’entrée ou de sortie. A gauche on a le module de puissance qui sert à alimenter tout le bloc. L'ensemble forme un “Automate Programmable”. Là typiquement c’est la gamme “SoftLogix SLC 500” de Rockwell ."
+          },
+          {
+            "text": "En n°2 , on a du coup des “modules d’entrées/sorties“ . On voit que sur les trois premiers, on a des petites indications qui commencent par “I” pour “Input” et pour les trois derniers “Q” pour “Output” . Ceux-là, typiquement, sont des modules ou des cartes d’entrée/sorties."
+          },
+          {
+            "text": "3ème élément , on a “un Automate Programmable Industriel“ . En effet, on observe en premier les connexions pour l’automate avec le sélecteur pour mettre en mode run ou en mode programmation, et à droite, les différentes cartes d’entrée/Sortie. Là tu remarques quelque chose de particulier qui flash tout de suite : “c’est la couleur rouge“ . Pourquoi couleur rouge, parce que c’est la gamme “GuardLogix” de Allen Bradley et quand on parle de “GuardLogix” on veut parler tout simplement de fonctions de sécurité plus avancées que les autres automates pour pouvoir gérer des systèmes qui sont un peu critiques ou qui comportent des éléments très spéciaux sur lesquels on veut éviter qu’il y ait des perturbations. A ce moment-là on prend un GuardLogix, un automate de ce type-là."
+          },
+          {
+            "text": "Alors pour le 4ème élément , on a un “coupleur réseau“ . Chez Rockwell le réseau le plus courant c’est “EthernetIp” . Du coup, on aura de l’ethernetIp qui va pouvoir se câbler avec d’autres communications."
+          },
+          {
+            "text": "N°5 , ici c’est “un switch” Allen Bradley , de la marque “Stratix” . Stratix de Allen Bradley nous permet de communiquer sur tous les protocoles Ethernet en TCP, UDP mais beaucoup plus en EthernetIp . C’est le type de Switch qu’on peut rencontrer dans une armoire Allen Bradley."
+          },
+          {
+            "text": "N°6 , on a aussi un “Switch“ . Switch réseau avec 8 ports. Là on n’arrive pas à identifier la marque, mais cela nous permet de connecter des câbles RJ45 sur un réseau Ethernet ."
+          },
+          {
+            "text": "En n°7 , on a encore un “automate GuardLogix“ . Comme on l’a vu tout à l’heure, automate de sécurité avec des fonctions Safety avancées . On passe maintenant au numéro 8."
+          },
+          {
+            "text": "Le n°8 . Du coup on est sur un “automate programmable” un peu particulier parce que celui-là est un peu plus ancien par rapport aux gammes qu’on a actuellement. Par contre, il est très robuste ce qui fait qu'il peut tourner sur plusieurs années voire plusieurs dizaines d’années. De gauche à droite on va retrouver le “module de puissance“, “la carte de contrôle” et puis “quelques éléments” pour câbles et des entrées/sorties . C'est sûrement un automate de la gamme “SoftLogix SLC 5“ . On dira peut être le grand-père de tous ceux qu’on rencontre comme automates Allen Bradley aujourd’hui. Celui-là, il fait partie des gammes plus anciennes. Un peu plus robuste, mais du coup avec moins de fonctions que ce qu’on retrouve aujourd’hui."
+          },
+          {
+            "text": "En n°9 , on retrouve notre “automate ControlLogix“ . On le reconnaît là avec le bandeau noir qui est assez typique des automates ControlLogix . Chose très importante. Ici tu vas voir que plusieurs automates sont alignés dans le même bloc. Parce qu’on retrouve les clés plusieurs fois et cela, te permet d’identifier de manière visuelle que tu as plusieurs modules de contrôle. On voit ici en bleu, un cash qui est ouvert avec la pile qui sert à conserver la mémoire de l’automate , pour être plus précis, la mémoire du programme. Si on ouvrait tous les caches, c’est ce qu’on rencontrerait. En numéro 9, toute une série d’automates ControlLogix."
+          },
+          {
+            "text": "Et on va passer au n°10 . C'est également un “automate programmable” . Celui-ci est de la gamme “CompactLogix” avec un “module de puissance“, “carte de contrôle” et les “entrées/sorties“ sur la droite avec les liserés bleus et verts."
+          },
+          {
+            "text": "En n°11 , on a encore un “Switch Stratix” pour du réseau pour mettre en réseau tous les composants Allen Bradley qu’on a sur ce banc d’essai."
+          },
+          {
+            "text": "N°12 , c'est un “câblage électrique classique“ . On a des borniers et un disjoncteur pour pouvoir couper l’alimentation."
+          },
+          {
+            "text": "En n°13 , on a ici quelque chose d’un peu spécifique qui s’appelle “Armor Bloc” chez Rockwell, mais c’est tout simplement un concentrateur d’entrées/sorties . C’est un module d’entrées/sorties déporté de type “I/O Link“ qui permet d’interconnecter plusieurs entrées/sorties . Tu vois par exemple les câbles avec les couleurs orange et jaune, ce sera des entrées/sorties et ensuite le câble vert va récupérer tous les signaux de ces quatre ou cinq entrées/sorties et les concentrés pour les envoyer à l’automate. Cela permet d’économiser en câblage et aussi de regrouper tous les signaux d’entrée/sortie sur un même canal."
+          },
+          {
+            "text": "Et le dernier groupe, ce sont les alimentations, modules de puissance de différents types. Ils permettent de convertir notre 230 V en 24 V ou 12 V pour les envoyer aux différents organes qui en ont besoin."
+          },
+          {
+            "text": "Alors est-ce que tu as réussi à identifier les deux intrus. J’espère que oui. Si ce n’est pas le cas alors je vais te le dire : c’est le “n°2” et le “n°14” qui sont tous les deux des équipements Siemens ."
+          },
+          {
+            "text": "N°2 , parce que ce sont des câbles d’entrée/sortie de Siemens et n°14 parce qu’on a, au milieu-là, un module de puissance “SITOP” , une marque Siemens, qui n'a rien à voir avec du Rockwell. Nous n'allons pas rentrer dans des guerres de marques. C'est juste pour marquer un peu la différence parce que je sais qu’il y a des personnes qui sont un peu sensibles quand on parle de marques."
+          },
+          {
+            "text": "Cet article t'a permis de voir un peu l’identification des différents organes avec différentes marques, différents constructeurs. C’est le genre de choses qui va te permettre tout simplement, en ouvrant tes machines, de pouvoir récupérer les références des organes et puis pourquoi pas, t’assembler un banc d’essai sur ton usine ou bien dans ton atelier de maintenance, pour pouvoir tester tes machines : par exemple si tu dois faire des interventions maintenance, prévoir un petit peu en avance ce que tu dois faire comme modifications. C’est des économies de temps par la suite. Cela peut être intéressant d’assembler un banc d’essai de ce type-là."
+          },
+          {
+            "text": "Alors c’est tout pour la partie identification des organes automatismes chez Rockwell."
+          },
+          {
+            "text": "À bientôt !"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/rockwell_1.png",
+          "alt": "industry40,industrie40,autem,marc akoto,industrial automation,rockwell,banc d'essai,armoire ouverte,armoire électrique…"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens — S7-300, S7-400, fin de support 2023"
+            },
+            {
+                "src": "/logos/rockwell.png",
+                "alt": "Rockwell Allen-Bradley — PLC5, SLC500, fin de vie"
+            },
+            {
+                "src": "/logos/schneider.png",
+                "alt": "Schneider Electric — TSX, Quantum, Modicon fin de support"
+            }
+        ],
+        "headline": "L'obsolescence ne vous prévient pas. Elle attend que votre production soit à l'arrêt pour se manifester.",
+        "paragraphs": [
+            {
+                "text": "Un automate S7-300 en fin de support depuis 2023, une carte électronique introuvable chez tous les distributeurs, un PC industriel sous Windows XP sans solution de remplacement identifiée — les signaux d'alerte sont là. La vraie question n'est pas si la panne arrivera, mais quand. Et si votre équipe aura le matériel et le plan pour y répondre en quelques heures plutôt qu'en quelques semaines."
+            },
+            {
+                "text": "La gestion de l'obsolescence est souvent différée. L'atelier tourne, les budgets sont sous pression, et changer un équipement qui fonctionne semble injustifiable. Jusqu'au jour où le fournisseur annonce 8 semaines de délai sur une carte de rechange, ou pire — l'arrêt définitif de la pièce. À ce moment, toute urgence a un coût : arrêt de ligne, stock de sécurité épuisé, production dégradée."
+            },
+            {
+                "text": "Une cartographie d'obsolescence structurée permet d'objectiver la situation : quels équipements sont en fin de support ? Quels fabricants ont annoncé des dates d'arrêt ? Quels composants n'ont plus de stock ? Quelle est la criticité de chaque équipement sur la continuité de production ? Avec ces données, les décisions d'investissement deviennent traçables et défendables en CODIR."
+            },
+            {
+                "text": "AUTEM réalise ces audits et établit les plans de renouvellement associés — en tenant compte de vos contraintes budgétaires, de votre calendrier de maintenance et des opportunités de modernisation que représente chaque remplacement."
+            }
+        ],
+        "closing": "Un plan d'obsolescence construit cette année, c'est un budget cible sur 3 ans — et une direction qui pilote les investissements plutôt que de subir les pannes."
+    }
+}

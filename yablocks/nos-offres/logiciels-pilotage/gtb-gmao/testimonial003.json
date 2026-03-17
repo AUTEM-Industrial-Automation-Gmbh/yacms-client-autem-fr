@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/logiciels-pilotage/gtb-gmao/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Projet Thalys Bruxelles — IoT télémétrie maintenance préventive AUTEM"
+        },
+        "quote": "La mise en place de la télémétrie et du suivi de maintenance par AUTEM a transformé notre approche opérationnelle. Les interventions sont désormais anticipées, documentées et planifiées — les pannes non planifiées ont significativement diminué.",
+        "author": {
+            "name": "Responsable Maintenance",
+            "role": "Thalys — Bruxelles"
+        }
+    }
+}

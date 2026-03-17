@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "a-propos/technologies/features009-sales-agreement"
+  },
+  "data": {
+    "overtitle": "AUTOMATES & API",
+    "title": "Programmation d'automates industriels multimarques",
+    "paragraphs": [
+      {
+        "text": "AUTEM vous accompagne dans la programmation, la maintenance et l'évolution de vos automates industriels, de la phase d'analyse fonctionnelle jusqu'à la mise en service sur site."
+      },
+      {
+        "text": "Nous intervenons sur l'ensemble du cycle projet : conception de l'architecture, programmation des cycles automatisés, tests en plateforme (FAT), mise en service (SAT) et formation des équipes maintenance."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Siemens S7-300/400/1200/1500 (TIA Portal)"
+      },
+      {
+        "text": "Rockwell / Allen Bradley (Studio 5000)"
+      },
+      {
+        "text": "Schneider Electric (Unity Pro / EcoStruxure)"
+      },
+      {
+        "text": "Wago, Eaton — et autres constructeurs sur demande"
+      }
+    ],
+    "conclusion": "Résultat : vos programmes sont documentés, maintenables et évolutifs. Vos techniciens peuvent intervenir en autonomie. Et vos lignes de production tournent sans surprise.",
+    "image": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Programmation automate industriel Siemens Rockwell Schneider AUTEM"
+    },
+    "reverse": false
+  }
+}

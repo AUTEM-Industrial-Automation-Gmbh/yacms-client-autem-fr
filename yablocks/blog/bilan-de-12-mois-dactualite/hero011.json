@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/bilan-de-12-mois-dactualite/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "01/04/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem | Blog AUTEM",
+    "description": "Mb Client, Modsim, PLCSIM Advanced - les différentes étapes pour établir une communication au protocole modbus avec 3 entités.",
+    "keywords": [
+      "Automation",
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

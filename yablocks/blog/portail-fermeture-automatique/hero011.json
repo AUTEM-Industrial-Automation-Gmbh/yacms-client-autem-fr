@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/portail-fermeture-automatique/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "6 min lecture",
+      "publishDate": "02/02/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

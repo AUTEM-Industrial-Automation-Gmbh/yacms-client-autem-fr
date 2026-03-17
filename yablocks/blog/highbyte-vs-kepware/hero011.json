@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/highbyte-vs-kepware/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "HighByte vs Kepware",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "08/03/26",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

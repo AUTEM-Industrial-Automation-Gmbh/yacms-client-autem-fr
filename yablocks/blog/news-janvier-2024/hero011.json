@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-janvier-2024/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°8 - Métallurgie, IHM, Langues, IA",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "17/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

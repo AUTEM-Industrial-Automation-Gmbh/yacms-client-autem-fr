@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "a-propos/nos-technologies/cta002"
+  },
+  "data": {
+    "title": "Votre projet de digitalisation industrielle commence ici.",
+    "benefits": [
+      {
+        "icon": "award",
+        "text": "Intégrateur certifié GOLD Ignition"
+      },
+      {
+        "icon": "cpu",
+        "text": "Multimarque : Siemens, Rockwell, Schneider, Wago"
+      },
+      {
+        "icon": "clock",
+        "text": "10+ ans d'expérience terrain"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/robot-optimus-et-frameworkx/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Dans les news de ce mois d'octobre 2024, nous allons parler de deux choses : le robot Optimus d'Elon Musk , et de la plateforme FrameworX de Tatsoft ."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/xd2wnm5cEhk?si=3dcBkWgAiwHadKqU"
+      },
+      {
+        "heading": "News 1: Robot Optimus",
+        "paragraphs": [
+          {
+            "text": "La société Tesla d'Elon Musk a sorti la première version du robot Optimus en octobre. Déjà capable de faire un certain nombre d'actions : comme servir des verres en tant que barman ou interagir avec différentes personnes pour un prix tournant autour de 30000 $, soit l'équivalent d'une voiture TESLA. Je crois que l'idée derrière ce projet est de rendre cette technologie accessible à des particuliers et diversifier le portefeuille au-delà de l'automobile."
+          },
+          {
+            "text": "Tout cela arrive à cause d'un contexte peut-être global dans le secteur de l'automobile dans le monde lié à tout ce qui se passe dans le monde. Peut-être aussi à la concurrence des véhicules électriques."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (2min:40s)",
+            "href": "https://www.youtube.com/watch?v=xd2wnm5cEhk&t=37s"
+          },
+          {
+            "text": "Automobile | Site web",
+            "href": "https://economictimes.indiatimes.com/news/international/world-news/elon-musk-owned-teslas-optimus-humanoid-robot-serves-drinks-performs-tasks-watch-video-check-price/articleshow/114164607.cms"
+          },
+          {
+            "text": "Film I Robot - Bande annonce | Vidéo (1min:19s)",
+            "href": "https://www.dailymotion.com/video/x7dhglj"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Automobile | 🌍 Site web"
+            },
+            {
+              "text": "Film I Robot - Bande annonce | 📽️ Vidéo (1min:19s)"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "News 2: Plateforme FrameworX",
+        "paragraphs": [
+          {
+            "text": "FrameworX est une alternative en termes de plateforme IIoT qui est utilisée par pas mal de grands groupes et qui est développée comme l'intégralité des plateformes IIoT. Une alternative intéressante à considérer."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici:"
+          },
+          {
+            "text": "Liens utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (04min:21s)",
+            "href": "https://www.youtube.com/watch?v=xd2wnm5cEhk&t=197s"
+          },
+          {
+            "text": "Paysage IoT en 2024 | Site web",
+            "href": "https://iot-analytics.com/iot-startup-landscape/"
+          },
+          {
+            "text": "Vidéo citée concernant l'analyse du paysage IIoT | Vidéo",
+            "href": "https://youtu.be/t9GFLJ8KAxc"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Paysage IoT en 2024 | 🌍 Site web"
+            },
+            {
+              "text": "Vidéo citée concernant l'analyse du paysage IIoT | 📽️ Vidéo"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Analyse Data — Pareto, VSM, ROI | AUTEM",
+        "description": "AUTEM analyse vos données de production pour identifier les vraies pertes, cartographier vos flux (VSM) et chiffrer le ROI de vos actions d'amélioration. Diagnostics terrain, livrables actionnables.",
+        "keywords": [
+            "analyse data industrielle",
+            "Pareto production",
+            "VSM Value Stream Mapping",
+            "ROI amélioration continue",
+            "diagnostic performance industrielle",
+            "KPI usine",
+            "lean manufacturing",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

@@ -1,57 +1,103 @@
 {
   "meta": {
     "component": "blocks/layout/footer/FooterColumns",
-    "section": "_shared/footer"
+    "section": "shared/footer-columns"
   },
   "data": {
     "brand": {
-      "name": "AUTEM Services",
-      "logo": "/logos/autem-logo.png",
-      "tagline": "Automatisme, Informatique Industrielle & Digitalisation. Nous optimisons la performance de vos usines grâce à l'automatisation et au pilotage de données.",
-      "alt": "AUTEM Services Logo"
+      "alt": "AUTEM Industrial Automation Gmbh",
+      "tagline": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie."
     },
     "contact": {
-      "address": "60 rue François 1er\n75008 Paris",
-      "phone": "+33 6 17 43 68 02",
-      "email": "contact@autem-services.fr",
-      "hours": "Lun-Ven : 8h-18h"
+      "phone": "+41 78 442 73 53",
+      "email": "team@autem.ch",
+      "address": "Route d'Avry 19, Matran 1753, Fribourg, Suisse",
+      "hours": "Lun-Ven : 7h-17h"
     },
+    "socialLinks": [
+      {
+        "platform": "linkedin",
+        "href": "https://www.linkedin.com/company/autemautomation/"
+      },
+      {
+        "platform": "youtube",
+        "href": "https://www.youtube.com/@AUTEM_Industrial_Automation"
+      }
+    ],
     "linkGroups": [
       {
-        "title": "Notre offre",
+        "title": "Machines Automatisées",
         "links": [
           {
-            "text": "Automatisme",
-            "href": "/offre/automatisme"
+            "text": "Rétrofit Automatisme",
+            "href": "/nos-offres/machines-automatisees/retrofit-automation"
           },
           {
-            "text": "Informatique industrielle",
-            "href": "/offre/informatique-industrielle"
+            "text": "IoT & Réseaux Communication",
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
           },
           {
-            "text": "Data & Digitalisation",
-            "href": "/offre/data"
+            "text": "Revamping Électrique",
+            "href": "/nos-offres/machines-automatisees/revamping-electrique"
           },
           {
-            "text": "Ignition SCADA",
-            "href": "/offre/ignition-scada"
+            "text": "Rénovation PC Industriel",
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
           }
         ]
       },
       {
-        "title": "L'entreprise",
+        "title": "Logiciels de Pilotage",
+        "links": [
+          {
+            "text": "KPI, MES, TRS, OEE",
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+          },
+          {
+            "text": "Analyse Data, Pareto, ROI",
+            "href": "/nos-offres/logiciels-pilotage/analyse-data"
+          },
+          {
+            "text": "Supervision SCADA Ignition",
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
+          },
+          {
+            "text": "GTB & GMAO",
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
+          }
+        ]
+      },
+      {
+        "title": "Avis Technique",
+        "links": [
+          {
+            "text": "Architecture de Systèmes",
+            "href": "/nos-offres/avis-technique/architecture-systemes"
+          },
+          {
+            "text": "Assistance Projets Stratégiques",
+            "href": "/nos-offres/avis-technique/assistance-projets"
+          },
+          {
+            "text": "Cycle de Vie & Obsolescence",
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
+          }
+        ]
+      },
+      {
+        "title": "Entreprise",
         "links": [
           {
             "text": "À propos",
-            "href": "/a-propos"
+            "href": "/about"
           },
           {
-            "text": "Nos technologies",
-            "href": "/technologies"
+            "text": "Réalisations",
+            "href": "/realisations"
           },
           {
-            "text": "Cas clients",
-            "href": "/cas-clients"
+            "text": "Contact",
+            "href": "/contact"
           }
         ]
       },
@@ -59,30 +105,22 @@
         "title": "Ressources",
         "links": [
           {
-            "text": "Formations",
-            "href": "/formations"
+            "text": "FAQ",
+            "href": "/faq"
           },
           {
-            "text": "Contact",
-            "href": "/contact"
+            "text": "Blog",
+            "href": "/blog"
+          },
+          {
+            "text": "Devis gratuit",
+            "href": "/devis"
           }
         ]
       }
     ],
-    "socialLinks": [
-      {
-        "platform": "linkedin",
-        "href": "https://www.linkedin.com/company/autemautomation/"
-      }
-    ],
-    "certifications": [
-      {
-        "src": "/logos/ignition.png",
-        "alt": "Intégrateur Ignition Certifié Gold"
-      }
-    ],
     "legal": {
-      "copyright": "AUTEM Services — SIREN : 918 577 354. Tous droits réservés.",
+      "copyright": "Tous droits réservés.",
       "links": [
         {
           "text": "Mentions légales",
@@ -91,8 +129,26 @@
         {
           "text": "Politique de confidentialité",
           "href": "/confidentialite"
+        },
+        {
+          "text": "CGU",
+          "href": "/cgu"
         }
       ]
-    }
+    },
+    "certifications": [
+      {
+        "src": "/logos/ignition.png",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      },
+      {
+        "src": "Sample text",
+        "alt": "Sample text"
+      }
+    ]
   }
 }

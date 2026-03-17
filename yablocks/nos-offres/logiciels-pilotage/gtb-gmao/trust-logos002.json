@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/logiciels-pilotage/gtb-gmao/trust-logos002"
+    },
+    "data": {
+        "title": "Protocoles et équipements GTB maîtrisés",
+        "subtitle": "Agnostique fabricant — nous nous adaptons aux équipements de votre bâtiment industriel existant",
+        "logos": [
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens — Desigo GTB, régulateurs CVC"
+            },
+            {
+                "src": "/logos/schneider.png",
+                "alt": "Schneider Electric — EcoStruxure Building"
+            },
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition — supervision GTB unifiée"
+            },
+            {
+                "src": "/logos/eaton.png",
+                "alt": "Eaton — distribution électrique industrielle"
+            },
+            {
+                "src": "/logos/pepperl-fuchs.png",
+                "alt": "Pepperl+Fuchs — instrumentation terrain"
+            }
+        ]
+    }
+}

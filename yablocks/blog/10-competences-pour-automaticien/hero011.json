@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/10-competences-pour-automaticien/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "Astuces Carrière",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "11 min lecture",
+      "publishDate": "03/01/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

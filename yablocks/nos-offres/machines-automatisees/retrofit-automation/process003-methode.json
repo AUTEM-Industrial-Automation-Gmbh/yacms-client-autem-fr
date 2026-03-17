@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "component": "blocks/content/process/ProcessStep003",
+    "section": "offre/machines-automatisees/retrofit-automation/process003-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'audit à la mise en service : 6 étapes pour un rétrofit réussi",
+    "steps": [
+      {
+        "title": "Audit & Inventaire",
+        "description": "Récupération du programme existant, inventaire des composants, identification des risques d'obsolescence et des points de blocage.",
+        "icon": "search"
+      },
+      {
+        "title": "Analyse Fonctionnelle",
+        "description": "Relecture des cycles, clarification des fonctions non documentées, rédaction du cahier des charges de migration avec vos équipes.",
+        "icon": "file-text"
+      },
+      {
+        "title": "Migration & Développement",
+        "description": "Réécriture structurée du programme sur la nouvelle plateforme. Code commenté, organisé en blocs fonctionnels réutilisables.",
+        "icon": "layers"
+      },
+      {
+        "title": "Tests FAT (Usine)",
+        "description": "Tests de conformité en plateforme avant livraison site. Simulation des entrées/sorties, validation de chaque cycle et de chaque sécurité.",
+        "icon": "check-circle"
+      },
+      {
+        "title": "Mise en service SAT (Site)",
+        "description": "Démarrage sur site client. Validation en conditions réelles, accompagnement des équipes maintenance et production pendant le démarrage.",
+        "icon": "zap"
+      },
+      {
+        "title": "Formation & Transfert",
+        "description": "Formation de vos techniciens sur le nouveau système. Remise de la documentation complète : programme commenté, schémas, manuel opérateur.",
+        "icon": "book-open"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/layout/navigation/Navigation004",
-    "section": "autem/navigation"
+    "section": "shared/navigation"
   },
   "data": {
     "logo": {
@@ -12,7 +12,7 @@
     },
     "links": [
       {
-        "label": "Notre offre",
+        "label": "Nos offres",
         "groups": [
           {
             "label": "Machines Automatisées",
@@ -20,19 +20,19 @@
             "items": [
               {
                 "label": "Rétrofit Automatisme",
-                "href": "/offre/automatisme"
+                "href": "/nos-offres/machines-automatisees/retrofit-automation"
               },
               {
-                "label": "IoT, Réseaux, Communication",
-                "href": "/offre/automatisme#variateurs"
+                "label": "IoT Comm Réseaux",
+                "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
               },
               {
-                "label": "Revamping électrique",
-                "href": "/offre/automatisme#etudes-electriques"
+                "label": "Revamping Electrique",
+                "href": "/nos-offres/machines-automatisees/revamping-electrique"
               },
               {
                 "label": "Rénovation PC Industriel",
-                "href": ""
+                "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
               }
             ]
           },
@@ -42,19 +42,19 @@
             "items": [
               {
                 "label": "KPI, MES, TRS, OEE",
-                "href": "/offre/informatique-industrielle"
+                "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
               },
               {
                 "label": "Data, Pareto, VSM, ROI",
-                "href": "/offre/informatique-industrielle#mes"
+                "href": "/nos-offres/logiciels-pilotage/analyse-data"
               },
               {
-                "label": "Supervision SCADA",
-                "href": "/offre/ignition-scada"
+                "label": "Supervision SCADA Ignition",
+                "href": "/nos-offres/logiciels-pilotage/ignition-scada"
               },
               {
                 "label": "GTB, GMAO",
-                "href": ""
+                "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
               }
             ]
           },
@@ -64,15 +64,15 @@
             "items": [
               {
                 "label": "Architecture Systèmes",
-                "href": "/offre/data"
+                "href": "/nos-offres/avis-technique/architecture-systemes"
               },
               {
                 "label": "Projets Stratégiques",
-                "href": "/offre/data#reseaux"
+                "href": "/nos-offres/avis-technique/assistance-projets"
               },
               {
                 "label": "Cycle de Vie et Obsolescence",
-                "href": "/offre/data#pilotage"
+                "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
               }
             ]
           }
@@ -82,34 +82,20 @@
         "label": "À propos",
         "groups": [
           {
-            "label": "Notre vision",
+            "label": "Découvrir AUTEM",
             "description": "L'automatisme au service de l'industrie",
             "items": [
               {
-                "label": "Qui sommes-nous ?",
-                "href": "/a-propos"
+                "label": "Manifeste",
+                "href": "/a-propos/manifeste"
               },
               {
-                "label": "Nos valeurs",
-                "href": "/a-propos#valeurs"
-              }
-            ]
-          },
-          {
-            "label": "Nos technologies",
-            "description": "Expertise multi-constructeurs",
-            "items": [
-              {
-                "label": "Siemens / Rockwell / Schneider",
-                "href": "/technologies"
+                "label": "L'Équipe",
+                "href": "/a-propos/team"
               },
               {
-                "label": "Ignition / Wonderware / WinCC",
-                "href": "/technologies#scada"
-              },
-              {
-                "label": "Réseaux & Vision",
-                "href": "/technologies#reseaux-vision"
+                "label": "Technologies",
+                "href": "/a-propos/technologies"
               }
             ]
           }

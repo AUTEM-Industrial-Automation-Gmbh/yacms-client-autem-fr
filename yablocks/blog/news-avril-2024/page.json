@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe | Blog AUTEM",
+    "description": "Les actualités du mois d'avril 2024 dont le salon Hannover Messe",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

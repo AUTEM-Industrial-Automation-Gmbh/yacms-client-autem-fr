@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "a-propos/manifeste/features008-accompagnement"
+    },
+    "data": {
+        "title": "Un accompagnement technique de bout en bout",
+        "content": "<p><strong>Digitaliser une usine</strong>, ce n'est pas juste installer un logiciel ou changer un automate. C'est aligner chaque couche technologique pour créer une infrastructure cohérente, fiable et évolutive.</p><p>Tout est connecté. Un SCADA sans automate bien programmé ne collecte rien. Une supervision sans réseau industriel bien structuré est aveugle. Des données sans outil de pilotage restent inexploitées.</p><p><strong>Le mot d'ordre : COHÉRENCE.</strong></p><p>Après 10 ans d'interventions sur des sites industriels en France et à l'international, AUTEM ne part pas d'une page blanche. Nous connaissons vos contraintes terrain, vos délais serrés, et les erreurs classiques. <strong>Nous vous faisons prendre des raccourcis.</strong></p><p>Nous intervenons à la fois en expertise autonome et en mode collaboratif avec vos équipes. Parce que l'objectif final, c'est que vous soyez maîtres de vos systèmes.</p>"
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "offre/machines-automatisees/retrofit-automation/features009-definition"
+  },
+  "data": {
+    "overtitle": "RÉTROFIT AUTOMATION",
+    "title": "Migration d'automate industriel : définition et périmètre",
+    "paragraphs": [
+      {
+        "text": "Remplacer la couche logicielle et/ou matérielle d'une machine obsolète, sans toucher à sa mécanique. L'objectif : prolonger sa durée de vie, supprimer les risques d'obsolescence, et rendre vos équipes à nouveau autonomes."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Migration Siemens S7-300/400 → S7-1200/1500 (TIA Portal)"
+      },
+      {
+        "text": "Migration Rockwell SLC-500 / PLC-5 → ControlLogix / CompactLogix"
+      },
+      {
+        "text": "Migration Schneider TSX → Modicon M340/M580 (EcoStruxure)"
+      },
+      {
+        "text": "Récupération et réécriture de programmes mal documentés"
+      },
+      {
+        "text": "Mise à jour IHM : Siemens WinCC, Ignition, Panel PC tactile"
+      },
+      {
+        "text": "Documentation complète livrée : programme commenté, schémas, manuel"
+      }
+    ],
+    "conclusion": "Résultat : votre machine repart pour un nouveau cycle de vie. Vos techniciens peuvent intervenir en autonomie. Et votre production ne dépend plus d'une seule personne ou d'un fournisseur devenu invisible.",
+    "image": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Migration automate industriel Siemens Rockwell Schneider — AUTEM rétrofit"
+    },
+    "reverse": false
+  }
+}

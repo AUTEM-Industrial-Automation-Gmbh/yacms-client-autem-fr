@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/6-habits-that-kill-old-machines/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Sometimes it's our psychology that kills the game. Good evening everyone. We discuss a little bit about psychology tonight. We will discuss about six things. First of all we will tell about the savior syndrome . I will give you one example of each of these six psychology behaviors. The second topic will be about efficiency . I will tell you why efficiency is not sexy. Then we'll discuss the comfort that brings from new machines and maybe it's misleading sometime. Then we'll discuss the warri priorities principle . Maybe you guys know it but I'll review it quickly. Then the reality of manufacturing market that's something also related to psychology you will see and after that we'll discuss about people and processes ."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/JAdQyNcY9_Y?si=nI6MHU2UXlKtX-aB"
+      },
+      {
+        "heading": "The Savior Syndrome",
+        "paragraphs": [
+          {
+            "text": "This behavior occurs when a client or manager looks for a \"superhero\" provider to fix a long-standing issue at the last minute. Being pressed by time often leads to picking the wrong provider or making false promises internally. The solution is anticipation; you must take responsibility for the time lost before calling for help and monitor old machines even if they are currently working."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (04 min : 03 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=115s"
+          }
+        ]
+      },
+      {
+        "heading": "Efficiency Is Not Sexy",
+        "paragraphs": [
+          {
+            "text": "There is a psychological bias toward choosing \"shiny\" or modern technology. However, in manufacturing, reliability and efficiency are often found in \"ugly\" or older systems, like airport baggage handling. Your personal consumer behavior (buying the latest phone) should not guide your industrial technology decisions, where reliability is the priority."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (04 min : 06 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=358s"
+          }
+        ]
+      },
+      {
+        "heading": "The Comfort of New",
+        "paragraphs": [
+          {
+            "text": "It is comfortable to want brand-new equipment, but \"obsolete\" does not equal \"old.\" A 30-year-old machine may still be more reliable and high-performing than a new one. Conversely, brand-new technology can be effectively obsolete if the integration is poor. The focus should be on how the system works together rather than just the age of the components."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (04 min : 31 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=604s"
+          }
+        ]
+      },
+      {
+        "heading": "Eisenhower Priorities",
+        "paragraphs": [
+          {
+            "text": "Using the Eisenhower Matrix (Urgent vs. Important), not every machine breakdown is an emergency. If you have redundancy (a \"Plan B\" machine) or if that product line is no longer a priority, a downtime might not be urgent. Tools like Value Stream Mapping (VSM) help identify which flows are actually critical to prevent reacting to every failure as a crisis."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (05 min : 30 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=875s"
+          }
+        ]
+      },
+      {
+        "heading": "The Market Reality",
+        "paragraphs": [
+          {
+            "text": "Manufacturing standards \"hate change\" because stability ensures quality. Resistance to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (05 min : 07 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=1205s"
+          }
+        ]
+      },
+      {
+        "heading": "People & Process",
+        "paragraphs": [
+          {
+            "text": "A common bias is thinking technology comes before people. Many \"technical\" failures on old machines are actually caused by simple process failures, such as forgetting to change a PLC battery or lacking documentation. If you don't fix the team's skills and procedures, even a brand-new machine will become \"obsolete\" within a year due to poor maintenance routines."
+          },
+          {
+            "text": "Explore the full content of this section here"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (06 min : 02 s)",
+            "href": "https://www.youtube.com/live/JAdQyNcY9_Y?t=1512s"
+          }
+        ]
+      }
+    ]
+  }
+}

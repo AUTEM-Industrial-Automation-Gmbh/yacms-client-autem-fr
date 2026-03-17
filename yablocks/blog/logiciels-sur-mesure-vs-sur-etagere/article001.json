@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/logiciels-sur-mesure-vs-sur-etagere/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Podcasts",
+        "paragraphs": [
+          {
+            "text": "Retrouvez également cet article en version audio sur"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🎧 Spotify:"
+            },
+            {
+              "text": "🎧 Apple Podcast"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Spotify:",
+            "href": "https://open.spotify.com/episode/4Fne5Dswf0Ms5zaBtcdDbL?si=52X5ZyXLT2WwGFfiH_FzjQ"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/Cq7Ym9hwhMc"
+      },
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Deux experts: Hervé Rincent et Jean-Romain Bardet explore avec toute la communauté AUTEM la comparaison entre logiciels sur-mesure et sur-étagère dans l'industrie ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Sur-mesure VS Sur-étagerère | Définition",
+        "paragraphs": [
+          {
+            "text": "Du point de vue fonctionnel, le sur-mesure est le fait d'adapter le logiciel aux besoins de l'utilisateur. Le sur-étagère quant à lui, est le fait d'adapter les besoins de l'utilisateur au scope fonctionnel du logiciel. Du point de vue économique, le sur-étagère tend à jouer sur le volume . En d'autres termes, le sur-étagère joue sur le nombre de personnes qui utilisent le logiciel et ayant des besoins communs et est très abordable en termes de prix. Plus il y a de personnes utilisant le logiciel, mieux c'est . Quant aux sur-mesure, les logiciels sont un peu comme des investissements qui vont perdurer dans le temps, comme un patrimoine de l'entreprise; et donc, sont excessivement chers. Il y a une autre dimension que l'on pourrait rajouter, c'est celle de la compétence . Le sur-mesure nécessitera des compétences d'experts tandis que le sur-étagère ne nécessitera pas forcément une compétence d'expert."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les craintes",
+        "paragraphs": [
+          {
+            "text": "L'évolution des logiciels sur-mesure est extraordinaire. Mais 2 craintes se soulèvent : l'une du côté de l'expert - la peur d'être remplacé - et l'autre du côté de l'utilisateur - dans le cas d'un problème, qui aidera l'utilisateur ? La réponse face à ces craintes est qu'il y aura toujours des besoins spécifiques. L'utilisateur peut commencer son projet en utilisant des logiciels qui répondent à ses besoins. Mais au fur et à mesure que son activité évolue, il sera de plus en plus confronté à implémenter des fonctions spécifiques qui répondront à ses préoccupations actuelles."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Le cycle d'exploitation",
+        "paragraphs": [
+          {
+            "text": "La question des craintes évoquées précédemment se focalise sur une façon dont les utilisateurs passent d'une solution sur-étagère à une solution sur-mesure. Plus on grandit dans l'activité qu'on exerce grâce à un logiciel sur-étagère, plus les besoins spécifiques se font sentir : ce sont des signaux qui alertent automatiquement l'utilisateur pour lui dire qu'il faut qu'il pense à changer de solution. L'outil sur-étagère permet de cadrer le projet de façon précise : il te dit : \"Voilà ce que tu peux faire et ce que tu ne peux pas faire\" ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "La gestion du cahier des charges",
+        "paragraphs": [
+          {
+            "text": "Selon que l'on fait du sur-mesure ou du sur-étagère, qui dois gérer le cahiers des charges ? La réponse à cette question dépendra du type de projet. Si l'on regarde les 3 niveaux qui existent dans une usine, c'est-à-dire l'automate (niveau 1), la supervision (niveau 2) et le système de gestion technique (niveau 3), afin de minimiser le temps entre la commande qui arrive à l'usine et le produit qui est livré au client, l'une des solutions serait de ne pas faire de cahier des charges mais de se pencher beaucoup plus vers une démarche itérative et ensuite, on aborde les problèmes les uns après les autres : c'est ce qu'on appelle le mode agile ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Implémentation des solutions",
+        "paragraphs": [
+          {
+            "text": "Un critère important des solutions sur-étagère est le potentiel d'ouverture plus précisément les API. Du côté des outils sur-mesure, l'enjeu est de se standardiser. Et pour apporter de la confiance sur des outils qui ne sont pas connu il faut donner une certaine fréquence de démo et donner un maximum de transparence, de visibilité sur l'avancementdu projet. Cela imposera la confiance dès le début bien qu'il n'y ait qu'une seule fonctionnalité."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

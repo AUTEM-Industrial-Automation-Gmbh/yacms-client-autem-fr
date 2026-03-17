@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem | Blog AUTEM",
+    "description": "Historiser des données en OPC - SQL Kepware Datalogger: Les différentes étapes pour repérer une erreur sur une ligne de production.",
+    "keywords": [
+      "Supervision SCADA",
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

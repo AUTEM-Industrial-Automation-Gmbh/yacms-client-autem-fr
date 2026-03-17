@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem | Blog AUTEM",
+    "description": "Schneider Electric et connexion USB - Résolution du problème de \"périphérique USB non reconnu\" sur certains automates Schneider Electric.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

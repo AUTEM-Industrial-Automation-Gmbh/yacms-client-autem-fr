@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/automatisme-et-aeroport/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "25/01/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

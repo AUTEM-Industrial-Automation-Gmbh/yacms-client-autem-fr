@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa | Blog AUTEM",
+    "description": "Découvrez clés de conduite du changement pour réussir son projet 4.0 avec Rija Rakotoarisoa",
+    "keywords": [
+      "Gestion Projet Stratégique",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

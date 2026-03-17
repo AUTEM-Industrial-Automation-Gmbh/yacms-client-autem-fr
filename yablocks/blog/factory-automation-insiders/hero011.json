@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/factory-automation-insiders/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "01/06/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/communiquer-en-opcua/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "IoT Réseau",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "31/10/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

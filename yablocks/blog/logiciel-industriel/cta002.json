@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/logiciel-industriel/cta002"
+  },
+  "data": {
+    "title": "Un projet d'architecture industrielle ?",
+    "benefits": [
+      {
+        "icon": "layers",
+        "text": "Conception d'architectures IT/OT convergentes"
+      },
+      {
+        "icon": "server",
+        "text": "Intégration Edge, Cloud & systèmes embarqués"
+      },
+      {
+        "icon": "shield",
+        "text": "Sécurisation et segmentation des réseaux"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

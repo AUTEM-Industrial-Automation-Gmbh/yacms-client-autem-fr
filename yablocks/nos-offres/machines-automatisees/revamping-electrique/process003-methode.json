@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "component": "blocks/content/process/ProcessStep003",
+    "section": "offre/machines-automatisees/revamping-electrique/process003-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'audit électrique à la remise en service documentée",
+    "steps": [
+      {
+        "title": "Audit électrique terrain",
+        "description": "Inspection complète de l'installation : tableaux, armoires, câblage, variateurs, équipements de protection, sécurités. Inventaire des composants avec état, référence, disponibilité et criticité. Identification des non-conformités sécurité et des risques d'obsolescence.",
+        "icon": "search"
+      },
+      {
+        "title": "Étude & schémas",
+        "description": "Rédaction ou refonte des schémas électriques sous EPlan ou SEE Electrical. Définition des nouveaux équipements, calcul des protections, architecture du tableau révisé. Livraison d'une étude validée avant tout démarrage de travaux.",
+        "icon": "file-text"
+      },
+      {
+        "title": "Fourniture & câblage",
+        "description": "Sélection des équipements adaptés à vos contraintes (budget, fournisseur existant, délais). Câblage des nouvelles installations en conformité avec les schémas et les normes en vigueur. Intervention avec habilitations basse-tension.",
+        "icon": "zap"
+      },
+      {
+        "title": "Paramétrage & intégration",
+        "description": "Configuration des variateurs (SEW, Siemens, Eaton), des relais de sécurité (Pilz), des capteurs et de l'instrumentation. Vérification des interlocks avec la couche automate et le programme de sécurité.",
+        "icon": "settings"
+      },
+      {
+        "title": "Tests, validation & formation",
+        "description": "Tests d'isolement, essais sous charge, validation des sécurités SIL step-by-step, vérification de la conformité. Livraison du dossier technique complet : schémas as-built, fiches variateurs, rapport de validation SIL. Formation des équipes maintenance.",
+        "icon": "check-circle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features004",
+    "section": "offre/machines-automatisees/retrofit-automation/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      {
+        "src": "/logos/siemens.png",
+        "alt": "Siemens — TIA Portal"
+      },
+      {
+        "src": "/logos/rockwell.png",
+        "alt": "Rockwell / Allen-Bradley"
+      },
+      {
+        "src": "/logos/schneider.png",
+        "alt": "Schneider Electric"
+      }
+    ],
+    "headline": "Réparer, migrer ou remplacer : la bonne réponse au cas par cas.",
+    "paragraphs": [
+      {
+        "text": "Un automate en fin de vie ne prévient pas. Il tombe en panne au pire moment : en pleine production, avec des pièces de rechange introuvables et une documentation incomplète. La question n'est pas de savoir si cela va arriver — c'est quand."
+      },
+      {
+        "text": "Pourtant, trop d'industriels restent coincés dans ce dilemme : remplacer entièrement la machine (investissement lourd, délais longs) ou continuer à rafistoler (pannes récurrentes, coûts cachés, stress permanent). Il existe une troisième voie : le rétrofit ciblé."
+      },
+      {
+        "text": "Chez AUTEM, nous intervenons sur la couche logicielle et la couche matérielle de vos automates, de façon chirurgicale. Nous récupérons les programmes existants, nous les migrons vers une plateforme moderne, et nous documentons l'ensemble pour que vos équipes reprennent la main en toute autonomie."
+      },
+      {
+        "text": "Nous ne sommes affiliés à aucun constructeur. Nous choisissons la technologie qui répond le mieux à vos contraintes : budget, délai, plateforme existante, compétences de vos équipes."
+      }
+    ],
+    "closing": "De quel côté serez-vous — celui qui anticipe, ou celui qui subit ?"
+  }
+}

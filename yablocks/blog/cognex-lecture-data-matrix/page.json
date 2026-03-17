@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem | Blog AUTEM",
+    "description": "Configuration et utilisation d'une caméra COGNEX pour effectuer la lecture des datamatrix avec Ignition.",
+    "keywords": [
+      "Supervision SCADA",
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

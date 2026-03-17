@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/custom-solution-design/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Custom solution design - Embedded technology & the Future of IoT with Matthew Smith",
+    "tags": [
+      {
+        "label": "IoT Réseau",
+        "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "04/06/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

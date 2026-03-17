@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/logiciels-pilotage/ignition-scada/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Projet Hermès Paris — architecture supervision industrielle AUTEM"
+        },
+        "quote": "AUTEM a structuré l'architecture complète de nos systèmes de supervision avec une rigueur technique et une capacité à s'adapter à nos contraintes internes remarquables. Le projet a été livré dans les délais, documenté, et nos équipes ont pu prendre la main rapidement.",
+        "author": {
+            "name": "Directeur Technique",
+            "role": "Hermès — Paris"
+        }
+    }
+}

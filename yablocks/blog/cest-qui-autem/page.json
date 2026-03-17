@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel | Blog AUTEM",
+    "description": "Entre Hardware, Software, et Performance Industrielle ... je vous dis tout sur AUTEM, le volet Business, les clients Industriels, les équipes et partenaires.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

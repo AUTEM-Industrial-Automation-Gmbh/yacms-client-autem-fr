@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "Notre Vision — AUTEM, Expert en Automatisme & Digitalisation Industrielle",
+    "description": "Découvrez la vision d'AUTEM : digitaliser et automatiser vos usines pour gagner en performance, visibilité et compétitivité. Notre approche technique, du terrain au pilotage.",
+    "keywords": [
+      "automatisme industriel",
+      "digitalisation usine",
+      "industrie 4.0",
+      "SCADA",
+      "MES",
+      "IoT industriel",
+      "AUTEM",
+      "vision",
+      "transformation digitale"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero002.json",
+    "./features008-symptomes.json",
+    "./features008-nouvelle-donne.json",
+    "./features008-croissance.json",
+    "./features008-accompagnement.json",
+    "./process003.json",
+    "./features008-equation.json",
+    "./stats001.json",
+    "./features008-methode.json",
+    "./features006-ressources.json",
+    "../../_shared/footer.json"
+  ]
+}

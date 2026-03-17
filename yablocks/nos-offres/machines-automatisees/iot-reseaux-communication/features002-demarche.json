@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features002",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/features002-demarche"
+    },
+    "data": {
+        "sectionLabel": "NOTRE DÉMARCHE",
+        "title": "De l'audit réseau à la mise en production : 4 étapes",
+        "items": [
+            {
+                "title": "Audit réseau & inventaire des protocoles",
+                "description": "Cartographie complète de votre infrastructure OT : automates, switchs, points d'accès, protocoles utilisés et versions. Identification des zones sans communication, des équipements legacy et des risques de sécurité. Livrable : plan réseau as-is et liste des points d'amélioration priorisés.",
+                "image": {
+                    "src": "/images/background-indus.jpg",
+                    "alt": "Audit réseau industriel OT inventaire protocoles"
+                }
+            },
+            {
+                "title": "Architecture & choix des solutions",
+                "description": "Conception de l'architecture cible : passerelles de protocoles, serveurs OPC-UA, brokers MQTT, segmentation VLAN, DMZ. Sélection des équipements adaptés à vos contraintes (legacy, budget, évolutivité). Présentation du plan de migration avec phasage et risques.",
+                "image": {
+                    "src": "/images/homa-appliances.jpg",
+                    "alt": "Architecture réseau industriel OT/IT passerelle OPC-UA"
+                }
+            },
+            {
+                "title": "Intégration & configuration",
+                "description": "Déploiement des passerelles, configuration des drivers et des mappings de tags. Mise en service des VLANs, règles de pare-feu, accès distants VPN. Tests de bout en bout : chaque machine est vérifiée dans le contexte de l'architecture cible avant mise en production.",
+                "image": {
+                    "src": "/images/background-indus.jpg",
+                    "alt": "Configuration VLAN pare-feu industriel OPC-UA"
+                }
+            },
+            {
+                "title": "Validation, documentation & formation",
+                "description": "Tests de non-régression sur la production, validation des flux de données de bout en bout, mesure des performances réseau. Livraison de la documentation complète : schéma réseau as-built, configurations, procédures de maintenance. Formation des équipes IT et automaticiens.",
+                "image": {
+                    "src": "/images/automaticien-rhone-alpes.jpg",
+                    "alt": "Formation documentation réseau industriel AUTEM"
+                }
+            }
+        ]
+    }
+}

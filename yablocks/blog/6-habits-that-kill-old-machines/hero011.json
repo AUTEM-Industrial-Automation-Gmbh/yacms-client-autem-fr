@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/6-habits-that-kill-old-machines/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "🏭 6 Habits that kill Old Machines",
+    "tags": [
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "secteur"
+      },
+      {
+        "label": "Machines Vintage",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "25/01/26",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

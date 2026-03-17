@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/historiser-des-donnee-en-opc/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      },
+      {
+        "label": "IoT Réseau",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "13 min lecture",
+      "publishDate": "18/03/22",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

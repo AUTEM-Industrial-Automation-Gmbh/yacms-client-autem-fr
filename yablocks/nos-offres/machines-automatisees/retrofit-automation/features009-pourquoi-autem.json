@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "offre/machines-automatisees/retrofit-automation/features009-pourquoi-autem"
+  },
+  "data": {
+    "overtitle": "POURQUOI AUTEM",
+    "title": "Agnostique, documenté, et formateur — pas juste réparateur.",
+    "paragraphs": [
+      {
+        "text": "Chaque rétrofit AUTEM est aussi une mise à plat : on nettoie, on restructure, on commente — et on forme, pour que vos équipes reprennent la main dès le premier jour."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Aucune affiliation constructeur — nous recommandons le bon outil, pas celui qui nous rapporte une commission"
+      },
+      {
+        "text": "Programme livré structuré, commenté et versionné (Git ou archive)"
+      },
+      {
+        "text": "Analyse fonctionnelle écrite avant toute ligne de code"
+      },
+      {
+        "text": "FAT systématique : zéro surprise lors de la mise en service"
+      },
+      {
+        "text": "Formation incluse : vos techniciens maintiennent en autonomie dès le premier jour"
+      },
+      {
+        "text": "Intervention possible sur machines en production : planning de bascule optimisé"
+      }
+    ],
+    "conclusion": "Nous ne faisons pas du rétrofit pour faire du rétrofit. Nous le faisons pour que vous n'en ayez plus besoin de rustines à la va-vite dans 3 ans.",
+    "image": {
+      "src": "/images/automaticien-rhone-alpes.jpg",
+      "alt": "Automaticien AUTEM — rétrofit industriel documenté et formateur"
+    },
+    "reverse": true
+  }
+}

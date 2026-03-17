@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/benchmark-comparatif-scada/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "11/05/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "a-propos/manifeste/process003"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "Une approche structurée, du cahier des charges à la mise en service",
+        "steps": [
+            {
+                "title": "Audit",
+                "description": "Analyse de votre parc machine, systèmes existants et besoins prioritaires.",
+                "icon": "search"
+            },
+            {
+                "title": "Conception",
+                "description": "Analyse fonctionnelle, architecture système et choix des technologies adaptées.",
+                "icon": "layout"
+            },
+            {
+                "title": "Réalisation",
+                "description": "Programmation automates, développement SCADA, intégration réseau et configuration.",
+                "icon": "layers"
+            },
+            {
+                "title": "Tests",
+                "description": "Tests en plateforme, FAT (Factory Acceptance Test) et SAT (Site Acceptance Test).",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Mise en service",
+                "description": "Démarrage sur site, accompagnement des équipes production et validation terrain.",
+                "icon": "zap"
+            },
+            {
+                "title": "Formation",
+                "description": "Transfert de compétences aux techniciens pour une autonomie complète sur vos systèmes.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

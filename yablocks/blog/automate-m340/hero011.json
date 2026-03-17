@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/automate-m340/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Automate M340 Unity Loader | Mis à jour du firmware | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "5 min lecture",
+      "publishDate": "27/12/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

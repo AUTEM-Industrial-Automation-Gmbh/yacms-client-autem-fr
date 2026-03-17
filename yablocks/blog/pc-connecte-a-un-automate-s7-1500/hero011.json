@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/pc-connecte-a-un-automate-s7-1500/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "14 min lecture",
+      "publishDate": "17/12/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

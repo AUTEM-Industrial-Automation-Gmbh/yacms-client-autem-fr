@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Communication Réseau Industriel - AUTEM | Blog AUTEM",
+    "description": "Partage de mon expérience au concours Golden Tech 2022.",
+    "keywords": [
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/digitalisation-de-la-gestion-de-leau/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Podcasts",
+        "paragraphs": [
+          {
+            "text": "Retrouvez également cet article en version audio sur:"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🎧 Spotify:"
+            },
+            {
+              "text": "🎧 Apple Podcast"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Spotify:",
+            "href": "https://open.spotify.com/episode/0TKlyKfyvSi3jXBp94VTOQ?si=crOjaDQlQoqZ2lblgCtKmA"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/R2r5L_IQPyw"
+      },
+      {
+        "heading": "Introduction et présentation de 2Gi",
+        "paragraphs": [
+          {
+            "text": "2Gi , créée en 2002 dans le métier de l'eau et dirigée par Guillaume GIMENEZ , est une compagnie dont l'objectif était de créer une entité intégratrice très experte autour du SCADA et de tout ce qui gravite autour du SCADA . À la date actuelle, où cet article a été rédigé, 2Gi compte 13 collaborateurs experts ; c'est également un partenariat dont les débuts ont commencé avec une forte implication dans l'intégration avec la société des eaux de Marseille . Durant toute sa croissance jusqu'à ce jour, la particularité de 2Gi est de maîtriser l'expertise qu'elle a au sein de sa structure, de rester sur des projets à forte valeur ajoutée et d'avoir une forte compétence autour du métier qu'elle exerce ; en d'autres termes, il convient d'être focalisé, performant et de faire beaucoup de veille technologique , ce qui permet à la société d'être à la pointe des projets . La SCADA dans le domaine de l'eau, ou tout simplement la télégestion, a évolué en 20 ans (depuis 2002, date de création de 2Gi), notamment au niveau des moyens de communication. En effet, dans le métier de l'eau, on communique la plupart du temps à distance entre le système et les automates en raison de la délocalisation géographique des sites. Et l'un des défis est de pouvoir communiquer à distance . Les moyens de communication ayant évolué, ils ont également fait évoluer la télégestion et les données liées au domaine de l'eau. Pour un petit rappel, à l'époque, il n'y avait que des Lignes Spécialisées (LS) et le RTC (une ligne téléphonique commutée) pour communiquer avec des sites distants. Aujourd'hui, avec le GPRS, les APNs et les fibres, il y a beaucoup plus de facilité à communiquer avec des sites distants."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Infrastructure",
+        "paragraphs": [
+          {
+            "text": "L'une des questions qu'on pourrait se poser - dans le domaine de l'eau - est la suivante : Comment architecturer les serveurs pour faire de la télégestion ? Y a-t-il des spécificités propres au domaine de l'eau ? Pour répondre à cette question, il faut voir plusieurs volets, dont la partie télécommunication . Et dans cette partie télécommunication, on doit se poser plusieurs questions, dont la suivante : Comment fait-on pour communiquer avec des sites distants ? La réponse à cette question nous fait d'abord penser qu'il doit d'abord y avoir une couche de communication à mettre en place avant de parler de SCADA. Donc, en termes d'architecture logicielle (fonctionnelle), la première étape consiste à trouver le bon moyen de communiquer avec des sites distants et surtout, (ce qui est important chez 2Gi), c'est de pérenniser cette couche de communication . Et l'un des principes pour garder cette pérennité est la modularité, autrement dit, il faut des systèmes modulaires ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Flux de donnée",
+        "paragraphs": [
+          {
+            "text": "Une fois qu'on a vu le côté infrastructure, il faut maintenant penser à comment les données seront gérées . On va principalement regarder du côté sécurité et vu que les données transitent sur de longues distances en numérique (à travers des systèmes de virtualisation), la probabilité que le système se fasse attaquer est grande, et donc il faut penser à faire de la cybersécurité, de l'acquisition de la donnée jusqu'à sa consolidation . La question que l'on se pose souvent est la suivante : qui doit gérer la partie cybersécurité (dans notre cas, dans le domaine de l'eau) ? Alors, pour les questions de cybersécurité, certains organismes maîtrisent ce sujet, comme par exemple la SEM (Société des Eaux de Marseille) . Dans ce cas-là, le rôle de 2Gi est d'intégrer la procédure de cybersécurité de ces organismes car ces derniers maîtrisent le sujet. La difficulté dans ces cas est souvent la divergence des langages au sens de la compréhension expertise des métiers de l'informatique IT et des métiers de l'informatique OT. Pour les organismes qui ne maîtrisent pas encore ce sujet, 2Gi leur apporte des solutions clés en main : serveur, virtualisation, sécurité grâce à un système réseau qui permet de prévenir des attaques et d'être à jour . Une autre contrainte, compte tenu de la distance éloignée sur laquelle transitent les données, ce n'est pas uniquement l'utilisation de la supervision qui doit être sécurisée, mais également le moyen de communication , ce qui implique de passer par des VPN, des APN pour des questions de sécurité. Pour ce qui est de la collecte des données, de nos jours, l'acquisition peut se faire en temps réel, ce qui permet de mettre désormais n'importe quel type d'automate à distance avec des protocoles comme l'OPC UA pour communiquer de façon sécurisée et avec de nombreux autres avantages. Concernant les autres technologies, on peut bien utiliser EWAN et passer par leur cloud, pour faire également de la télégestion. Dans le cas où le site distant est un peu plus lourd en termes de données , on va plutôt préconiser de l'Edge avec des protocoles comme le MQTT entre le site distant et le central . Il faut noter que dans la télégestion, on fait du temps différé car les sites sont distants et il faut considérer que tôt ou tard, il peut y avoir une coupure. Et s'il y a des coupures et que l'on communique en temps réel , on retrouvera, dans la supervision, des courbes comportant des trous. Avec le temps différé, en cas de coupure et grâce à des protocoles comme LACBUS (qui permet de transporter des piles de données qui sont horodatées à la source), le système a la possibilité (une fois que ces données lui parviennent) de restituer les données afin de compléter ce qui s'est passé pendant une coupure, ce qui est fondamental pour la télégestion. On peut également connecter les sites distants grâce à du LoRaWAN . Une fois que la donnée a été récupérée, faut-il lui faire subir des transformations avant de pouvoir l'utiliser ? Pour cette question, en télégestion, on affiche la donnée sur des synoptiques. De plus en plus, on cherche à corréler, consolider et valoriser la donnée différemment. En d'autres termes, on cherche à faire parler davantage de la donnée. Du coup, pour un exploitant du SCADA, juste suffit. Les directeurs de directions, les décideurs, eux par contre, ont juste besoin d'avoir des indicateurs simples, qui donnent une information intelligible facilement, du fait qu'ils n'ont pas le temps de regarder dans la supervision. Du coup, il faut donc synthétiser les données, pour en faire des dashboards, des KPIs qui valorisent et qui donnent un indicateur fiable et synthétisé de ce qui se passe sur le site. Pour ce qui est du stockage de données, les bases de données utilisées dépendront du client. Certains clients ont déjà leur base de données, du coup, on utilise leur solution en prenant la peine de bien communiquer les prérequis. Il faut pouvoir expliquer les contraintes liées au SCADA. Pour les clients qui donnent le champ libre sur l'utilisation d'une base de données, il faut éviter de faire des connexions directes. Il faut chercher à collecter toutes les données SCADA du processus et les mettre à disposition vers le monde extérieur (ERP, Power Pillards...) et surtout pas directement sur les bases de données, pour des questions de sécurité, de performance et d'organisation structurelle au niveau du réseau."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Gestion de projet",
+        "paragraphs": [
+          {
+            "text": "Pour ce qui est de la question de la gestion des projets en télégestion, une question se pose souvent dans le domaine : comment fait-on pour faire adhérer les clients sur un mode de gestion de projet ? La problématique dans cette question, c'est la confiance . Et donc, il faut arriver à expliquer au client qu'il ne peut pas maîtriser à 100% son projet sur un cahier des charges ; il y aura des aléas. La problématique du cycle en V est que les aléas se cumulent à la fin . Et à la fin, cette problématique fera que toutes les personnes impliquées dans le projet seront fatiguées, tout le monde sera pressé, la mise en service sera tout un calvaire et sûrement le tout finira dans des problèmes de malcompréhension. La solution idéale serait de faire comprendre au client que, selon l'expérience que nous avons eue sur le marché, il serait beaucoup plus avantageux pour lui de nous faire confiance . De lui faire comprendre que son cahier des charges sera découpé en mode sprint et un point d'avancement sera fait sur chaque sprint et des micro-ajustements seront faits tout au long du projet ."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

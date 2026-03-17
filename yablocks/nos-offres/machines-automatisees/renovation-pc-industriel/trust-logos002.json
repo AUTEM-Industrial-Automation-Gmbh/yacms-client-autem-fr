@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/trust-logos002"
+    },
+    "data": {
+        "title": "Nous migrons tous les logiciels de supervision industriels",
+        "subtitle": "De la plateforme obsolète jusqu'à Ignition — sans perdre votre projet",
+        "logos": [
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens WinCC & SIMATIC IPC"
+            },
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition SCADA — Inductive Automation"
+            },
+            {
+                "src": "/logos/wonderware.png",
+                "alt": "AVEVA / Wonderware — InduSoft, System Platform"
+            },
+            {
+                "src": "/logos/rockwell.png",
+                "alt": "Rockwell — FactoryTalk View"
+            }
+        ]
+    }
+}

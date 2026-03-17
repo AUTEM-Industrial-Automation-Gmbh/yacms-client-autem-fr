@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Armoire d'automatisme - Schneider Electric | Blog AUTEM",
+    "description": "Identification des différents éléments de la gamme Schneider Electric présent dans un banc d'essai",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

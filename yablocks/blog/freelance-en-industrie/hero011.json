@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/freelance-en-industrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Le freelancing dans l'industrie - avec Karim BELAMRI",
+    "tags": [
+      {
+        "label": "Astuces Carrière",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "10/08/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

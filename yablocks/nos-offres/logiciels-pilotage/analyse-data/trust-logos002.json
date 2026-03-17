@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/trust/TrustLogos002",
+        "section": "offre/logiciels-pilotage/analyse-data/trust-logos002"
+    },
+    "data": {
+        "title": "Nous analysons vos données quelle que soit leur source",
+        "subtitle": "SCADA, ERP, historien, Excel ou papier — nous partons de ce que vous avez",
+        "logos": [
+            { "src": "/logos/ignition.png", "alt": "Ignition — historien de données industriel" },
+            { "src": "/logos/siemens.png", "alt": "Siemens — WinCC, SIMATIC" },
+            { "src": "/logos/rockwell.png", "alt": "Rockwell Allen-Bradley — FactoryTalk Historian" },
+            { "src": "/logos/wonderware.png", "alt": "AVEVA Wonderware — Historian" },
+            { "src": "/logos/schneider.png", "alt": "Schneider Electric — EcoStruxure" }
+        ]
+    }
+}

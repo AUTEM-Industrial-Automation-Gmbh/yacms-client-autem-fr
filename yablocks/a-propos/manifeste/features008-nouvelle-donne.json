@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "a-propos/manifeste/features008-nouvelle-donne"
+    },
+    "data": {
+        "title": "L'industrie 4.0 redéfinit les règles du jeu",
+        "content": "<ul><li><strong>Là où avant les machines tournaient en silos</strong>, la connectivité industrielle exige aujourd'hui une convergence complète entre l'OT (Operational Technology) et l'IT (Information Technology).</li><li>Là où avant un bon automaticien suffisait, les projets modernes requièrent une double compétence informatique et automatisme.</li><li>Là où avant les données restaient dans les automates, elles doivent maintenant remonter jusqu'au cloud pour piloter la performance globale.</li></ul><p>Parce que la révolution numérique s'accélère, <strong>rester sur des systèmes figés est devenu un risque opérationnel majeur</strong>. Chaque journée sans visibilité sur vos données machines est une opportunité d'optimisation perdue.</p><p>Chez AUTEM, nous pensons que la transformation digitale d'une usine doit être <strong>pragmatique, progressive et maîtrisée</strong> — en partant des vrais enjeux terrain, et non d'une vision hors-sol.</p>"
+    }
+}

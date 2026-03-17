@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/le-salaire-des-automaticiens/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "A Combien sont payés les automaticiens ?",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "6 min lecture",
+      "publishDate": "02/03/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Cycle de Vie et Gestion de l'Obsolescence | AUTEM",
+        "description": "AUTEM réalise vos audits d'obsolescence industrielle, cartographie votre patrimoine technique et établit votre plan de renouvellement pluriannuel — avant que la panne ne décide à votre place.",
+        "keywords": [
+            "gestion obsolescence industrielle",
+            "audit patrimoine technique",
+            "cycle de vie automate",
+            "plan de renouvellement équipements",
+            "fin de vie composants industriels",
+            "obsolescence SCADA automate",
+            "retrofit obsolescence",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./features004-probleme.json",
+        "./features009-definition.json",
+        "./process003-methode.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

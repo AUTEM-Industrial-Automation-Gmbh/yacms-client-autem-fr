@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/news-fevrier-2024/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "10/03/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6 | Blog AUTEM",
+    "description": "Actualités mensuelles de l'industrie 4.0 🏭 Commentée par un spécialiste de l'automatisation 👷‍",
+    "keywords": [
+      "Actualités TECH",
+      "Evolution de l'industrie",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

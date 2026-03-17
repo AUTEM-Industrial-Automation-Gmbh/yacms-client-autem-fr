@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/les-techniciens-fuient-lindustrie/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Réflexion: Les techniciens fuient les usines",
+    "tags": [
+      {
+        "label": "Actualités TECH",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "29/06/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

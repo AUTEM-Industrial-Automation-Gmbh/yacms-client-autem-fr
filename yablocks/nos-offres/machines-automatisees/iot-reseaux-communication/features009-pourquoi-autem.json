@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Automaticien et intégrateur réseau — pas un installateur de switchs.",
+        "paragraphs": [
+            {
+                "text": "Connecter des automates à un SCADA ou un MES, ça ne se réduit pas à brancher des câbles Ethernet. Il faut comprendre les protocoles terrain, l'architecture de sécurité OT, et les contraintes de la production. AUTEM intervient avec une double compétence automatisme + réseau — et livre une infrastructure documentée que vos équipes peuvent maintenir."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Double compétence automatisme + réseau : nous comprenons ce que vos automates disent — et pourquoi ils doivent le dire de manière sécurisée"
+            },
+            {
+                "text": "Agnostique protocole — nous choisissons OPC-UA, MQTT ou passerelle Modbus selon votre terrain réel, pas selon un catalogue produit"
+            },
+            {
+                "text": "Architecture réseau conçue dès le départ avec segmentation OT/IT — la cybersécurité n'est pas une option ajoutée à la fin"
+            },
+            {
+                "text": "Aucune affiliation constructeur — nous recommandons l'équipement réseau adapté, pas le plus avantageux à facturer"
+            },
+            {
+                "text": "Documentation réseau complète livrée : plan as-built, configurations sauvegardées, procédures de maintenance"
+            },
+            {
+                "text": "Formation de vos équipes IT et automaticiens pour une autonomie complète après livraison"
+            }
+        ],
+        "conclusion": "Le résultat : vos machines parlent entre elles, votre réseau est sécurisé et cartographié — et vos équipes savent exactement ce qui tourne sur leur infrastructure.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Ingénieur AUTEM — intégration réseau industriel OT/IT IoT"
+        },
+        "reverse": true
+    }
+}

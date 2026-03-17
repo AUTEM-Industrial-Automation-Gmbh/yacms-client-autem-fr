@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "4 min lecture",
+      "publishDate": "09/06/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

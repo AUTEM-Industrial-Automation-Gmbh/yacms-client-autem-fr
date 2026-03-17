@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/prove-it-la-conference-40/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Actus n°19 - Prove-it: la conférence 4.0",
+    "tags": [
+      {
+        "label": "Evenèments",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "25/02/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

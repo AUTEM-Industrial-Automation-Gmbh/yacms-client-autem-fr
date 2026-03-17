@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Are you missing your true identity ? | Blog AUTEM",
+    "description": "Let's explore 3 reason why you should probably take a turn in your career.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/logiciels-pilotage/mes-trs-oee/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/client-3-unilever.jpg",
+            "alt": "Projet Unilever Oise — intégration TRS MES production"
+        },
+        "quote": "Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système.",
+        "author": {
+            "name": "Responsable Production",
+            "role": "Unilever — Oise"
+        }
+    }
+}

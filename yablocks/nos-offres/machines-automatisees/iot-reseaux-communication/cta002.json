@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/cta002"
+    },
+    "data": {
+        "title": "Vos machines sont en silo ou votre réseau industriel n'est pas sécurisé ?",
+        "benefits": [
+            {
+                "icon": "globe",
+                "text": "Multiprotocole : OPC-UA, MQTT, Profinet, Modbus, BACnet, Ethernet/IP"
+            },
+            {
+                "icon": "shield",
+                "text": "Architecture VLAN sécurisée OT/IT, conformité NIS2 et IEC 62443"
+            },
+            {
+                "icon": "file-text",
+                "text": "Documentation réseau complète livrée à chaque projet"
+            }
+        ],
+        "cta": {
+            "text": "Discutons de votre architecture",
+            "link": "/contact"
+        }
+    }
+}

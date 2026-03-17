@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ? | Blog AUTEM",
+    "description": "ChatGPT dans l'industrie 4.0 : analyse de l'impact de l'IA sur les processus industriels",
+    "keywords": [
+      "IA & Machine Learning",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

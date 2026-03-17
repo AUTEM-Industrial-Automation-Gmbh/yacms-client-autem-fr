@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Audit cycle de vie équipements industriels — AUTEM"
+        },
+        "quote": "La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc.",
+        "author": {
+            "name": "Responsable Technique",
+            "role": "BEMA — Grenoble"
+        }
+    }
+}

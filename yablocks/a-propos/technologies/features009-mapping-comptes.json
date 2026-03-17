@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features009",
+    "section": "a-propos/technologies/features009-mapping-comptes"
+  },
+  "data": {
+    "overtitle": "SUPERVISION SCADA",
+    "title": "Ignition SCADA — Intégrateur certifié GOLD",
+    "paragraphs": [
+      {
+        "text": "AUTEM est intégrateur certifié GOLD Ignition by Inductive Automation, la plateforme SCADA moderne qui remplace les solutions vieillissantes par une supervision web, modulaire et sans licence par client."
+      },
+      {
+        "text": "Nous intervenons également sur les solutions WinCC (Siemens), WinCC OA, Wonderware / AVEVA System Platform — pour les migrations comme pour les nouveaux projets."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Ignition (Inductive Automation) — certifié GOLD Partner"
+      },
+      {
+        "text": "Siemens WinCC, WinCC OA"
+      },
+      {
+        "text": "Wonderware / AVEVA System Platform / InduSoft"
+      },
+      {
+        "text": "IHM, alarmes temps réel, historisation, rapports de production"
+      }
+    ],
+    "conclusion": "De la migration d'une supervision obsolète à la mise en place d'un SCADA complet from scratch, AUTEM réalise toutes les étapes : architecture, développement, tests et démarrage sur site.",
+    "image": {
+      "src": "/images/ignition-scada.jpeg",
+      "alt": "Supervision SCADA Ignition certifié GOLD AUTEM"
+    },
+    "reverse": true
+  }
+}

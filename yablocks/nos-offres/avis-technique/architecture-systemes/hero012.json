@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/avis-technique/architecture-systemes/hero012"
+    },
+    "data": {
+        "overtitle": "AVIS TECHNIQUE",
+        "title": "Architecture de Systèmes de Contrôle-Commande.",
+        "subtitle": "Vous devez choisir et structurer l'architecture de votre prochain système de production ? AUTEM conçoit des architectures d'automatisme indépendantes de tout constructeur — souveraines, scalables et documentées de bout en bout.",
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Architecture systèmes contrôle-commande automatisme industriel — AUTEM"
+        }
+    }
+}

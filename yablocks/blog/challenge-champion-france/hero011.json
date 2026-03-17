@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/challenge-champion-france/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "WorldSkills: challenge Industrie 4.0",
+    "tags": [
+      {
+        "label": "Evenèments",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "18/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/diagnostic-profinet-sur-reseau-siemens/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "PRONETA - Diagnostic PROFINET",
+        "paragraphs": [
+          {
+            "text": "Salut à toi et bienvenue sur AUTEM la chaîne de l’automatisme industriel. Je m’appelle Marc. Dans ce tutoriel on parle d’un outil qui s’appelle Proneta et qui permet de faire du diagnostic sur les réseaux profinet . Voici une présentation du logitiel."
+          },
+          {
+            "text": "Ce logiciel peut te permettre de soit détecter des défauts sur ton réseau profinet , ou bien avoir tout simplement un aperçu de la topologie en temps réel : savoir si tous les ports sont connectés au bon endroit ."
+          },
+          {
+            "text": "C'est un outil qui peut être pas mal, notamment si tu as beaucoup d'équipements Siemens sur ton site."
+          },
+          {
+            "text": "Là j'en ai mis quelques-uns en simulation et en physique pour te montrer un petit peu de volumétrie."
+          },
+          {
+            "text": "Mais avec Proneta tu peux tout simplement découvrir toute la topologie de ton site avec tous les appareils qui communiquent en profinet ."
+          },
+          {
+            "text": "Quand tu ouvres le logiciel, tu as plusieurs éléments qui apparaissent"
+          },
+          {
+            "text": "A gauche on a effectivement l'architecture matérielle avec les différents liens de connexion au niveau des ports (Voir image ci-dessus) ."
+          },
+          {
+            "text": "A droite tu as les descriptions de manière tabulaire de chacun des équipements ."
+          },
+          {
+            "text": "On a le nom du device , le type de device que c'est, les adresses IP et on a d'autres éléments un peu plus détaillés comme les numéros de software, les versions de firmware, les numéros de série ."
+          },
+          {
+            "text": "Là typiquement je suis sur un desktop qui est équipé de Proneta, qui est connecté en physique à un automate S7-1200."
+          },
+          {
+            "text": "Et ensuite en virtuel (en simulation) j'ai un S7-1500 qui tourne avec ses différents ports."
+          },
+          {
+            "text": "On voit ici les adresses IP qui sont configurées dans le LAN."
+          },
+          {
+            "text": "Quelque chose d'important quand tu utilises Proneta c'est que Proneta fait du scan actif, en utilisant des protocoles du type \"snmp lldp\" ."
+          },
+          {
+            "text": "Du coup, avant de l'utiliser surtout, sur ton réseau en production, vérifie avec le service IT que Proneta est bien autorisé sur le réseau usine."
+          },
+          {
+            "text": "Normalement il ne pose pas de problème d'arrêt machine, mais c'est toujours bien d'informer quand même l'IT, qu'ils ne soient pas surpris de voir que quelqu'un s'est connecté avec plein de trames qui partent dans tous les sens."
+          },
+          {
+            "text": "C'est un outil qui est assez pratique pour le dépannage , pour le diagnostic , et tu peux avoir en dynamique, l'état de ton réseau ."
+          },
+          {
+            "text": "C'est tout pour Proneta. Si tu as déjà utilisé l'outil Proneta, je serais intéressé d'avoir ton avis dans les commentaires."
+          },
+          {
+            "text": "A bientôt !"
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/proneta_1.png",
+          "alt": "proneta,siemens,protocol,profinet,network,system,industrialautomation,industry40,industrie40,tia portal,autem,marc akoto"
+        }
+      }
+    ]
+  }
+}

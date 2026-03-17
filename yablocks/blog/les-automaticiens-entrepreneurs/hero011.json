@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/les-automaticiens-entrepreneurs/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Les automaticiens entrepreneurs",
+    "tags": [
+      {
+        "label": "Machines Vintage",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "04/03/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

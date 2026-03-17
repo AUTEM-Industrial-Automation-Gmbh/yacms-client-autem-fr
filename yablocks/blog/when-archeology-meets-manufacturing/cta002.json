@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/when-archeology-meets-manufacturing/cta002"
+  },
+  "data": {
+    "title": "Un projet de retrofit ou modernisation ?",
+    "benefits": [
+      {
+        "icon": "refresh-cw",
+        "text": "Diagnostic et audit machines vieillissantes"
+      },
+      {
+        "icon": "tool",
+        "text": "Remplacement d'automates obsolètes"
+      },
+      {
+        "icon": "shield",
+        "text": "Pérennisation du parc machines industriel"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

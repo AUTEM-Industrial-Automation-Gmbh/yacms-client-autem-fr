@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "offre/logiciels-pilotage/analyse-data/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Projet ArcelorMittal Luxembourg — optimisation performance atelier usinage"
+        },
+        "quote": "L'analyse AUTEM a mis en évidence les véritables causes de nos pertes de performance. En quelques semaines, nous avions une feuille de route priorisée avec des gains chiffrés — et les premiers résultats étaient mesurables dès le mois suivant.",
+        "author": {
+            "name": "Directeur Industriel",
+            "role": "ArcelorMittal — Luxembourg"
+        }
+    }
+}

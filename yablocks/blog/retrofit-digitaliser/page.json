@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ? | Blog AUTEM",
+    "description": "Quelle est la priorité si l'on doit choisir entre faire un Rétrofit ou Digitaliser ?",
+    "keywords": [
+      "Gestion Projet Stratégique",
+      "Cycle de Vie et Obsolescence",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

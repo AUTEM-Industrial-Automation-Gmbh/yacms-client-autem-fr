@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/news-aout-2024/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Pour cette actualité d'été, nous allons parler de 4 sujets : Beremiz, un logiciel Open Source pour l'automatisme, Dangote, Microsoft et Ariane 6 ."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/7HJ-QPlApr8?si=OknlfucAUx5g9WYf"
+      },
+      {
+        "heading": "Incident Microsoft",
+        "paragraphs": [
+          {
+            "text": "Une nouvelle qui va parler à beaucoup d'entre vous, c'est le crash de Microsoft. Le 19 juillet, tous les services liés à Microsoft sont tombés en panne, et pendant un certain moment, beaucoup de serveurs ont été redémarrés à cause d'un petit dispositif appelé Crowdstrike qui gère la sécurité. Concrètement, ce n'était pas une cyberattaque, mais plutôt un bug technique lié à un service qui forçait Windows à redémarrer parce qu'il avait l'impression qu'il était dans une configuration de bug."
+          },
+          {
+            "text": "Avec cette actualité, je dirais que nous ne sommes pas à l'abri de soucis techniques et que ce genre de chose peut arriver plus rapidement que l'on ne le croit. Et pour y remédier, il faut d'abord se faire aider et surtout se préparer, anticiper ."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (05min:05s)",
+            "href": "https://www.youtube.com/live/7HJ-QPlApr8?t=165s"
+          }
+        ]
+      },
+      {
+        "heading": "Beremiz - Soft. Open-Source pour automate",
+        "paragraphs": [
+          {
+            "text": "La deuxième actualité concerne un logiciel de programmation d'automate qui est entièrement Open Source. Développé par Edouard TISSERANT depuis 2006, tous les éléments sont Open Source. Vous y retrouverez tous les langages de l'IEC : Grafcet, Blocs Fonctions, Texte Structuré... Vraiment un logiciel très complet."
+          },
+          {
+            "text": "Ce logiciel a été créé en réponse au fait qu'il n'y a pas suffisamment de logiciels libres. C'est pareil pour le domaine des télécommunications. Avec Beremiz et d'autres logiciels, c'est une très bonne initiative."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Edouard TISSERANT",
+            "href": "https://www.linkedin.com/in/etisserant/"
+          },
+          {
+            "text": "Consulter | Vidéo (09min:57s)",
+            "href": "https://www.youtube.com/live/7HJ-QPlApr8?t=470s"
+          }
+        ]
+      },
+      {
+        "heading": "Le projet Ariane 6",
+        "paragraphs": [
+          {
+            "text": "Troisième actualité : Ariane, les fusées européennes, reprennent du service. C'est une bonne nouvelle, d'autant plus que cette avancée couvre presque tous les domaines de l'automatisme."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (03min:41s)",
+            "href": "https://www.youtube.com/live/7HJ-QPlApr8?t=1067s"
+          }
+        ]
+      },
+      {
+        "heading": "Aliko Dangote - Raffinerie de pétrole",
+        "paragraphs": [
+          {
+            "text": "Dernière actualité autour de Dangote, qui a lancé une raffinerie de pétrole , la plus grande raffinerie du continent africain. C'est une raffinerie qui produit à peu près la moitié de la consommation du Royaume-Uni, soit 650 000 barils par jour. Ce qui est suffisant pour approvisionner tout le Nigéria."
+          },
+          {
+            "text": "Cela attire beaucoup d'investisseurs, mais aussi de critiques. Par exemple, l'État du Nigéria a émis un décret interdisant à quiconque de vendre du pétrole brut à la raffinerie Dangote, ce qui semble improbable."
+          },
+          {
+            "text": "La principale raison de cette critique est le monopole."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (10min:06s)",
+            "href": "https://www.youtube.com/live/7HJ-QPlApr8?t=1288s"
+          }
+        ]
+      }
+    ]
+  }
+}

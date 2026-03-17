@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "title": "IoT, Réseaux & Communication Industrielle | AUTEM",
+        "description": "AUTEM connecte vos machines, protocoles et systèmes industriels entre eux. OPC-UA, MQTT, BACnet, Profinet, Modbus, VLAN — intégration réseau OT/IT et sécurité ICS pour vos usines.",
+        "keywords": [
+            "IoT industriel",
+            "OPC-UA",
+            "MQTT industriel",
+            "Profinet",
+            "Modbus TCP",
+            "communication industrielle",
+            "réseau OT IT",
+            "segmentation VLAN",
+            "cybersécurité ICS",
+            "AUTEM"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../../_shared/navigation.json",
+        "./hero012.json",
+        "./about001.json",
+        "./features001.json",
+        "./features010-protocoles.json",
+        "./features002-demarche.json",
+        "./trust-logos002.json",
+        "./stats001.json",
+        "./features009-pourquoi-autem.json",
+        "./testimonial003.json",
+        "./faq001.json",
+        "./cta002.json",
+        "../../../_shared/footer.json"
+    ]
+}

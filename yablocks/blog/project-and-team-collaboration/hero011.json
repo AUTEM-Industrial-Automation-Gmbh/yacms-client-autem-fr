@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/project-and-team-collaboration/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Project & Team Collaboration in manufacturing",
+    "tags": [
+      {
+        "label": "Gestion Projet Stratégique",
+        "type": "secteur"
+      },
+      {
+        "label": "Astuces Carrière",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "03/06/25",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

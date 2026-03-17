@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/stats/Stats001",
+    "section": "a-propos/manifeste/stats001"
+  },
+  "data": {
+    "stats": [
+      {
+        "value": "10",
+        "label": "Années d'expérience en automatisme industriel",
+        "suffix": "+"
+      },
+      {
+        "value": "15",
+        "label": "Clients accompagnés en France et à l'international",
+        "suffix": "+"
+      },
+      {
+        "value": "8",
+        "label": "Secteurs couverts : Luxe, Logistique, Chimie, Agroalimentaire...",
+        "suffix": ""
+      }
+    ]
+  }
+}

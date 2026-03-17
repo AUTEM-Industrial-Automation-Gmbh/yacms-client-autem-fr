@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Open-Source & Industrie 4.0 | Blog AUTEM",
+    "description": "Découvrez comment l'utilisation de logiciels open-source peut aider à accélérer la transformation numérique de l'industrie 4.0 et à améliorer l'efficacité opérationnelle.",
+    "keywords": [
+      "Architecture Systèmes",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

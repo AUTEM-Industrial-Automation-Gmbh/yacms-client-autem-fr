@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'audit à la remise en service : 5 étapes pour une migration réussie",
+        "steps": [
+            {
+                "title": "Audit & Inventaire",
+                "description": "Inventaire complet de l'infrastructure : matériel, OS, logiciels, versions, licences, connexions réseau et dépendances applicatives. Identification des risques et des contraintes de migration.",
+                "icon": "search"
+            },
+            {
+                "title": "Configuration Matérielle",
+                "description": "Installation et configuration du nouvel IPC : pilotes, réseau, services Windows, durcissement OS, gestion des droits et intégration dans l'architecture existante.",
+                "icon": "cpu"
+            },
+            {
+                "title": "Migration Logicielle",
+                "description": "Portage du projet existant vers la nouvelle version ou la nouvelle plateforme. Tests de cohérence, conversion des écrans, validation des alarmes, des tags et des historiques.",
+                "icon": "layers"
+            },
+            {
+                "title": "Tests & Validation",
+                "description": "Tests fonctionnels complets en plateforme : simulation des communications automates, validation des séquences HMI et SCADA, tests de reprise après panne.",
+                "icon": "check-circle"
+            },
+            {
+                "title": "Mise en service & Formation",
+                "description": "Déploiement sur site lors d'un arrêt planifié minimal, basculement rapide en production, formation des équipes opérateurs et maintenance sur le nouvel environnement.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

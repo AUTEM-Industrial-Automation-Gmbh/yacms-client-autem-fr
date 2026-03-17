@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/features009-definition"
+    },
+    "data": {
+        "overtitle": "CYCLE DE VIE & OBSOLESCENCE",
+        "title": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
+        "paragraphs": [
+            {
+                "text": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur"
+            },
+            {
+                "text": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance"
+            },
+            {
+                "text": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible"
+            },
+            {
+                "text": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées"
+            },
+            {
+                "text": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie"
+            },
+            {
+                "text": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance"
+            }
+        ],
+        "conclusion": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",
+        "image": {
+            "src": "/images/homa-appliances.jpg",
+            "alt": "Audit obsolescence équipements industriels — cartographie cycle de vie AUTEM"
+        },
+        "reverse": false
+    }
+}

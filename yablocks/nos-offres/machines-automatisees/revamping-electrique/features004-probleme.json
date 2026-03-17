@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/machines-automatisees/revamping-electrique/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/eplan.png",
+                "alt": "EPlan — schémas électriques industriels"
+            },
+            {
+                "src": "/logos/pilz.png",
+                "alt": "Pilz — sécurité machine SIL"
+            },
+            {
+                "src": "/logos/sew.png",
+                "alt": "SEW-Eurodrive — Movitrac, Movidrive"
+            }
+        ],
+        "headline": "Votre machine tourne. Mais sur quelle infrastructure électrique ?",
+        "paragraphs": [
+            {
+                "text": "Un variateur hors catalogue depuis 5 ans. Des schémas électriques papier introuvables, ou pire — inexistants. Un tableau câblé par un prestataire inconnu il y a 15 ans, avec des modifications non documentées. Des sécurités machine qui n'ont jamais été auditées formellement. Voilà l'héritage électrique de la plupart des lignes de production industrielles."
+            },
+            {
+                "text": "Ce n'est pas un reproche — c'est la réalité de l'industrie. Les machines évoluent, les intervenants changent, les constructeurs discontinuent les pièces, et la documentation part avec le prestataire d'origine. Le résultat : une installation que personne ne maîtrise vraiment, et dont la fiabilité tient à l'expérience accumulée d'un ou deux techniciens internes."
+            },
+            {
+                "text": "Le revamping électrique n'est pas un simple remplacement de matériel. C'est l'occasion de reprendre la main sur l'infrastructure complète : remettre à niveau les variateurs et axes motion, mettre la sécurité machine en conformité SIL, réécrire les schémas dans un outil professionnel, et transmettre une documentation que vos équipes pourront maintenir."
+            }
+        ],
+        "closing": "Après un revamping AUTEM, tout est connu, documenté, et maintenable par vos équipes."
+    }
+}

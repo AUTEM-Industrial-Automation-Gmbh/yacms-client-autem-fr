@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/edge-benchmark-comparatif/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Intro et Présentation",
+        "paragraphs": [
+          {
+            "text": "Nouveau benchmark comparatif cette semaine sur le EDGE Computing dans le but de vous aider dans le choix d'une solution EDGE: TwinCAT/BSD , solution de Beckhoff , CtrlX , solution de Rexroth , Edge Controller , solution de Wago et Edge Controller , solution de Opto22 , solution de Wago . Un comparatif très intéressant, présenté par des experts et se basant sur quelques critères importants : Connectivité, Déploiement, Portabilité, Cloud, Modularité, BDD, Web, IDE dev, Support, Licensing, Coûts initiaux et récurrents, Maintenabilité, Stabilité, Sécurité . Pour recevoir ce benchmark contactez Marc Akoto"
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/kkrST-cKWOc?si=iCJTh9yq5sebS16V"
+      },
+      {
+        "heading": "Qu'est ce que le EDGE ?",
+        "paragraphs": [
+          {
+            "text": "Le Edge computing peut être défini comme un compromis entre le monde informatique et le monde industriel. Il s'agit d'une approche visant à gérer le temps réel de manière fiable dans un environnement industriel tout en exploitant la puissance et l'ouverture des applications et des services Web au plus près des machines. En d'autres termes, le Edge computing consiste à connecter les machines à des services Web et des serveurs tout en permettant le déploiement d'applications sur le terrain, avec un accent sur la compétence nécessaire pour mettre en œuvre cette technologie et sur la facilité d'interconnexion entre les systèmes informatiques et les systèmes d'automatisation."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Comparatif Hardware & OS",
+        "paragraphs": [
+          {
+            "text": "Sur le critère \" Hardware & OS \", la solution CtrlX de Rexroth et TwinCAT/BSD de Beckhoff s'en sortent bien avec une note de 5 points . Wago et Opto22 s'en sortent avec un total de 4 points, note attribuée à cause de certaines remarques: manque de device all-in-one chez Wago et manque de Docker natif chez Opto22 ."
+          },
+          {
+            "text": "Sur le critère \" installation, Démarrage \", le point important va être la cible: est-ce que l'installation devra être effectuée par un automaticien ou par un informaticien ? Pour ce qui est de Wago, le Wago computer sera beaucoup plus dédié à un prfil informaticien tandis que les solutions CtrlX, TwinCAT/BSD et Groov Epic seront plus dédiées aux automaticiens ."
+          },
+          {
+            "text": "Sur le critère de \" l'interopérabilité \", chacune des solutions offre une portabilité avec Codesys . Opto22 ne propose pas de Docker pour faire tourner une application tierce et il faut également noté que les solution de Beckhoff et Opto22 ne se déploient que sur leur propre matériel ."
+          },
+          {
+            "text": "Critère \" Modularité \", chaque solution propose une option pour un développement spécifique . Pas de Motion chez Opto22. Rexroth et Beckhoff se distinguent encore par une modularité plus étendue ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Comparatif Com. & DB",
+        "paragraphs": [
+          {
+            "text": "En ce qui concerne la Connectivité , dans une perspective EDGE/M2M , chaque solution propose une gamme variée de protocoles. Cependant, le choix des protocoles peut dépendre des cas d'utilisation ou des préférences en fonction du marché cible (bâtiment, eau, industrie lourde, machines spécialisées, etc.) ."
+          },
+          {
+            "text": "Pour ce qui est de la Gestion des Bases de Données , le timeseries DB n'est pas natif chez Wago et Opto22."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Comparatif Comparatif Applicatif",
+        "paragraphs": [
+          {
+            "text": "Pour le Web , toutes les solutions proposent du HTML5. Opto22, cependant, se démarque avec un webvisu standard particulièrement riche, inspiré du monde SCADA (Ignition) ."
+          },
+          {
+            "text": "En ce qui concerne la Mobilité , toutes les solutions offrent une accessibilité via le Web et un client VPN . Rexroth offre un avantage supplémentaire en permettant de monitorer une flotte de dispositifs ."
+          },
+          {
+            "text": "Pour le critère Support + Formation , toutes les solutions offrent un support, une base de connaissances et des options de formation . Les solutions de Beckhoff et de Rexroth permettent même une simulation complète grâce à l' accès au SDK ."
+          },
+          {
+            "text": "En ce qui concerne les coûts matériels et les licences, le prix public est équivalent pour toutes les solutions. Wago se distingue par une licence gratuite . Du côté du matériel Opto22, le coût pourrait être plus avantageux s'il était amorti par une utilisation hybride entre PLC et SCADA ."
+          },
+          {
+            "text": "En ce qui concerne la Référence et l'ancienneté , Beckhoff se classe en première position avec la solution EDGE TwinCAT, qui existe depuis 1996."
+          },
+          {
+            "text": "En ce qui concerne la Sécurité + Stabilité , toutes les solutions proposent des fonctionnalités réseau natives et un matériel industriel robuste."
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Pour obtenir ce Benchmark contact 👉 Marc Akoto | ✉️ Mail"
+            },
+            {
+              "text": "Benchmark Comparatif SCADA | 📽️ Vidéo"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Benchmark Comparatif SCADA | Vidéo",
+            "href": "https://youtube.com/live/Q1jPnK36NQo"
+          }
+        ]
+      }
+    ]
+  }
+}

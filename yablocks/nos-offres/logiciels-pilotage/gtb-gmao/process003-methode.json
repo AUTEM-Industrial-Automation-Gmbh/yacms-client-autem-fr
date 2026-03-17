@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/process/ProcessStep003",
+        "section": "offre/logiciels-pilotage/gtb-gmao/process003-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De l'audit bâtiment à la maintenance pilotée par les données : 4 étapes",
+        "steps": [
+            {
+                "title": "Audit infrastructure & équipements",
+                "description": "Inventaire des équipements du bâtiment industriel (CVC, énergie, utilités, éclairage), des protocoles de communication disponibles et des données déjà collectées. Identification des équipements candidats à la maintenance préventive et des gisements d'économies énergétiques.",
+                "icon": "search"
+            },
+            {
+                "title": "Architecture GTB & intégration",
+                "description": "Conception de l'architecture de supervision bâtiment : passerelles BACnet/Modbus, configuration des points de mesure, structure de données énergie. Intégration dans Ignition avec tableaux de bord énergie par zone, courbes de tendance et alarmes de dérive.",
+                "icon": "settings"
+            },
+            {
+                "title": "Paramétrage GMAO & automatisation",
+                "description": "Configuration de la GMAO : import des équipements, définition des plans de maintenance préventive, paramétrage des déclencheurs automatiques depuis les données terrain. Mise en place des workflows OT (création, affectation, clôture, compte-rendu d'intervention).",
+                "icon": "layers"
+            },
+            {
+                "title": "Formation & mise en production",
+                "description": "Formation des équipes maintenance sur l'interface GMAO et les tableaux de bord énergétiques. Formation des techniciens de bâtiment sur la supervision GTB. Livraison de la documentation complète et support au démarrage.",
+                "icon": "book-open"
+            }
+        ]
+    }
+}

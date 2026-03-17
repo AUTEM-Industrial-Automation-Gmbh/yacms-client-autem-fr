@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/avis-technique/assistance-projets/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience en pilotage et assistance technique de projets industriels",
+                "suffix": "+"
+            },
+            {
+                "value": "15",
+                "label": "Projets accompagnés en France et à l'international comme représentant technique client",
+                "suffix": "+"
+            },
+            {
+                "value": "6",
+                "label": "Secteurs couverts pour des missions d'AMOA : logistique, luxe, mobilité, chimie, agroalimentaire, métallurgie",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des projets livrés avec FAT et SAT documentés, dossier de fin d'affaire complet",
+                "suffix": "%"
+            }
+        ]
+    }
+}

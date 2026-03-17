@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/content/cta/Cta002",
+    "section": "blog/gmao/cta002"
+  },
+  "data": {
+    "title": "Un projet de maintenance ou GTB ?",
+    "benefits": [
+      {
+        "icon": "tool",
+        "text": "Déploiement GMAO et gestion des interventions"
+      },
+      {
+        "icon": "activity",
+        "text": "Monitoring énergétique et GTB bâtiment"
+      },
+      {
+        "icon": "clock",
+        "text": "Réduction des temps d'arrêt machine"
+      }
+    ],
+    "cta": {
+      "text": "Discutons de votre projet",
+      "link": "/contact"
+    }
+  }
+}

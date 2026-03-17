@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/ladder-et-process-control-programmation-et-opensource/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Pour ce mois de janvier 2025, on va parler de PLC Fiddle et de Proview . PLC Fiddle est un petit simulateur de programme automate LADDER qui est intéressant. Et ensuite on parlera de Proview, un système de Proccess Control, l'équivalence d'un DCS/SNCC en OpenSource."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/GYOQCSvrP-M?si=BZ5Q_lt4udbtRjUb"
+      },
+      {
+        "heading": "PLC Fiddle",
+        "paragraphs": [
+          {
+            "text": "PLC Fiddle est un petit simulateur intégré dans un site web qui vous permet de du langage LADDER à vos collègues qui ne savent pas du tout à quoi cela ressemble. Vous trouverez sur ce simulateur, un petit parcours de formation sur le langage LADDER; puis, vous pouvez aussi vous entraîner en rajoutant des signaux pour faire un peu plus de choses."
+          },
+          {
+            "text": "Un bon moyen pour s'entraîner. Maintenant, il n'y a plus d'excuse pour ne pas connaître le langage LADDER 😎."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (02min:40s)",
+            "href": "https://www.youtube.com/watch?v=GYOQCSvrP-M&t=68s"
+          },
+          {
+            "text": "PLC Fiddle | Site web",
+            "href": "https://www.plcfiddle.com/code-school"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "PLC Fiddle | 🌍 Site web"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "ProviewR",
+        "paragraphs": [
+          {
+            "text": "Pour cette technologie, un grand MERCI à Benoit Soliman . Proview est un système SNCC - Système Numérique de Contrôle Commande. Le logiciel est OpenSource, et une documentation est fournie. Le logiciel est bien fonctionnel."
+          },
+          {
+            "text": "Pour des petites unités industrielles ou des sites qui ont juste envie de lancer un système de contrôle fonctionnel, ce logiciel peut faire l'affaire. Il convient aussi à des intégrateurs qui ont envie de développer l'approche OpenSource."
+          },
+          {
+            "text": "Découvrez l'intégralité de cette actualité ici :"
+          },
+          {
+            "text": "Liens utiles"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Benoit Soliman",
+            "href": "https://www.youtube.com/@benoitsoliman7059"
+          },
+          {
+            "text": "Consulter | Vidéo (04min:25s)",
+            "href": "https://www.youtube.com/watch?v=GYOQCSvrP-M&t=228s"
+          },
+          {
+            "text": "ProviewR | Site web",
+            "href": "http://proview.se/doc/en_us/qguide_f.html"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "ProviewR | 🌍 Site web"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

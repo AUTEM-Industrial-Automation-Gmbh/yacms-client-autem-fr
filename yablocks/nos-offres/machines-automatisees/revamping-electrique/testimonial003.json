@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "offre/machines-automatisees/revamping-electrique/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Projet ArcelorMittal Luxembourg — optimisation atelier d'usinage"
+    },
+    "quote": "AUTEM a réalisé une analyse complète de notre installation électrique et remis à niveau les variateurs de l'atelier d'usinage. Le travail était propre, documenté, et les performances machines ont été immédiatement mesurables. Exactement ce que nous attendions d'un partenaire technique de confiance.",
+    "author": {
+      "name": "Responsable Maintenance",
+      "role": "ArcelorMittal — Luxembourg"
+    }
+  }
+}

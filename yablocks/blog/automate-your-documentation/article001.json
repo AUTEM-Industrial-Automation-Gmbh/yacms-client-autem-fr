@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/automate-your-documentation/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Why it is important to automate your documentation ? We all know that, sitting and writing your documentation is not the best or the most exciting activity in engineering but it's very important, first of all for the end user or for us internally just to make sure we don't forget what we have done. And, really like in that series, if noticed I'm exploring all the activities related to knowledge based documentation because I really see where it can bring a lot of value, a lot of differentiation in the business. Basically, the idea is to tell you that's it is really important to not just take for granted documentation, but to really own that activity as a way for you to leverage your business."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/Mklhs3BIxvQ?si=6jpSRBL-5HqnAhwI"
+      },
+      {
+        "heading": "Reason 1 - Time saving",
+        "paragraphs": [
+          {
+            "text": "First of all, automate your documentation is important for time saving . When you have manual writing documentation to, you know that it can take an afternoon, a day, may be few day, few weeks sometimes and if you have a way to take the inputs and have an automated workflow to create some output out of it, it will be really a big gain in your activity. In order to save some time, it's important to automate your documentation workflow."
+          },
+          {
+            "text": "The entire section can be found in this following link:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (0 min : 31 s)",
+            "href": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=52s"
+          }
+        ]
+      },
+      {
+        "heading": "Reason 2 - Your own knowledge",
+        "paragraphs": [
+          {
+            "text": "We all know that in the engineering business, kwonledge is really the core asset. And even if you take the example for instance of your own money, and you don't have access to those accounts, that means you don't have access to your money. It's the same with kwonledge. If you don't have access to the places or the tools or the format where it is stored, you can already know that your knowledge is basically locks somewhere. And it is really important to be conscious on how we manage, how we version, how we store our knowledge, our documents because it's really what makes difference between a standard engineering approach and a really like top level engineering. So make sure you document your things and make sure the workflow for documented is automatic because it will help you on leveraging your knowledge as an asset in the engineering business."
+          },
+          {
+            "text": "The entire section can be found in this following link:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (01 min : 00 s)",
+            "href": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s"
+          }
+        ]
+      },
+      {
+        "heading": "Reason 3 - For the future",
+        "paragraphs": [
+          {
+            "text": "We have documented let's say your past activities, in present, you already documented your activities, then, if you really want to be ready for the future for instance to leverage tools like AI, machine learning, you need a base, you need an input and that input is the automated document that you will generate on a daily basis and if you already implemented a way to take that, take your notes into like clear formatting and clear automated workflow, it will be better for you in the future, to speed up your engineering task and leverage tools like AI. So really important to automate that workflow for the future of your activity."
+          },
+          {
+            "text": "The entire section can be found in this following link:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (0 min : 49 s)",
+            "href": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=83s"
+          }
+        ]
+      },
+      {
+        "heading": "Markdown Text format",
+        "paragraphs": [
+          {
+            "text": "The entire section can be found in this following link:"
+          },
+          {
+            "text": "Usefull link here: More Markdown use case by Leonardo Castorina"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "First reason for using Markdown is because, text is really the format of the digital era . If you take tools like AI or even programming langages, all of those are based on text. So if you take the habit of thinking in terms of text and writing in terms of text intead of diagrams, pictures, you really positionning yourself in the digital era because those text, those notes, that you are taking in Markdown format will be ready to use by some advanced tool. So, really make sure that it's int the text format that your are documenting your activities because that's what we will be using now and in the future."
+            },
+            {
+              "text": "Second reason why we use Markdown format is because there is an approach which is called data first, format second and if you take the media format for instance images, audio formats even diagrams, they are all kind of locked, by the proprietary format. You will need some application to open those. instead, if you use some native markdown text, you already know that this format can be used in any kind of application. And therefor, you really put the focus on the information which is inside instead of putting the focus on the format of that information."
+            },
+            {
+              "text": "Third reason why we use Markdown format is for storage because it's compatible with all file systems either Windows, Mac or Linux. It's natively compatible with all type of storage system."
+            },
+            {
+              "text": "Fourth reason why we use Markdown format is the versioning . You know that for programming or for any type of Git versioning you will need some text because that's what Git will analyze to process your push, pull or merge requests. And if you have your documentation already in the format of text, then you know that the versioning will be better. You will be able to really understand like what was the history of modification in your documents and this really brings you to the next level because there are very few application which provide a format which is compatible with all kind of software and also a format which is compatible with the versioning and natively the Markdown text can be compatible with versioning tools which is also a good thing."
+            },
+            {
+              "text": "Finally, the last reason why we prefer to use the Markdown format is the the interoperability If you take all existing tools right now on the market, the main format for import and export is Markdown. And there is a reason for that: it's because it's can be understood by any type of programming language. Even if you program your own Python scriot for exporting or importing data, you can really use the Markdown format as your central format for all the routing. You can take some word documents, import them and save them as Markdown and export them as PDF or as JSON. The thing is to having everything centralized in Markdown is really something which can help you interact with all type of software or all type of application."
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Visualize | Vidéo (6 min : 06 s)",
+            "href": "https://www.youtube.com/watch?v=Mklhs3BIxvQ&t=192s"
+          },
+          {
+            "text": "More Markdown use case by Leonardo Castorina",
+            "href": "https://medium.com/better-humans/obsidian-tutorial-for-academic-writing-87b038060522"
+          }
+        ]
+      }
+    ]
+  }
+}

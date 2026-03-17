@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Evolution dans l'industrie:carrière, automatisme et communauté | Blog AUTEM",
+    "description": "Retour aux Origines avec Hocine BOUCHEMAL, Bertrand AYENE, Bourahima KAMAGATE, Giovanni AGBOCOU, Veysel DOGANEL",
+    "keywords": [
+      "Automation",
+      "Astuces Carrière",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

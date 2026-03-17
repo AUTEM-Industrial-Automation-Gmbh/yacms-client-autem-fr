@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/logiciels-pilotage/ignition-scada/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "Gold",
+                "label": "Certification Inductive Automation — niveau de certification le plus exigeant",
+                "suffix": ""
+            },
+            {
+                "value": "6",
+                "label": "Plateformes SCADA maîtrisées pour les nouvelles installations et migrations",
+                "suffix": "+"
+            },
+            {
+                "value": "10",
+                "label": "Années d'expérience en supervision industrielle",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des projets livrés avec documentation complète et code versionné",
+                "suffix": "%"
+            }
+        ]
+    }
+}

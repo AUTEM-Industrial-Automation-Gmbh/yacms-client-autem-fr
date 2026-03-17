@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/actualites-tech-mqtt-azure-tesla-ia-and-industrie/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Beaucoup de choses se passent dans le monde de l'industrie 4.0. Aujourd'hui, pour faire une petite revue d'actualité sur ces nouveautés, je partagerai avec toi 5 innovations que j'ai trouvées intéressantes pour ce mois de mai 2023."
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/leByoAW2TyI"
+      },
+      {
+        "heading": "Google Cloud",
+        "paragraphs": [
+          {
+            "text": "Un incendie à Paris dans l'un des data centers de Google a généré presque deux semaines de pannes sur l'un des services de Google (Cloud NAT, Database Service sur le cluster Europe-Zest9). En quoi cela nous concerne en tant qu'automaticien et de l'industrie : c'est principalement tout ce qui concerne les infrastructures qui sont déployées en Cloud (publique ou privé) . Pour moi, c'est un peu trop rapide de dire que le Cloud est moins sécurisé que des infrastructures localisées (Communément appelé : On-Premise). Pourquoi ? Tout simplement parce que l'On-Premise n'offre pas beaucoup de retour d'expérience : l'ensemble des pannes est géré en privé. En gros, personne n'est à l'abri d'incident (réseau, incendie ou autres) car même sur des infrastructures privées, on a les mêmes problématiques, juste que tout n'est pas géré par les mêmes personnels et il ne faut pas aller vite dès qu'il y a un incident pour jeter l'opprobre sur les solutions SaaS. Le cloud vient avec ses avantages comme des déploiements sur plusieurs sites à la fois avec des redondances plus évoluées. On peut tester des solutions modernes à l'échelle avec la performance qui correspond aux dernières technologies. Liens Utiles pour cette actualité Incident Google cloud à Paris | Impact - 🌍 Site web Incident Google cloud à Paris | Article - 🌍 Site web"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Incident Google cloud à Paris | Impact - Site web",
+            "href": "https://twitter.com/rbeneduci/status/1651223224192040965"
+          },
+          {
+            "text": "Incident Google cloud à Paris | Article - Site web",
+            "href": "https://www.lebigdata.fr/data-center-panne"
+          }
+        ]
+      },
+      {
+        "heading": "Robotique no-code avec Intrinsic AI",
+        "paragraphs": [
+          {
+            "text": "Intrinsic AI, une solution de robotique No-Code, lancée en plein milieu du mois et soutenue par Google, est une plateforme de simulation robotique permettant de tester des fonctionnements et de programmer le robot sans avoir besoin de rentrer dans le code natif du robot. L'objectif à terme est de pouvoir réaliser du No-Code en robotique pour tout type de robot ."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Robotique no-code avec Intrinsic AI | 🌍 Site web"
+            },
+            {
+              "text": "Robotique no-code avec Intrinsic AI | 📽️ Vidéo"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "Robotique no-code avec Intrinsic AI | Site web",
+            "href": "https://intrinsic.ai/"
+          },
+          {
+            "text": "Robotique no-code avec Intrinsic AI | Vidéo",
+            "href": "https://www.youtube.com/watch?v=0aLVa7lbo2U&t=0s"
+          }
+        ]
+      },
+      {
+        "heading": "Azur Event Grid",
+        "paragraphs": [
+          {
+            "text": "Azure Event Grid est un canal qui sert à collecter des données massives qui proviennent de différentes sources afin qu'elles puissent arriver sur des applications déployées en SaaS chez Azure en tant que souscripteur. Le 23 mai, Azure lance une nouvelle fonctionnalité sur ce module : la mise en place de l'option MQTT . Grâce à cette nouvelle fonctionnalité, nous avons un flux MQTT et, de plus, ce connecteur se comporte comme un broker MQTT ."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "MQTT sur Azure Event Grid | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "MQTT sur Azure Event Grid | Site web",
+            "href": "https://learn.microsoft.com/fr-fr/azure/event-grid/mqtt-overview"
+          }
+        ]
+      },
+      {
+        "heading": "TESLA/Ford : IoT des superchargeurs, Digitalisation et intégration à la facturation Ford",
+        "paragraphs": [
+          {
+            "text": "Ford annonce (le 25 mai) leur compatibilité avec les superchargeurs de Tesla - on parle donc de véhicule électrique - et la disponibilité du connecteur Tesla chez eux. Pour nous qui sommes dans l'automatisme industrielle, qui dit charge dit facturation . Et donc, en terme d'IoT, de connectivité et d'automatisation, Tesla a certainement mis en place tout ce qu'il faut pour que la plateforme qui gère la flotte de chargeurs soit nativement connectable avec d'autres utilisateurs (des utilisateurs Tesla ou d'autres concurrents)."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "TESLA/Ford | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "TESLA/Ford | Site web",
+            "href": "https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html"
+          }
+        ]
+      },
+      {
+        "heading": "PaaS Plantformance x St-Gobain : Levée de fonds",
+        "paragraphs": [
+          {
+            "text": "Plantformance a mis en place une plateforme: Hardware as a Service ou Platform as a Service ou Edge as a Service qui permet d'équiper les industriels avec de l'infrastructure informatique déjà prête à l'emploi pour déployer des applicatifs ( SCADA, MES, IoT ). Le concept est génial car on ne retrouve pas beaucoup de personnes faisant de l'infogérance adaptée aux contraintes de disponibilité et de sécurité de l'industrie . Ils ont tissé un partenariat avec une des entités de Saint-Gobain qui s'appelle NOVA et qui a pris des parts dans Plantformance pour pouvoir nourrir la croissance."
+          },
+          {
+            "text": "Liens Utiles pour cette actualité"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "PaaS Plantformance | 🌍 Annonce officielle"
+            },
+            {
+              "text": "PaaS Plantformance | 🌍 Site web"
+            }
+          ]
+        },
+        "links": [
+          {
+            "text": "PaaS Plantformance | Annonce officielle",
+            "href": "https://www.nova-saint-gobain.com/newsroom/plantformance-ag-raises-growth-equity-round-saint-gobain"
+          },
+          {
+            "text": "PaaS Plantformance | Site web",
+            "href": "https://www.plantformance.com/"
+          }
+        ]
+      }
+    ]
+  }
+}

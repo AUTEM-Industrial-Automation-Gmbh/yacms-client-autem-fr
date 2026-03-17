@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "When Archeology meets Manufacturing | Blog AUTEM",
+    "description": "Are Dinosaure Machines the Best ? Let's explore the question.",
+    "keywords": [
+      "Evolution de l'industrie",
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

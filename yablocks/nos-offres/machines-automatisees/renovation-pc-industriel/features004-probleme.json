@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features004",
+        "section": "offre/machines-automatisees/renovation-pc-industriel/features004-probleme"
+    },
+    "data": {
+        "badges": [
+            {
+                "src": "/logos/siemens.png",
+                "alt": "Siemens IPC & WinCC"
+            },
+            {
+                "src": "/logos/wincc.png",
+                "alt": "Siemens WinCC — supervision"
+            },
+            {
+                "src": "/logos/ignition.png",
+                "alt": "Ignition SCADA — Inductive Automation"
+            }
+        ],
+        "headline": "Un PC industriel hors support n'est pas un risque — c'est une bombe à retardement.",
+        "paragraphs": [
+            {
+                "text": "Windows XP, Windows 7, Windows Embedded CE : des millions de PC industriels tournent encore sur des systèmes d'exploitation abandonnés par Microsoft. Aucun correctif de sécurité, aucun patch, aucune mise à jour. Et pourtant, ces machines continuent de piloter des lignes de production entières."
+            },
+            {
+                "text": "Le vrai problème n'est pas l'OS : c'est le logiciel dessus. WinCC V6/V7, InduSoft, FactoryTalk View Machine Edition en version ancienne — des applications critiques dont les licences sont expirées, dont les fournisseurs ont parfois arrêté le support, et qui ne peuvent plus être réinstallées si le disque lâche."
+            },
+            {
+                "text": "Quand le disque dur lâche, quand la carte mère grille, quand la RAM se déprogramme — la ligne s'arrête. Il n'existe plus aucun PC compatible pour faire tourner le projet existant. On appelle ça une panne non planifiée. Dans les faits, c'est une crise."
+            },
+            {
+                "text": "AUTEM intervient en amont pour migrer votre IPC vers du matériel récent et votre logiciel vers une version supportée ou une nouvelle plateforme — en conservant vos projets et en formant vos équipes."
+            }
+        ],
+        "closing": "La question n'est pas si votre IPC va tomber — c'est quand, et si vous serez prêt."
+    }
+}

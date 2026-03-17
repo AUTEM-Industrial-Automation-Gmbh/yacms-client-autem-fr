@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem | Blog AUTEM",
+    "description": "Rockwell RSLogix500 - Les différentes étapes pour apprenez à créer vos premiers LADDER avec le logiciel RSLogix 500.",
+    "keywords": [
+      "Automation",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

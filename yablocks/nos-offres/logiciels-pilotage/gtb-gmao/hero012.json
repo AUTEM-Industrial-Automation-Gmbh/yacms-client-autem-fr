@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero012",
+        "section": "offre/logiciels-pilotage/gtb-gmao/hero012"
+    },
+    "data": {
+        "overtitle": "LOGICIELS DE PILOTAGE",
+        "title": "GTB & GMAO Industriels.",
+        "subtitle": "Vos bâtiments et équipements industriels fonctionnent sans supervision unifiée, votre maintenance est 100 % curative et votre facture énergétique reste inexpliquée ? AUTEM déploie la GTB et la GMAO qui mettent fin à ce pilotage à l'aveugle.",
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "GTB GMAO supervision bâtiment industriel maintenance préventive — AUTEM"
+        }
+    }
+}

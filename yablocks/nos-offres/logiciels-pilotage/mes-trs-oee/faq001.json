@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/logiciels-pilotage/mes-trs-oee/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur le MES, le TRS et les KPIs de production",
+        "items": [
+            {
+                "question": "Quelle différence entre TRS, OEE et MES ?",
+                "answer": "Le TRS (Taux de Rendement Synthétique) et l'OEE (Overall Equipment Effectiveness) sont deux noms pour le même indicateur exprimé différemment : TRS est le terme francophone, OEE l'anglophone. Il mesure la performance réelle d'un équipement en combinant Disponibilité × Performance × Qualité. Le MES (Manufacturing Execution System) est le système qui collecte, stocke et restitue ces indicateurs — ainsi que d'autres données de production (ordres de fabrication, traçabilité, qualité). Le MES est l'outil ; le TRS/OEE en est un des indicateurs clés."
+            },
+            {
+                "question": "Peut-on intégrer des machines sans automate connecté ?",
+                "answer": "Oui. Pour les machines sans port Ethernet ou sans API, on peut utiliser des compteurs d'impulsions, des capteurs inductifs ou des modules d'acquisition déportés qui remontent les signaux de production vers le système de collecte. La solution dépend du type de machine et du signal disponible — nous évaluons le cas lors de l'audit terrain."
+            },
+            {
+                "question": "Combien de temps pour déployer un tableau de bord TRS sur une ligne ?",
+                "answer": "Pour une ligne avec un automate déjà connecté et des signaux disponibles, le déploiement d'un premier tableau de bord TRS peut prendre 2 à 4 semaines (audit + intégration + formation). Un projet multi-lignes avec saisie des causes de perte et reporting automatique s'étend généralement sur 6 à 12 semaines selon la complexité du modèle de données."
+            },
+            {
+                "question": "Peut-on connecter les données de production à notre ERP ?",
+                "answer": "Oui. Les données MES peuvent être exposées via API REST, ODBC ou fichiers d'échange vers vos ERP (SAP, Sage, Odoo…). Nous analysons les formats d'échange requis lors de la phase de conception et mettons en place les connecteurs nécessaires."
+            },
+            {
+                "question": "Ignition est-il obligatoire pour un projet MES avec AUTEM ?",
+                "answer": "Non. Ignition est notre plateforme de référence pour les nouveaux projets car elle est sans limite de tags, modulaire et web-native. Mais nous intervenons également sur WinCC (Siemens), FactoryTalk (Rockwell) ou Wonderware (AVEVA) si votre infrastructure l'impose. Le choix de plateforme dépend de vos contraintes, pas de nos préférences commerciales."
+            }
+        ]
+    }
+}

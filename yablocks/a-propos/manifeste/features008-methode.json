@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "a-propos/manifeste/features008-methode"
+    },
+    "data": {
+        "title": "Notre philosophie : spécialisation et double compétence",
+        "content": "<p><strong>Dans la majorité des projets industriels, les difficultés ne sont pas technologiques — elles sont liées à une mauvaise intégration des couches.</strong> Un SCADA mal connecté à l'automate, un réseau mal segmenté, une formation absente au démarrage.</p><p>C'est de ce constat qu'est née la conviction d'AUTEM : la réussite d'un projet de digitalisation industrielle tient à une double compétence réelle en <strong>informatique et en automatisme</strong>, et à une présence technique continue de la conception à la mise en service.</p><p>Nous faisons le choix de la spécialisation plutôt que de la généralisme. Chaque technologie que nous proposons, nous la maîtrisons en profondeur — de la programmation Siemens S7 à Ignition SCADA, des réseaux Profinet aux protocoles OPC-UA et MQTT.</p><p><strong>Votre industrie évolue. Vos systèmes doivent suivre.</strong></p>"
+    }
+}

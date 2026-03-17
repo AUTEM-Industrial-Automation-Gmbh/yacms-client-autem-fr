@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem | Blog AUTEM",
+    "description": "Découvrez le logiciel Wireshark",
+    "keywords": [
+      "IoT Réseau",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

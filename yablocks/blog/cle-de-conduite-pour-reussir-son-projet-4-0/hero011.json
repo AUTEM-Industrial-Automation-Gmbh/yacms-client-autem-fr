@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/cle-de-conduite-pour-reussir-son-projet-4-0/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa",
+    "tags": [
+      {
+        "label": "Gestion Projet Stratégique",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "2 min lecture",
+      "publishDate": "03/08/23",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

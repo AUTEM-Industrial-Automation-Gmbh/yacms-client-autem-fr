@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/opportunites-et-metiers-futurs/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Opportunités et métiers futurs - Stephane DANTIGNY",
+    "tags": [
+      {
+        "label": "Article",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "25/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

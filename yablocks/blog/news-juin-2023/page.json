@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub | Blog AUTEM",
+    "description": "Actualités industrielles en juin 2023 : MongoDB, SAP, VivaTech, United Manufacturing Hub",
+    "keywords": [
+      "Actualités TECH",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

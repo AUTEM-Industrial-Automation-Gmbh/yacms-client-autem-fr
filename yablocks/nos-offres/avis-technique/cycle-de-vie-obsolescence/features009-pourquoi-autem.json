@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/avis-technique/cycle-de-vie-obsolescence/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Un expert qui connaît les équipements de l'intérieur — pas juste les références catalogue.",
+        "paragraphs": [
+            {
+                "text": "Analyser l'obsolescence d'un parc industriel demande de savoir ce que représente vraiment un automate S7-300 ou un PC sous WinCC Flexible 2008 — pas juste lire une fiche de fin de support. AUTEM a programmé, migré et maintenu ces équipements. Nos audits parlent le langage de vos équipes maintenance."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Connaissance terrain des équipements : Siemens (S7-300/400/1200/1500), Rockwell (PLC5, SLC, ControlLogix), Schneider (TSX, Quantum, M340), Beckhoff, Wago"
+            },
+            {
+                "text": "Maîtrise des logiciels de supervision sujets à l'obsolescence : WinCC Classic, WinCC Flexible, InduSoft, Wonderware"
+            },
+            {
+                "text": "Audit indépendant : aucun intérêt commercial à sur-estimer l'urgence ou à préconiser une marque spécifique"
+            },
+            {
+                "text": "Rapport adapté à différents niveaux de lecture : résumé exécutif pour la direction, détail technique pour la maintenance"
+            },
+            {
+                "text": "Intégration dans votre politique de maintenance : articulation avec GMAO, plan de maintenance préventive et budget d'investissement"
+            },
+            {
+                "text": "Accompagnement possible jusqu'aux remplacements : AUTEM peut piloter les rétrofits identifiés dans le plan"
+            }
+        ],
+        "conclusion": "Nos recommandations sont construites sur ce qu'on a vu tomber en panne, pas sur ce qu'un éditeur demande de vendre. L'objectif est votre continuité de production.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Expert AUTEM — audit obsolescence équipements industriels"
+        },
+        "reverse": true
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "component": "blocks/content/cta/Cta002",
+        "section": "offre/logiciels-pilotage/gtb-gmao/cta002"
+    },
+    "data": {
+        "title": "Votre maintenance est encore 100 % curative et votre facture énergétique reste inexpliquée ?",
+        "benefits": [
+            { "icon": "zap", "text": "GTB BACnet & Modbus : consommations énergétiques supervisées et alertes de dérive" },
+            { "icon": "settings", "text": "GMAO alimentée par les données terrain : maintenance préventive basée sur l'état réel des équipements" },
+            { "icon": "file-text", "text": "Traçabilité complète des interventions — historique consultable par toute l'équipe maintenance" }
+        ],
+        "cta": {
+            "text": "Demander un audit technique",
+            "link": "/contact"
+        }
+    }
+}

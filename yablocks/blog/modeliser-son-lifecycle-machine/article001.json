@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/modeliser-son-lifecycle-machine/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Récemment, j'ai eu une question d'un responsable process concernant sa production. Cette question concernait tout ce qui a un lien avec la fiabilité et la maintenance préventive . La question est la suivante : Comment faire pour obtenir des données fiables pour modéliser le cycle de vie de sa production ? On peut se poser cette question soit pour répondre à des questions d'investissement ou soit pour prioriser les actions. Et donc, pour modéliser le cycle de vie de sa production, savoir prendre des décisions objectives et prioriser des actions, on se basera sur 3 paramètres : Les temps d'arrêt ou Downtime Les investissements Les dépendances entre machines On ajoutera à ces 3 paramètres un modèle : dans notre cas, ce sera deux machines A et B qui permettront d'obtenir un produit unique. Liens utiles pour cette actualité : Simulation / scenarios solver"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Simulation / scenarios solver",
+            "href": "https://demo.autem-services.fr/data/perspective/client/lifecycle"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/16IX2XTkiGI?si=qhlCAuCL0olh1evb"
+      },
+      {
+        "heading": "Les temps d'arrêt ou Downtime",
+        "paragraphs": [
+          {
+            "text": "Les Downtime correspondent à tout ce qui concerne l'occurrence et la criticité des défauts. On parlera de MTBF, MTTR et également de la courbe de vieillissement de la machine ."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les investissements",
+        "paragraphs": [
+          {
+            "text": "Les investissements n'incluent pas uniquement le budget (CAPEX) . Ils incluent également les recrutements , car on investit aussi dans les personnes, ce qui permet d'intégrer tous les aspects liés aux investissements."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Les dépendances",
+        "paragraphs": [
+          {
+            "text": "Au niveau des dépendances, il arrive parfois que des couplages se forment en amont ou en aval entre les machines. On peut alors simuler son processus de production en testant le résultat obtenu selon la présence ou l'absence de ces dépendances."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Simulation des 3 paramètres",
+        "paragraphs": [
+          {
+            "text": "Découvrez l'intégralité de cette simulation ici :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (5 min 36 s)",
+            "href": "https://www.youtube.com/watch?v=16IX2XTkiGI&t=367s"
+          }
+        ]
+      }
+    ]
+  }
+}

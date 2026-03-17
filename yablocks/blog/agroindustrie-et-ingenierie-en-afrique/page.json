@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "AgroIndustrie et Ingénierie en Afrique - TOURE Mamery | Blog AUTEM",
+    "description": "Performance et consommation énergétique: l'intrumentation et l'automatisme comme outil de mesure ces valeurs.",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/zone-atex/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Zone Atex - Intro & Présentation",
+        "paragraphs": [
+          {
+            "text": "Aujourd'hui, nous sommes avec un expert de la zone ATEX, Esteban TORIBIO et nous en apprendrons un peu plus sur ce thème. Esteban TORIBIO est un amoureux de l'automatisme où il a fait de la maintenance et que c'est dans cette maintenance qu'il a découvert l'automatisme qui est devenu sa passion. Ce qu'il trouve génial avec l'automatisme est le fait de donner vie aux machines . Il a également appris beaucoup de compétences en gestion de patrimoine et aujourd'hui, il essai de les intégrer dans la partie technique de l'automatisme et dans toutes les conceptions qu'il réalise."
+          },
+          {
+            "text": "Découvre le parcours détaillé de Esteban dans cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Esteban TORIBIO",
+            "href": "https://www.linkedin.com/in/toribio-esteban"
+          },
+          {
+            "text": "Consulter | Vidéo (05min:42s)",
+            "href": "https://www.youtube.com/watch?v=iaZ1BL4_PKI&t=0s"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/embed/iaZ1BL4_PKI?si=I23wVVwnNERg6CkE"
+      },
+      {
+        "heading": "Zone ATEX - Aperçu",
+        "paragraphs": [
+          {
+            "text": "La zone ATEX, pour Atmosphère Explosive, est un lieu qui est potentiel dangeureux dans le sens où il peut se créer une explosion si on amène une certaine énergie. Ce qui est explosive s'est soit les vapeurs ou les poussières, mais pas le liquide en lui même."
+          },
+          {
+            "text": "Le zone Atex est définie par le client final et le mieux à faire c'est de les accompagnés car quand un batiment devient ATEX les gens se rendrent moins compte du risque ATEX. Tout ce qui est ATEX, il y a un petit logo EX et que le zonage est classifé en 3 couches: la zone 0 qui représente un risque Permanent (les cuves remplies d'Ethanol) la zone 1 qui représente un risque qui n'est pas permanent (On prend une machine qu'on rempli et qu'on vide d'Ethanol) la zone 2 qui représente un risque si il y a un défaut (Une fuite d'Ethanol dans une cuve)"
+          },
+          {
+            "text": "Découvrez en détail tout ce qu'il faut savoir sur la zone ATEX dans cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (08min:43s)",
+            "href": "https://www.youtube.com/watch?v=iaZ1BL4_PKI&t=343s"
+          }
+        ]
+      },
+      {
+        "heading": "Zone ATEX - Décarbonation de l'industrie",
+        "paragraphs": [
+          {
+            "text": "Sur le volet écologique, dans son entreprise personnel, les machines sont conçues et fabriquées en interne ce qui permet de rapidement apporter des améliorations pour réduire l'impact écologique. L'ensemble des activités se concentre notamment sur l'efficacité énergétique des moteurs, en choississant des moteurs de classe supérieure pour réduire la consommation d'énergie."
+          },
+          {
+            "text": "L'entreprise s'efforce également de minimiser son empreinte carbone en localisant les fournisseurs et en utilisant des panneaux solaires pour l'autoconsommation énergétique. Ces initiatives démontrent un engagement envers une production plus durable et un impact réduit sur l'environnement."
+          },
+          {
+            "text": "Découvrez de façon l'aspect écologique dans l'entreprise de Esteban dans cet extrait :"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Consulter | Vidéo (05min:02s)",
+            "href": "https://www.youtube.com/watch?v=iaZ1BL4_PKI&t=866s"
+          }
+        ]
+      },
+      {
+        "heading": "Zone ATEX - Gestion de patrimoine",
+        "paragraphs": [
+          {
+            "text": "L'une des convictions qui ont poussé Esteban à vouloir mieux gérer son patrimoine et éventuelleùent aider les autres à mieux gérer le leur est le fait que lors d'une formation académique, on nous apprend à trouver un métier pour gagner de l'argent mais à aucun moment, on ne nous a pas appris comment gérer cet argent. Esteban évoque également l'importance de la planification à long terme. Dans cette vision à long terme, il va falloir comprendre le client, ses besoins pour savoir où est ce qu'il veut aller."
+          },
+          {
+            "text": "Je vous invite donc à découvrir sa vision de la gestion du patrimoine à travers cet extrait :"
+          },
+          {
+            "text": "Découvre ici l'intégralité des applications de Stéphane DANTIGNY dans ce guide:"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Découvrez-les ici | Vidéo (08min:34s)",
+            "href": "https://www.youtube.com/watch?v=iaZ1BL4_PKI&t=1168s"
+          },
+          {
+            "text": "Bonnes pratiques en Electricité & Instrumentation",
+            "href": "https://1drv.ms/b/s!Al3KZmjOb5tjh5gWe_jnnL_l3bytow?e=1PUcLf"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Electricité | Electrocution: 100 A ou 24.000 V | Autem | Blog AUTEM",
+    "description": "100A-24V VS 0,1A-24000V, que choisiras-tu ?",
+    "keywords": [
+      "Article",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

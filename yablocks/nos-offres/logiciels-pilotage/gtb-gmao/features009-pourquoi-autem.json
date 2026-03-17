@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features009",
+        "section": "offre/logiciels-pilotage/gtb-gmao/features009-pourquoi-autem"
+    },
+    "data": {
+        "overtitle": "POURQUOI AUTEM",
+        "title": "Automaticien industriel — pas installateur CVC ni éditeur GMAO.",
+        "paragraphs": [
+            {
+                "text": "La GTB et la GMAO sont souvent déployées en silos : l'installateur CVC fait sa supervision bâtiment, l'éditeur GMAO fait son démarrage logiciel, et personne ne fait le lien avec le process industriel. AUTEM intègre tout dans la même supervision — et connaît aussi bien les automates de production que les protocoles BACnet du CVC."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Supervision unifiée process + bâtiment sur Ignition — une seule interface, pas deux systèmes qui ne se parlent pas"
+            },
+            {
+                "text": "BACnet, Modbus et LonWorks natifs : nous intégrons les équipements bâtiment existants sans les remplacer"
+            },
+            {
+                "text": "Maintenance préventive basée sur les données terrain — pas sur des calendriers théoriques déconnectés de la réalité"
+            },
+            {
+                "text": "Aucun intérêt commercial sur les équipements ou les licences GMAO — nous recommandons ce qui répond à vos besoins"
+            },
+            {
+                "text": "Intégration avec votre ERP ou outil de production si nécessaire : les OT peuvent être déclenchés depuis la supervision process"
+            },
+            {
+                "text": "Formation terrain : vos techniciens de maintenance utilisent la GMAO au quotidien, pas seulement le responsable"
+            }
+        ],
+        "conclusion": "Le résultat : un bâtiment industriel supervisé, des consommations maîtrisées, et une équipe maintenance qui anticipe les pannes au lieu de les subir.",
+        "image": {
+            "src": "/images/automaticien-rhone-alpes.jpg",
+            "alt": "Ingénieur AUTEM — GTB GMAO supervision bâtiment maintenance industrielle"
+        },
+        "reverse": true
+    }
+}

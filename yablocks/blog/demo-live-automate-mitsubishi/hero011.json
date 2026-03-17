@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/demo-live-automate-mitsubishi/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "1 min lecture",
+      "publishDate": "17/02/24",
+      "updatedDate": "17/03/26"
+    }
+  }
+}

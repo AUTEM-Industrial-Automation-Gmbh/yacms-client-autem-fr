@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/article/Article001",
+    "section": "blog/portail-fermeture-automatique/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Microcontrôleur VS Automate",
+        "paragraphs": [
+          {
+            "text": "Salut à toi. Nouvel article pour parler des cartes de contrôle qui permettent de piloter les portails automatiques."
+          },
+          {
+            "text": "Le but de cet article ce n’est pas d’expliquer la totalité du système, mais juste de se concentrer uniquement sur la partie contrôle c'est-à-dire l’automate qui permet de contrôler le moteur du portail ."
+          },
+          {
+            "text": "Cet automate-là, il est intégré dans différents types de boîtiers. Par exemple, là on le retrouve sur le boîtier pour une porte de type coulissante. Mais on peut avoir aussi, des portails de ce type-là avec des hauteurs, une rotation A ce moment-là, l’automate se retrouve dans un boîtier comme cela avec tous les organes de contrôle."
+          },
+          {
+            "text": "Alors, déjà, pourquoi on utilise une carte de contrôle comme cela au lieu d’utiliser un automate industriel comme on le retrouve sur les machines classiques ?"
+          },
+          {
+            "text": "La réponse dans la suite."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/portail_fermerture_auto_1.png",
+          "alt": "Portail & Fermetures automatique"
+        }
+      },
+      {
+        "heading": "Différence entre automate industriel et carte de contrôle",
+        "paragraphs": [
+          {
+            "text": "Pourquoi on fait la différence entre les deux ? L’automate industriel à droite , va nous permettre de piloter plusieurs centaines de signaux (signaux d’entrés et de sorties) tandis que la carte de contrôle qu’on utilise pour un portail automatique, permettra tout simplement de gérer un certain nombre limité de signaux parce qu’on n’a pas besoin de gérer une centaine de signaux au niveau du portail. C’est assez simple. En tout cas, c’est moins volumineux que sur une machine industrielle."
+          },
+          {
+            "text": "Pour des raisons d’adéquation prix et fonctionnalité , on fait un peu la part des choses et le compromis permet de choisir plutôt des cartes de contrôle . Le terme dédié se sont des PIC “Peripheral Interface Controler” : ce sont des microcontrôleurs que l’on voit à gauche qui permettent de piloter les différents signaux qui gère le portail automatique."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Composition d’une carte de contrôle",
+        "paragraphs": [
+          {
+            "text": "Une fois qu’on a dit cela, on va essayer de comprendre un peu mieux de quoi est composée cette carte de contrôle ou ce PIC (ce microcontrôleur) . On retrouve à gauche la photo , à droite, le schéma avec les principaux éléments de contrôle commande avec les endroits pour raccorder la carte ."
+          },
+          {
+            "text": "En premier lieu, on peut se concentrer sur les signaux d’entrée et de sortie . On se focalise vraiment sur le câblage entre les informations en entrée et les informations de sortie ."
+          },
+          {
+            "text": "On les retrouve là par exemple avec à gauche les signaux d’entrée et à droite, les signaux de sortie ."
+          },
+          {
+            "text": "On va les décomposer un par un."
+          },
+          {
+            "text": "Le premier signal d’entrée, c’est “l’arrêt d’urgence” . Très important pour la sécurité. Avec un coup de poing, on arrive à arrêter tout le systèmz s’il y a par exemple, quelqu’un qui est bloqué dans la porte."
+          },
+          {
+            "text": "Deuxième signal d’entrée, “l’antenne” qui permet de commander avec soit un bipeur ou bien une clé l’ouverture ou la fermeture du portail ."
+          },
+          {
+            "text": "On a les capteurs de présence qui vont détecter s’il y a une voiture qui est entrain de traverser la porte ou bien s’il y a un passant qui est entrain de passer . A ce moment-là, l’émetteur et le récepteur sont synchronisés pour pouvoir effectuer l’ordre qui va bien."
+          },
+          {
+            "text": "En quatrième position, on a les “fins de course” , les capteurs qui vont indiquer au moteur si on a fini d’ouvrir ou finir de fermer la porte . Tu vois que là, on a juste 4 signaux en entrée . C’est la raison pour laquelle c’est assez limité en nombre de signaux à traiter. On utilise plutôt des microcontrôleurs."
+          },
+          {
+            "text": "Alors, rapidement en sortie, on a tout ce qui est visualisation , avec des lumières pour l’éclairage et puis pour le clignotant qui signale la mise en fonctionnement du portail et puis évidemment les signaux en sortie qui vont aller piloter les moteurs ."
+          },
+          {
+            "text": "C’est vraiment là les actionneurs principaux du portail. Deux signaux de sortie seulement."
+          },
+          {
+            "text": "Globalement, tu auras 4 en entrées, 2 en sortie . Avec la carte de contrôle, on est largement suffisant pour pouvoir piloter ces différents signaux-là."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/portail_fermerture_auto_4.png",
+          "alt": "Portail & Fermetures automatique"
+        }
+      },
+      {
+        "heading": "Portail & Fermetures automatique - Création du programme de contrôle",
+        "paragraphs": [
+          {
+            "text": "Ensuite, une fois qu’on a parlé des signaux d’entrée sortie, on peut regarder aussi comment est-ce qu’on crée le programme qui pilote le portail . On a pas besoin d’écrire un gros programme avec un logiciel payant. On a des modes qui sont préconfigurés et qui ressemble à cela et avec les boutons et les leds qu’on a sur la carte de contrôle, on peut simplement rentrer des codes qui vont permettre de choisir le mode de fonctionnement."
+          },
+          {
+            "text": "En détail, si on veut regarder un peu les différents scénarios qui existent, pour contrôler un portail automatique, on les retrouve ici."
+          },
+          {
+            "text": "Première chose, on a différents types de porte, les “porte coulissantes” , ce sont les “deux premières lignes” et les portes battantes , les deux lignes qui suives . C’est du coup, deux constructions différentes de portail. Après, on a la porte de type sectionnelle ."
+          },
+          {
+            "text": "Ensuite, après la construction (l’architecture de portail), on a des options . On peut rajouter une option de fin de course , une option de ralentissement, dans la vitesse d’ouverture ou de fermeture . Et tout cela nous donne 5 types de scénarios qu’on peut appliquer qui sont déjà préenregistrés dans la carte de contrôle et qu’on peut choisir en venant ici marquer les codes de scénarios. Du coup, les différents scénarios sont explicités ici avec leur chronogramme. On voit les différentes séquences d’exécution en fonction des signaux qu’on obtient en entrée. On va venir activer en sortie les différents moteurs avec les clignotants et l’éclairage. Cela te permet d’avoir une idée des différents scénarios possibles. D’ailleurs si tu as besoin du détail de cette documentation-là, je mets le lien en dessous dans les commentaires."
+          },
+          {
+            "text": "Alors, 2 messages avant de se quitter. Déjà, j’aimerais dire merci à la société de laquelle je tire toute cette documentation-là qui s’appelle “ETME“ ."
+          },
+          {
+            "text": "J’ai choisi cette documentation-là, parce que je trouve que leur conception est assez modulaire, c’est des technologies ouvertes au niveau de l’architecture. Cela permet, si on a un seul élément qui est en panne de juste trouver le bon composant, le remplacer. Cela évite également de devoir changer tout le portail. Du coup, par rapport à d’autres concurrents, j’ai trouvé que cette entreprise-là fait un bon job sur le côté “maintenabilité” avec quelque chose d’interactif au niveau des différents organes."
+          },
+          {
+            "text": "Ensuite, une autre dédicace à Ephraïm . C’est principalement, grâce à lui que tu peux lire cet article parce qu’il m’a tout simplement demandé. Si toi aussi, comme lui, tu as envie d’explorer un sujet en particulier lié à l’automatisme, tu peux le marquer en commentaire"
+          },
+          {
+            "text": "Merci pour ton temps, je t’invite à partager cet article autour de toi si tu l’as aimé et on se retrouve dans un prochain article."
+          },
+          {
+            "text": "À bientôt."
+          }
+        ],
+        "subsections": [],
+        "image": {
+          "src": "https://autem-services.fr/assets/portail_fermerture_auto_13.png",
+          "alt": "Portail & Fermetures automatique"
+        }
+      }
+    ]
+  }
+}

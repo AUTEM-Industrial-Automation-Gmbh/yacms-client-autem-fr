@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "component": "blocks/layout/hero/Hero011",
+    "section": "blog/wincc-configurer-un-ecran-de-supervision/hero011"
+  },
+  "data": {
+    "backLink": "/blog",
+    "backLinkLabel": "Retour au blog",
+    "title": "WinCC Configurer un écran de supervision SIEMENS | Autem",
+    "tags": [
+      {
+        "label": "Supervision SCADA",
+        "type": "secteur"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "16 min lecture",
+      "publishDate": "06/05/21",
+      "updatedDate": "17/03/26"
+    }
+  }
+}
