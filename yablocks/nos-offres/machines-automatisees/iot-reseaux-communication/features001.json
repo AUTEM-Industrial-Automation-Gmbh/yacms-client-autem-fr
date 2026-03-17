@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features001",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/features001"
+    },
+    "data": {
+        "sectionLabel": "NOS DOMAINES D'INTERVENTION",
+        "title": "Connecter, collecter, sécuriser — sur tous vos équipements",
+        "items": [
+            {
+                "title": "Intégration OT/IT & passerelles de communication",
+                "description": "Mise en place des ponts entre le terrain automates (Profinet, Profibus, Ethernet/IP, Modbus, AS-i) et vos couches supérieures (SCADA, MES, ERP). Configuration de passerelles OPC-UA, traduction de protocoles, architecture serveur-client standardisée. Vos données de production remontent sans modifier un seul programme automate.",
+                "image": {
+                    "src": "/images/background-indus.jpg",
+                    "alt": "Intégration OT/IT passerelle protocoles industriels"
+                }
+            },
+            {
+                "title": "IoT industriel & télémétrie",
+                "description": "Connexion de machines dans des environnements sans câblage Ethernet (MQTT over 4G/LTE/WiFi industriel, capteurs sans-fil, BACnet pour le bâtiment industriel). Collecte de données distantes, alarmes temps réel, intégration dans des plateformes de supervision ou des bases de données historiques. Projets mobiles, multi-sites et multi-équipements.",
+                "image": {
+                    "src": "/images/homa-appliances.jpg",
+                    "alt": "IoT industriel télémétrie MQTT capteurs distants"
+                }
+            },
+            {
+                "title": "Architecture réseau & sécurité ICS",
+                "description": "Conception et déploiement de l'architecture réseau industrielle : segmentation VLAN OT/IT/DMZ, pare-feux industriels (Fortinet, Cisco, Siemens Scalance), conformité NIS2 et bonnes pratiques ICS/SCADA. Votre réseau terrain est isolé, documenté et auditables. Plus jamais une infection bureautique qui atteint vos automates.",
+                "image": {
+                    "src": "/images/background-indus.jpg",
+                    "alt": "Sécurité réseau industriel VLAN segmentation ICS"
+                }
+            }
+        ]
+    }
+}

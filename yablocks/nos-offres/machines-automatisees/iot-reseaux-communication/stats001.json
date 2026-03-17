@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/stats/Stats001",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "10",
+                "label": "Années d'expérience en intégration réseau industriel",
+                "suffix": "+"
+            },
+            {
+                "value": "10",
+                "label": "Protocoles industriels maîtrisés (terrain + IIoT)",
+                "suffix": "+"
+            },
+            {
+                "value": "15",
+                "label": "Clients connectés en France et à l'international",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Des projets livrés avec documentation réseau complète",
+                "suffix": "%"
+            }
+        ]
+    }
+}

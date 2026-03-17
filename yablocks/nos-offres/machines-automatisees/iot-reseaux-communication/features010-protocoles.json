@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features010",
+        "section": "offre/machines-automatisees/iot-reseaux-communication/features010-protocoles"
+    },
+    "data": {
+        "overtitle": "PROTOCOLES & TECHNOLOGIES",
+        "title": "Nous parlons la langue de vos machines",
+        "cards": [
+            {
+                "image": {
+                    "src": "/logos/profinet.png",
+                    "alt": "Protocoles terrain industriels"
+                },
+                "title": "Protocoles terrain",
+                "bullets": [
+                    {
+                        "text": "Profinet / Profibus DP & PA"
+                    },
+                    {
+                        "text": "Ethernet/IP (Allen-Bradley)"
+                    },
+                    {
+                        "text": "Modbus RTU / Modbus TCP"
+                    },
+                    {
+                        "text": "AS-interface (AS-i)"
+                    },
+                    {
+                        "text": "CANopen / DeviceNet"
+                    }
+                ]
+            },
+            {
+                "image": {
+                    "src": "/logos/ignition.png",
+                    "alt": "Protocoles IIoT et middleware"
+                },
+                "title": "Middleware IIoT",
+                "bullets": [
+                    {
+                        "text": "OPC-UA (Unified Architecture)"
+                    },
+                    {
+                        "text": "MQTT / Sparkplug B"
+                    },
+                    {
+                        "text": "BACnet IP & BACnet MS/TP"
+                    },
+                    {
+                        "text": "REST API & JSON over HTTP"
+                    },
+                    {
+                        "text": "AMQP / ActiveMQ"
+                    }
+                ]
+            },
+            {
+                "image": {
+                    "src": "/logos/siemens.png",
+                    "alt": "Infrastructure réseau industrielle sécurisée"
+                },
+                "title": "Infrastructure & Sécurité",
+                "bullets": [
+                    {
+                        "text": "Segmentation VLAN OT / IT / DMZ"
+                    },
+                    {
+                        "text": "Pare-feux industriels (Siemens Scalance, Fortinet)"
+                    },
+                    {
+                        "text": "VPN industriel pour accès distant sécurisé"
+                    },
+                    {
+                        "text": "Audit et conformité NIS2 / IEC 62443"
+                    },
+                    {
+                        "text": "Documentation réseau complète livrée"
+                    }
+                ]
+            }
+        ]
+    }
+}

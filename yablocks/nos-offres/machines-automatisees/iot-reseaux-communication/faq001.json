@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/content/faq/Faq001",
+        "section": "nos-offres/machines-automatisees/iot-reseaux-communication/faq001"
+    },
+    "data": {
+        "sectionLabel": "FAQ",
+        "title": "Questions fréquentes sur l'IoT et les réseaux industriels",
+        "items": [
+            {
+                "question": "Peut-on connecter des machines anciennes sans Ethernet ?",
+                "answer": "Oui. Les machines sans port Ethernet peuvent être connectées via des passerelles série (RS-232/485 → Modbus TCP), des convertisseurs Profibus → Profinet, ou des modules d'acquisition déportés. Nous évaluons systématiquement les options pour éviter de modifier le câblage existant."
+            },
+            {
+                "question": "OPC-UA ou MQTT : comment choisir ?",
+                "answer": "Les deux servent des besoins complémentaires. OPC-UA est idéal pour les échanges structurés entre automates et SCADA en LAN industriel — fiable, standardisé, fortement typé. MQTT (souvent avec Sparkplug B) convient aux architectures IoT légères, multi-sites, où les équipements publient vers un broker central. Nous vous conseillons l'architecture adaptée à votre contexte."
+            },
+            {
+                "question": "La segmentation réseau est-elle vraiment nécessaire si on n'est pas connecté à Internet ?",
+                "answer": "Oui. La principale menace ne vient pas d'Internet mais de l'intérieur : une clé USB infectée, un PC bureau mal protégé, un accès VPN mal configuré. Sans segmentation VLAN, un incident bureautique peut atteindre directement vos automates. La segmentation OT/IT est une exigence de plus en plus intégrée dans les assurances industrielles et les normes (IEC 62443, NIS2)."
+            },
+            {
+                "question": "Intervenez-vous sur les réseaux sans-fil (WiFi industriel, 4G/LTE) ?",
+                "answer": "Oui. Nous concevons et déployons des architectures sans-fil industrielles pour les machines mobiles, les sites distants ou les zones difficiles à câbler. Nous travaillons avec du WiFi industriel (IEEE 802.11ac/ax en bande 5 GHz) et des solutions 4G/LTE avec VPN intégré pour les équipements en extérieur ou multi-sites."
+            },
+            {
+                "question": "Fournissez-vous la documentation réseau à la fin du projet ?",
+                "answer": "Systématiquement. Chaque projet IoT/réseau AUTEM se termine par la livraison d'un schéma réseau as-built complet (IP, VLANs, équipements, règles de sécurité), des configurations sauvegardées et archivées, et un guide de maintenance. Vous ne dépendez plus d'une seule personne pour comprendre votre infrastructure."
+            }
+        ]
+    }
+}
