@@ -9,11 +9,11 @@
     "title": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem",
     "tags": [
       {
-        "label": "Automation",
+        "label": "IoT Réseau",
         "type": "secteur"
       },
       {
-        "label": "IoT Réseau",
+        "label": "Automation",
         "type": "categorie"
       }
     ],

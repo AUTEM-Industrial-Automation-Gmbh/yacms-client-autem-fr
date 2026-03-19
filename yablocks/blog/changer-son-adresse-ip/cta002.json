@@ -4,19 +4,19 @@
     "section": "blog/changer-son-adresse-ip/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet de connectivité industrielle ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "icon": "wifi",
+        "text": "Architecture OPC-UA, MQTT & protocoles industriels"
       },
       {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "shield",
+        "text": "Réseaux industriels sécurisés et segmentés"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "bar-chart",
+        "text": "Passerelles IoT et collecte de données terrain"
       }
     ],
     "cta": {

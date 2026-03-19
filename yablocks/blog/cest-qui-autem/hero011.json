@@ -11,6 +11,10 @@
       {
         "label": "Automation",
         "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

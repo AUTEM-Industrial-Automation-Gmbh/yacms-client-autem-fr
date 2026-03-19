@@ -4,19 +4,19 @@
     "section": "blog/le-salaire-des-automaticiens/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Développez vos compétences industrielles",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "icon": "book-open",
+        "text": "Formations automatisme & supervision adaptées"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "users",
+        "text": "Coaching et accompagnement de techniciens"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "award",
+        "text": "Préparation aux certifications industrielles"
       }
     ],
     "cta": {

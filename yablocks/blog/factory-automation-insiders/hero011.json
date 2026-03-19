@@ -9,8 +9,12 @@
     "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers",
     "tags": [
       {
-        "label": "Automation",
+        "label": "Evolution de l'industrie",
         "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

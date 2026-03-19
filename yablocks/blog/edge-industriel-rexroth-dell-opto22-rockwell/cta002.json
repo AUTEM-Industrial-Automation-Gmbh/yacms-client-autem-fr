@@ -4,19 +4,19 @@
     "section": "blog/edge-industriel-rexroth-dell-opto22-rockwell/cta002"
   },
   "data": {
-    "title": "Un projet d'architecture industrielle ?",
+    "title": "Un projet d'automatisation industrielle ?",
     "benefits": [
       {
-        "icon": "layers",
-        "text": "Conception d'architectures IT/OT convergentes"
+        "icon": "cpu",
+        "text": "Intégration automates Siemens, Rockwell, Schneider"
       },
       {
-        "icon": "server",
-        "text": "Intégration Edge, Cloud & systèmes embarqués"
+        "icon": "settings",
+        "text": "Programmation PLC & variateurs de vitesse"
       },
       {
-        "icon": "shield",
-        "text": "Sécurisation et segmentation des réseaux"
+        "icon": "zap",
+        "text": "Mise en service et maintenance sur site"
       }
     ],
     "cta": {

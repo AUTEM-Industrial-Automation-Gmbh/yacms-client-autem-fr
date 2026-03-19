@@ -13,7 +13,11 @@
         "type": "secteur"
       },
       {
-        "label": "Instrumentation-Capteurs",
+        "label": "Motion & Robotique",
+        "type": "categorie"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
         "type": "categorie"
       }
     ],

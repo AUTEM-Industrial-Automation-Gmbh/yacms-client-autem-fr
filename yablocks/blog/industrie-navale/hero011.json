@@ -9,8 +9,12 @@
     "title": "Industrie Navale et Maritime avec Mohamed CISSOUMA",
     "tags": [
       {
-        "label": "Article",
+        "label": "Interview-Atelier LIVE",
         "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

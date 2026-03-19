@@ -4,19 +4,19 @@
     "section": "blog/digitalisation-simulation-protocoles-series/cta002"
   },
   "data": {
-    "title": "Un projet de connectivité industrielle ?",
+    "title": "Un projet d'architecture industrielle ?",
     "benefits": [
       {
-        "icon": "wifi",
-        "text": "Architecture OPC-UA, MQTT & protocoles industriels"
+        "icon": "layers",
+        "text": "Conception d'architectures IT/OT convergentes"
+      },
+      {
+        "icon": "server",
+        "text": "Intégration Edge, Cloud & systèmes embarqués"
       },
       {
         "icon": "shield",
-        "text": "Réseaux industriels sécurisés et segmentés"
-      },
-      {
-        "icon": "bar-chart",
-        "text": "Passerelles IoT et collecte de données terrain"
+        "text": "Sécurisation et segmentation des réseaux"
       }
     ],
     "cta": {

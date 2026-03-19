@@ -11,6 +11,10 @@
       {
         "label": "Automation",
         "type": "secteur"
+      },
+      {
+        "label": "Electricité",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

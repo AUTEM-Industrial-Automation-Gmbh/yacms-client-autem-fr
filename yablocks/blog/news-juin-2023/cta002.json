@@ -4,19 +4,19 @@
     "section": "blog/news-juin-2023/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet de supervision ou SCADA ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
-      },
-      {
         "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "text": "Développement d'interfaces SCADA & HMI"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "database",
+        "text": "Historisation et reporting de données process"
+      },
+      {
+        "icon": "eye",
+        "text": "Supervision temps réel multi-sites"
       }
     ],
     "cta": {

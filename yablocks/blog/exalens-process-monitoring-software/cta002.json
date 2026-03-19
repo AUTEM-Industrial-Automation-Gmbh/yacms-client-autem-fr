@@ -4,19 +4,19 @@
     "section": "blog/exalens-process-monitoring-software/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Un projet IA pour votre usine ?",
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "text": "Déploiement de modèles IA on-premise & Edge"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "trending-up",
+        "text": "Maintenance prédictive et détection d'anomalies"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "bar-chart",
+        "text": "Analytics industriels et dashboards intelligents"
       }
     ],
     "cta": {

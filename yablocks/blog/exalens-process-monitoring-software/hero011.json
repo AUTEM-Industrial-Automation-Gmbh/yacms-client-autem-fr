@@ -9,8 +9,12 @@
     "title": "Exalens: Rétro-Ingénierie automatique avec IA",
     "tags": [
       {
-        "label": "Automation",
+        "label": "IA & Machine Learning",
         "type": "secteur"
+      },
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

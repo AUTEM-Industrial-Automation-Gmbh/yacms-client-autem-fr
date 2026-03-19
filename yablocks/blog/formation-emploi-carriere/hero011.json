@@ -11,6 +11,10 @@
       {
         "label": "Astuces Carrière",
         "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

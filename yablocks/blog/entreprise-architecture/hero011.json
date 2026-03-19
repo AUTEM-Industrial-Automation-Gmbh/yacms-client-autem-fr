@@ -9,8 +9,16 @@
     "title": "Enterprise Architecture & Digital Transformation - Bindioa OUALI",
     "tags": [
       {
-        "label": "Astuces Carrière",
+        "label": "Architecture Systèmes",
         "type": "secteur"
+      },
+      {
+        "label": "Gestion Projet Stratégique",
+        "type": "categorie"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

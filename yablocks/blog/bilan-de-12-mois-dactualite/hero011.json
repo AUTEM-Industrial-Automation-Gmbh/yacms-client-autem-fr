@@ -9,8 +9,16 @@
     "title": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰",
     "tags": [
       {
-        "label": "Actualités TECH",
+        "label": "Motion & Robotique",
         "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
+      },
+      {
+        "label": "IA & Machine Learning",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

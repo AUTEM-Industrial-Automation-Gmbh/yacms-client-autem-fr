@@ -9,8 +9,12 @@
     "title": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
     "tags": [
       {
-        "label": "Automation",
+        "label": "IoT Réseau",
         "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

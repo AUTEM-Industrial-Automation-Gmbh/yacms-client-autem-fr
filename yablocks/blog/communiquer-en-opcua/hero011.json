@@ -9,11 +9,11 @@
     "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
     "tags": [
       {
-        "label": "Automation",
+        "label": "IoT Réseau",
         "type": "secteur"
       },
       {
-        "label": "IoT Réseau",
+        "label": "Automation",
         "type": "categorie"
       }
     ],

@@ -4,19 +4,19 @@
     "section": "blog/communiquer-sans-automate/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Un projet de connectivité industrielle ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "icon": "wifi",
+        "text": "Architecture OPC-UA, MQTT & protocoles industriels"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "shield",
+        "text": "Réseaux industriels sécurisés et segmentés"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "bar-chart",
+        "text": "Passerelles IoT et collecte de données terrain"
       }
     ],
     "cta": {

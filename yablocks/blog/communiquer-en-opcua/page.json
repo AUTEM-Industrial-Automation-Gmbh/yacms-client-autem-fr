@@ -3,8 +3,8 @@
     "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem | Blog AUTEM",
     "description": "OPC UA - Découverte du protocole OPC UA à travers une simulation reliant un serveur OPC, PLCSIM et un client OPC, UA expert.",
     "keywords": [
-      "Automation",
       "IoT Réseau",
+      "Automation",
       "AUTEM",
       "automatisme industriel"
     ]
