@@ -4,19 +4,19 @@
     "section": "blog/industrie-agroalimentaire-et-pharmaceutique/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet d'automatisation industrielle ?",
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "text": "Intégration automates Siemens, Rockwell, Schneider"
       },
       {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "settings",
+        "text": "Programmation PLC & variateurs de vitesse"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "zap",
+        "text": "Mise en service et maintenance sur site"
       }
     ],
     "cta": {

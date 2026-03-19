@@ -4,19 +4,19 @@
     "section": "blog/entreprise-architecture/cta002"
   },
   "data": {
-    "title": "Développez vos compétences industrielles",
+    "title": "Un projet d'architecture industrielle ?",
     "benefits": [
       {
-        "icon": "book-open",
-        "text": "Formations automatisme & supervision adaptées"
+        "icon": "layers",
+        "text": "Conception d'architectures IT/OT convergentes"
       },
       {
-        "icon": "users",
-        "text": "Coaching et accompagnement de techniciens"
+        "icon": "server",
+        "text": "Intégration Edge, Cloud & systèmes embarqués"
       },
       {
-        "icon": "award",
-        "text": "Préparation aux certifications industrielles"
+        "icon": "shield",
+        "text": "Sécurisation et segmentation des réseaux"
       }
     ],
     "cta": {

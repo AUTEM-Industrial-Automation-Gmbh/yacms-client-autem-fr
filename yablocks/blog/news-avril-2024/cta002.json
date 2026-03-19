@@ -4,19 +4,19 @@
     "section": "blog/news-avril-2024/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet MES ou amélioration de l'OEE ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "icon": "bar-chart",
+        "text": "Déploiement de solutions MES sur mesure"
       },
       {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "trending-up",
+        "text": "Calcul et optimisation du TRS/OEE"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "clipboard",
+        "text": "Traçabilité et suivi de production"
       }
     ],
     "cta": {

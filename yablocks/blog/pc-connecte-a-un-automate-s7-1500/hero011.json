@@ -9,8 +9,12 @@
     "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
     "tags": [
       {
-        "label": "Automation",
+        "label": "Supervision SCADA",
         "type": "secteur"
+      },
+      {
+        "label": "Automation",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

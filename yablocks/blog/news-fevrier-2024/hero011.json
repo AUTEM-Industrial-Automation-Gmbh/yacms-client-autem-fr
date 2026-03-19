@@ -11,6 +11,10 @@
       {
         "label": "Actualités TECH",
         "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

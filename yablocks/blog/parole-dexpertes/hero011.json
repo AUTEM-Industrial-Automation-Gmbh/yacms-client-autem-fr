@@ -9,8 +9,12 @@
     "title": "Parole d'expertes : femmes & actrices de l'industrie",
     "tags": [
       {
-        "label": "Article",
+        "label": "Interview-Atelier LIVE",
         "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

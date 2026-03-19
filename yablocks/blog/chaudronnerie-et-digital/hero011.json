@@ -9,8 +9,12 @@
     "title": "Chaudronnerie & Digital - avec Nicolas COUSIN",
     "tags": [
       {
-        "label": "Article",
+        "label": "Interview-Atelier LIVE",
         "type": "secteur"
+      },
+      {
+        "label": "Automation",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

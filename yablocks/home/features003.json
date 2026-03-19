@@ -16,19 +16,19 @@
         "checklist": [
           {
             "text": "Rétrofit Automation",
-            "href": "/offre/automatisme"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation"
           },
           {
             "text": "Rénovation PC Industriel",
-            "href": "/offre/automatisme#variateurs"
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
           },
           {
             "text": "IoT, Réseaux, Communication",
-            "href": "/offre/automatisme#etudes-electriques"
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
           },
           {
             "text": "Revamping électrique",
-            "href": "/offre/automatisme#securite"
+            "href": "/nos-offres/machines-automatisees/revamping-electrique"
           }
         ],
         "cta": {
@@ -56,19 +56,19 @@
         "checklist": [
           {
             "text": "KPI de Production : MES, TRS, OEE",
-            "href": "/offre/ignition-scada"
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
           },
           {
             "text": "Analyse Data, Pareto, VSM, ROI",
-            "href": "/offre/informatique-industrielle"
+            "href": "/nos-offres/logiciels-pilotage/analyse-data"
           },
           {
             "text": "Supervision Scada IGNITION (Certifié Gold)",
-            "href": "/offre/informatique-industrielle#mes"
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
           },
           {
             "text": "GTB et GMAO",
-            "href": ""
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
           }
         ],
         "cta": {
@@ -96,15 +96,15 @@
         "checklist": [
           {
             "text": "Architecture de Systèmes",
-            "href": "/offre/data"
+            "href": "/nos-offres/avis-technique/architecture-systemes"
           },
           {
             "text": "Assistance de projets stratégiques",
-            "href": "/offre/data#reseaux"
+            "href": "/nos-offres/avis-technique/assistance-projets"
           },
           {
             "text": "Cycle de Vie et Gestion de l'Obsolescence",
-            "href": "/offre/data#pilotage"
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
           }
         ],
         "cta": {

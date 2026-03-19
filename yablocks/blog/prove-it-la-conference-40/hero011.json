@@ -9,8 +9,12 @@
     "title": "Actus n°19 - Prove-it: la conférence 4.0",
     "tags": [
       {
-        "label": "Evenèments",
+        "label": "Actualités TECH",
         "type": "secteur"
+      },
+      {
+        "label": "Evolution de l'industrie",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

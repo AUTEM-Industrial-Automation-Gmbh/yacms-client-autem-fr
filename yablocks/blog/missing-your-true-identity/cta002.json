@@ -4,19 +4,19 @@
     "section": "blog/missing-your-true-identity/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Développez vos compétences industrielles",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
-      },
-      {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "book-open",
+        "text": "Formations automatisme & supervision adaptées"
       },
       {
         "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "text": "Coaching et accompagnement de techniciens"
+      },
+      {
+        "icon": "award",
+        "text": "Préparation aux certifications industrielles"
       }
     ],
     "cta": {

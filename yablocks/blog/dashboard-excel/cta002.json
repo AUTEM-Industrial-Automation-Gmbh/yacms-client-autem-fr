@@ -4,19 +4,19 @@
     "section": "blog/dashboard-excel/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet d'architecture industrielle ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "icon": "layers",
+        "text": "Conception d'architectures IT/OT convergentes"
       },
       {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "server",
+        "text": "Intégration Edge, Cloud & systèmes embarqués"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "shield",
+        "text": "Sécurisation et segmentation des réseaux"
       }
     ],
     "cta": {

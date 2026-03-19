@@ -9,8 +9,12 @@
     "title": "Zone ATEX en Industrie Pharma - Esteban TORIBIO",
     "tags": [
       {
-        "label": "Article",
+        "label": "Automation",
         "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

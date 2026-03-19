@@ -9,8 +9,12 @@
     "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem",
     "tags": [
       {
-        "label": "IoT Réseau",
+        "label": "Architecture Systèmes",
         "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

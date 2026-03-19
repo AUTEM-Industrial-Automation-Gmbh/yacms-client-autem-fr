@@ -9,8 +9,16 @@
     "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe",
     "tags": [
       {
-        "label": "Article",
+        "label": "MES-OEE",
         "type": "secteur"
+      },
+      {
+        "label": "Pareto-VSM",
+        "type": "categorie"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

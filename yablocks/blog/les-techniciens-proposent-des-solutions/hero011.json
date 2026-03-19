@@ -9,8 +9,12 @@
     "title": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
     "tags": [
       {
-        "label": "Actualités TECH",
+        "label": "Evolution de l'industrie",
         "type": "secteur"
+      },
+      {
+        "label": "Transfert de Compétences",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

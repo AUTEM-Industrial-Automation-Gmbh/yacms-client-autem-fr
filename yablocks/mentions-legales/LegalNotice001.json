@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "component": "blocks/content/legal/LegalNotice001",
+        "section": "home/legalNotice001"
+    },
+    "data": {
+        "title": "Mentions Légales",
+        "lastUpdated": "2026-01-15",
+        "editor": {
+            "companyName": "AUTEM",
+            "siren": "918 577 354",
+            "tvaNumber": "FR 01 918 577 354",
+            "address": {
+                "street": "60 rue François 1er",
+                "zip": "75008",
+                "city": "Paris",
+                "country": "France"
+            },
+            "email": "contact@autem-services.fr",
+            "phone": "+33 6 17 43 68 02",
+            "director": "Marc Akoto",
+            "foundedYear": "2021",
+            "description": "Fondée en 2021, AUTEM propose une gamme de services variés, incluant l'Intégration SCADA, le Pilotage et les Logiciels MES, ainsi que des prestations en tant que Fournisseur et Prestataire de services."
+        },
+        "host": {
+            "companyName": "GitHub Inc. (GitHub Pages)",
+            "address": {
+                "street": "88 Colin P. Kelly Jr. Street",
+                "zip": "94107",
+                "city": "San Francisco, CA",
+                "country": "États-Unis"
+            },
+            "website": "https://pages.github.com"
+        },
+        "sections": [
+            {
+                "title": "Propriété Intellectuelle",
+                "content": "En accédant au site autem-services.fr, vous acceptez de vous conformer au Code de la Propriété Intellectuelle français et plus généralement aux traités et accords internationaux comportant des dispositions relatives à la protection des droits d’auteur, de créations et modèles et/ou de marques.\n\nLe non-respect de l'un de ces droits d'auteur est un délit de contrefaçon sanctionné par l'article L 335-2 du Code de la Propriété Intellectuelle."
+            },
+            {
+                "title": "Responsabilité",
+                "content": "AUTEM ne pourra être tenu pour responsables de tous dommages ou pertes avérés ou allégués consécutifs ou en relation avec l’utilisation ou avec le fait d’avoir fait confiance au contenu, à des biens ou des services disponibles sur ce site ou sources externes ou encore en raison de la présence d’un virus, cheval de Troie ou autre parasite de nature intrusive ou destructive sur ces sites ou sources externes. Les éventuels liens hypertextes présents sur le site d'AUTEM et aiguillant les utilisateurs vers d’autres sites n’engagent pas la responsabilité d'AUTEM. En effet, l’entreprise ne peut contrôler les sites et sources externes notamment les informations, publicités...\n\nAUTEM, qui prend soin de vérifier la qualité des informations transmises, ne pourra être tenu comme responsable ni de l’exactitude, ni des erreurs, ni des omissions de celles-ci.\n\nPour nous informer des éventuelles erreurs ou nous faire part de vos remarques concernant le fonctionnement du site, vous pouvez nous contacter via l'adresse suivante: contact@autem-services.fr."
+            },
+            {
+                "title": "Protection des données (RGPD)",
+                "content": "Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification, de suppression et de portabilité de vos données personnelles.\n\nPour exercer ces droits, contactez-nous à contact@autem-services.fr."
+            },
+            {
+                "title": "Cookies",
+                "content": "Ce site utilise des cookies nécessaires à son bon fonctionnement. En poursuivant votre navigation, vous acceptez l'utilisation de ces cookies.\n\nVous pouvez configurer votre navigateur pour refuser les cookies."
+            }
+        ]
+    }
+}

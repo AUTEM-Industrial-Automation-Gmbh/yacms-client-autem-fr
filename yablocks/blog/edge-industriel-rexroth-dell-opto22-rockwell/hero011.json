@@ -9,8 +9,16 @@
     "title": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell",
     "tags": [
       {
-        "label": "Architecture Systèmes",
+        "label": "Automation",
         "type": "secteur"
+      },
+      {
+        "label": "MES-OEE",
+        "type": "categorie"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

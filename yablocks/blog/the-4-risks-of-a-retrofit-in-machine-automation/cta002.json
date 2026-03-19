@@ -4,19 +4,19 @@
     "section": "blog/the-4-risks-of-a-retrofit-in-machine-automation/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Un projet de gestion d'obsolescence ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "icon": "clock",
+        "text": "Audit de parc machines et plan de migration"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "refresh-cw",
+        "text": "Remplacement d'équipements en fin de vie"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "shield",
+        "text": "Stratégie de pérennisation des installations"
       }
     ],
     "cta": {

@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/layout/sitemap/Sitemap001",
+        "section": "plan-du-site/sitemap001"
+    },
+    "data": {
+        "_inject": "pages",
+        "title": "Plan du site",
+        "groups": [
+            {
+                "key": "home",
+                "label": "Accueil"
+            },
+            {
+                "key": "nos-offres",
+                "label": "Nos offres"
+            },
+            {
+                "key": "cas-clients",
+                "label": "Cas clients"
+            },
+            {
+                "key": "a-propos",
+                "label": "À propos"
+            },
+            {
+                "key": "blog",
+                "label": "Blog"
+            }
+        ]
+    }
+}

@@ -4,19 +4,19 @@
     "section": "blog/pc-connecte-a-un-automate-s7-1500/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Un projet de supervision ou SCADA ?",
     "benefits": [
       {
-        "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "icon": "monitor",
+        "text": "Développement d'interfaces SCADA & HMI"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "database",
+        "text": "Historisation et reporting de données process"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "eye",
+        "text": "Supervision temps réel multi-sites"
       }
     ],
     "cta": {

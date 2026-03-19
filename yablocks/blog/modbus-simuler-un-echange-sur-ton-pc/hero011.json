@@ -11,6 +11,10 @@
       {
         "label": "IoT Réseau",
         "type": "secteur"
+      },
+      {
+        "label": "Automation",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

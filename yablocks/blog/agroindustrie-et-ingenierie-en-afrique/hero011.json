@@ -9,8 +9,12 @@
     "title": "AgroIndustrie et Ingénierie en Afrique - TOURE Mamery",
     "tags": [
       {
-        "label": "Article",
+        "label": "Evolution de l'industrie",
         "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

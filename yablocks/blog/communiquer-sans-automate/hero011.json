@@ -9,11 +9,11 @@
     "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
     "tags": [
       {
-        "label": "Automation",
+        "label": "IoT Réseau",
         "type": "secteur"
       },
       {
-        "label": "IoT Réseau",
+        "label": "Automation",
         "type": "categorie"
       }
     ],

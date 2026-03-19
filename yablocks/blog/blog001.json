@@ -99,7 +99,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "HighByte vs Kepware",
-        "link": "/blog/highByte-vs-kepware",
+        "link": "/blog/highbyte-vs-kepware",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -124,7 +124,7 @@
         "link": "/blog/missing-your-true-identity",
         "tags": [
           {
-            "label": "Article"
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -146,10 +146,10 @@
         "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Cycle de Vie et Obsolescence"
           },
           {
-            "label": "Machines Vintage"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -509,7 +509,10 @@
         "link": "/blog/prove-it-la-conference-40",
         "tags": [
           {
-            "label": "Evenèments"
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -553,10 +556,10 @@
         "link": "/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Evolution de l'industrie"
           },
           {
-            "label": "Astuces Carrière"
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -707,6 +710,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -725,7 +731,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°16 - Robot Optimus & FrameworX",
-        "link": "/blog/robot-optimus-et-frameworkX",
+        "link": "/blog/robot-optimus-et-frameworkx",
         "tags": [
           {
             "label": "Motion & Robotique"
@@ -781,7 +787,10 @@
         "link": "/blog/exalens-process-monitoring-software",
         "tags": [
           {
-            "label": "Automation"
+            "label": "IA & Machine Learning"
+          },
+          {
+            "label": "Cycle de Vie et Obsolescence"
           }
         ],
         "author": {
@@ -972,7 +981,10 @@
         "link": "/blog/les-techniciens-proposent-des-solutions",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Transfert de Compétences"
           }
         ],
         "author": {
@@ -994,7 +1006,10 @@
         "link": "/blog/les-techniciens-fuient-lindustrie",
         "tags": [
           {
-            "label": "Actualités TECH"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -1016,7 +1031,7 @@
         "link": "/blog/politique-et-industrie-en-france",
         "tags": [
           {
-            "label": "Article"
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -1038,7 +1053,10 @@
         "link": "/blog/defi-de-l-industrialisation-en-afrique",
         "tags": [
           {
-            "label": "Article"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1060,7 +1078,10 @@
         "link": "/blog/arduino-sql-ot-bencmark",
         "tags": [
           {
-            "label": "Article"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1085,7 +1106,7 @@
             "label": "IoT Réseau"
           },
           {
-            "label": "Actualités TECH"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1107,7 +1128,10 @@
         "link": "/blog/factory-automation-insiders",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1130,6 +1154,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "PC Industriel"
           }
         ],
         "author": {
@@ -1151,7 +1178,13 @@
         "link": "/blog/news-avril-2024",
         "tags": [
           {
-            "label": "Article"
+            "label": "MES-OEE"
+          },
+          {
+            "label": "Pareto-VSM"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1173,7 +1206,10 @@
         "link": "/blog/industrie-agroalimentaire-et-pharmaceutique",
         "tags": [
           {
-            "label": "Article"
+            "label": "Interview-Atelier LIVE"
+          },
+          {
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1195,7 +1231,13 @@
         "link": "/blog/bilan-de-12-mois-dactualite",
         "tags": [
           {
+            "label": "Motion & Robotique"
+          },
+          {
             "label": "Actualités TECH"
+          },
+          {
+            "label": "IA & Machine Learning"
           }
         ],
         "author": {
@@ -1217,7 +1259,10 @@
         "link": "/blog/dashboard-excel",
         "tags": [
           {
-            "label": "Article"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Gestion Projet Stratégique"
           }
         ],
         "author": {
@@ -1239,7 +1284,10 @@
         "link": "/blog/zone-atex",
         "tags": [
           {
-            "label": "Article"
+            "label": "Automation"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1262,6 +1310,9 @@
         "tags": [
           {
             "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -1283,7 +1334,10 @@
         "link": "/blog/opportunites-et-metiers-futurs",
         "tags": [
           {
-            "label": "Article"
+            "label": "Astuces Carrière"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1327,7 +1381,7 @@
         "link": "/blog/news-janvier-2024",
         "tags": [
           {
-            "label": "Article"
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1374,7 +1428,13 @@
         "link": "/blog/entreprise-architecture",
         "tags": [
           {
-            "label": "Astuces Carrière"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Gestion Projet Stratégique"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1396,7 +1456,10 @@
         "link": "/blog/news-decembre-2023",
         "tags": [
           {
-            "label": "Article"
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -1443,7 +1506,10 @@
             "label": "IA & Machine Learning"
           },
           {
-            "label": "Instrumentation-Capteurs"
+            "label": "Motion & Robotique"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1465,7 +1531,10 @@
         "link": "/blog/digitalisation-simulation-protocoles-series",
         "tags": [
           {
-            "label": "IoT Réseau"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1488,6 +1557,9 @@
         "tags": [
           {
             "label": "Astuces Carrière"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1509,7 +1581,10 @@
         "link": "/blog/agroindustrie-et-ingenierie-en-afrique",
         "tags": [
           {
-            "label": "Article"
+            "label": "Evolution de l'industrie"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1553,7 +1628,13 @@
         "link": "/blog/edge-industriel-rexroth-dell-opto22-rockwell",
         "tags": [
           {
-            "label": "Architecture Systèmes"
+            "label": "Automation"
+          },
+          {
+            "label": "MES-OEE"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1575,7 +1656,10 @@
         "link": "/blog/electricite-et-haute-tension-en-afrique",
         "tags": [
           {
-            "label": "Article"
+            "label": "Electricité"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -1597,7 +1681,7 @@
         "link": "/blog/edge-benchmark-comparatif",
         "tags": [
           {
-            "label": "Article"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -1641,7 +1725,10 @@
         "link": "/blog/news-juillet-2023",
         "tags": [
           {
-            "label": "Automation"
+            "label": "IoT Réseau"
+          },
+          {
+            "label": "Actualités TECH"
           }
         ],
         "author": {
@@ -1663,7 +1750,10 @@
         "link": "/blog/industrie-navale",
         "tags": [
           {
-            "label": "Article"
+            "label": "Interview-Atelier LIVE"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -1773,7 +1863,10 @@
         "link": "/blog/chaudronnerie-et-digital",
         "tags": [
           {
-            "label": "Article"
+            "label": "Interview-Atelier LIVE"
+          },
+          {
+            "label": "Automation"
           }
         ],
         "author": {
@@ -1816,6 +1909,9 @@
         "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
         "link": "/blog/news-juin-2023",
         "tags": [
+          {
+            "label": "Supervision SCADA"
+          },
           {
             "label": "Actualités TECH"
           }
@@ -1867,7 +1963,10 @@
         "link": "/blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix",
         "tags": [
           {
-            "label": "Article"
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "Interview-Atelier LIVE"
           }
         ],
         "author": {
@@ -2011,7 +2110,7 @@
         "link": "/blog/automaticien-methode-vs-marques",
         "tags": [
           {
-            "label": "Article"
+            "label": "Evenèments"
           }
         ],
         "author": {
@@ -2058,7 +2157,7 @@
         "link": "/blog/chiffrage",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Gestion Projet Stratégique"
           }
         ],
         "author": {
@@ -2102,7 +2201,7 @@
         "link": "/blog/prospection",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -2146,7 +2245,7 @@
         "link": "/blog/le-salaire-des-automaticiens",
         "tags": [
           {
-            "label": "Automation"
+            "label": "Astuces Carrière"
           }
         ],
         "author": {
@@ -2190,7 +2289,10 @@
         "link": "/blog/parole-dexpertes",
         "tags": [
           {
-            "label": "Article"
+            "label": "Interview-Atelier LIVE"
+          },
+          {
+            "label": "Evolution de l'industrie"
           }
         ],
         "author": {
@@ -2215,7 +2317,7 @@
             "label": "Supervision SCADA"
           },
           {
-            "label": "IoT Réseau"
+            "label": "Instrumentation-Capteurs"
           }
         ],
         "author": {
@@ -2240,7 +2342,7 @@
             "label": "Supervision SCADA"
           },
           {
-            "label": "IoT Réseau"
+            "label": "Architecture Systèmes"
           }
         ],
         "author": {
@@ -2307,6 +2409,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "Electricité"
           }
         ],
         "author": {
@@ -2329,6 +2434,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "Electricité"
           }
         ],
         "author": {
@@ -2395,6 +2503,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "PC Industriel"
           }
         ],
         "author": {
@@ -2417,6 +2528,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "PC Industriel"
           }
         ],
         "author": {
@@ -2464,6 +2578,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "PC Industriel"
           }
         ],
         "author": {
@@ -2486,6 +2603,9 @@
         "tags": [
           {
             "label": "IoT Réseau"
+          },
+          {
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2507,7 +2627,7 @@
         "link": "/blog/electrocution",
         "tags": [
           {
-            "label": "Article"
+            "label": "Electricité"
           }
         ],
         "author": {
@@ -2551,6 +2671,9 @@
         "link": "/blog/pc-connecte-a-un-automate-s7-1500",
         "tags": [
           {
+            "label": "Supervision SCADA"
+          },
+          {
             "label": "Automation"
           }
         ],
@@ -2573,10 +2696,10 @@
         "link": "/blog/diagnostic-profinet-sur-reseau-siemens",
         "tags": [
           {
-            "label": "Automation"
+            "label": "IoT Réseau"
           },
           {
-            "label": "IoT Réseau"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2620,7 +2743,7 @@
         "link": "/blog/changer-son-adresse-ip",
         "tags": [
           {
-            "label": "Article"
+            "label": "IoT Réseau"
           }
         ],
         "author": {
@@ -2667,10 +2790,10 @@
         "link": "/blog/communiquer-en-opcua",
         "tags": [
           {
-            "label": "Automation"
+            "label": "IoT Réseau"
           },
           {
-            "label": "IoT Réseau"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2693,6 +2816,9 @@
         "tags": [
           {
             "label": "Automation"
+          },
+          {
+            "label": "PC Industriel"
           }
         ],
         "author": {
@@ -2714,10 +2840,10 @@
         "link": "/blog/communiquer-sans-automate",
         "tags": [
           {
-            "label": "Automation"
+            "label": "IoT Réseau"
           },
           {
-            "label": "IoT Réseau"
+            "label": "Automation"
           }
         ],
         "author": {
@@ -2740,6 +2866,9 @@
         "tags": [
           {
             "label": "IoT Réseau"
+          },
+          {
+            "label": "Automation"
           }
         ],
         "author": {

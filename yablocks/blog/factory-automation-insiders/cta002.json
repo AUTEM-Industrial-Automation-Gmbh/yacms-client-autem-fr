@@ -4,19 +4,19 @@
     "section": "blog/factory-automation-insiders/cta002"
   },
   "data": {
-    "title": "Un projet d'automatisation industrielle ?",
+    "title": "Un projet industriel à automatiser ?",
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Intégration automates Siemens, Rockwell, Schneider"
+        "text": "Automatisation et intégration de systèmes"
       },
       {
-        "icon": "settings",
-        "text": "Programmation PLC & variateurs de vitesse"
+        "icon": "monitor",
+        "text": "Supervision SCADA et acquisition de données"
       },
       {
-        "icon": "zap",
-        "text": "Mise en service et maintenance sur site"
+        "icon": "users",
+        "text": "Accompagnement technique de A à Z"
       }
     ],
     "cta": {

@@ -9,8 +9,12 @@
     "title": "Défis de l'Industrialisation en Afrique avec Boubacar MARIGO",
     "tags": [
       {
-        "label": "Article",
+        "label": "Evolution de l'industrie",
         "type": "secteur"
+      },
+      {
+        "label": "Interview-Atelier LIVE",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

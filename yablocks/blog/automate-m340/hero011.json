@@ -11,6 +11,10 @@
       {
         "label": "Automation",
         "type": "secteur"
+      },
+      {
+        "label": "PC Industriel",
+        "type": "categorie"
       }
     ],
     "articleMeta": {

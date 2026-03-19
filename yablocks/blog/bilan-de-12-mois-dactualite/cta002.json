@@ -4,19 +4,19 @@
     "section": "blog/bilan-de-12-mois-dactualite/cta002"
   },
   "data": {
-    "title": "Un projet industriel à automatiser ?",
+    "title": "Un projet robotique ou motion control ?",
     "benefits": [
       {
         "icon": "cpu",
-        "text": "Automatisation et intégration de systèmes"
+        "text": "Intégration de robots et cobots industriels"
       },
       {
-        "icon": "monitor",
-        "text": "Supervision SCADA et acquisition de données"
+        "icon": "settings",
+        "text": "Programmation motion control et axes CNC"
       },
       {
-        "icon": "users",
-        "text": "Accompagnement technique de A à Z"
+        "icon": "zap",
+        "text": "Mise en service et optimisation de cellules"
       }
     ],
     "cta": {

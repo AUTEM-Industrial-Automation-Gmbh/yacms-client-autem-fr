@@ -9,8 +9,12 @@
     "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
     "tags": [
       {
-        "label": "Actualités TECH",
+        "label": "Supervision SCADA",
         "type": "secteur"
+      },
+      {
+        "label": "Actualités TECH",
+        "type": "categorie"
       }
     ],
     "articleMeta": {
