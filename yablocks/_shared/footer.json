@@ -71,8 +71,8 @@
             "href": "/blog"
           },
           {
-            "text": "Devis gratuit",
-            "href": "/devis"
+            "text": "Plan du Site",
+            "href": "/plan-du-site"
           }
         ]
       }
@@ -83,28 +83,12 @@
         {
           "text": "Mentions légales",
           "href": "/mentions-legales"
-        },
-        {
-          "text": "Politique de confidentialité",
-          "href": "/confidentialite"
-        },
-        {
-          "text": "CGU",
-          "href": "/cgu"
         }
       ]
     },
     "certifications": [
       {
         "src": "/logos/ignition.png",
-        "alt": "Sample text"
-      },
-      {
-        "src": "Sample text",
-        "alt": "Sample text"
-      },
-      {
-        "src": "Sample text",
         "alt": "Sample text"
       }
     ]
