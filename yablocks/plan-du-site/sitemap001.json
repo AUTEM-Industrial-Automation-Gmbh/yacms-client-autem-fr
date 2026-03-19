@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/layout/sitemap/Sitemap001",
+        "section": "plan-du-site/sitemap001"
+    },
+    "data": {
+        "_inject": "pages",
+        "title": "Plan du site"
+    }
+}

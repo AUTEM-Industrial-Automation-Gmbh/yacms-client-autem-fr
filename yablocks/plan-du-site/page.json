@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "title": "Plan du site — AUTEM",
+    "description": "Plan du site AUTEM — retrouvez l'ensemble de nos pages : offres, cas clients, articles de blog et ressources techniques.",
+    "keywords": [
+      "plan du site",
+      "sitemap",
+      "AUTEM",
+      "automatisme industriel"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./sitemap001.json",
+    "../_shared/footer.json"
+  ]
+}
