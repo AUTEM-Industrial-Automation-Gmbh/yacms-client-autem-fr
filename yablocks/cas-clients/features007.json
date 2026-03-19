@@ -14,7 +14,7 @@
                 "label": "Tous les secteurs",
                 "values": [
                     {
-                        "value": "Luxe"
+                        "value": "Textile"
                     },
                     {
                         "value": "Logistique"
@@ -23,19 +23,19 @@
                         "value": "Mobilité"
                     },
                     {
+                        "value": "Cybersécurité"
+                    },
+                    {
                         "value": "Chimie"
                     },
                     {
                         "value": "Agroalimentaire"
                     },
                     {
-                        "value": "Métallurgie"
+                        "value": "Metallurgie"
                     },
                     {
-                        "value": "Machines spéciales"
-                    },
-                    {
-                        "value": "Cybersécurité"
+                        "value": "Machines Spéciales"
                     }
                 ]
             },
@@ -43,19 +43,31 @@
                 "label": "Toutes les expertises",
                 "values": [
                     {
-                        "value": "Automatisme"
+                        "value": "Automation"
                     },
                     {
-                        "value": "SCADA / Supervision"
+                        "value": "IoT Réseau"
                     },
                     {
-                        "value": "IoT / IIoT"
+                        "value": "Electricité"
                     },
                     {
-                        "value": "MES / TRS"
+                        "value": "MES-OEE"
                     },
                     {
-                        "value": "Robotisation"
+                        "value": "Pareto-VSM"
+                    },
+                    {
+                        "value": "Supervision SCADA"
+                    },
+                    {
+                        "value": "Architecture Systèmes"
+                    },
+                    {
+                        "value": "Gestion Projet Stratégique"
+                    },
+                    {
+                        "value": "Cycle de Vie et Obsolescence"
                     }
                 ]
             }
@@ -70,14 +82,23 @@
                 "link": "/cas-clients/success-story-hermes",
                 "tags": [
                     {
-                        "label": "Luxe",
+                        "label": "Textile",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Pareto-VSM",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Gestion Projet Stratégique",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Cycle de Vie et Obsolescence",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2023
             },
             {
                 "logo": {
@@ -92,10 +113,15 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Automation",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Electricité",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2020
             },
             {
                 "logo": {
@@ -110,10 +136,19 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "IoT / IIoT",
+                        "label": "Pareto-VSM",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Architecture Systèmes",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Gestion Projet Stratégique",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2022
             },
             {
                 "logo": {
@@ -128,10 +163,11 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "SCADA / Supervision",
+                        "label": "Supervision SCADA",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2021
             },
             {
                 "logo": {
@@ -146,7 +182,11 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "IoT / IIoT",
+                        "label": "IoT Réseau",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Architecture Systèmes",
                         "type": "categorie"
                     }
                 ]
@@ -164,11 +204,11 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "Robotisation",
+                        "label": "Automation",
                         "type": "categorie"
                     },
                     {
-                        "label": "MES / TRS",
+                        "label": "MES-OEE",
                         "type": "categorie"
                     }
                 ]
@@ -186,7 +226,11 @@
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Automation",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Gestion Projet Stratégique",
                         "type": "categorie"
                     }
                 ]
@@ -200,11 +244,11 @@
                 "link": "/cas-clients/success-story-tm",
                 "tags": [
                     {
-                        "label": "Chimie",
+                        "label": "Agroalimentaire",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Automation",
                         "type": "categorie"
                     }
                 ]
@@ -218,11 +262,15 @@
                 "link": "/cas-clients/success-story-arcelormittal",
                 "tags": [
                     {
-                        "label": "Métallurgie",
+                        "label": "Metallurgie",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Pareto-VSM",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Gestion Projet Stratégique",
                         "type": "categorie"
                     }
                 ]
@@ -236,11 +284,11 @@
                 "link": "/cas-clients/success-story-wonderlogix",
                 "tags": [
                     {
-                        "label": "Machines spéciales",
+                        "label": "Machines Spéciales",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Automation",
                         "type": "categorie"
                     }
                 ]
@@ -254,14 +302,15 @@
                 "link": "/cas-clients/success-story-bema",
                 "tags": [
                     {
-                        "label": "Machines spéciales",
+                        "label": "Machines Spéciales",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automatisme",
+                        "label": "Automation",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2022
             }
         ]
     }
