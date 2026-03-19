@@ -56,19 +56,19 @@
         "checklist": [
           {
             "text": "KPI de Production : MES, TRS, OEE",
-            "href": "/offre/ignition-scada"
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
           },
           {
             "text": "Analyse Data, Pareto, VSM, ROI",
-            "href": "/offre/informatique-industrielle"
+            "href": "/nos-offres/logiciels-pilotage/analyse-data"
           },
           {
             "text": "Supervision Scada IGNITION (Certifié Gold)",
-            "href": "/offre/informatique-industrielle#mes"
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
           },
           {
             "text": "GTB et GMAO",
-            "href": ""
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
           }
         ],
         "cta": {
