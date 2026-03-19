@@ -16,19 +16,19 @@
         "checklist": [
           {
             "text": "Rétrofit Automation",
-            "href": "/offre/automatisme"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation"
           },
           {
             "text": "Rénovation PC Industriel",
-            "href": "/offre/automatisme#variateurs"
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
           },
           {
             "text": "IoT, Réseaux, Communication",
-            "href": "/offre/automatisme#etudes-electriques"
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
           },
           {
             "text": "Revamping électrique",
-            "href": "/offre/automatisme#securite"
+            "href": "/nos-offres/machines-automatisees/revamping-electrique"
           }
         ],
         "cta": {
