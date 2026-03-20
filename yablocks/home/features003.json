@@ -76,12 +76,12 @@
           "link": "/offre/informatique-industrielle"
         },
         "testimonial": {
-          "quote": "AUTEM a su s'adapter à nos contraintes d'atelier avec sérieux et professionnalisme. L'architecture livrée est claire, bien documentée et nos équipes ont pu la prendre en main rapidement. Nous recommandons leur expertise pour tout projet d'automatisme en environnement de production exigeant.",
-          "authorName": "Responsable Technique",
-          "authorRole": "Hermès — Atelier de production Paris",
+          "quote": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
+          "authorName": "Département Digital",
+          "authorRole": "Verkor",
           "companyLogo": {
-            "src": "/logos/hermes.png",
-            "alt": "Hermès"
+            "src": "/logos/verkor.png",
+            "alt": "Verkor"
           }
         }
       },
@@ -112,12 +112,12 @@
           "link": "/offre/data"
         },
         "testimonial": {
-          "quote": "L'intégration réalisée par AUTEM a transformé cette ligne. Le TRS est désormais un indicateur clé de nos réunions de production et les équipes ont rapidement adopté le nouveau système. Un travail sérieux, dans les délais.",
-          "authorName": "Responsable Production",
-          "authorRole": "Unilever — Usine de l'Oise",
+          "quote": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",
+          "authorName": "Département Engineering",
+          "authorRole": "COOP",
           "companyLogo": {
-            "src": "/logos/unilever.jpg",
-            "alt": "Unilever"
+            "src": "/logos/coop.png",
+            "alt": "COOP"
           }
         }
       }
