@@ -25,6 +25,22 @@
       "title": "Ils nous font confiance",
       "items": [
         {
+          "src": "/logos/coop.png",
+          "alt": "COOP"
+        },
+        {
+          "src": "/logos/medtronic.jpg",
+          "alt": "Medtronic"
+        },
+        {
+          "src": "/logos/parisaeroportcdg.jpg",
+          "alt": "ADP Paris Aéroports"
+        },
+        {
+          "src": "/logos/caterpillar.png",
+          "alt": "Caterpillar"
+        },
+        {
           "src": "/logos/hermes.png",
           "alt": "Hermès"
         },
@@ -55,6 +71,10 @@
         {
           "src": "/logos/bema.png",
           "alt": "BEMA"
+        },
+        {
+          "src": "",
+          "alt": ""
         }
       ]
     }
