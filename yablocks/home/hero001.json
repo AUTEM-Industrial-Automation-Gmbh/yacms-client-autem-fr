@@ -41,40 +41,8 @@
           "alt": "Caterpillar"
         },
         {
-          "src": "/logos/hermes.png",
-          "alt": "Hermès"
-        },
-        {
-          "src": "/logos/amazon.png",
-          "alt": "Amazon"
-        },
-        {
-          "src": "/logos/danone-covostok.png",
-          "alt": "Danone / CoVostok"
-        },
-        {
-          "src": "/logos/unilever.jpg",
-          "alt": "Unilever"
-        },
-        {
-          "src": "/logos/arcelormittal.jpg",
-          "alt": "ArcelorMittal"
-        },
-        {
-          "src": "/logos/engie.jpg",
-          "alt": "ENGIE"
-        },
-        {
-          "src": "/logos/thalys.png",
-          "alt": "Thalys"
-        },
-        {
-          "src": "/logos/bema.png",
-          "alt": "BEMA"
-        },
-        {
-          "src": "",
-          "alt": ""
+          "src": "/logos/verkor.png",
+          "alt": "Verkor"
         }
       ]
     }

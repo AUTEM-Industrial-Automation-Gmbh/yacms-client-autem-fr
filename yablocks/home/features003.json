@@ -36,12 +36,12 @@
           "link": "/offre/automatisme"
         },
         "testimonial": {
-          "quote": "AUTEM a parfaitement compris nos exigences dès le début de la mission. La programmation est propre, bien structurée et la machine a été validée sans anomalie majeure lors des tests FAT. C'est le niveau de qualité que nous attendons de nos partenaires.",
-          "authorName": "Directeur Technique",
-          "authorRole": "TM — Canada",
+          "quote": "Modernisation du Tri Bagage Est (TBE) Terminal 2E",
+          "authorName": "Vanderlande",
+          "authorRole": "ADP Paris Aéroports",
           "companyLogo": {
-            "src": "/logos/tm.png",
-            "alt": "TM"
+            "src": "/logos/parisaeroportcdg.jpg",
+            "alt": "ADP Paris Aéroports"
           }
         }
       },
