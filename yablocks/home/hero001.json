@@ -25,36 +25,24 @@
       "title": "Ils nous font confiance",
       "items": [
         {
-          "src": "/logos/hermes.png",
-          "alt": "Hermès"
+          "src": "/logos/coop.png",
+          "alt": "COOP"
         },
         {
-          "src": "/logos/amazon.png",
-          "alt": "Amazon"
+          "src": "/logos/medtronic.jpg",
+          "alt": "Medtronic"
         },
         {
-          "src": "/logos/danone-covostok.png",
-          "alt": "Danone / CoVostok"
+          "src": "/logos/parisaeroportcdg.jpg",
+          "alt": "ADP Paris Aéroports"
         },
         {
-          "src": "/logos/unilever.jpg",
-          "alt": "Unilever"
+          "src": "/logos/caterpillar.png",
+          "alt": "Caterpillar"
         },
         {
-          "src": "/logos/arcelormittal.jpg",
-          "alt": "ArcelorMittal"
-        },
-        {
-          "src": "/logos/engie.jpg",
-          "alt": "ENGIE"
-        },
-        {
-          "src": "/logos/thalys.png",
-          "alt": "Thalys"
-        },
-        {
-          "src": "/logos/bema.png",
-          "alt": "BEMA"
+          "src": "/logos/verkor.png",
+          "alt": "Verkor"
         }
       ]
     }

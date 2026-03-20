@@ -20,6 +20,7 @@ export default defineConfig({
                 consentNotice: {
                   description: 'Nous utilisons des services tiers pour analyser notre trafic et vous offrir un support en direct. Vous pouvez choisir les services que vous acceptez.',
                 },
+                ok: 'Tout accepter',
                 acceptAll: 'Tout accepter',
                 acceptSelected: 'Accepter la sélection',
                 decline: 'Refuser',
@@ -35,11 +36,13 @@ export default defineConfig({
                 name: 'google-analytics',
                 title: 'Google Analytics',
                 purposes: ['analytics'],
+                default: true,
               },
               {
                 name: 'tawk-to',
                 title: 'Tawk.to Chat',
                 purposes: ['chat'],
+                default: true,
               },
             ],
           };
@@ -52,22 +55,22 @@ export default defineConfig({
       },
 
       // ─── GA4 — consent-gated via Klaro ───────────────────────
-      {
-        name: "google-analytics",
-        src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
-        async: true,
-        consent: "google-analytics",
-      },
-      {
-        name: "ga4-init",
-        content: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag() { dataLayer.push(arguments); }
-          gtag('js', new Date());
-          gtag('config', '${GA4_ID}');
-        `,
-        consent: "google-analytics",
-      },
+      // {
+      //   name: "google-analytics",
+      //   src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
+      //   async: true,
+      //   consent: "google-analytics",
+      // },
+      // {
+      //   name: "ga4-init",
+      //   content: `
+      //     window.dataLayer = window.dataLayer || [];
+      //     function gtag() { dataLayer.push(arguments); }
+      //     gtag('js', new Date());
+      //     gtag('config', '${GA4_ID}');
+      //   `,
+      //   consent: "google-analytics",
+      // },
     ],
 
     body: [
