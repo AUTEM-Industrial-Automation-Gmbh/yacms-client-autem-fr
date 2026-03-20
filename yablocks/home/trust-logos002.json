@@ -8,52 +8,52 @@
     "subtitle": "Ils ont pérennisé leurs usines avec Autem",
     "logos": [
       {
-        "src": "/logos/siemens.png",
-        "alt": "Siemens"
+        "src": "/logos/coop.png",
+        "alt": "COOP"
       },
       {
-        "src": "/logos/rockwell.png",
-        "alt": "Allen-Bradley / Rockwell Automation"
+        "src": "/logos/caterpillar.png",
+        "alt": "Caterpillar"
       },
       {
-        "src": "/logos/schneider.png",
-        "alt": "Schneider Electric"
+        "src": "/logos/verkor.png",
+        "alt": "Verkor"
       },
       {
-        "src": "/logos/ignition.png",
-        "alt": "Ignition SCADA"
+        "src": "/logos/medtronic.jpg",
+        "alt": "Medtronic"
       },
       {
-        "src": "/logos/wonderware.png",
-        "alt": "Wonderware / AVEVA"
+        "src": "/logos/parisaeroportcdg.jpg",
+        "alt": "ADP Paris Aéroports"
       },
       {
-        "src": "/logos/wincc.png",
-        "alt": "WinCC"
+        "src": "/logos/amazon.png",
+        "alt": "Amazon"
       },
       {
-        "src": "/logos/eplan.png",
-        "alt": "EPLAN"
+        "src": "/logos/hermes.png",
+        "alt": "HTH Hermès"
       },
       {
-        "src": "/logos/sew.png",
-        "alt": "SEW-Eurodrive"
+        "src": "/logos/thalys.png",
+        "alt": "Thalys"
       },
       {
-        "src": "/logos/eaton.png",
-        "alt": "Eaton"
+        "src": "/logos/sftrf.png",
+        "alt": "SFTRF"
       },
       {
-        "src": "/logos/pilz.png",
-        "alt": "Pilz"
+        "src": "/logos/procter & gamble.png",
+        "alt": "Procter & Gamble"
       },
       {
-        "src": "/logos/pepperl-fuchs.png",
-        "alt": "Pepperl+Fuchs"
+        "src": "/logos/soitec.jpg",
+        "alt": "Soitec"
       },
       {
-        "src": "/logos/profinet.png",
-        "alt": "Profinet"
+        "src": "/logos/biomerieux.png",
+        "alt": "Biomérieux"
       }
     ]
   }
