@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-sftrf-mobilite-supervision-scada/features008-strategie"
+  },
+  "data": {
+    "title": "Stratégie",
+    "content": "<ol><li><p><strong>Audit des systèmes existants</strong><br>Recueil des architectures en place, cartographie des équipements terrain et identification des interfaces à développer pour l'intégration SCADA.</p></li><li><p><strong>Développement de la supervision SCADA</strong><br>Développement sur plateforme WinCC/Ignition des synoptiques de supervision du réseau, avec remontée temps réel des états équipements et des alarmes.</p></li><li><p><strong>Intégration GTC tunnel</strong><br>Développement des interfaces de pilotage centralisé des équipements tunnel (ventilation, éclairage, barrières, DAI), avec logique de gestion des incidents selon les procédures d'exploitation.</p></li><li><p><strong>Intégration des systèmes radio</strong><br>Raccordement des équipements radio d'urgence à la supervision pour assurer la diffusion d'informations et la coordination des secours en cas d'incident.</p></li></ol>"
+  }
+}

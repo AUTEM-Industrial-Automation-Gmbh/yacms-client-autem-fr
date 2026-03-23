@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "cas-clients/success-story-soitec-semiconducteurs-iot-reseau/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Salle blanche production semiconducteurs"
+        },
+        "quote": "La migration des PC industriels et de notre réseau OT s'est déroulée sans aucun arrêt de production imprévu. AUTEM a su gérer toute la complexité des contraintes salle blanche et de la compatibilité logicielle. Notre infrastructure est désormais sécurisée et nous avons enfin une connectivité IoT exploitable.",
+        "author": {
+            "name": "Responsable Infrastructure OT",
+            "role": "Soitec — Site de production"
+        }
+    }
+}

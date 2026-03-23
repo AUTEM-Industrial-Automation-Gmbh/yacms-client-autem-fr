@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-adp-mobilite-automation/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur la <strong>modernisation complète du système de tri bagage du terminal T2E</strong> : remplacer et migrer les équipements en fin de vie tout en maintenant la continuité opérationnelle du terminal, et intégrer une connectivité IoT industrielle pour la supervision en temps réel.</p><p>Parmi les défis identifiés :</p><ul><li><strong>Équipements en obsolescence avancée</strong> — automates et pupitres de plus de 15 ans, pièces de rechange introuvables sur le marché ;</li><li>Migration à effectuer sans interruption prolongée du service bagages, avec des plages de maintenance de 2h à 4h maximum ;</li><li>Hétérogénéité des équipements terrain multi-générations à intégrer sur un réseau industriel homogène ;</li><li>Mise en place d'une <strong>connectivité IoT</strong> pour la remontée de données temps réel vers le centre de supervision ADP ;</li><li>Conformité aux référentiels sécurité aéroportuaires IATA et DGAC.</li></ul>"
+    }
+}

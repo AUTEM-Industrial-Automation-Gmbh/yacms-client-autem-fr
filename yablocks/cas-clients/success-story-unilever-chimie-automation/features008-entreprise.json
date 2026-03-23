@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-unilever-chimie-automation/features008-entreprise"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>Unilever est l'un des <strong>leaders mondiaux des biens de consommation courante</strong> (hygène, soin, alimentaire), présent dans plus de 190 pays. Son usine française de l'Oise produit une large gamme de produits d'hygiène et de soin avec des lignes de fabrication à hauts volumes nécessitant une automatisation poussée.</p><p>Dans le cadre de sa stratégie d'amélioration continue, l'usine a décidé d'<strong>automatiser et de digitaliser</strong> l'une de ses lignes de production en intégrant un robot de palettisation, un doseur automatique et un système de suivi de performance TRS-MES.</p>"
+  }
+}

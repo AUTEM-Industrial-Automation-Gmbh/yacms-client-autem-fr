@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-bema-machines-speciales-automation/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission portait sur la <strong>programmation complète d'une machine de compactage de papier</strong> : automate industriel, cycles de compactage, gestion des sécurités opérateur et IHM de conduite.</p><ul><li>Gestion des <strong>cycles de compactage</strong> avec contrôle de la force de presse, détection de bourrage et gestion des fins de cycle ;</li><li>Sécurités opérateur conformes aux normes machines européennes (EN 13849) : barrières immatérielles, verrouillages, arrêt d'urgence ;</li><li>IHM intuitive permettant aux opérateurs non-automaticiens de conduire la machine de façon autonome ;</li><li>Tests FAT chez BEMA puis mise en service SAT sur site client.</li></ul>"
+  }
+}

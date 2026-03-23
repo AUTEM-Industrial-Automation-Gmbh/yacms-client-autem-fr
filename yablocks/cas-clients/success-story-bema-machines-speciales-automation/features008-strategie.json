@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-bema-machines-speciales-automation/features008-strategie"
+  },
+  "data": {
+    "title": "Stratégie",
+    "content": "<ol><li><p><strong>Analyse fonctionnelle et spécification</strong><br>Recueil des exigences avec les équipes BEMA, rédaction des spécifications fonctionnelles détaillées couvrant les séquences de compactage, les sécurités et les cas d'anomalie.</p></li><li><p><strong>Programmation automate</strong><br>Développement du programme automate en langage Ladder/Grafcet : séquences de compactage (descente presse, maintien effort, remontée, éjection), gestion des défauts et des modes dégradés.</p></li><li><p><strong>Développement de l'IHM</strong><br>Interface opérateur claire avec écrans de conduite, visualisation des états machine, gestion des alarmes et des acquittements, et accès aux paramètres de réglage pour les techniciens.</p></li><li><p><strong>Tests FAT chez BEMA et SAT sur site</strong><br>Validation complète en atelier avec simulation des défauts et tests des sécurités, puis mise en service sur site client avec formation des opérateurs.</p></li></ol>"
+  }
+}

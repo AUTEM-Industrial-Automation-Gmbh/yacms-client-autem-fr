@@ -94,7 +94,7 @@
                     "alt": "ADP Aéroports de Paris"
                 },
                 "title": "Modernisation du système de tri bagage T2E à l'aéroport CDG",
-                "link": "/cas-clients/success-story-adp-automation",
+                "link": "/cas-clients/success-story-adp-mobilite-automation",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -121,7 +121,7 @@
                     "alt": "Verkor"
                 },
                 "title": "Développement SCADA et BMS pour batteries électriques industrielles",
-                "link": "/cas-clients/success-story-verkor-energie-batteries",
+                "link": "/cas-clients/success-story-verkor-energie-batteries-architecture-systemes",
                 "tags": [
                     {
                         "label": "Energie-Batteries",
@@ -159,7 +159,7 @@
                     "alt": "Medtronic"
                 },
                 "title": "Revamping automatisme du four de séchage — Ligne pacemakers",
-                "link": "/cas-clients/success-story-medtronic-pc-industriel",
+                "link": "/cas-clients/success-story-medtronic-pc-industriel-mes-oee",
                 "tags": [
                     {
                         "label": "PC Industriel",
@@ -186,7 +186,7 @@
                     "alt": "Caterpillar"
                 },
                 "title": "Intégration TRS, OEE et données MES pour l'usine Caterpillar",
-                "link": "/cas-clients/success-story-caterpillar-mes-oee",
+                "link": "/cas-clients/success-story-caterpillar-metallurgie-mes-oee",
                 "tags": [
                     {
                         "label": "Metallurgie",
@@ -205,7 +205,7 @@
                     "alt": "bioMérieux"
                 },
                 "title": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
-                "link": "/cas-clients/success-story-biomerieux-electricite",
+                "link": "/cas-clients/success-story-biomerieux-pharma-biotech-electricite",
                 "tags": [
                     {
                         "label": "Pharma-Biotech",
@@ -224,7 +224,7 @@
                     "alt": "Soitec"
                 },
                 "title": "Connectivité réseau et modernisation PC industriels pour ligne silicium",
-                "link": "/cas-clients/success-story-soitec-iot-reseau",
+                "link": "/cas-clients/success-story-soitec-semiconducteurs-iot-reseau",
                 "tags": [
                     {
                         "label": "Semiconducteurs",
@@ -251,7 +251,7 @@
                     "alt": "Hermès"
                 },
                 "title": "Architecture data textile et systèmes métier industriels",
-                "link": "/cas-clients/success-story-hermes-pareto-vsm",
+                "link": "/cas-clients/success-story-hermes-textile-pareto-vsm",
                 "tags": [
                     {
                         "label": "Textile",
@@ -278,7 +278,7 @@
                     "alt": "Procter & Gamble"
                 },
                 "title": "Développement SCADA logistique — Site de production P&G",
-                "link": "/cas-clients/success-story-procter-gamble-supervision-scada",
+                "link": "/cas-clients/success-story-procter-gamble-chimie-supervision-scada",
                 "tags": [
                     {
                         "label": "Chimie",
@@ -297,7 +297,7 @@
                     "alt": "Equans Tinea"
                 },
                 "title": "Développement SCADA pour systèmes logistiques — Equans Tinea",
-                "link": "/cas-clients/success-story-equans-tinea-supervision-scada",
+                "link": "/cas-clients/success-story-equans-tinea-logistique-supervision-scada",
                 "tags": [
                     {
                         "label": "Logistique",
@@ -316,7 +316,7 @@
                     "alt": "BEMA"
                 },
                 "title": "Programmation d'une machine de compactage de papier",
-                "link": "/cas-clients/success-story-bema-automation",
+                "link": "/cas-clients/success-story-bema-machines-speciales-automation",
                 "tags": [
                     {
                         "label": "Machines Spéciales",
@@ -335,7 +335,7 @@
                     "alt": "Thalys"
                 },
                 "title": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
-                "link": "/cas-clients/success-story-thalys-pareto-vsm",
+                "link": "/cas-clients/success-story-thalys-mobilite-pareto-vsm",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -362,7 +362,7 @@
                     "alt": "SEE / SFTRF"
                 },
                 "title": "Supervision réseau routier et ferroviaire, GTC et radio",
-                "link": "/cas-clients/success-story-sftrf-supervision-scada",
+                "link": "/cas-clients/success-story-sftrf-mobilite-supervision-scada",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -381,7 +381,7 @@
                     "alt": "Seckiot"
                 },
                 "title": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
-                "link": "/cas-clients/success-story-seckiot-iot-reseau",
+                "link": "/cas-clients/success-story-seckiot-cybersecurite-iot-reseau",
                 "tags": [
                     {
                         "label": "Cybersécurité",
@@ -404,7 +404,7 @@
                     "alt": "Amazon"
                 },
                 "title": "Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS",
-                "link": "/cas-clients/success-story-amazon-automation",
+                "link": "/cas-clients/success-story-amazon-logistique-automation",
                 "tags": [
                     {
                         "label": "Logistique",
@@ -427,7 +427,7 @@
                     "alt": "Wonderlogix"
                 },
                 "title": "Tests et amélioration d'un générateur de programmes d'automates",
-                "link": "/cas-clients/success-story-wonderlogix-automation",
+                "link": "/cas-clients/success-story-wonderlogix-machines-speciales-automation",
                 "tags": [
                     {
                         "label": "Machines Spéciales",
@@ -446,7 +446,7 @@
                     "alt": "TM"
                 },
                 "title": "Programmation d'une machine de lavage de cuves et fûts — API et IHM",
-                "link": "/cas-clients/success-story-tm-automation",
+                "link": "/cas-clients/success-story-tm-chimie-automation",
                 "tags": [
                     {
                         "label": "Chimie",
@@ -465,7 +465,7 @@
                     "alt": "Unilever"
                 },
                 "title": "Intégration de robot, doseur et logiciel TRS-MES en ligne de production",
-                "link": "/cas-clients/success-story-unilever-automation",
+                "link": "/cas-clients/success-story-unilever-chimie-automation",
                 "tags": [
                     {
                         "label": "Chimie",
@@ -488,7 +488,7 @@
                     "alt": "Danone / CoVostok"
                 },
                 "title": "Conception et mise en service d'un skid de filtration d'eau par osmose",
-                "link": "/cas-clients/success-story-covostok-automation",
+                "link": "/cas-clients/success-story-covostok-agroalimentaire-automation",
                 "tags": [
                     {
                         "label": "Agroalimentaire",
@@ -511,7 +511,7 @@
                     "alt": "ArcelorMittal"
                 },
                 "title": "Optimisation des performances d'un atelier d'usinage",
-                "link": "/cas-clients/success-story-arcelormittal-pareto-vsm",
+                "link": "/cas-clients/success-story-arcelormittal-metallurgie-pareto-vsm",
                 "tags": [
                     {
                         "label": "Metallurgie",
@@ -534,7 +534,7 @@
                     "alt": "SNCF"
                 },
                 "title": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
-                "link": "/cas-clients/success-story-sncf-automation",
+                "link": "/cas-clients/success-story-sncf-mobilite-automation",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -553,7 +553,7 @@
                     "alt": "Saint-Gobain"
                 },
                 "title": "Automatisation du packaging de matériaux abrasifs — Saint-Gobain Maroc",
-                "link": "/cas-clients/success-story-st-gobain-automation",
+                "link": "/cas-clients/success-story-st-gobain-metallurgie-automation",
                 "tags": [
                     {
                         "label": "Metallurgie",

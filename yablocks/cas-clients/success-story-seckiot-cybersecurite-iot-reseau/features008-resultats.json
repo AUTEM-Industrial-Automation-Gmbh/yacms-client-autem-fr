@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-seckiot-cybersecurite-iot-reseau/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Connecteurs OPC-UA et Modbus TCP validés</strong> et intégrés à la plateforme Seckiot ;</li><li>Aucun impact mesuré sur les cycles automates lors des tests en environnement de production ;</li><li>Isolation OT respectée : zéro exposition directe des équipements industriels au réseau IT ;</li><li>Documentation des cas limites et des configurations matérielles supportées, enrichissant le référentiel technique Seckiot ;</li><li>Contribution directe au renforcement de la compatibilité de la plateforme avec les environnements industriels réels.</li></ul>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-verkor-energie-batteries-architecture-systemes/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>Verkor est une <strong>entreprise française pionnière dans la production de batteries décarbonées</strong> pour la mobilité électrique et le stockage d'énergie industriel. Fondée en 2020 et implantée à Dunkerque, elle ambitionne de devenir l'un des premiers fabricants européens de cellules de batteries lithium-ion à faible empreinte carbone.</p><p>La gigafactory de Verkor intègre des <strong>processus de fabrication de haute précision</strong> : formation, vieillissement, test et assemblage de cellules, pilotés par des systèmes de supervision critiques. La fiabilité du BMS (Battery Management System) et la supervision SCADA sont au cœur de la qualité et de la sécurité de la production.</p>"
+    }
+}

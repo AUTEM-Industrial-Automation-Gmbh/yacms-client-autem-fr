@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-sncf-mobilite-automation/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur le <strong>développement en C / Controlbuild de l'IHM de supervision des aiguillages ferroviaires</strong> sur un tronçon lorrain, avec une approche HIL (Hardware In the Loop) pour la validation du logiciel sans risque sur l'infrastructure réelle.</p><p>Parmi les défis identifiés :</p><ul><li>Développement en langage C et environnement Controlbuild spécifique aux systèmes ferroviaires SNCF ;</li><li>Exigences de sûreté ferroviaire (SIL) imposant des processus de développement et de vérification formalisés ;</li><li>Mise en place d'un banc de test HIL pour simuler le comportement des aiguillages réels et valider l'IHM sans intervention sur infrastructure en service ;</li><li>Respect des standards ergonomiques SNCF pour les IHM de supervision (couleurs, codes, interactions) ;</li><li>Coordination avec les équipes signalisation SNCF pour la validation des scénarios de test.</li></ul>"
+    }
+}

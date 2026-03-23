@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-verkor-energie-batteries-architecture-systemes/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Spécification et architecture SCADA</strong><br>Définition de l'architecture fonctionnelle et technique du SCADA avec Ignition (Inductive Automation), choix de la topologie réseau OT et intégration des protocoles de communication avec les équipements de formation BMS.</p></li><li><p><strong>Développement du BMS et supervision thermique</strong><br>Développement des programmes de gestion des cycles de charge/décharge et de surveillance thermique des chambres de formation, avec gestion des alarmes critiques et traçabilité des paramètres par numéro de série de cellule.</p></li><li><p><strong>Intégration GTB-GMAO</strong><br>Déploiement d'un système de gestion technique du bâtiment et de maintenance assistée par ordinateur, incluant la supervision des utilités (froid, électricité, CVC) et la planification automatique des maintenances préventives.</p></li><li><p><strong>Tests FAT, démarrage et formation</strong><br>Qualification en usine de l'ensemble du système, démarrage progressif ligne par ligne et transfert de compétences vers les équipes Verkor.</p></li></ol>"
+    }
+}

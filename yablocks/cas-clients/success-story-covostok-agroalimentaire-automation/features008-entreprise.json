@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-covostok-agroalimentaire-automation/features008-entreprise"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>CoVostok est une <strong>filiale du groupe Danone</strong> opérant en Russie dans la production laitière et alimentaire. Le site de production dispose d'une installation de traitement de l'eau dont la qualité conditionne directement la conformité des produits aux normes agroalimentaires.</p><p>Pour garantir une eau de production conforme aux exigences Danone, le site a décidé d'investir dans un <strong>skid de filtration par osmose inverse</strong> permettant de produire en continu une eau traitée répondant aux standards de qualité du groupe.</p>"
+  }
+}

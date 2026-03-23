@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "cas-clients/success-story-caterpillar-metallurgie-mes-oee/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Usine de production Caterpillar"
+        },
+        "quote": "Grâce à l'intégration réalisée par AUTEM, nous disposons enfin d'une vision temps réel et fiable de notre OEE. Les tableaux de bord ont transformé notre façon de piloter la production et nos actions d'amélioration continue sont maintenant basées sur des données objectives.",
+        "author": {
+            "name": "Responsable Performance Industrielle",
+            "role": "Caterpillar — Usine de production"
+        }
+    }
+}
