@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-sncf-automation/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Analyse des spécifications et prise en main de Controlbuild</strong><br>Étude des spécifications fonctionnelles SNCF et des standards de développement ferroviaires, prise en main de l'environnement Controlbuild et du référentiel des IHM existantes.</p></li><li><p><strong>Développement de l'IHM en C / Controlbuild</strong><br>Développement des écrans de supervision des aiguillages (synoptiques de voies, état des aiguilles, commandes d'orientation), conformément aux standards ergonomiques SNCF et aux exigences de sûreté.</p></li><li><p><strong>Mise en place du banc HIL et tests</strong><br>Configuration du banc Hardware In the Loop pour simuler le comportement des actionneurs d'aiguillages, développement des scénarios de test couvrant les cas nominaux et les cas de défaut.</p></li><li><p><strong>Validation et qualification</strong><br>Exécution des campagnes de test sur banc HIL, correction des anomalies détectées et rédaction de la documentation de qualification conforme aux exigences ferroviaires.</p></li></ol>"
+    }
+}

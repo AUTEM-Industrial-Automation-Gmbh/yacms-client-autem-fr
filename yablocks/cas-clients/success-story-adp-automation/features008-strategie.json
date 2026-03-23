@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-adp-automation/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Audit de cycle de vie et plan de migration</strong><br>Inventaire complet des équipements existants, cotation de leur état d'obsolescence et élaboration d'un plan de migration par phase pour minimiser l'impact opérationnel.</p></li><li><p><strong>Remplacement des automates et remise à niveau réseau</strong><br>Migration vers des automates Siemens S7-1500 sur réseau Profinet, remplacement des panneaux opérateurs vieillissants par des IHM tactiles, et restructuration du réseau industriel en anneaux redondants.</p></li><li><p><strong>Intégration IoT et supervision centralisée</strong><br>Déploiement de passerelles IoT industrielles pour la remontée des données de performance (cadences, défauts, disponibilité) vers le SCADA centralisé ADP, avec tableaux de bord temps réel.</p></li><li><p><strong>Mise en service progressive et qualification</strong><br>Validation zone par zone durant les plages de nuit, tests de charge grandeur nature et formation des équipes maintenance ADP aux nouveaux équipements.</p></li></ol>"
+    }
+}

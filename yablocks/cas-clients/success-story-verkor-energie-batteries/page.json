@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Verkor — SCADA BMS pour batteries électriques industrielles | AUTEM",
+    "description": "Découvrez comment AUTEM a développé le SCADA et l'architecture BMS pour la ligne de production de batteries électriques de Verkor : supervision, GTB-GMAO et architecture systèmes.",
+    "keywords": ["SCADA batteries", "BMS industriel", "Verkor automatisme", "supervision énergie", "architecture systèmes batteries", "AUTEM réalisation"]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

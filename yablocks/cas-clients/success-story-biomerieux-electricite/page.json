@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "bioMérieux — Rétrofit ligne de conditionnement aseptisée | AUTEM",
+        "description": "Découvrez comment AUTEM a réalisé le rétrofit électrique et automatisme de la ligne de conditionnement aseptisée bioMérieux : coffrets électriques, câblage industriel et mise en service.",
+        "keywords": [
+            "rétrofit ligne conditionnement",
+            "automatisme pharma",
+            "bioMérieux électricité",
+            "conditionnement aseptisé",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

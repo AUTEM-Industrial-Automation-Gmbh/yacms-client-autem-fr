@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-equans-tinea-supervision-scada/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>Equans Tinea (groupe Equans, anciennement Engie) est un <strong>intégrateur spécialisé dans les systèmes d'automatisation logistique</strong> basé à Lyon. Il intervient sur la conception, le développement et la mise en service de solutions SCADA pour des plateformes logistiques automatisées : tri automatique de colis, stockage haute densité, convoyage et traçabilité.</p><p>Equans Tinea fait appel à des experts en développement SCADA pour renforcer ses équipes technique sur des projets d'envergure à haute valeur ajoutée, exigeant une <strong>maîtrise approfondie des plateformes de supervision industrielle</strong> et des protocoles de communication terrain.</p>"
+    }
+}

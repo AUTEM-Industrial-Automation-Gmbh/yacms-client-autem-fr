@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-coop-logistique/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur la <strong>programmation et la mise en service du stockeur logistique automatisé</strong> de COOP, incluant l'automatisation complète des transtockeurs, des convoyeurs d'entrée/sortie et des interfaces avec le WMS.</p><p>Parmi les défis identifiés :</p><ul><li>Système multi-allées avec gestion simultanée de plusieurs transtockeurs exigeant une coordination temps réel précise ;</li><li><strong>Intégration WMS</strong> pour la synchronisation des missions de stockage et de déstockage avec le système de gestion des emplacements ;</li><li>Gestion des modes dégradés et des reprises après défaut pour garantir la continuité des opérations ;</li><li>Respect des cadences contractuelles exprimées en palettes par heure en entrée et en sortie ;</li><li>Mise en service en environnement entrepôt actif avec contraintes de sécurité renforcées.</li></ul>"
+    }
+}

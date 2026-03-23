@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-coop-logistique/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/coop.png",
+            "alt": "COOP"
+        },
+        "title": "Automatisation d'un stockeur logistique",
+        "tags": [
+            {
+                "label": "Logistique",
+                "type": "secteur"
+            }
+        ]
+    }
+}

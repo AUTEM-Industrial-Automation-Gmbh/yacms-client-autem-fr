@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-unilever-automation/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Ligne de production opérationnelle</strong> avec robot, doseur et TRS-MES intégrés dans les délais contractuels ;</li><li><strong>TRS mesurable et tracé</strong> dès le démarrage, offrant une visibilité inédite sur les causes de pertes de performance ;</li><li>Gain de productivité sur les opérations de palettisation, libérant les opérateurs pour des tâches à plus forte valeur ajoutée ;</li><li>Dosage automatisé réduisant les écarts de formulation et les rebuts produits ;</li><li>Équipes autonomes sur la conduite des équipements grâce aux formations dispensées.</li></ul>"
+  }
+}

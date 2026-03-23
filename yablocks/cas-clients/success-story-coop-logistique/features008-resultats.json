@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-coop-logistique/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>Cadences contractuelles atteintes</strong> dès les premières semaines d'exploitation commerciale ;</li><li><strong>Interface WMS opérationnelle</strong> avec synchronisation en temps réel des missions et des stocks disponibles ;</li><li>Modes dégradés validés permettant la continuité partielle des opérations en cas de panne d'une allée ;</li><li>Disponibilité système conforme aux objectifs contractuels depuis la mise en service ;</li><li>Documentation technique complète remise facilitant la maintenance et les extensions futures.</li></ul>"
+    }
+}

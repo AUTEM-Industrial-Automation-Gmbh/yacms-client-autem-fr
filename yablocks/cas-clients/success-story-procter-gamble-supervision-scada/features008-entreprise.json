@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-procter-gamble-supervision-scada/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>Procter & Gamble est l'un des <strong>plus grands groupes de biens de consommation courante au monde</strong>, avec des marques emblématiques dans l'hygiène, la beauté et les produits ménagers (Ariel, Gillette, Pampers, Head & Shoulders…). Ses sites industriels français produisent et conditionnent des volumes massifs de produits chimiques grand public avec des exigences de traçabilité et de productivité très élevées.</p><p>Le site concerné intègre des lignes de <strong>conditionnement de produits chimiques liquides et en poudre</strong>, associées à des flux logistiques complexes de palettisation, filmage et expédition. La supervision de l'ensemble de ces flux est un enjeu de performance critique pour le respect des plans de livraison.</p>"
+    }
+}

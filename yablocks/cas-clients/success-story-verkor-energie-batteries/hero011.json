@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-verkor-energie-batteries/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/verkor.png",
+            "alt": "Verkor"
+        },
+        "title": "Développement SCADA et BMS pour batteries électriques industrielles",
+        "tags": [
+            {
+                "label": "Energie-Batteries",
+                "type": "secteur"
+            },
+            {
+                "label": "Architecture Systèmes",
+                "type": "categorie"
+            },
+            {
+                "label": "GTB-GMAO",
+                "type": "categorie"
+            }
+        ]
+    }
+}

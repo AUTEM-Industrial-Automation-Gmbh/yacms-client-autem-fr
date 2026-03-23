@@ -1,7 +1,0 @@
-{
-  "meta": { "component": "blocks/content/features/Features008", "section": "cas-clients/success-story-amazon/features008-strategie" },
-  "data": {
-    "title": "Stratégie",
-    "content": "<ol><li><p><strong>Analyse des flux et spécification du WCS</strong><br>Cartographie complète des flux physiques de l'entrepôt, identification des points de convergence et des contraintes de cadence pour définir la logique de contrôle du WCS.</p></li><li><p><strong>Programmation des automates de convoyage</strong><br>Développement des programmes automates (Siemens S7 / Rockwell) pour piloter les convoyeurs, trieurs et équipements de manutention, avec gestion des accumulations, des aiguillages et des zones tampon.</p></li><li><p><strong>Intégration du système de traçabilité</strong><br>Mise en place des lecteurs codes-barres et portiques RFID, avec remontée des données en temps réel vers le WCS et synchronisation avec le WMS Amazon.</p></li><li><p><strong>Tests en usine (FAT) et mise en service (SAT)</strong><br>Validation des séquences en atelier avant déploiement sur site, puis mise en service progressive par zone pour limiter l'impact sur l'activité.</p></li></ol>"
-  }
-}

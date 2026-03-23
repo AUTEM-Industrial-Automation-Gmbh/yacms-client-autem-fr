@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-wonderlogix-automation/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Fiabilité du générateur significativement améliorée</strong> sur les cas d'usage industriels testés ;</li><li>Ensemble des cas limites documentés constituant un référentiel de test réutilisable ;</li><li>Compatibilité validée avec les environnements Siemens S7-300/400 et Rockwell ControlLogix ;</li><li>Retours structurés intégrés dans la roadmap produit de Wonderlogix ;</li><li>Collaboration fructueuse entre expertise terrain AUTEM et expertise logicielle Wonderlogix, démontrant la complémentarité des approches.</li></ul>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-thalys-pareto-vsm/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Réduction des pannes non planifiées</strong> grâce aux alertes préventives opérationnelles ;</li><li><strong>Supervision centralisée du parc</strong> avec visibilité temps réel sur l'ensemble des équipements ;</li><li>Optimisation des tournées de maintenance grâce aux données de stock remontées à distance ;</li><li>Meilleure disponibilité des services pour les voyageurs, taux de rupture réduit ;</li><li>Architecture IoT capitalisable pour les futures extensions du parc.</li></ul>"
+  }
+}

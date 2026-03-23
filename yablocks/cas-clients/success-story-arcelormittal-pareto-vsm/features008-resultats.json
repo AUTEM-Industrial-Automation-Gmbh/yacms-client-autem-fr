@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-arcelormittal-pareto-vsm/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul><li><strong>Réduction des temps de cycle</strong> mesurée dès les premières semaines après optimisation ;</li><li><strong>TRS calculé et affiché en temps réel</strong> sur les postes opérateurs, devenant un indicateur de pilotage quotidien ;</li><li>Meilleure disponibilité machine grâce aux diagnostics enrichis réduisant les temps de recherche de panne ;</li><li>Documentation technique complète de l'existant, inexistante avant la mission ;</li><li>Équipes de maintenance plus autonomes grâce aux messages de diagnostic contextuels.</li></ul>"
+  }
+}

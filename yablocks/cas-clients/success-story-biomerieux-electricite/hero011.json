@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-biomerieux-electricite/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/biomerieux.png",
+            "alt": "bioMérieux"
+        },
+        "title": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
+        "tags": [
+            {
+                "label": "Pharma-Biotech",
+                "type": "secteur"
+            },
+            {
+                "label": "Electricité",
+                "type": "categorie"
+            }
+        ]
+    }
+}

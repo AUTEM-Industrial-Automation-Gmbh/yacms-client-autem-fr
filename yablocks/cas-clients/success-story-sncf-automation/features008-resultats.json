@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-sncf-automation/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>IHM livrée conforme aux standards SNCF</strong>, validée sur banc HIL sans aucune intervention sur le réseau ferroviaire en service ;</li><li>Tous les scénarios de test (nominaux et dégradés) validés sur le banc HIL avant déploiement ;</li><li>Documentation de qualification complète constituée et transmise à la direction technique SNCF ;</li><li>Approche HIL validée comme méthode de développement et de test pour les futures évolutions du système ;</li><li>Acquisition d'une expertise rare sur l'environnement de développement Controlbuild et les normes ferroviaires CENELEC.</li></ul>"
+    }
+}

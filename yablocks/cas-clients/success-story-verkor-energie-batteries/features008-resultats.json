@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-verkor-energie-batteries/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>SCADA opérationnel au démarrage de la gigafactory</strong>, avec supervision centralisée de l'ensemble des lignes de formation ;</li><li>Traçabilité à 100% des paramètres de fabrication par numéro de série de cellule, conforme aux exigences qualité ;</li><li>GTB-GMAO déployé avec réduction estimée de 20% des arrêts non planifiés grâce à la maintenance préventive ;</li><li>Architecture scalable permettant l'extension future des lignes de production sans refonte du système ;</li><li>Équipes internes Verkor autonomes sur l'exploitation et la maintenance du SCADA depuis le transfert de compétences.</li></ul>"
+    }
+}

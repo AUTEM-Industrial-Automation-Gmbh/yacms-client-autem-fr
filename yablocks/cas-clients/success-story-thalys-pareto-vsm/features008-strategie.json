@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-thalys-pareto-vsm/features008-strategie"
+  },
+  "data": {
+    "title": "Stratégie",
+    "content": "<ol><li><p><strong>Audit des équipements et des flux de données</strong><br>Recensement des vending machines, identification des protocoles disponibles et cartographie des données accessibles (état, stock, monétique).</p></li><li><p><strong>Déploiement des passerelles IoT</strong><br>Installation de passerelles de communication pour collecter et transmettre les données en temps réel via protocoles adaptés à l'environnement ferroviaire.</p></li><li><p><strong>Développement du dashboard de supervision</strong><br>Tableau de bord centralisant l'état du parc, les alertes de maintenance et les indicateurs monétiques.</p></li><li><p><strong>Mise en place de la maintenance préventive</strong><br>Règles d'alerte sur seuils critiques (niveaux bas, anomalies transaction, température) permettant des interventions avant la panne.</p></li></ol>"
+  }
+}

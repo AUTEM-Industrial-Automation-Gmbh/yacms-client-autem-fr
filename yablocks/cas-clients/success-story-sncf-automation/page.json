@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "SNCF — Développement IHM aiguillages ferroviaires Lorraine | AUTEM",
+        "description": "Découvrez comment AUTEM a développé l'IHM de supervision des aiguillages ferroviaires pour la SNCF en Lorraine avec l'environnement C / Controlbuild et les tests HIL.",
+        "keywords": [
+            "IHM ferroviaire",
+            "aiguillages SNCF",
+            "Controlbuild HIL",
+            "automatisme ferroviaire",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

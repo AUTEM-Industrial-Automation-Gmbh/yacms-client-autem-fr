@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-arcelormittal-pareto-vsm/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "L'audit d'AUTEM a mis en lumière des optimisations que nous n'avions pas identifiées en interne. Le TRS a progressé de façon significative et nos équipes de maintenance ont maintenant les outils pour agir efficacement. Une vraie valeur ajoutée.",
+    "author": {
+      "name": "Responsable Maintenance",
+      "role": "ArcelorMittal — Atelier Luxembourg"
+    }
+  }
+}

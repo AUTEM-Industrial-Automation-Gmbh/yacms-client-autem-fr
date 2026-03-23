@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-coop-logistique/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>COOP est un <strong>acteur majeur de la distribution coopérative</strong> opérant un réseau de plateformes logistiques automatisées dédiées à la gestion des flux de marchandises. Confronté à des exigences croissantes en matière de cadences et de fiabilité, COOP investit dans la modernisation et l'automatisation de ses entrepôts pour rester compétitif face aux géants de la grande distribution.</p><p>Le stockeur logistique au cœur de ce projet est un <strong>système de stockage automatisé à grande hauteur</strong> piloté par automates, intégrant des transtockeurs, des convoyeurs de distribution et un WMS pour la gestion des emplacements. Sa fiabilité conditionne directement la capacité de COOP à honorer ses commandes de réassort dans les délais.</p>"
+    }
+}

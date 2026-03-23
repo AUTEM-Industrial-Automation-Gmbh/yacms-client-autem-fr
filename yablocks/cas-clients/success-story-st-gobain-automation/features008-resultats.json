@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-st-gobain-automation/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>Ligne de packaging opérationnelle dans les délais</strong>, avec cadences de conditionnement conformes aux objectifs dès la montée en régime ;</li><li>Gestion multi-formats opérationnelle permettant des changements de série rapides sans intervention technique ;</li><li><strong>Équipes locales formées et autonomes</strong> sur la conduite et la maintenance de premier niveau de la ligne ;</li><li>Qualité du conditionnement conforme aux exigences Saint-Gobain Abrasifs (étanchéité, lisibilité, conformité d'étiquetage) ;</li><li>Documentation technique complète en français et en arabe remise à l'équipe de production locale.</li></ul>"
+    }
+}

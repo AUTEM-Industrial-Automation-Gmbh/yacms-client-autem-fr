@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-biomerieux-electricite/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>Ligne remise en service dans les délais</strong> avec qualification GMP maintenue et aucune non-conformité documentaire ;</li><li>Installation électrique entièrement conforme aux normes NF EN 60204-1 et aux exigences GMP pharma ;</li><li><strong>Plans as-built complets</strong> remis à bioMérieux pour faciliter les futures interventions de maintenance ;</li><li>Réduction du risque d'arrêt non planifié grâce au remplacement des composants en fin de vie ;</li><li>Équipes maintenance bioMérieux formées sur la nouvelle installation et les nouveaux schémas électriques.</li></ul>"
+    }
+}

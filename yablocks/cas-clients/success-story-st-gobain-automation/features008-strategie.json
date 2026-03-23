@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-st-gobain-automation/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Spécification fonctionnelle et choix techniques</strong><br>Analyse des flux de packaging, définition des recettes par type de format et de produit, et sélection des équipements adaptés à l'environnement poussiéreux du site.</p></li><li><p><strong>Programmation des automates et gestion des recettes</strong><br>Développement du programme automate avec gestion multi-formats par système de recettes, pilotage des machines de conditionnement et gestion des alarmes et arrêts.</p></li><li><p><strong>Intégration des périphériques de conditionnement</strong><br>Interfaçage des ensacheuses, étiqueteuses et filmeuses via leurs protocoles de communication respectifs, et développement des IHM opérateurs pour la sélection et le changement de format.</p></li><li><p><strong>Mise en service sur site et formation</strong><br>Déplacement sur le site marocain pour la mise en service, réglage des paramètres de conditionnement et formation pratique des opérateurs et des techniciens de maintenance locaux.</p></li></ol>"
+    }
+}

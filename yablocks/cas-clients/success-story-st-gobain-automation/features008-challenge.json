@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-st-gobain-automation/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur l'<strong>automatisation de la ligne de packaging de matériaux abrasifs</strong> — papiers de verre et lames diamantées — sur le site de production Saint-Gobain au Maroc : programmation des automates, intégration des périphériques de conditionnement et mise en service.</p><p>Parmi les défis identifiés :</p><ul><li>Diversité des formats de conditionnement (feuilles, rouleaux, blister, boîtes) imposant une gestion flexible des recettes automate ;</li><li>Intégration de machines de conditionnement spéciales (ensacheuses, étiqueteuses, filmeuses) avec des protocoles de communication variés ;</li><li>Contraintes de cadence et de qualité du conditionnement (alignement, étanchéité, lisibilité des étiquettes) à respecter strictement ;</li><li>Mise en service sur site international avec équipes locales à former dans un contexte multilingue ;</li><li>Environnement poussiéreux lié à la nature abrasive des produits, impliquant des choix d'équipements adaptés.</li></ul>"
+    }
+}

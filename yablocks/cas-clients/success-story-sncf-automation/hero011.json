@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-sncf-automation/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/sncf.png",
+            "alt": "SNCF"
+        },
+        "title": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
+        "tags": [
+            {
+                "label": "Mobilité",
+                "type": "secteur"
+            },
+            {
+                "label": "Automation",
+                "type": "categorie"
+            }
+        ]
+    }
+}

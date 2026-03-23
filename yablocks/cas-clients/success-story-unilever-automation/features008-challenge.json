@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-unilever-automation/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>La mission confiée à AUTEM portait sur l'<strong>intégration complète d'une cellule automatisée</strong> sur une ligne de production active : robot industriel, doseur et logiciel TRS-MES, le tout sans arrêt prolongé de la production.</p><ul><li>Intégration d'un robot de palettisation sur une ligne existante, avec adaptation des convoyeurs amont/aval ;</li><li>Mise en service d'un doseur automatique avec recettes configurables par produit ;</li><li><strong>Déploiement d'un logiciel TRS-MES</strong> pour la collecte des données de production et le calcul du taux de rendement synthétique ;</li><li>Contrainte de fenêtres de maintenance réduites pour limiter les pertes de production.</li></ul>"
+  }
+}

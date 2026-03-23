@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "Equans Tinea — Développement SCADA systèmes logistiques | AUTEM",
+        "description": "Découvrez comment AUTEM a contribué au développement SCADA de systèmes logistiques pour Equans Tinea à Lyon : supervision, intégration terrain et mise en service.",
+        "keywords": [
+            "SCADA logistique",
+            "développeur SCADA",
+            "Equans Tinea",
+            "supervision logistique",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

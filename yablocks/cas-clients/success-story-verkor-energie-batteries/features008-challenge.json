@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-verkor-energie-batteries/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur la <strong>conception de l'architecture SCADA et BMS</strong> de la ligne de production de batteries électriques de Verkor, depuis la spécification fonctionnelle jusqu'à la mise en service.</p><p>Parmi les défis identifiés :</p><ul><li>Architecture SCADA à concevoir <strong>from scratch</strong> pour une gigafactory sans précédent en France ;</li><li>Exigences de traçabilité totale des cellules tout au long du cycle de fabrication pour garantir la qualité et la conformité ;</li><li>Intégration du BMS avec les équipements de formation et de test dans des environnements thermiques contrôlés ;</li><li>Mise en place d'un système GTB-GMAO pour la maintenance préventive et la gestion des utilités énergétiques ;</li><li>Contraintes de <strong>cybersécurité industrielle</strong> élevées liées à la sensibilité des données de production.</li></ul>"
+    }
+}

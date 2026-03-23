@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-medtronic-pc-industriel/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Analyse fonctionnelle et plan de validation</strong><br>Rédaction du plan de qualification (IQ/OQ/PQ), analyse d'impact réglementaire des modifications, et cartographie complète du process existant pour garantir la fidélité des nouvelles spécifications.</p></li><li><p><strong>Remplacement du PC industriel et migration logicielle</strong><br>Sélection d'un PC industriel certifié et redéveloppement de l'application de contrôle sous environnement qualifié, avec maintien de tous les paramètres thermiques et des séquences de recette certifiées FDA.</p></li><li><p><strong>Intégration MES et collecte OEE</strong><br>Développement des interfaces entre le nouveau système de contrôle et le MES Medtronic pour la remontée automatique des données de production, des arrêts et des paramètres de traçabilité lot.</p></li><li><p><strong>Qualification et mise en production</strong><br>Exécution des protocoles IQ/OQ/PQ avec rédaction des rapports de qualification, revue documentaire réglementaire et reprise de production sans arrêt de la ligne.</p></li></ol>"
+    }
+}

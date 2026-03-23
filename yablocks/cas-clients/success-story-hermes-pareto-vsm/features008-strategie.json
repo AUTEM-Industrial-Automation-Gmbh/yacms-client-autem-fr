@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-hermes-pareto-vsm/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<p>AUTEM a conduit la mission en plusieurs phases structurées, depuis l'analyse des besoins jusqu'à la validation sur site.</p><ol><li><p><strong>Analyse et spécification de l'architecture</strong><br>Audit des équipements existants, cartographie des flux de données et définition du schéma d'architecture de contrôle-commande en tenant compte des contraintes réseau et de sécurité propres au site.</p></li><li><p><strong>Sélection et dimensionnement des automates</strong><br>Choix d'automates <strong>Siemens S7</strong> pour leur robustesse et leur compatibilité avec les standards Hermès, accompagné du dimensionnement des châssis, modules I/O et alimentations selon les besoins de chaque sous-ensemble.</p></li><li><p><strong>Conception des architectures réseau industriel</strong><br>Mise en place d'une topologie <strong>Profinet</strong> segmentée, garantissant l'isolation des sous-réseaux critiques et la redondance sur les boucles de sécurité.</p></li><li><p><strong>Rédaction de la documentation technique</strong><br>Production d'un dossier technique complet : schémas électriques, architecture réseau, nomenclature des équipements, guides d'exploitation et de maintenance — transféré aux équipes internes Hermès en fin de mission.</p></li></ol>"
+    }
+}

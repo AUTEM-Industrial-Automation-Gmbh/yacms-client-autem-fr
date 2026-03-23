@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-procter-gamble-supervision-scada/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>SCADA opérationnel dans les délais</strong>, conforme aux standards graphiques et fonctionnels P&G ;</li><li>Supervision centralisée de tous les équipements logistiques avec gestion des alarmes et historisation des événements ;</li><li><strong>Interface SAP opérationnelle</strong> avec descente automatique des ordres de production et remontée des confirmations ;</li><li>Réduction du temps de détection et de résolution des incidents grâce aux alarmes contextualisées ;</li><li>Équipes opérateurs et maintenance formées et autonomes sur le nouveau SCADA depuis le déploiement.</li></ul>"
+    }
+}

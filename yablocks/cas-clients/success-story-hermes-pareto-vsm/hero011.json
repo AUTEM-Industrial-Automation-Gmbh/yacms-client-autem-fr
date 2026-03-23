@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-hermes-pareto-vsm/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/hermes.png",
+            "alt": "Hermès"
+        },
+        "title": "Architecture des systèmes de contrôle et automatismes industriels",
+        "tags": [
+            {
+                "label": "Luxe",
+                "type": "secteur"
+            },
+            {
+                "label": "Automatisme",
+                "type": "categorie"
+            }
+        ]
+    }
+}

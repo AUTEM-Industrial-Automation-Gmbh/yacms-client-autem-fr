@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-tm-automation/features008-entreprise"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>TM est une entreprise canadienne spécialisée dans la <strong>conception et la fabrication de machines pour l'industrie chimique et alimentaire</strong>. L'entreprise conçoit des équipements sur mesure destinés aux procédés de fabrication, nettoyage et conditionnement opérant dans des environnements soumis à de strictes normes d'hygiène.</p><p>Dans le cadre du développement d'une nouvelle machine de lavage automatique de cuves et fûts, TM a fait appel à AUTEM pour l'expertise en <strong>programmation automate et développement IHM</strong> adaptés aux exigences des industries chimique et agroalimentaire.</p>"
+  }
+}

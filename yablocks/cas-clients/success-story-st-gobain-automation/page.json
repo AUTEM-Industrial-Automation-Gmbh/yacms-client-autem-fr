@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "Saint-Gobain — Automatisation packaging matériaux abrasifs Maroc | AUTEM",
+        "description": "Découvrez comment AUTEM a automatisé le packaging de matériaux abrasifs (papier de verre, lames diamantées) sur le site de production Saint-Gobain au Maroc.",
+        "keywords": [
+            "automatisme packaging",
+            "matériaux abrasifs",
+            "Saint-Gobain automatisme",
+            "machine de conditionnement",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

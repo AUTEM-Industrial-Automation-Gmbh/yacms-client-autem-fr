@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-equans-tinea-supervision-scada/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/engie.jpg",
+            "alt": "Equans Tinea"
+        },
+        "title": "Développement SCADA pour systèmes logistiques — Equans Tinea",
+        "tags": [
+            {
+                "label": "Logistique",
+                "type": "secteur"
+            },
+            {
+                "label": "Supervision SCADA",
+                "type": "categorie"
+            }
+        ]
+    }
+}

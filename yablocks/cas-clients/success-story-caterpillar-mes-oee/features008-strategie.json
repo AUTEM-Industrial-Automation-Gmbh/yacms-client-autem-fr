@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-caterpillar-mes-oee/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Audit terrain et cartographie des sources de données</strong><br>Inventaire de toutes les machines en scope, identification des signaux disponibles (signaux automates, compteurs, capteurs) et définition de la stratégie de collecte par machine.</p></li><li><p><strong>Connectivité machines et collecte automatique</strong><br>Développement des interfaces de collecte (OPC-UA, Profinet, Modbus TCP) pour extraire automatiquement les données de disponibilité, de cadence et de qualité de chaque machine en temps réel.</p></li><li><p><strong>Calcul TRS/OEE et standardisation des codifications</strong><br>Implémentation de la logique de calcul OEE conforme aux standards Caterpillar, avec codification des types d'arrêts intégrée dans les IHM opérateurs pour la saisie des causes.</p></li><li><p><strong>Intégration MES et tableaux de bord</strong><br>Intégration avec SAP ME pour la synchronisation des OF et les remontées de production, et déploiement des tableaux de bord temps réel sur écrans atelier et portail web de pilotage.</p></li></ol>"
+    }
+}
