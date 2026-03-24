@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "cas-clients/success-story-adp-mobilite-automation/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Aéroport Paris-CDG tapis bagages"
+        },
+        "quote": "AUTEM a su gérer une migration d'envergure sur un système en exploitation active. La rigueur méthodologique et la maîtrise des contraintes opérationnelles ont été déterminantes pour respecter nos plages de maintenance. Le résultat est une installation modernisée, connectée et nettement plus fiable.",
+        "author": {
+            "name": "Responsable Systèmes Bagages",
+            "role": "ADP — Aéroport Paris-CDG T2E"
+        }
+    }
+}

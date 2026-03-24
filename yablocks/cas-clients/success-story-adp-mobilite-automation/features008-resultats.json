@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-adp-mobilite-automation/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>Migration réalisée sans interruption de service prolongée</strong>, toutes les plages de maintenance respectées ;</li><li><strong>Disponibilité système améliorée de plus de 15%</strong> grâce au renouvellement des équipements critiques et à la redondance réseau ;</li><li>Connectivité IoT opérationnelle avec remontée temps réel des KPIs bagages vers le centre de supervision ;</li><li>Risque d'obsolescence éliminé sur 10 ans avec un plan de maintien en condition opérationnelle structuré ;</li><li>Équipes maintenance ADP autonomes sur les nouveaux équipements depuis la formation de transfert.</li></ul>"
+    }
+}

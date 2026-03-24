@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-medtronic-pc-industriel-mes-oee/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>Medtronic est l'un des <strong>leaders mondiaux des dispositifs médicaux</strong>, présent dans plus de 150 pays avec un portefeuille de produits couvrant la cardiologie, la neurologie, le diabète et la chirurgie. Ses sites de production sont soumis aux exigences réglementaires les plus strictes (FDA, CE, ISO 13485) qui imposent une traçabilité totale et une qualification rigoureuse de tout changement sur les équipements.</p><p>La ligne de fabrication de pacemakers concernée intègre plusieurs étapes critiques dont un <strong>four de séchage haute précision</strong> — équipement central pour l'élimination de l'humidité résiduelle dans les boîtiers avant scellement. La fiabilité et la répétabilité du process thermique conditionnent directement la qualité et la sécurité des implants cardiaques.</p>"
+    }
+}

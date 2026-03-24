@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "cas-clients/success-story-st-gobain-metallurgie-automation/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Ligne de packaging abrasifs Saint-Gobain"
+        },
+        "quote": "La mise en service de la ligne de packaging s'est déroulée dans de bonnes conditions malgré l'éloignement géographique. AUTEM a fait preuve d'une vraie adaptabilité face aux contraintes locales et nos équipes ont été correctement formées pour prendre en main l'installation en autonomie.",
+        "author": {
+            "name": "Responsable Production",
+            "role": "Saint-Gobain Abrasifs — Site Maroc"
+        }
+    }
+}

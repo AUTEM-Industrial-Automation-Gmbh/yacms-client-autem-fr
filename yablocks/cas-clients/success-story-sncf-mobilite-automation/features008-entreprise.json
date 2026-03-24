@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-sncf-mobilite-automation/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>La SNCF est l'opérateur ferroviaire national français, gérant l'un des <strong>réseaux ferroviaires les plus denses d'Europe</strong> avec des dizaines de milliers de kilomètres de voies et des milliers d'aiguillages assurant l'acheminement en sécurité des trains grandes lignes, régionaux et de fret.</p><p>La fiabilité des systèmes de contrôle des aiguillages est un enjeu de sécurité critique : tout dysfonctionnement peut avoir des conséquences graves sur la circulation des trains. Le développement et la qualification des logiciels embarqués et des IHM de supervision sont soumis aux normes ferroviaires les plus exigeantes (EN 50128, CENELEC).</p>"
+    }
+}

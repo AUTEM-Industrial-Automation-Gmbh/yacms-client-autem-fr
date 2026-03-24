@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-procter-gamble-chimie-supervision-scada/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission confiée à AUTEM portait sur le <strong>développement du SCADA logistique</strong> du site de production P&G : supervision des flux de conditionnement, palettisation et expédition, avec intégration des données dans le système d'information P&G.</p><p>Parmi les défis identifiés :</p><ul><li>Supervision de flux logistiques complexes impliquant plusieurs dizaines d'équipements (palettiseurs, cercleuses, étiqueteuses) sur plusieurs ateliers ;</li><li>Développement du SCADA depuis zéro avec intégration aux automates existants via des protocoles hétérogènes ;</li><li>Exigences P&G en matière de standards de développement SCADA (graphismes, navigation, gestion des alarmes) ;</li><li>Intégration avec les systèmes d'information P&G (SAP ERP) pour la descente des ordres de production et la remontée des confirmations ;</li><li>Formation des opérateurs et des équipes maintenance au nouveau SCADA.</li></ul>"
+    }
+}

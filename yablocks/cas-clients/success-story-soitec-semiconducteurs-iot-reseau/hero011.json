@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-soitec-semiconducteurs-iot-reseau/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/soitec.jpg",
+            "alt": "Soitec"
+        },
+        "title": "Connectivité réseau et modernisation PC industriels pour ligne silicium",
+        "tags": [
+            {
+                "label": "Semiconducteurs",
+                "type": "secteur"
+            },
+            {
+                "label": "IoT Réseau",
+                "type": "categorie"
+            },
+            {
+                "label": "PC Industriel",
+                "type": "categorie"
+            },
+            {
+                "label": "Cycle de Vie et Obsolescence",
+                "type": "categorie"
+            }
+        ]
+    }
+}

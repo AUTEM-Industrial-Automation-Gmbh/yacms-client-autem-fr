@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-medtronic-pc-industriel-mes-oee/features008-resultats"
+    },
+    "data": {
+        "title": "Résultats & Apprentissages",
+        "content": "<ul><li><strong>Qualification FDA maintenue</strong> — aucune non-conformité réglementaire lors de la revue documentaire ;</li><li>Risque d'obsolescence éliminé avec un PC industriel supporté et patchable sur 10 ans ;</li><li><strong>Données OEE remontées automatiquement</strong> dans le MES Medtronic pour la première fois, permettant le suivi des performances en temps réel ;</li><li>Zéro arrêt non planifié depuis le redémarrage de la ligne ;</li><li>Dossier de qualification complet transféré et archivé selon les exigences GAMP5 pour les prochains audits FDA.</li></ul>"
+    }
+}

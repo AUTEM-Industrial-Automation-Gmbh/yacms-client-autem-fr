@@ -14,28 +14,37 @@
                 "label": "Tous les secteurs",
                 "values": [
                     {
-                        "value": "Textile"
-                    },
-                    {
-                        "value": "Logistique"
-                    },
-                    {
-                        "value": "Mobilité"
-                    },
-                    {
-                        "value": "Cybersécurité"
+                        "value": "Agroalimentaire"
                     },
                     {
                         "value": "Chimie"
                     },
                     {
-                        "value": "Agroalimentaire"
+                        "value": "Cybersécurité"
+                    },
+                    {
+                        "value": "Energie-Batteries"
+                    },
+                    {
+                        "value": "Logistique"
+                    },
+                    {
+                        "value": "Machines Spéciales"
                     },
                     {
                         "value": "Metallurgie"
                     },
                     {
-                        "value": "Machines Spéciales"
+                        "value": "Mobilité"
+                    },
+                    {
+                        "value": "Pharma-Biotech"
+                    },
+                    {
+                        "value": "Semiconducteurs"
+                    },
+                    {
+                        "value": "Textile"
                     }
                 ]
             },
@@ -43,13 +52,25 @@
                 "label": "Toutes les expertises",
                 "values": [
                     {
+                        "value": "Architecture Systèmes"
+                    },
+                    {
                         "value": "Automation"
                     },
                     {
-                        "value": "IoT Réseau"
+                        "value": "Cycle de Vie et Obsolescence"
                     },
                     {
                         "value": "Electricité"
+                    },
+                    {
+                        "value": "Gestion Projet Stratégique"
+                    },
+                    {
+                        "value": "GTB-GMAO"
+                    },
+                    {
+                        "value": "IoT Réseau"
                     },
                     {
                         "value": "MES-OEE"
@@ -58,16 +79,10 @@
                         "value": "Pareto-VSM"
                     },
                     {
+                        "value": "PC Industriel"
+                    },
+                    {
                         "value": "Supervision SCADA"
-                    },
-                    {
-                        "value": "Architecture Systèmes"
-                    },
-                    {
-                        "value": "Gestion Projet Stratégique"
-                    },
-                    {
-                        "value": "Cycle de Vie et Obsolescence"
                     }
                 ]
             }
@@ -75,11 +90,168 @@
         "cards": [
             {
                 "logo": {
+                    "src": "/logos/parisaeroportcdg.jpg",
+                    "alt": "ADP Aéroports de Paris"
+                },
+                "title": "Modernisation du système de tri bagage T2E à l'aéroport CDG",
+                "link": "/cas-clients/success-story-adp-mobilite-automation",
+                "tags": [
+                    {
+                        "label": "Mobilité",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automation",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "IoT Réseau",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Cycle de Vie et Obsolescence",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2025
+            },
+            {
+                "logo": {
+                    "src": "/logos/verkor.png",
+                    "alt": "Verkor"
+                },
+                "title": "Développement SCADA et BMS pour batteries électriques industrielles",
+                "link": "/cas-clients/success-story-verkor-energie-batteries-architecture-systemes",
+                "tags": [
+                    {
+                        "label": "Energie-Batteries",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Architecture Systèmes",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "GTB-GMAO",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2025
+            },
+            {
+                "logo": {
+                    "src": "/logos/coop.png",
+                    "alt": "COOP"
+                },
+                "title": "Automatisation d'un stockeur logistique",
+                "link": "/cas-clients/success-story-coop-logistique",
+                "tags": [
+                    {
+                        "label": "Logistique",
+                        "type": "secteur"
+                    }
+                ],
+                "date": 2025
+            },
+            {
+                "logo": {
+                    "src": "/logos/medtronic.jpg",
+                    "alt": "Medtronic"
+                },
+                "title": "Revamping automatisme du four de séchage — Ligne pacemakers",
+                "link": "/cas-clients/success-story-medtronic-pc-industriel-mes-oee",
+                "tags": [
+                    {
+                        "label": "PC Industriel",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "MES-OEE",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Architecture Systèmes",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Cycle de Vie et Obsolescence",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2024
+            },
+            {
+                "logo": {
+                    "src": "/logos/caterpillar.png",
+                    "alt": "Caterpillar"
+                },
+                "title": "Intégration TRS, OEE et données MES pour l'usine Caterpillar",
+                "link": "/cas-clients/success-story-caterpillar-metallurgie-mes-oee",
+                "tags": [
+                    {
+                        "label": "Metallurgie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "MES-OEE",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2024
+            },
+            {
+                "logo": {
+                    "src": "/logos/biomerieux.png",
+                    "alt": "bioMérieux"
+                },
+                "title": "Rétrofit de la ligne de conditionnement aseptisée bioMérieux",
+                "link": "/cas-clients/success-story-biomerieux-pharma-biotech-electricite",
+                "tags": [
+                    {
+                        "label": "Pharma-Biotech",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Electricité",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2023
+            },
+            {
+                "logo": {
+                    "src": "/logos/soitec.jpg",
+                    "alt": "Soitec"
+                },
+                "title": "Connectivité réseau et modernisation PC industriels pour ligne silicium",
+                "link": "/cas-clients/success-story-soitec-semiconducteurs-iot-reseau",
+                "tags": [
+                    {
+                        "label": "Semiconducteurs",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "IoT Réseau",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "PC Industriel",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Cycle de Vie et Obsolescence",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2023
+            },
+            {
+                "logo": {
                     "src": "/logos/hermes.png",
                     "alt": "Hermès"
                 },
-                "title": "Architecture des systèmes de contrôle et automatismes industriels",
-                "link": "/cas-clients/success-story-hermes",
+                "title": "Architecture data textile et systèmes métier industriels",
+                "link": "/cas-clients/success-story-hermes-textile-pareto-vsm",
                 "tags": [
                     {
                         "label": "Textile",
@@ -102,26 +274,60 @@
             },
             {
                 "logo": {
-                    "src": "/logos/amazon.png",
-                    "alt": "Amazon"
+                    "src": "/logos/procter & gamble.png",
+                    "alt": "Procter & Gamble"
                 },
-                "title": "Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS",
-                "link": "/cas-clients/success-story-amazon",
+                "title": "Développement SCADA logistique — Site de production P&G",
+                "link": "/cas-clients/success-story-procter-gamble-chimie-supervision-scada",
+                "tags": [
+                    {
+                        "label": "Chimie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Supervision SCADA",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2022
+            },
+            {
+                "logo": {
+                    "src": "/logos/engie.jpg",
+                    "alt": "Equans Tinea"
+                },
+                "title": "Développement SCADA pour systèmes logistiques — Equans Tinea",
+                "link": "/cas-clients/success-story-equans-tinea-logistique-supervision-scada",
                 "tags": [
                     {
                         "label": "Logistique",
                         "type": "secteur"
                     },
                     {
-                        "label": "Automation",
-                        "type": "categorie"
-                    },
-                    {
-                        "label": "Electricité",
+                        "label": "Supervision SCADA",
                         "type": "categorie"
                     }
                 ],
-                "date": 2020
+                "date": 2022
+            },
+            {
+                "logo": {
+                    "src": "/logos/bema.png",
+                    "alt": "BEMA"
+                },
+                "title": "Programmation d'une machine de compactage de papier",
+                "link": "/cas-clients/success-story-bema-machines-speciales-automation",
+                "tags": [
+                    {
+                        "label": "Machines Spéciales",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automation",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2022
             },
             {
                 "logo": {
@@ -129,7 +335,7 @@
                     "alt": "Thalys"
                 },
                 "title": "Télémétrie, IoT, monétique et maintenance préventive AMOA vending machines",
-                "link": "/cas-clients/success-story-thalys",
+                "link": "/cas-clients/success-story-thalys-mobilite-pareto-vsm",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -148,7 +354,7 @@
                         "type": "categorie"
                     }
                 ],
-                "date": 2022
+                "date": 2021
             },
             {
                 "logo": {
@@ -156,7 +362,7 @@
                     "alt": "SEE / SFTRF"
                 },
                 "title": "Supervision réseau routier et ferroviaire, GTC et radio",
-                "link": "/cas-clients/success-story-sftrf",
+                "link": "/cas-clients/success-story-sftrf-mobilite-supervision-scada",
                 "tags": [
                     {
                         "label": "Mobilité",
@@ -175,7 +381,7 @@
                     "alt": "Seckiot"
                 },
                 "title": "Connectivité IoT des systèmes industriels en environnement cybersécurisé",
-                "link": "/cas-clients/success-story-seckiot",
+                "link": "/cas-clients/success-story-seckiot-cybersecurite-iot-reseau",
                 "tags": [
                     {
                         "label": "Cybersécurité",
@@ -189,120 +395,19 @@
                         "label": "Architecture Systèmes",
                         "type": "categorie"
                     }
-                ]
+                ],
+                "date": 2020
             },
             {
                 "logo": {
-                    "src": "/logos/unilever.jpg",
-                    "alt": "Unilever"
+                    "src": "/logos/sncf.png",
+                    "alt": "SNCF"
                 },
-                "title": "Intégration de robot, doseur et logiciel TRS-MES en ligne de production",
-                "link": "/cas-clients/success-story-unilever",
+                "title": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
+                "link": "/cas-clients/success-story-sncf-mobilite-automation",
                 "tags": [
                     {
-                        "label": "Chimie",
-                        "type": "secteur"
-                    },
-                    {
-                        "label": "Automation",
-                        "type": "categorie"
-                    },
-                    {
-                        "label": "MES-OEE",
-                        "type": "categorie"
-                    }
-                ]
-            },
-            {
-                "logo": {
-                    "src": "/logos/danone-covostok.png",
-                    "alt": "Danone / CoVostok"
-                },
-                "title": "Conception et mise en service d'un skid de filtration d'eau par osmose",
-                "link": "/cas-clients/success-story-covostok",
-                "tags": [
-                    {
-                        "label": "Agroalimentaire",
-                        "type": "secteur"
-                    },
-                    {
-                        "label": "Automation",
-                        "type": "categorie"
-                    },
-                    {
-                        "label": "Gestion Projet Stratégique",
-                        "type": "categorie"
-                    }
-                ]
-            },
-            {
-                "logo": {
-                    "src": "/logos/tm.png",
-                    "alt": "TM"
-                },
-                "title": "Programmation d'une machine de lavage de cuves et fûts — API et IHM",
-                "link": "/cas-clients/success-story-tm",
-                "tags": [
-                    {
-                        "label": "Agroalimentaire",
-                        "type": "secteur"
-                    },
-                    {
-                        "label": "Automation",
-                        "type": "categorie"
-                    }
-                ]
-            },
-            {
-                "logo": {
-                    "src": "/logos/arcelormittal.jpg",
-                    "alt": "ArcelorMittal"
-                },
-                "title": "Optimisation des performances d'un atelier d'usinage",
-                "link": "/cas-clients/success-story-arcelormittal",
-                "tags": [
-                    {
-                        "label": "Metallurgie",
-                        "type": "secteur"
-                    },
-                    {
-                        "label": "Pareto-VSM",
-                        "type": "categorie"
-                    },
-                    {
-                        "label": "Gestion Projet Stratégique",
-                        "type": "categorie"
-                    }
-                ]
-            },
-            {
-                "logo": {
-                    "src": "/logos/wonderlogix.png",
-                    "alt": "Wonderlogix"
-                },
-                "title": "Tests et amélioration d'un générateur de programmes d'automates",
-                "link": "/cas-clients/success-story-wonderlogix",
-                "tags": [
-                    {
-                        "label": "Machines Spéciales",
-                        "type": "secteur"
-                    },
-                    {
-                        "label": "Automation",
-                        "type": "categorie"
-                    }
-                ]
-            },
-            {
-                "logo": {
-                    "src": "/logos/bema.png",
-                    "alt": "BEMA"
-                },
-                "title": "Programmation d'une machine de compactage de papier",
-                "link": "/cas-clients/success-story-bema",
-                "tags": [
-                    {
-                        "label": "Machines Spéciales",
+                        "label": "Mobilité",
                         "type": "secteur"
                     },
                     {
@@ -310,7 +415,26 @@
                         "type": "categorie"
                     }
                 ],
-                "date": 2022
+                "date": 2015
+            },
+            {
+                "logo": {
+                    "src": "/logos/st-gobain.svg",
+                    "alt": "Saint-Gobain"
+                },
+                "title": "Automatisation du packaging de matériaux abrasifs — Saint-Gobain Maroc",
+                "link": "/cas-clients/success-story-st-gobain-metallurgie-automation",
+                "tags": [
+                    {
+                        "label": "Metallurgie",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Automation",
+                        "type": "categorie"
+                    }
+                ],
+                "date": 2015
             }
         ]
     }

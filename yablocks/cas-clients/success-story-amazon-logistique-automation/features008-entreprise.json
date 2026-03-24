@@ -1,0 +1,7 @@
+{
+  "meta": { "component": "blocks/content/features/Features008", "section": "cas-clients/success-story-amazon-logistique-automation/features008-entreprise" },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>Amazon est le <strong>leader mondial du e-commerce et de la logistique</strong>, exploitant en France un réseau de centres de distribution hautement automatisés pour satisfaire des millions de commandes quotidiennes. Son site logistique parisien est un entrepôt mécanisé de grande envergure, conçu pour traiter des volumes importants de colis avec des cadences exigeantes.</p><p>L'automatisation des entrepôts Amazon repose sur une architecture de contrôle complexe intégrant des <strong>systèmes de convoyage, de tri automatique, de palettisation et de traçabilité</strong> en temps réel — au cœur desquels intervient un WCS (Warehouse Control System) chargé de coordonner l'ensemble des équipements terrain.</p>"
+  }
+}

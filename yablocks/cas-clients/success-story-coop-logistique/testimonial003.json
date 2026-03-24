@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/social-proof/testimonials/Testimonial003",
+        "section": "cas-clients/success-story-coop-logistique/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/background-indus.jpg",
+            "alt": "Entrepôt logistique automatisé"
+        },
+        "quote": "La mise en service du stockeur s'est déroulée dans les délais et les cadences contractuelles ont été atteintes dès les premières semaines d'exploitation. AUTEM a démontré une excellente maîtrise des systèmes de stockage automatisé et une vraie réactivité sur site.",
+        "author": {
+            "name": "Responsable Logistique",
+            "role": "COOP — Plateforme logistique"
+        }
+    }
+}

@@ -1,8 +1,0 @@
-{
-  "meta": { "component": "blocks/social-proof/testimonials/Testimonial003", "section": "cas-clients/success-story-amazon/testimonial003" },
-  "data": {
-    "backgroundImage": { "src": "/images/background-indus.jpg", "alt": "Entrepôt logistique" },
-    "quote": "AUTEM a livré une intégration solide et dans les temps. L'équipe a su s'adapter aux contraintes de notre entrepôt en activité et la traçabilité est désormais totale sur l'ensemble du flux. Un partenaire fiable sur des projets d'automatisme industriel exigeants.",
-    "author": { "name": "Responsable Technique", "role": "Amazon — Site logistique Paris" }
-  }
-}

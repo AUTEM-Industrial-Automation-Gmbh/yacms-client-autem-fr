@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "ADP — Modernisation du tri bagage T2E à l'aéroport CDG | AUTEM",
+    "description": "Découvrez comment AUTEM a modernisé le système de tri bagage du terminal T2E de l'aéroport Paris-CDG : automatisme, IoT industriel et gestion du cycle de vie des équipements.",
+    "keywords": ["automatisme aéroport", "tri bagage CDG", "IoT industriel", "cycle de vie équipements", "modernisation automatisme", "AUTEM réalisation"]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
+}

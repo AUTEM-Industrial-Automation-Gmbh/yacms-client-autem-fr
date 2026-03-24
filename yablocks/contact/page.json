@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Contact — AUTEM, Expert en Automatisme & Digitalisation Industrielle",
+    "description": "Contactez nos experts en automatisme et digitalisation industrielle. Devis, audit technique, urgence panne machine — nous répondons sous 24h.",
+    "keywords": [
+      "contact automatisme industriel",
+      "expert SCADA Suisse",
+      "devis automatisme",
+      "urgence panne machine",
+      "intégrateur Ignition Suisse",
+      "contact AUTEM"
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./contact002.json",
+    "../_shared/footer.json"
+  ]
+}

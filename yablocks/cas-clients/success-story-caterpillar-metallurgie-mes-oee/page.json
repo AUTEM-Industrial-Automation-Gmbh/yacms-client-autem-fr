@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "title": "Caterpillar — Intégration TRS, OEE et données MES | AUTEM",
+        "description": "Découvrez comment AUTEM a intégré le suivi TRS/OEE et les données MES dans l'usine Caterpillar : collecte de données terrain, tableaux de bord production et analyse des pertes.",
+        "keywords": [
+            "TRS OEE intégration",
+            "MES usine",
+            "Caterpillar automatisme",
+            "données production",
+            "performance industrielle",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

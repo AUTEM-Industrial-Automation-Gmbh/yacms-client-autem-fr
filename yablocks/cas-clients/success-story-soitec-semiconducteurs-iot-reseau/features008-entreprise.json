@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-soitec-semiconducteurs-iot-reseau/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>Soitec est le <strong>leader mondial de la fabrication de substrats semiconducteurs avancés</strong>, notamment pour les marchés de la 5G, de l'électronique de puissance et des composants radiofréquence. Ses usines de production de wafers SOI (Silicon-On-Insulator) sont parmi les plus technologiquement avancées au monde, intégrant des équipements extrêmement sophistiqués opérés dans des salles blanches de classe ISO.</p><p>La continuité réseau et la disponibilité des systèmes de contrôle machine sont des enjeux critiques dans les environnements semiconducteurs : un arrêt imprévu peut entraîner des pertes de lots de valeur considérable et compromettre les délais de livraison de clients stratégiques.</p>"
+    }
+}

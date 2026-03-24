@@ -1,0 +1,111 @@
+{
+    "meta": {
+        "component": "blocks/content/contact/Contact002",
+        "section": "contact/contact002"
+    },
+    "data": {
+        "title": "Parlons de votre projet",
+        "subtitle": "Notre équipe répond sous 24h. Décrivez-nous votre besoin, nous revenons vers vous rapidement.",
+        "contactOptions": [
+            {
+                "icon": "mail",
+                "label": "Email",
+                "info": "team@autem.ch",
+                "href": "mailto:team@autem.ch"
+            },
+            {
+                "icon": "phone",
+                "label": "Téléphone",
+                "info": "+41 78 442 73 53",
+                "href": "tel:+41784427353"
+            },
+            {
+                "icon": "mapPin",
+                "label": "Adresse",
+                "info": "Fribourg, Suisse"
+            }
+        ],
+        "trustBadges": [
+            {
+                "text": "Réponse sous 24h"
+            },
+            {
+                "text": "100% Confidentiel"
+            },
+            {
+                "text": "Devis gratuit"
+            }
+        ],
+        "formTitle": "Envoyez-nous un message",
+        "tagsTitle": "Comment pouvons-nous vous aider ?",
+        "tags": [
+            {
+                "label": "Demande générale",
+                "value": "general",
+                "icon": "messageSquare"
+            },
+            {
+                "label": "Support technique",
+                "value": "support",
+                "icon": "wrench"
+            },
+            {
+                "label": "Partenariat",
+                "value": "partnership",
+                "icon": "briefcase"
+            },
+            {
+                "label": "Demande de devis",
+                "value": "quote",
+                "icon": "star"
+            }
+        ],
+        "urgencyTitle": "Niveau d'urgence",
+        "urgencyLevels": [
+            {
+                "label": "Normale",
+                "value": "normal",
+                "description": "Pas d'urgence particulière",
+                "colorHint": "default"
+            },
+            {
+                "label": "Prioritaire",
+                "value": "priority",
+                "description": "Sous 48 à 72h",
+                "colorHint": "default"
+            },
+            {
+                "label": "Urgent",
+                "value": "urgent",
+                "description": "Réponse requise sous 24h",
+                "colorHint": "accent"
+            },
+            {
+                "label": "Critique",
+                "value": "critical",
+                "description": "Panne machine / Production arrêtée",
+                "colorHint": "destructive"
+            }
+        ],
+        "formLabels": {
+            "fullName": "Nom complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "company": "Entreprise",
+            "message": "Message"
+        },
+        "formPlaceholders": {
+            "fullName": "Jean Dupont",
+            "email": "jean@entreprise.ch",
+            "phone": "+41 (0)22 000 00 00",
+            "company": "Votre entreprise",
+            "message": "Décrivez votre projet ou votre problème..."
+        },
+        "showPhone": true,
+        "showCompany": true,
+        "privacyText": "J'accepte la",
+        "privacyLink": "Politique de confidentialité",
+        "privacyHref": "/mentions-legales",
+        "submitText": "Envoyer le message"
+    }
+}

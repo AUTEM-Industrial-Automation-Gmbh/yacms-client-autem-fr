@@ -47,11 +47,11 @@
         "links": [
           {
             "text": "À propos",
-            "href": "/about"
+            "href": "/a-propos/manifeste"
           },
           {
-            "text": "Réalisations",
-            "href": "/realisations"
+            "text": "Cas Clients",
+            "href": "/cas-clients"
           },
           {
             "text": "Contact",
@@ -62,10 +62,6 @@
       {
         "title": "Ressources",
         "links": [
-          {
-            "text": "FAQ",
-            "href": "/faq"
-          },
           {
             "text": "Blog",
             "href": "/blog"

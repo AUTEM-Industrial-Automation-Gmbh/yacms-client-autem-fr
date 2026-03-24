@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-coop-logistique/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie",
+        "content": "<ol><li><p><strong>Analyse des flux et spécification fonctionnelle</strong><br>Modélisation des flux logistiques, définition des séquences de stockage et de déstockage, spécification des interfaces WMS et rédaction du cahier de recette.</p></li><li><p><strong>Programmation des automates transtockeurs et convoyeurs</strong><br>Développement des programmes automates (Siemens S7 / Beckhoff) pour piloter les transtockeurs multi-allées, les convoyeurs d'entrée/sortie et les aiguillages, avec gestion des priorités et des conflits d'accès.</p></li><li><p><strong>Interface WMS et gestion des missions</strong><br>Intégration de la communication entre le WMS et les automates pour la réception des ordres de mission, la confirmation des dépôts/retraits et la remontée du statut des emplacements en temps réel.</p></li><li><p><strong>Mise en service et montée en cadence</strong><br>Démarrage progressif par allée avec tests de cadence, validation des modes dégradés et accompagnement des équipes exploitation COOP.</p></li></ol>"
+    }
+}

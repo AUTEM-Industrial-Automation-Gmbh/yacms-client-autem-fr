@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/content/features/Features008",
+        "section": "cas-clients/success-story-biomerieux-pharma-biotech-electricite/features008-entreprise"
+    },
+    "data": {
+        "title": "L'entreprise",
+        "content": "<p>bioMérieux est un <strong>leader mondial du diagnostic in vitro</strong>, présent dans plus de 160 pays avec des solutions de microbiologie et d'immunologie destinées aux laboratoires cliniques et industriels. Son site de production français fabrique des réactifs et des consommables biologiques soumis aux exigences les plus strictes des industries pharmaceutiques et agroalimentaires.</p><p>La ligne de conditionnement aseptisée est un équipement critique : elle assure le remplissage et le scellement sous atmosphère contrôlée de flacons et de cartouches contenant des réactifs biologiques sensibles. Le <strong>maintien de l'intégrité aseptique</strong> tout au long du process et la qualification GMP de toute intervention sont des impératifs absolus.</p>"
+    }
+}

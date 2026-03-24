@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "section": "cas-clients/success-story-tm-chimie-automation/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/client-2-tm.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "AUTEM a parfaitement compris nos exigences dès le début de la mission. La programmation est propre, bien structurée et la machine a été validée sans anomalie majeure lors des tests FAT. C'est le niveau de qualité que nous attendons de nos partenaires.",
+    "author": {
+      "name": "Directeur Technique",
+      "role": "TM — Canada"
+    }
+  }
+}

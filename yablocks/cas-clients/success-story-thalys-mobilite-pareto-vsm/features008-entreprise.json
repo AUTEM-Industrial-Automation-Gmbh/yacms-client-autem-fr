@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "component": "blocks/content/features/Features008",
+    "section": "cas-clients/success-story-thalys-mobilite-pareto-vsm/features008-entreprise"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p>Thalys est un <strong>opérateur ferroviaire international</strong> opérant les lignes à grande vitesse entre Paris, Bruxelles, Amsterdam et Cologne. Gérant une flotte de rames et des services embarqués à destination de millions de passagers, Thalys mise sur la digitalisation pour améliorer l'expérience voyageur et la maintenance de ses équipements.</p><p>Dans le cadre de la modernisation de ses services, Thalys a déployé un réseau de <strong>distributeurs automatiques (vending machines)</strong> nécessitant une supervision à distance et une maintenance proactive.</p>"
+  }
+}

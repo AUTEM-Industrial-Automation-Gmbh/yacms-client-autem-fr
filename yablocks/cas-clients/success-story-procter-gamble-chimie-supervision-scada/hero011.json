@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "component": "blocks/layout/hero/Hero011",
+        "section": "cas-clients/success-story-procter-gamble-chimie-supervision-scada/hero011"
+    },
+    "data": {
+        "backLink": "/cas-clients",
+        "clientLogo": {
+            "src": "/logos/procter & gamble.png",
+            "alt": "Procter & Gamble"
+        },
+        "title": "Développement SCADA logistique — Site de production P&G",
+        "tags": [
+            {
+                "label": "Chimie",
+                "type": "secteur"
+            },
+            {
+                "label": "Supervision SCADA",
+                "type": "categorie"
+            }
+        ]
+    }
+}

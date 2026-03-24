@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "title": "Medtronic — Revamping automatisme four de séchage ligne pacemakers | AUTEM",
+        "description": "Découvrez comment AUTEM a réalisé le revamping de l'automatisme du four de séchage sur la ligne pacemakers Medtronic : PC industriel, MES-OEE et gestion de l'obsolescence.",
+        "keywords": [
+            "revamping automatisme",
+            "four de séchage",
+            "PC industriel",
+            "MES OEE médical",
+            "medtronic automatisme",
+            "cycle de vie équipements",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}

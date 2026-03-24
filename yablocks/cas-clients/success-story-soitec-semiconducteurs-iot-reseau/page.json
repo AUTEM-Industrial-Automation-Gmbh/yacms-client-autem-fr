@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "title": "Soitec — Connectivité réseau et modernisation PC industriels ligne silicium | AUTEM",
+        "description": "Découvrez comment AUTEM a modernisé la connectivité réseau et les PC industriels de la ligne de production silicium Soitec : IoT industriel, gestion de l'obsolescence et semiconducteurs.",
+        "keywords": [
+            "connectivité réseau industriel",
+            "PC industriel semiconducteurs",
+            "Soitec automatisme",
+            "obsolescence industrielle",
+            "IoT usine silicium",
+            "AUTEM réalisation"
+        ]
+    },
+    "theme": "autem-default",
+    "blocks": [
+        "../../_shared/navigation.json",
+        "./hero011.json",
+        "./features008-entreprise.json",
+        "./features008-challenge.json",
+        "./testimonial003.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "../../home/cta002.json",
+        "../../_shared/footer.json"
+    ]
+}
