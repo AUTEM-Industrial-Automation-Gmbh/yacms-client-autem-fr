@@ -2,7 +2,69 @@
   "meta": {
     "title": "Verkor — SCADA BMS pour batteries électriques industrielles | AUTEM",
     "description": "Découvrez comment AUTEM a développé le SCADA et l'architecture BMS pour la ligne de production de batteries électriques de Verkor : supervision, GTB-GMAO et architecture systèmes.",
-    "keywords": ["SCADA batteries", "BMS industriel", "Verkor automatisme", "supervision énergie", "architecture systèmes batteries", "AUTEM réalisation"]
+    "keywords": [
+      "SCADA batteries",
+      "BMS industriel",
+      "Verkor automatisme",
+      "supervision énergie",
+      "architecture systèmes batteries",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/cas-clients/success-story-verkor-energie-batteries-architecture-systemes/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/success-story-verkor-energie-batteries-architecture-systemes/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-verkor-energie-batteries-architecture-systemes/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/success-story-verkor-energie-batteries-architecture-systemes/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

@@ -1,20 +1,34 @@
 {
   "meta": {
-    "title": "404 - Page introuvable | AUTEM Services",
+    "title": "404 - Page introuvable | AUTEM",
     "description": "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil pour découvrir nos services d'automatisme industriel.",
     "keywords": [
       "404",
       "page introuvable",
       "erreur"
     ],
-    "author": "AUTEM Services",
-    "canonical": "https://autem-services.fr/404",
-    "locale": "fr_FR",
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/404",
+    "locale": "fr_CH",
     "robots": "noindex, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/404"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/404"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/404"
+      }
+    ],
     "og": {
       "type": "website",
-      "image": "/images/og-autem.jpg",
-      "imageAlt": "AUTEM Services - Page introuvable"
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Page introuvable"
     }
   },
   "theme": "autem-default",

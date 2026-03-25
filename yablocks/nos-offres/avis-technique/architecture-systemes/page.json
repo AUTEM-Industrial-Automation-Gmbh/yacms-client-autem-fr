@@ -1,31 +1,86 @@
 {
-    "meta": {
-        "title": "Architecture de Systèmes de Contrôle-Commande | AUTEM",
-        "description": "AUTEM conçoit des architectures de systèmes industriels agnostiques constructeur — spécifications techniques, cahiers des charges, validation d'architecture OT/IT. Expert indépendant multimarque.",
-        "keywords": [
-            "architecture systèmes industriels",
-            "système de contrôle-commande",
-            "architecture SCADA",
-            "spécifications techniques automate",
-            "architecture OT IT",
-            "cahier des charges automatisme",
-            "intégration OT IT industriel",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "Architecture Systèmes de Contrôle-Commande | AUTEM",
+    "description": "AUTEM conçoit des architectures de contrôle-commande agnostiques : spécifications techniques, cahiers des charges et validation OT/IT.",
+    "keywords": [
+      "architecture systèmes industriels",
+      "système de contrôle-commande",
+      "architecture SCADA",
+      "spécifications techniques automate",
+      "architecture OT IT",
+      "cahier des charges automatisme",
+      "intégration OT IT industriel",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/nos-offres/avis-technique/architecture-systemes/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/avis-technique/architecture-systemes/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/avis-technique/architecture-systemes/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/avis-technique/architecture-systemes/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Architecture de systèmes de contrôle-commande"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./features004-probleme.json",
-        "./features009-definition.json",
-        "./process003-methode.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }

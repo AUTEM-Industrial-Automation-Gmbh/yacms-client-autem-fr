@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Nos Technologies — AUTEM, Automatisme & SCADA Industriel",
-    "description": "AUTEM maîtrise l'ensemble de la chaîne technologique industrielle : automates Siemens, Rockwell, Schneider, SCADA Ignition (Gold), protocoles OPC-UA, MQTT, Profinet, et solutions MES/IoT.",
+    "title": "Nos Technologies — AUTEM, Automatisme & SCADA",
+    "description": "AUTEM maîtrise la chaîne technologique industrielle : automates Siemens, Rockwell, Schneider, SCADA Ignition certifié Gold, OPC-UA, MQTT et MES/IoT.",
     "keywords": [
       "automate industriel",
       "Siemens",
@@ -14,7 +14,62 @@
       "MES",
       "IoT industriel",
       "AUTEM"
-    ]
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/a-propos/technologies/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/a-propos/technologies/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/a-propos/technologies/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/a-propos/technologies/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Technologies automates et SCADA industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

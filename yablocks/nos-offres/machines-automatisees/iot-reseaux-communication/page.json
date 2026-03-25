@@ -1,34 +1,89 @@
 {
-    "meta": {
-        "title": "IoT, Réseaux & Communication Industrielle | AUTEM",
-        "description": "AUTEM connecte vos machines, protocoles et systèmes industriels entre eux. OPC-UA, MQTT, BACnet, Profinet, Modbus, VLAN — intégration réseau OT/IT et sécurité ICS pour vos usines.",
-        "keywords": [
-            "IoT industriel",
-            "OPC-UA",
-            "MQTT industriel",
-            "Profinet",
-            "Modbus TCP",
-            "communication industrielle",
-            "réseau OT IT",
-            "segmentation VLAN",
-            "cybersécurité ICS",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "IoT, Réseaux & Communication Industrielle | AUTEM",
+    "description": "AUTEM connecte vos machines et systèmes industriels : OPC-UA, MQTT, BACnet, Profinet, Modbus. Intégration réseau OT/IT et sécurité ICS.",
+    "keywords": [
+      "IoT industriel",
+      "OPC-UA",
+      "MQTT industriel",
+      "Profinet",
+      "Modbus TCP",
+      "communication industrielle",
+      "réseau OT IT",
+      "segmentation VLAN",
+      "cybersécurité ICS",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/nos-offres/machines-automatisees/iot-reseaux-communication/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/machines-automatisees/iot-reseaux-communication/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/machines-automatisees/iot-reseaux-communication/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/machines-automatisees/iot-reseaux-communication/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — IoT et réseaux de communication industrielle"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./about001.json",
-        "./features001.json",
-        "./features010-protocoles.json",
-        "./features002-demarche.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./about001.json",
+    "./features001.json",
+    "./features010-protocoles.json",
+    "./features002-demarche.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }

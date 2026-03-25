@@ -1,13 +1,36 @@
 {
     "meta": {
-        "title": "Plan du site — AUTEM",
+        "title": "Plan du Site — Toutes nos Pages | AUTEM",
         "description": "Plan du site AUTEM — retrouvez l'ensemble de nos pages : offres, cas clients, articles de blog et ressources techniques.",
         "keywords": [
             "plan du site",
             "sitemap",
             "AUTEM",
             "automatisme industriel"
-        ]
+        ],
+        "author": "AUTEM",
+        "canonical": "https://autem.ch/plan-du-site/",
+        "locale": "fr_CH",
+        "robots": "noindex, follow",
+        "hreflang": [
+            {
+                "lang": "fr-CH",
+                "href": "https://autem.ch/plan-du-site/"
+            },
+            {
+                "lang": "fr-FR",
+                "href": "https://autem-services.fr/plan-du-site/"
+            },
+            {
+                "lang": "x-default",
+                "href": "https://autem.ch/plan-du-site/"
+            }
+        ],
+        "og": {
+            "type": "website",
+            "image": "/og-home.png",
+            "imageAlt": "AUTEM — Plan du site"
+        }
     },
     "theme": "autem-default",
     "blocks": [

@@ -1,21 +1,76 @@
 {
-    "meta": {
-        "title": "Nos réalisations — Automatisme & SCADA industriel | AUTEM",
-        "description": "Découvrez les réalisations techniques d'AUTEM : automatisme, supervision SCADA, IoT industriel et MES auprès de grands industriels (Hermès, Amazon, Unilever, ArcelorMittal…).",
-        "keywords": [
-            "réalisations automatisme",
-            "portfolio automatisme industriel",
-            "fournisseur automatisme",
-            "prestataire automatisme",
-            "cas clients SCADA",
-            "références automatisme",
-            "intégrateur industriel"
-        ]
+  "meta": {
+    "title": "Nos réalisations — Automatisme & SCADA industriel | AUTEM",
+    "description": "Réalisations AUTEM en automatisme, SCADA, IoT et MES pour Hermès, Amazon, Medtronic, Caterpillar. Découvrez nos cas clients.",
+    "keywords": [
+      "réalisations automatisme",
+      "portfolio automatisme industriel",
+      "fournisseur automatisme",
+      "prestataire automatisme",
+      "cas clients SCADA",
+      "références automatisme",
+      "intégrateur industriel"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/cas-clients/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas clients automatisme et SCADA industriel"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../_shared/navigation.json",
-        "./features007.json",
-        "../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../_shared/navigation.json",
+    "./features007.json",
+    "../_shared/footer.json"
+  ]
 }

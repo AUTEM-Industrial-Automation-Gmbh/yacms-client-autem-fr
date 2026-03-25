@@ -2,7 +2,69 @@
   "meta": {
     "title": "Amazon — Automatisation d'entrepôt mécanisé : convoyage, traçabilité et WCS | AUTEM",
     "description": "Découvrez comment AUTEM a automatisé un entrepôt mécanisé Amazon à Paris : systèmes de convoyage, traçabilité colis et WCS (Warehouse Control System).",
-    "keywords": ["automatisme logistique","WCS entrepôt","convoyage automatisé","traçabilité colis","automatisme Amazon","AUTEM réalisation"]
+    "keywords": [
+      "automatisme logistique",
+      "WCS entrepôt",
+      "convoyage automatisé",
+      "traçabilité colis",
+      "automatisme Amazon",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/cas-clients/success-story-amazon-logistique-automation/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/success-story-amazon-logistique-automation/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-amazon-logistique-automation/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/success-story-amazon-logistique-automation/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

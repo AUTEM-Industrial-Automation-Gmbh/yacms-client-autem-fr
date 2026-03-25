@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Notre Vision — AUTEM, Expert en Automatisme & Digitalisation Industrielle",
-    "description": "Découvrez la vision d'AUTEM : digitaliser et automatiser vos usines pour gagner en performance, visibilité et compétitivité. Notre approche technique, du terrain au pilotage.",
+    "title": "Notre Vision — AUTEM, Automatisme & Digitalisation",
+    "description": "Vision AUTEM : digitaliser vos usines pour gagner en performance et compétitivité. Notre approche technique, du terrain au pilotage.",
     "keywords": [
       "automatisme industriel",
       "digitalisation usine",
@@ -12,7 +12,62 @@
       "AUTEM",
       "vision",
       "transformation digitale"
-    ]
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/a-propos/manifeste/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/a-propos/manifeste/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/a-propos/manifeste/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/a-propos/manifeste/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Notre vision de l'automatisme industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

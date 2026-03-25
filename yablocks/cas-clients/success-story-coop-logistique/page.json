@@ -1,25 +1,80 @@
 {
-    "meta": {
-        "title": "COOP — Automatisation d'un stockeur logistique | AUTEM",
-        "description": "Découvrez comment AUTEM a automatisé le stockeur logistique COOP : programmation automates, gestion des flux de stockage automatisé et mise en service.",
-        "keywords": [
-            "automatisme logistique",
-            "stockeur automatique",
-            "COOP automatisme",
-            "entrepôt automatisé",
-            "AUTEM réalisation"
-        ]
+  "meta": {
+    "title": "COOP — Automatisation d'un stockeur logistique | AUTEM",
+    "description": "Découvrez comment AUTEM a automatisé le stockeur logistique COOP : programmation automates, gestion des flux de stockage automatisé et mise en service.",
+    "keywords": [
+      "automatisme logistique",
+      "stockeur automatique",
+      "COOP automatisme",
+      "entrepôt automatisé",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/cas-clients/success-story-coop-logistique/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/success-story-coop-logistique/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-coop-logistique/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/success-story-coop-logistique/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../_shared/navigation.json",
-        "./hero011.json",
-        "./features008-entreprise.json",
-        "./features008-challenge.json",
-        "./testimonial003.json",
-        "./features008-strategie.json",
-        "./features008-resultats.json",
-        "../../home/cta002.json",
-        "../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "L'Équipe — AUTEM, Experts en Automatisme & Digitalisation Industrielle",
-    "description": "L'équipe AUTEM réunit des experts en automatisme industriel, SCADA, IoT et ingénierie logicielle pour accompagner vos projets de digitalisation d'usines.",
+    "title": "L'Équipe — AUTEM, Experts Automatisme & Industrie",
+    "description": "L'équipe AUTEM réunit des experts en automatisme, SCADA, IoT et ingénierie logicielle pour vos projets de digitalisation industrielle.",
     "keywords": [
       "équipe",
       "automaticien",
@@ -9,7 +9,62 @@
       "SCADA",
       "ingénieur logiciel industriel",
       "AUTEM"
-    ]
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/a-propos/team/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/a-propos/team/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/a-propos/team/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/a-propos/team/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — L'équipe d'experts en automatisme industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

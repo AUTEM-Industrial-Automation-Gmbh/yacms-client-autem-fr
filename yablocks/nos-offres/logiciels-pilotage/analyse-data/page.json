@@ -1,31 +1,86 @@
 {
-    "meta": {
-        "title": "Analyse Data — Pareto, VSM, ROI | AUTEM",
-        "description": "AUTEM analyse vos données de production pour identifier les vraies pertes, cartographier vos flux (VSM) et chiffrer le ROI de vos actions d'amélioration. Diagnostics terrain, livrables actionnables.",
-        "keywords": [
-            "analyse data industrielle",
-            "Pareto production",
-            "VSM Value Stream Mapping",
-            "ROI amélioration continue",
-            "diagnostic performance industrielle",
-            "KPI usine",
-            "lean manufacturing",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "Analyse Data — Pareto, VSM, ROI | AUTEM",
+    "description": "AUTEM analyse vos données de production : Pareto, VSM, ROI. Identifiez les pertes, cartographiez vos flux et chiffrez vos améliorations.",
+    "keywords": [
+      "analyse data industrielle",
+      "Pareto production",
+      "VSM Value Stream Mapping",
+      "ROI amélioration continue",
+      "diagnostic performance industrielle",
+      "KPI usine",
+      "lean manufacturing",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/nos-offres/logiciels-pilotage/analyse-data/",
+    "locale": "fr_CH",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/analyse-data/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/logiciels-pilotage/analyse-data/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/analyse-data/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Analyse data industrielle Pareto VSM ROI"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./features004-probleme.json",
-        "./features009-definition.json",
-        "./process003-methode.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }

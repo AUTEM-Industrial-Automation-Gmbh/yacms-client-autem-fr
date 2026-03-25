@@ -1,20 +1,36 @@
 {
   "meta": {
     "title": "Mentions Légales — AUTEM, Automatisme & SCADA Industriel",
-    "description": "Découvrez les mentions légales d'AUTEM, intégrateur industriel spécialisé en automates Siemens, Rockwell, Schneider, SCADA Ignition (Gold), protocoles OPC-UA, MQTT, Profinet, et solutions MES/IoT. Conformité RGPD et propriété intellectuelle.",
+    "description": "Mentions légales d'AUTEM : informations sur l'éditeur, l'hébergement, la propriété intellectuelle et la conformité RGPD.",
     "keywords": [
-      "automate industriel",
-      "Siemens",
-      "Rockwell",
-      "Schneider",
-      "Ignition SCADA",
-      "intégrateur certifié Gold",
-      "OPC-UA",
-      "MQTT",
-      "MES",
-      "IoT industriel",
-      "AUTEM"
-    ]
+      "mentions légales",
+      "AUTEM",
+      "RGPD",
+      "propriété intellectuelle"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem.ch/mentions-legales/",
+    "locale": "fr_CH",
+    "robots": "noindex, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/mentions-legales/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/mentions-legales/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/mentions-legales/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Mentions légales"
+    }
   },
   "theme": "autem-default",
   "blocks": [
