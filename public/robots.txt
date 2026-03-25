@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404
 
-Sitemap: https://autem.ch/sitemap-index.xml
+Sitemap: https://autem-services.fr/sitemap-index.xml
