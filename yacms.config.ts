@@ -80,7 +80,7 @@ export default defineConfig({
         content: `
           var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
           Tawk_API.onLoad = function() {
-            Tawk_API.setAttributes({ source: 'autem.ch' }, function(error) {});
+            Tawk_API.setAttributes({ source: 'autem-services.fr' }, function(error) {});
           };
           (function(){
             var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];

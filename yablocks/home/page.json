@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "AUTEM — Vintage Machines, Obsolescence, Performance, Autonomie",
-    "description": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie. Contactez-nous : team@autem.ch",
+    "description": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie. Contactez-nous : contact@autem-services.fr",
     "keywords": [
       "automatisme industriel",
       "retrofit automate",
@@ -19,8 +19,8 @@
       "informatique industrielle"
     ],
     "author": "AUTEM",
-    "canonical": "https://autem.ch/",
-    "locale": "fr_CH",
+    "canonical": "https://autem-services.fr/",
+    "locale": "fr_FR",
     "robots": "index, follow",
     "hreflang": [
       {
@@ -46,18 +46,18 @@
       "name": "AUTEM",
       "logo": "/logos/autem-logo.png",
       "address": {
-        "street": "Route d'Avry 19",
-        "city": "Matran",
-        "postalCode": "1753",
-        "region": "Fribourg",
-        "country": "CH"
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
       },
       "geo": {
-        "latitude": 46.78559494018555,
-        "longitude": 7.088335037231445
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
       },
-      "phone": "+41784427353",
-      "email": "team@autem.ch",
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
       "priceRange": "€€€",
       "openingHours": [
         {
