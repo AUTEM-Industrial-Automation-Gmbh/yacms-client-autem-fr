@@ -1,6 +1,6 @@
 import { defineConfig } from "@yacms/core/config";
 
-const GA4_ID = "G-CKH4RH98D2";
+const GA4_ID = "G-ZTVP8FCPS6";
 
 export default defineConfig({
   scripts: {
