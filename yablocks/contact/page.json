@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Contact — AUTEM, Expert en Automatisme & Digitalisation Industrielle",
-    "description": "Contactez nos experts en automatisme et digitalisation industrielle. Devis, audit technique, urgence panne machine — nous répondons sous 24h.",
+    "title": "Contact — AUTEM, Expert en Automatisme & Digitalisation",
+    "description": "Contactez nos experts en automatisme et digitalisation industrielle. Devis, audit technique, urgence panne machine — réponse sous 24h.",
     "keywords": [
       "contact automatisme industriel",
       "expert SCADA Suisse",
@@ -9,7 +9,62 @@
       "urgence panne machine",
       "intégrateur Ignition Suisse",
       "contact AUTEM"
-    ]
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/contact/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/contact/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/contact/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/contact/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Contactez nos experts en automatisme industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

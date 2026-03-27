@@ -1,6 +1,6 @@
 import { defineConfig } from "@yacms/core/config";
 
-const GA4_ID = "G-CKH4RH98D2";
+const GA4_ID = "G-ZTVP8FCPS6";
 
 export default defineConfig({
   scripts: {
@@ -55,22 +55,22 @@ export default defineConfig({
       },
 
       // ─── GA4 — consent-gated via Klaro ───────────────────────
-      // {
-      //   name: "google-analytics",
-      //   src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
-      //   async: true,
-      //   consent: "google-analytics",
-      // },
-      // {
-      //   name: "ga4-init",
-      //   content: `
-      //     window.dataLayer = window.dataLayer || [];
-      //     function gtag() { dataLayer.push(arguments); }
-      //     gtag('js', new Date());
-      //     gtag('config', '${GA4_ID}');
-      //   `,
-      //   consent: "google-analytics",
-      // },
+      {
+        name: "google-analytics",
+        src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
+        async: true,
+        consent: "google-analytics",
+      },
+      {
+        name: "ga4-init",
+        content: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag() { dataLayer.push(arguments); }
+          gtag('js', new Date());
+          gtag('config', '${GA4_ID}');
+        `,
+        consent: "google-analytics",
+      },
     ],
 
     body: [
@@ -80,7 +80,7 @@ export default defineConfig({
         content: `
           var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
           Tawk_API.onLoad = function() {
-            Tawk_API.setAttributes({ source: 'autem.ch' }, function(error) {});
+            Tawk_API.setAttributes({ source: 'autem-services.fr' }, function(error) {});
           };
           (function(){
             var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];

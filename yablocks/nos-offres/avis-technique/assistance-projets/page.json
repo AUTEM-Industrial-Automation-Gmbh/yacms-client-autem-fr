@@ -1,31 +1,86 @@
 {
-    "meta": {
-        "title": "Assistance de Projets Stratégiques | AUTEM",
-        "description": "AUTEM accompagne vos projets d'automatisme et de digitalisation en tant qu'assistant à maîtrise d'ouvrage technique : rédaction de specs, pilotage technique, FAT/SAT, coordination intégrateurs.",
-        "keywords": [
-            "assistance maîtrise d'ouvrage",
-            "AMOA automatisme",
-            "pilotage projet automatisme",
-            "assistance projet stratégique industriel",
-            "coordination intégrateur",
-            "cahier des charges automatisme",
-            "FAT SAT recette industrielle",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "Assistance Projets Stratégiques Industriels | AUTEM",
+    "description": "AUTEM accompagne vos projets d'automatisme en AMOA technique : rédaction de specs, pilotage, FAT/SAT et coordination d'intégrateurs.",
+    "keywords": [
+      "assistance maîtrise d'ouvrage",
+      "AMOA automatisme",
+      "pilotage projet automatisme",
+      "assistance projet stratégique industriel",
+      "coordination intégrateur",
+      "cahier des charges automatisme",
+      "FAT SAT recette industrielle",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/nos-offres/avis-technique/assistance-projets/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/avis-technique/assistance-projets/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/avis-technique/assistance-projets/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/avis-technique/assistance-projets/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Assistance projets stratégiques industriels"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./features004-probleme.json",
-        "./features009-definition.json",
-        "./process003-methode.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }

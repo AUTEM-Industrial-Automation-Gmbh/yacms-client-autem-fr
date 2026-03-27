@@ -1,32 +1,87 @@
 {
-    "meta": {
-        "title": "Supervision SCADA Ignition — Intégrateur Certifié Gold | AUTEM",
-        "description": "AUTEM est intégrateur certifié Gold Ignition (Inductive Automation). Migration WinCC, InduSoft, FactoryTalk vers Ignition. Licence plate, web-native, OPC-UA et MQTT Sparkplug B.",
-        "keywords": [
-            "Ignition SCADA",
-            "intégrateur Ignition Gold",
-            "Inductive Automation",
-            "supervision industrielle",
-            "migration WinCC Ignition",
-            "SCADA web",
-            "OPC-UA MQTT SCADA",
-            "licence plate SCADA",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "SCADA Ignition — Intégrateur Certifié Gold | AUTEM",
+    "description": "Intégrateur certifié Gold Ignition. Migration WinCC, InduSoft, FactoryTalk vers Ignition. Licence plate, web-native, OPC-UA et MQTT.",
+    "keywords": [
+      "Ignition SCADA",
+      "intégrateur Ignition Gold",
+      "Inductive Automation",
+      "supervision industrielle",
+      "migration WinCC Ignition",
+      "SCADA web",
+      "OPC-UA MQTT SCADA",
+      "licence plate SCADA",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/nos-offres/logiciels-pilotage/ignition-scada/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/ignition-scada/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/logiciels-pilotage/ignition-scada/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/ignition-scada/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Intégrateur certifié Gold SCADA Ignition"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./features004-probleme.json",
-        "./features009-definition.json",
-        "./process003-methode.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }

@@ -8,7 +8,7 @@ import sitemap from '@astrojs/sitemap';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-    site: 'https://autem.ch',
+    site: 'https://autem-services.fr',
     integrations: [react(), sitemap()],
     build: {
         inlineStylesheets: 'always',

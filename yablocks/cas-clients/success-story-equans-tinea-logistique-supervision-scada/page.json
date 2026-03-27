@@ -1,25 +1,80 @@
 {
-    "meta": {
-        "title": "Equans Tinea — Développement SCADA systèmes logistiques | AUTEM",
-        "description": "Découvrez comment AUTEM a contribué au développement SCADA de systèmes logistiques pour Equans Tinea à Lyon : supervision, intégration terrain et mise en service.",
-        "keywords": [
-            "SCADA logistique",
-            "développeur SCADA",
-            "Equans Tinea",
-            "supervision logistique",
-            "AUTEM réalisation"
-        ]
+  "meta": {
+    "title": "Equans Tinea — Développement SCADA systèmes logistiques | AUTEM",
+    "description": "Découvrez comment AUTEM a contribué au développement SCADA de systèmes logistiques pour Equans Tinea à Lyon : supervision, intégration terrain et mise en service.",
+    "keywords": [
+      "SCADA logistique",
+      "développeur SCADA",
+      "Equans Tinea",
+      "supervision logistique",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/cas-clients/success-story-equans-tinea-logistique-supervision-scada/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/success-story-equans-tinea-logistique-supervision-scada/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-equans-tinea-logistique-supervision-scada/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/cas-clients/success-story-equans-tinea-logistique-supervision-scada/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../_shared/navigation.json",
-        "./hero011.json",
-        "./features008-entreprise.json",
-        "./features008-challenge.json",
-        "./testimonial003.json",
-        "./features008-strategie.json",
-        "./features008-resultats.json",
-        "../../home/cta002.json",
-        "../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../_shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "../../_shared/footer.json"
+  ]
 }

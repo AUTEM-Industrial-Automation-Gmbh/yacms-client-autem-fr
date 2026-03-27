@@ -1,21 +1,78 @@
 {
   "meta": {
-    "title": "AUTEM - Vintage Machines, Obsolescence, Performance, Autonomie",
-    "description": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie. Contactez-nous : team@autem.ch",
+    "title": "AUTEM — Vintage Machines, Obsolescence, Performance, Autonomie",
+    "description": "Depuis 2020, nos spécialistes rénovent vos machines obsolètes pour retrouver performance et autonomie. Contactez-nous : contact@autem-services.fr",
     "keywords": [
-      "automatisme",
-      "automaticien",
-      "SCADA",
-      "informatique industrielle",
-      "digitalisation",
-      "Ignition",
-      "intégrateur",
       "automatisme industriel",
-      "MES",
-      "IIoT",
-      "entreprise automatisme lyon",
-      "automaticien freelance"
-    ]
+      "retrofit automate",
+      "SCADA Ignition",
+      "intégrateur Ignition certifié Gold",
+      "rénovation machine industrielle",
+      "modernisation automate Siemens",
+      "obsolescence industrielle",
+      "supervision industrielle",
+      "MES TRS OEE",
+      "automate Rockwell Allen-Bradley",
+      "automate Schneider Electric",
+      "industrie 4.0",
+      "IIoT OPC-UA",
+      "informatique industrielle"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Retrofit de machines industrielles et supervision SCADA Ignition"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
   },
   "theme": "autem-default",
   "blocks": [

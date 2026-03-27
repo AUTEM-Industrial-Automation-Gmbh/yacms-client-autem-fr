@@ -1,32 +1,87 @@
 {
-    "meta": {
-        "title": "KPI Production — MES, TRS, OEE | AUTEM",
-        "description": "AUTEM intègre vos machines, calcule votre TRS/OEE en temps réel et déploie vos tableaux de bord de production. Ignition, WinCC, multimarque — formation incluse.",
-        "keywords": [
-            "MES industriel",
-            "TRS production",
-            "OEE calcul",
-            "KPI production",
-            "tableau de bord usine",
-            "Ignition MES",
-            "taux rendement synthétique",
-            "intégration automate MES",
-            "AUTEM"
-        ]
+  "meta": {
+    "title": "KPI Production — MES, TRS, OEE | AUTEM",
+    "description": "AUTEM intègre vos machines et calcule votre TRS/OEE en temps réel. Tableaux de bord production Ignition, WinCC, multimarque.",
+    "keywords": [
+      "MES industriel",
+      "TRS production",
+      "OEE calcul",
+      "KPI production",
+      "tableau de bord usine",
+      "Ignition MES",
+      "taux rendement synthétique",
+      "intégration automate MES",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/nos-offres/logiciels-pilotage/mes-trs-oee/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/mes-trs-oee/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/nos-offres/logiciels-pilotage/mes-trs-oee/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem.ch/nos-offres/logiciels-pilotage/mes-trs-oee/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — KPI Production MES TRS OEE"
     },
-    "theme": "autem-default",
-    "blocks": [
-        "../../../_shared/navigation.json",
-        "./hero012.json",
-        "./features004-probleme.json",
-        "./features009-definition.json",
-        "./process003-methode.json",
-        "./trust-logos002.json",
-        "./stats001.json",
-        "./features009-pourquoi-autem.json",
-        "./testimonial003.json",
-        "./faq001.json",
-        "./cta002.json",
-        "../../../_shared/footer.json"
-    ]
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "../../../_shared/navigation.json",
+    "./hero012.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process003-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-autem.json",
+    "./testimonial003.json",
+    "./faq001.json",
+    "./cta002.json",
+    "../../../_shared/footer.json"
+  ]
 }
