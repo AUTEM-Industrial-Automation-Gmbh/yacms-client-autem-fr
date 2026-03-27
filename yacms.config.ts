@@ -55,22 +55,22 @@ export default defineConfig({
       },
 
       // ─── GA4 — consent-gated via Klaro ───────────────────────
-      // {
-      //   name: "google-analytics",
-      //   src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
-      //   async: true,
-      //   consent: "google-analytics",
-      // },
-      // {
-      //   name: "ga4-init",
-      //   content: `
-      //     window.dataLayer = window.dataLayer || [];
-      //     function gtag() { dataLayer.push(arguments); }
-      //     gtag('js', new Date());
-      //     gtag('config', '${GA4_ID}');
-      //   `,
-      //   consent: "google-analytics",
-      // },
+      {
+        name: "google-analytics",
+        src: `https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`,
+        async: true,
+        consent: "google-analytics",
+      },
+      {
+        name: "ga4-init",
+        content: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag() { dataLayer.push(arguments); }
+          gtag('js', new Date());
+          gtag('config', '${GA4_ID}');
+        `,
+        consent: "google-analytics",
+      },
     ],
 
     body: [
