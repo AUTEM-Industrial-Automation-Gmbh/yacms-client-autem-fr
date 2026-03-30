@@ -112,7 +112,8 @@
     ],
     "cta": {
       "text": "Une URGENCE technique ?",
-      "href": "/contact"
+      "href": "/contact",
+      "mobilePosition": "inline"
     }
   }
 }
