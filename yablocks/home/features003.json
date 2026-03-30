@@ -33,7 +33,7 @@
         ],
         "cta": {
           "text": "En savoir plus",
-          "link": "/offre/automatisme"
+          "link": "/nos-offres/machines-automatisees/retrofit-automation"
         },
         "testimonial": {
           "quote": "Modernisation du Tri Bagage Est (TBE) Terminal 2E - Modification d'un convoyeur à bascule - Programmation d'un portique de lecture pour la traçabilité des bagages en classe Sky Priority",
@@ -73,7 +73,7 @@
         ],
         "cta": {
           "text": "Découvrir nos solutions",
-          "link": "/offre/informatique-industrielle"
+          "link": "/nos-offres/logiciels-pilotage/mes-trs-oee"
         },
         "testimonial": {
           "quote": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
@@ -109,7 +109,7 @@
         ],
         "cta": {
           "text": "Découvrir",
-          "link": "/offre/data"
+          "link": "/nos-offres/avis-technique/architecture-systemes"
         },
         "testimonial": {
           "quote": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",
