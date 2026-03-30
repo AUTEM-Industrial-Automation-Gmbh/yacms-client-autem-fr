@@ -30,6 +30,9 @@ export default defineConfig({
             watch: {
                 ignored: ['**/yablocks/**']
             }
-        }
+        },
+        ssr: {
+            noExternal: ['lucide-react'],
+        },
     },
 });
