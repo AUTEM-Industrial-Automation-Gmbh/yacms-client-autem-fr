@@ -65,10 +65,10 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero011.json",
     "./article001.json",
     "./cta002.json",
-    "../../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

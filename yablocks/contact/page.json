@@ -68,8 +68,8 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "./contact002.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

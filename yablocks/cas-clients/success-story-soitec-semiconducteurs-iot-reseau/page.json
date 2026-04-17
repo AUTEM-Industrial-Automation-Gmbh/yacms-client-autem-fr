@@ -68,7 +68,7 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero011.json",
     "./features008-entreprise.json",
     "./features008-challenge.json",
@@ -76,6 +76,6 @@
     "./features008-strategie.json",
     "./features008-resultats.json",
     "../../home/cta002.json",
-    "../../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }
