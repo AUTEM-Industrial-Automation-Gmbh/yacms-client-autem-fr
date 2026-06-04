@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features005",
+    "component": "blocks/features/FeatureSplitPrimary",
     "section": "home/features005"
   },
   "data": {

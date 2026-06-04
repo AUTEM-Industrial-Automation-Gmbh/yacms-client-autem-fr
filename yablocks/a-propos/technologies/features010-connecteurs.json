@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features010",
+    "component": "blocks/features/FeatureIconChecklist",
     "section": "a-propos/technologies/features010-connecteurs"
   },
   "data": {

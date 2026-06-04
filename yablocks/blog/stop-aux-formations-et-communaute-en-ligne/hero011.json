@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/stop-aux-formations-et-communaute-en-ligne/hero011"
   },
   "data": {

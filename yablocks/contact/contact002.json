@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/contact/Contact002",
+    "component": "blocks/contact/ContactTaggedForm",
     "section": "contact/contact002"
   },
   "data": {

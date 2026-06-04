@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/cta/Cta002",
+    "component": "blocks/cta/CTABenefitsGrid",
     "section": "blog/prove-it-la-conference-40/cta002"
   },
   "data": {

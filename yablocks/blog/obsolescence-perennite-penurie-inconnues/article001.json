@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/article/Article001",
+    "component": "blocks/article/ArticleTocLayout",
     "section": "blog/obsolescence-perennite-penurie-inconnues/article001"
   },
   "data": {

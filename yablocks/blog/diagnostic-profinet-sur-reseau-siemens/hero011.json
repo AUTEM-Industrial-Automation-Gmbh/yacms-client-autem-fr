@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/diagnostic-profinet-sur-reseau-siemens/hero011"
   },
   "data": {

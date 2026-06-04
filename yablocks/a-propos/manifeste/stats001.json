@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/stats/Stats001",
+    "component": "blocks/stats/StatsPrimaryRow",
     "section": "a-propos/manifeste/stats001"
   },
   "data": {

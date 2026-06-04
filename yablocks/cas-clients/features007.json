@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features007",
+    "component": "blocks/features/FeatureFilterGallery",
     "section": "cas-clients/features007"
   },
   "data": {

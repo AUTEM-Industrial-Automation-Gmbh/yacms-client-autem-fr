@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/navigation/Navigation004",
+    "component": "blocks/navigation/NavMegaMenu",
     "section": "shared/navigation"
   },
   "data": {

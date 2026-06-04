@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features004",
+    "component": "blocks/features/FeatureBadgeContent",
     "section": "home/features004"
   },
   "data": {

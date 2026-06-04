@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/article/Article001",
+    "component": "blocks/article/ArticleTocLayout",
     "section": "blog/securite-incendie-alarmes-et-detection-automatique/article001"
   },
   "data": {

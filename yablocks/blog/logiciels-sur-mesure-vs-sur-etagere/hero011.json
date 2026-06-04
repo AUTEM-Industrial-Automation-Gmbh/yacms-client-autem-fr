@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/logiciels-sur-mesure-vs-sur-etagere/hero011"
   },
   "data": {

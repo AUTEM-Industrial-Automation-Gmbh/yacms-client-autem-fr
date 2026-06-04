@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/stats/Stats001",
+    "component": "blocks/stats/StatsPrimaryRow",
     "section": "offre/machines-automatisees/retrofit-automation/stats001"
   },
   "data": {

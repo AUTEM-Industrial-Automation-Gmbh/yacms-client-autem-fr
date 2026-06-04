@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/cta/Cta002",
+    "component": "blocks/cta/CTABenefitsGrid",
     "section": "blog/securite-incendie-alarmes-et-detection-automatique/cta002"
   },
   "data": {

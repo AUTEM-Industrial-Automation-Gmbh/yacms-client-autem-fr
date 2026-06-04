@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero012",
+    "component": "blocks/hero/HeroCenteredMinimal",
     "section": "a-propos/nos-technologies/hero012"
   },
   "data": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features008",
+    "component": "blocks/features/FeatureRichContent",
     "section": "a-propos/manifeste/features008-equation"
   },
   "data": {

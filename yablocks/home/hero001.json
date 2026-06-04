@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero010",
+    "component": "blocks/hero/HeroFullscreenInset",
     "section": "landing-page/hero010"
   },
   "data": {

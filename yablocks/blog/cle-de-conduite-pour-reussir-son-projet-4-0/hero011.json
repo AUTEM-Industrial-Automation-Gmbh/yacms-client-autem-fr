@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/cle-de-conduite-pour-reussir-son-projet-4-0/hero011"
   },
   "data": {

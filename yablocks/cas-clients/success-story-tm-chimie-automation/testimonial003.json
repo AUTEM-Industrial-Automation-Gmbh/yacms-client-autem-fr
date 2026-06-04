@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "component": "blocks/testimonials/TestimonialDarkCard",
     "section": "cas-clients/success-story-tm-chimie-automation/testimonial003"
   },
   "data": {
