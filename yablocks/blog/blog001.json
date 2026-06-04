@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/blog/Blog001",
+    "component": "blocks/blog/BlogFilterGrid",
     "section": "blog/blog001"
   },
   "data": {

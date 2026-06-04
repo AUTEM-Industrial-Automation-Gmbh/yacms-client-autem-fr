@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/article/Article001",
+    "component": "blocks/article/ArticleTocLayout",
     "section": "blog/logiciel-industriels-licence-payante-ou-gratuite/article001"
   },
   "data": {

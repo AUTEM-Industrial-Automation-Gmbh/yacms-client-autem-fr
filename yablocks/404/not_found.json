@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/not-found/PrimaryNotFound",
+    "component": "blocks/not-found/PrimaryNotFound",
     "section": "404/not_found"
   },
   "data": {

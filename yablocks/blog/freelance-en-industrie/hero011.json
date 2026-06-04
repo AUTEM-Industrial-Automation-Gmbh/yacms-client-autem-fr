@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/freelance-en-industrie/hero011"
   },
   "data": {

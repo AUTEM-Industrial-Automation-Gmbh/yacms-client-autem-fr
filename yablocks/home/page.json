@@ -76,7 +76,7 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero001.json",
     "./features004.json",
     "./features003.json",
@@ -84,6 +84,6 @@
     "./features005.json",
     "./features006.json",
     "./cta002.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

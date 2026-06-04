@@ -34,8 +34,8 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../_shared/navigation.json",
+    "@shared/navigation.json",
     "./LegalNotice001.json",
-    "../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

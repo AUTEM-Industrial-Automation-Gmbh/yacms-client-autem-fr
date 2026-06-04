@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/wincc-configurer-un-ecran-de-supervision/hero011"
   },
   "data": {

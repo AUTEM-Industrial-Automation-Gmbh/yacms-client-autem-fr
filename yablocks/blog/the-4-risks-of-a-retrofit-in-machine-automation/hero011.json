@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/the-4-risks-of-a-retrofit-in-machine-automation/hero011"
   },
   "data": {

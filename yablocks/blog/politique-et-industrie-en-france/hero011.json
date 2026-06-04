@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/politique-et-industrie-en-france/hero011"
   },
   "data": {

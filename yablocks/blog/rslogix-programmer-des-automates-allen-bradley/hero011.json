@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/rslogix-programmer-des-automates-allen-bradley/hero011"
   },
   "data": {

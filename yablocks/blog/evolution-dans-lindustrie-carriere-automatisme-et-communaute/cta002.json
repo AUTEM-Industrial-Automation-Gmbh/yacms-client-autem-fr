@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/cta/Cta002",
+    "component": "blocks/cta/CTABenefitsGrid",
     "section": "blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute/cta002"
   },
   "data": {

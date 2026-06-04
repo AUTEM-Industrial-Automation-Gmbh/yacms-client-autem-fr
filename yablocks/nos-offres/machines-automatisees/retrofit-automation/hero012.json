@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero012",
+    "component": "blocks/hero/HeroCenteredMinimal",
     "section": "offre/machines-automatisees/retrofit-automation/hero012"
   },
   "data": {

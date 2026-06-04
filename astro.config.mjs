@@ -68,6 +68,8 @@ export default defineConfig({
         '/blogs/parole-dexpertes.html': { status: 301, destination: '/blog/parole-dexpertes/' },
         '/blogs/opportunites-et-metiers-futurs.html': { status: 301, destination: '/blog/opportunites-et-metiers-futurs/' },
         '/blogs/influxdb-to-boost-your-ignition-historian.html': { status: 301, destination: '/blog/' },
+        '/blogs/les-techniciens-fuient-lindustrie.html': { status: 301, destination: '/blog/les-techniciens-fuient-lindustrie/' },
+        '/blogs/demo-live-automate-mitsubishi.html': { status: 301, destination: '/blog/demo-live-automate-mitsubishi/' },
 
         // ── Articles manquants (trouvés dans GSC "Explorée non-indexée") ─────
         '/blogs/vision-ia-robotique.html': { status: 301, destination: '/blog/vision-ia-robotique/' },

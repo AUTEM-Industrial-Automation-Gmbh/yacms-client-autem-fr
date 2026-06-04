@@ -71,7 +71,7 @@
   },
   "theme": "autem-default",
   "blocks": [
-    "../../_shared/navigation.json",
+    "@shared/navigation.json",
     "./hero002.json",
     "./features008-symptomes.json",
     "./features008-nouvelle-donne.json",
@@ -82,6 +82,6 @@
     "./stats001.json",
     "./features008-methode.json",
     "./features006-ressources.json",
-    "../../_shared/footer.json"
+    "@shared/footer.json"
   ]
 }

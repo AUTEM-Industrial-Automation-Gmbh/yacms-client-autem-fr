@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/features/Features006",
+    "component": "blocks/features/FeatureCardGallery",
     "section": "a-propos/manifeste/ressources"
   },
   "data": {

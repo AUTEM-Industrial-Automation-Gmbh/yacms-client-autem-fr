@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/cta/Cta002",
+    "component": "blocks/cta/CTABenefitsGrid",
     "section": "home/cta002"
   },
   "data": {

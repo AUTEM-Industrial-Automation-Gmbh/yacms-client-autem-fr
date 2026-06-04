@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/securite-incendie-alarmes-et-detection-automatique/hero011"
   },
   "data": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "cas-clients/success-story-seckiot-cybersecurite-iot-reseau/hero011"
   },
   "data": {

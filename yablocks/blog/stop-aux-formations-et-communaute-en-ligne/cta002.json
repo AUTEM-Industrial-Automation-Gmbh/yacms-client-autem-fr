@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/cta/Cta002",
+    "component": "blocks/cta/CTABenefitsGrid",
     "section": "blog/stop-aux-formations-et-communaute-en-ligne/cta002"
   },
   "data": {

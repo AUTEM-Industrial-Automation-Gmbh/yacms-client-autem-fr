@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/social-proof/testimonials/Testimonial003",
+    "component": "blocks/testimonials/TestimonialDarkCard",
     "section": "offre/machines-automatisees/iot-reseaux-communication/testimonial003"
   },
   "data": {

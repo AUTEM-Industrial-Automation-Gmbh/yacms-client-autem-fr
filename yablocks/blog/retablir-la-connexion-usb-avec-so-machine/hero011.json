@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/layout/hero/Hero011",
+    "component": "blocks/hero/HeroArticleHeader",
     "section": "blog/retablir-la-connexion-usb-avec-so-machine/hero011"
   },
   "data": {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/process/ProcessStep001",
+    "component": "blocks/process/ProcessTimeline",
     "section": "a-propos/manifeste/process001"
   },
   "data": {

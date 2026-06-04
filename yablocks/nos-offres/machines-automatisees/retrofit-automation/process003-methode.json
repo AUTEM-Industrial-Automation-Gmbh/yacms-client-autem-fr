@@ -1,6 +1,6 @@
 {
   "meta": {
-    "component": "blocks/content/process/ProcessStep003",
+    "component": "blocks/process/ProcessCarousel",
     "section": "offre/machines-automatisees/retrofit-automation/process003-methode"
   },
   "data": {
