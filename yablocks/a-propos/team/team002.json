@@ -20,36 +20,61 @@
         "linkedin": "https://www.linkedin.com/in/akoto/",
         "qualities": [
           {
-            "text": "Automatisme industriel"
+            "text": "Automatisme industriel",
+            "_tid": "VnolYm"
           },
           {
-            "text": "SCADA Ignition Gold"
+            "text": "SCADA Ignition Gold",
+            "_tid": "uVhs5u"
           },
           {
-            "text": "IoT / IIoT"
+            "text": "IoT / IIoT",
+            "_tid": "lJk6oJ"
           },
           {
-            "text": "Vision projet"
+            "text": "Vision projet",
+            "_tid": "AwUeQY"
           }
         ],
         "skills": [
           {
-            "text": "Siemens TIA Portal"
+            "text": "Siemens TIA Portal",
+            "_tid": "HntWhA"
           },
           {
-            "text": "Ignition SCADA"
+            "text": "Ignition SCADA",
+            "_tid": "VPtjKL"
           },
           {
-            "text": "MES / TRS"
+            "text": "MES / TRS",
+            "_tid": "ZrnQTR"
           },
           {
-            "text": "OPC-UA / MQTT"
+            "text": "OPC-UA / MQTT",
+            "_tid": "5edH6p"
           }
         ],
         "hoverImage": {
           "src": "/images/Bio_Formation.jpeg",
           "alt": "Marc Akoto - AUTEM"
-        }
+        },
+        "_tid": "XIm5FF"
+      },
+      {
+        "name": "Matthew Smith - fieldcloud.com",
+        "title": "Connected Manufacturing | Risk & Continuity Advisor",
+        "location": "Grenoble 🇫🇷",
+        "description": "Most modernization efforts fail not because of technology, but because of forgotten knowledge, disconnected teams, and fragile systems. >>> 35+ years in the trenches of industrial IT, OT, and telecommunications and one thing has become crystal clear to me : I stand for industrial leaders who refuse to let legacy systems trap their future. ",
+        "image": {
+          "src": "/images/matthew.jpg",
+          "alt": ""
+        },
+        "hoverImage": {
+          "src": "/images/nsbox-ad.jpg",
+          "alt": ""
+        },
+        "linkedin": "https://fieldcloud.com/",
+        "_tid": "rUS1tF"
       },
       {
         "name": "Idriss Benguezzou",
@@ -63,29 +88,37 @@
         "linkedin": "https://www.linkedin.com/in/idriss-benguezzou",
         "qualities": [
           {
-            "text": "Développement logiciel"
+            "text": "Développement logiciel",
+            "_tid": "iuzLya"
           },
           {
-            "text": "Intégration systèmes"
+            "text": "Intégration systèmes",
+            "_tid": "pe3vUH"
           },
           {
-            "text": "Applications industrielles"
+            "text": "Applications industrielles",
+            "_tid": "t6W4hI"
           }
         ],
         "skills": [
           {
-            "text": "Développement logiciel"
+            "text": "Développement logiciel",
+            "_tid": "fJ4xac"
           },
           {
-            "text": "Intégration API & services"
+            "text": "Intégration API & services",
+            "_tid": "yKT2fw"
           },
           {
-            "text": "Systèmes embarqués"
+            "text": "Systèmes embarqués",
+            "_tid": "9M1ElO"
           },
           {
-            "text": "Architecture logicielle"
+            "text": "Architecture logicielle",
+            "_tid": "cenauV"
           }
-        ]
+        ],
+        "_tid": "qYsraZ"
       },
       {
         "name": "Alexandre Saïdi",
@@ -99,29 +132,37 @@
         "linkedin": "https://www.linkedin.com/in/alexandre-s-0b7b33119/",
         "qualities": [
           {
-            "text": "Autonomie complète"
+            "text": "Autonomie complète",
+            "_tid": "yaJkTR"
           },
           {
-            "text": "Programmation automates"
+            "text": "Programmation automates",
+            "_tid": "9YGB3K"
           },
           {
-            "text": "Mise en service"
+            "text": "Mise en service",
+            "_tid": "QRYOUI"
           }
         ],
         "skills": [
           {
-            "text": "Programmation PLC/API"
+            "text": "Programmation PLC/API",
+            "_tid": "qeiKdH"
           },
           {
-            "text": "Analyse fonctionnelle"
+            "text": "Analyse fonctionnelle",
+            "_tid": "e1TtGy"
           },
           {
-            "text": "SCADA / IHM"
+            "text": "SCADA / IHM",
+            "_tid": "tbw3tL"
           },
           {
-            "text": "Mise en service terrain"
+            "text": "Mise en service terrain",
+            "_tid": "n9B8z6"
           }
-        ]
+        ],
+        "_tid": "kQNhg2"
       },
       {
         "name": "Vincent Rivière - vrautomation.fr",
@@ -136,7 +177,8 @@
           "src": "/images/vincent_bis.jpg",
           "alt": "VR Automation (Partenaire)"
         },
-        "linkedin": "https://vrautomation.fr/"
+        "linkedin": "https://vrautomation.fr/",
+        "_tid": "mniZKb"
       },
       {
         "name": "Gerardo Gutiérrez - engizen.com",
@@ -151,7 +193,8 @@
           "src": "/images/engizen.jpg",
           "alt": "Gerardo Gutiérrez - engizen.com"
         },
-        "linkedin": "https://engizen.com/"
+        "linkedin": "https://engizen.com/",
+        "_tid": "Ye0RhG"
       }
     ]
   }
