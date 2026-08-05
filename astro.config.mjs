@@ -196,6 +196,10 @@ export default defineConfig({
 
         // Rubrique WordPress disparue, sans équivalent direct → index des offres
         '/offre/informatique-industrielle/': { status: 301, destination: '/nos-offres/' },
+
+        // Ancienne URL encore en 404 : Google la retenait comme canonique de
+        // l'article, d'où le « Page en double » sur la version YACMS.
+        '/blogs/stop-aux-formations-et-communaute-en-ligne.html': { status: 301, destination: '/blog/stop-aux-formations-et-communaute-en-ligne/' },
     },
     integrations: [
         react(),
