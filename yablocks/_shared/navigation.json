@@ -20,19 +20,19 @@
             "items": [
               {
                 "label": "Rétrofit Automatisme",
-                "href": "/nos-offres/machines-automatisees/retrofit-automation"
+                "href": "/nos-offres/machines-automatisees/retrofit-automation/"
               },
               {
                 "label": "IoT Comm Réseaux",
-                "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
+                "href": "/nos-offres/machines-automatisees/iot-reseaux-communication/"
               },
               {
                 "label": "Revamping Electrique",
-                "href": "/nos-offres/machines-automatisees/revamping-electrique"
+                "href": "/nos-offres/machines-automatisees/revamping-electrique/"
               },
               {
                 "label": "Rénovation PC Industriel",
-                "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
+                "href": "/nos-offres/machines-automatisees/renovation-pc-industriel/"
               }
             ]
           },
@@ -42,19 +42,19 @@
             "items": [
               {
                 "label": "KPI, MES, TRS, OEE",
-                "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+                "href": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
               },
               {
                 "label": "Data, Pareto, VSM, ROI",
-                "href": "/nos-offres/logiciels-pilotage/analyse-data"
+                "href": "/nos-offres/logiciels-pilotage/analyse-data/"
               },
               {
                 "label": "Supervision SCADA Ignition",
-                "href": "/nos-offres/logiciels-pilotage/ignition-scada"
+                "href": "/nos-offres/logiciels-pilotage/ignition-scada/"
               },
               {
                 "label": "GTB, GMAO",
-                "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
+                "href": "/nos-offres/logiciels-pilotage/gtb-gmao/"
               }
             ]
           },
@@ -64,15 +64,15 @@
             "items": [
               {
                 "label": "Architecture Systèmes",
-                "href": "/nos-offres/avis-technique/architecture-systemes"
+                "href": "/nos-offres/avis-technique/architecture-systemes/"
               },
               {
                 "label": "Projets Stratégiques",
-                "href": "/nos-offres/avis-technique/assistance-projets"
+                "href": "/nos-offres/avis-technique/assistance-projets/"
               },
               {
                 "label": "Cycle de Vie et Obsolescence",
-                "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
+                "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
               }
             ]
           }
@@ -87,15 +87,15 @@
             "items": [
               {
                 "label": "Manifeste",
-                "href": "/a-propos/manifeste"
+                "href": "/a-propos/manifeste/"
               },
               {
                 "label": "L'Équipe",
-                "href": "/a-propos/team"
+                "href": "/a-propos/team/"
               },
               {
                 "label": "Technologies",
-                "href": "/a-propos/technologies"
+                "href": "/a-propos/technologies/"
               }
             ]
           }
@@ -103,16 +103,16 @@
       },
       {
         "label": "Cas clients",
-        "href": "/cas-clients"
+        "href": "/cas-clients/"
       },
       {
         "label": "Ressources",
-        "href": "/blog"
+        "href": "/blog/"
       }
     ],
     "cta": {
       "text": "Une URGENCE technique ?",
-      "href": "/contact",
+      "href": "/contact/",
       "mobilePosition": "inline"
     }
   }

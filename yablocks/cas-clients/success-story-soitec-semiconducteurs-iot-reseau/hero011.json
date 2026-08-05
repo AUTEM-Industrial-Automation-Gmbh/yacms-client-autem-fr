@@ -4,7 +4,7 @@
     "section": "cas-clients/success-story-soitec-semiconducteurs-iot-reseau/hero011"
   },
   "data": {
-    "backLink": "/cas-clients",
+    "backLink": "/cas-clients/",
     "clientLogo": {
       "src": "/logos/soitec.jpg",
       "alt": "Soitec"

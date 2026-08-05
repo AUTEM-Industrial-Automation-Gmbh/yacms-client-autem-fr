@@ -4,7 +4,7 @@
     "section": "blog/mqtt-image-sampling/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "MQTT Image Sampling : Historize as TimeSeries in Docker",
     "tags": [

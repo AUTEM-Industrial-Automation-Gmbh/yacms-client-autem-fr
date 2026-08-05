@@ -30,7 +30,7 @@
         "links": [
           {
             "text": "Machines Automatisées",
-            "href": "/nos-offres/machines-automatisees/retrofit-automation"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation/"
           },
           {
             "text": "Logiciels de Pilotage",
@@ -47,15 +47,15 @@
         "links": [
           {
             "text": "À propos",
-            "href": "/a-propos/manifeste"
+            "href": "/a-propos/manifeste/"
           },
           {
             "text": "Cas Clients",
-            "href": "/cas-clients"
+            "href": "/cas-clients/"
           },
           {
             "text": "Contact",
-            "href": "/contact"
+            "href": "/contact/"
           }
         ]
       },
@@ -64,11 +64,11 @@
         "links": [
           {
             "text": "Blog",
-            "href": "/blog"
+            "href": "/blog/"
           },
           {
             "text": "Plan du Site",
-            "href": "/plan-du-site"
+            "href": "/plan-du-site/"
           }
         ]
       }
@@ -78,7 +78,7 @@
       "links": [
         {
           "text": "Mentions légales",
-          "href": "/mentions-legales"
+          "href": "/mentions-legales/"
         }
       ]
     },

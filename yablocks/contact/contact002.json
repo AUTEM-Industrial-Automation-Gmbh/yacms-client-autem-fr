@@ -105,7 +105,7 @@
     "showCompany": true,
     "privacyText": "J'accepte la",
     "privacyLink": "Politique de confidentialité",
-    "privacyHref": "/mentions-legales",
+    "privacyHref": "/mentions-legales/",
     "submitText": "Envoyer le message"
   }
 }

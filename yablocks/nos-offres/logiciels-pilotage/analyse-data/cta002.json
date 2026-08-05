@@ -21,7 +21,7 @@
     ],
     "cta": {
       "text": "Demander un diagnostic data",
-      "link": "/contact"
+      "link": "/contact/"
     }
   }
 }

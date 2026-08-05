@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Technology architecture benchmark MedTech",
+    "description": "Benchmark study of MedTech leaders and their industrial digital transformation",
+    "keywords": [
+      "MedTech",
+      "OEE",
+      "Industrial IoT",
+      "Digital Transformation"
+    ],
+    "author": "AUTEM",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "MedTech Benchmark Study"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    },
+    "canonical": "https://autem-services.fr/blog/architecture-technology-benchmark-medtech/",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/blog/architecture-technology-benchmark-medtech/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/blog/architecture-technology-benchmark-medtech/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/blog/architecture-technology-benchmark-medtech/"
+      }
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "@shared/footer.json"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/ignition-kafka/hero011"
+  },
+  "data": {
+    "backLink": "/blog/",
+    "backLinkLabel": "Retour au blog",
+    "title": "Ignition et Kafka",
+    "tags": [
+      {
+        "label": "Ignition",
+        "type": "secteur",
+        "_tid": "FkJs4N"
+      },
+      {
+        "label": "Kafka",
+        "type": "categorie",
+        "_tid": "EM9EkD"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "06/04/26",
+      "updatedDate": "06/04/26"
+    }
+  }
+}

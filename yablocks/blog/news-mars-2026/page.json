@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026",
+    "description": "Let's explore 6 Habits that kill Old Machines",
+    "keywords": [
+      "Cycle de Vie et Obsolescence",
+      "Machines Vintage",
+      "AUTEM",
+      "automatisme industriel"
+    ],
+    "author": "AUTEM",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Blog technique automatisme et SCADA industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "Route d'Avry 19",
+        "city": "Matran",
+        "postalCode": "1753",
+        "region": "Fribourg",
+        "country": "CH"
+      },
+      "geo": {
+        "latitude": 46.78559494018555,
+        "longitude": 7.088335037231445
+      },
+      "phone": "+41784427353",
+      "email": "team@autem.ch",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    },
+    "canonical": "https://autem-services.fr/blog/news-mars-2026/",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/blog/news-mars-2026/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/blog/news-mars-2026/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/blog/news-mars-2026/"
+      }
+    ]
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "@shared/footer.json"
+  ]
+}

@@ -4,7 +4,7 @@
     "section": "blog/portail-fermeture-automatique/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem",
     "tags": [

@@ -4,7 +4,7 @@
     "section": "blog/wincc-configurer-un-ecran-de-supervision/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "WinCC Configurer un écran de supervision SIEMENS | Autem",
     "tags": [

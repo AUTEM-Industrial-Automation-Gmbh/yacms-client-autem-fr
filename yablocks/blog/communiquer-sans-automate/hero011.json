@@ -4,7 +4,7 @@
     "section": "blog/communiquer-sans-automate/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
     "tags": [

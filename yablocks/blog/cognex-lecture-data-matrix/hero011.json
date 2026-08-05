@@ -4,7 +4,7 @@
     "section": "blog/cognex-lecture-data-matrix/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem",
     "tags": [

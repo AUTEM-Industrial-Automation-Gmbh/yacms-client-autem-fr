@@ -1,11 +1,53 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
+import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+/**
+ * Routes des pages marquées `noindex` dans leur page.json.
+ *
+ * Le sitemap ne doit annoncer que des pages indexables : y lister une page dont
+ * on interdit l'indexation est un signal contradictoire et du budget de crawl
+ * gaspillé. La liste est relue à chaque build, donc elle suit automatiquement
+ * les pages qu'on passe en noindex par la suite.
+ */
+const noindexRoutes = (() => {
+    // `yacms client switch` copie ce fichier à la racine de yacms-core : on
+    // cherche donc les yablocks à côté du fichier (dans l'app) puis à leur
+    // emplacement vu depuis le core.
+    const root = [
+        path.resolve(__dirname, 'yablocks'),
+        path.resolve(__dirname, '../../apps/yacms-client-autem-fr/yablocks'),
+    ].find(fs.existsSync);
+    const routes = new Set();
+
+    const walk = dir => {
+        for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+            if (!entry.isDirectory()) continue;
+            const full = path.join(dir, entry.name);
+            const pageJson = path.join(full, 'page.json');
+
+            if (fs.existsSync(pageJson)) {
+                try {
+                    const { meta } = JSON.parse(fs.readFileSync(pageJson, 'utf-8'));
+                    if (/noindex/i.test(meta?.robots ?? '')) {
+                        const folder = path.relative(root, full);
+                        routes.add(folder === 'home' ? '/' : `/${folder}/`);
+                    }
+                } catch { /* page.json illisible : on ne filtre pas */ }
+            }
+            walk(full);
+        }
+    };
+
+    try { if (root) walk(root); } catch { /* yablocks illisibles : rien à filtrer */ }
+    return routes;
+})();
 
 export default defineConfig({
     site: 'https://autem-services.fr',
@@ -97,8 +139,68 @@ export default defineConfig({
         '/blogs/news-octobre-2024.html': { status: 301, destination: '/blog/' },
         '/blogs/news-mai-2024.html': { status: 301, destination: '/blog/' },
         '/blogs/news-mai-2023.html': { status: 301, destination: '/blog/' },
+        // ── Relevés en 404 dans la Search Console (2026-08-05) ──────────────
+        // Anciennes URLs WordPress encore crawlées : les 3 dernières n'ont plus
+        // d'équivalent en YACMS et retombent sur l'index du blog.
+        '/blogs/6-habits-that-kill-old-machines.html': { status: 301, destination: '/blog/6-habits-that-kill-old-machines/' },
+        '/blogs/actualités-tech-mqtt-azure-tesla-ia-and-industrie.html': { status: 301, destination: '/blog/actualites-tech-mqtt-azure-tesla-ia-and-industrie/' },
+        '/blogs/adopter-docker-en-industrie.html': { status: 301, destination: '/blog/adopter-docker-en-industrie/' },
+        '/blogs/alarme-et-detection-automatique.html': { status: 301, destination: '/blog/securite-incendie-alarmes-et-detection-automatique/' },
+        '/blogs/automate-your-engineering-report-with-ai.html': { status: 301, destination: '/blog/automate-your-engineering-report-with-ai/' },
+        '/blogs/bilan-de-12-mois-dactualite.html': { status: 301, destination: '/blog/bilan-de-12-mois-dactualite/' },
+        '/blogs/challenge-champion-france.html': { status: 301, destination: '/blog/challenge-champion-france/' },
+        '/blogs/chiffrage.html': { status: 301, destination: '/blog/chiffrage/' },
+        '/blogs/christiana-yapi-une-roboticienne-pionniere.html': { status: 301, destination: '/blog/christiana-yapi-une-roboticienne-pionniere/' },
+        '/blogs/cle-de-conduite-pour-reussir-son-projet-4-0.html': { status: 301, destination: '/blog/cle-de-conduite-pour-reussir-son-projet-4-0/' },
+        '/blogs/custom-solution-design.html': { status: 301, destination: '/blog/custom-solution-design/' },
+        '/blogs/cybersecurity-containerization-open_source-digital_transformation.html': { status: 301, destination: '/blog/cybersecurity-containerization-open-source-digital-transformation/' },
+        '/blogs/digitalisation-simulation-protocoles-series.html': { status: 301, destination: '/blog/digitalisation-simulation-protocoles-series/' },
+        '/blogs/equilibre-vie-perso-pro-pour-techiciens-en-industrie.html': { status: 301, destination: '/blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie/' },
+        '/blogs/evolution-dans-lindustrie-carriere-automatisme-et-communaute.html': { status: 301, destination: '/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute/' },
+        '/blogs/exalens-process-monitoring-software.html': { status: 301, destination: '/blog/exalens-process-monitoring-software/' },
+        '/blogs/factory-automation-insiders.html': { status: 301, destination: '/blog/factory-automation-insiders/' },
+        '/blogs/formation-emploi-carriere.html': { status: 301, destination: '/blog/formation-emploi-carriere/' },
+        '/blogs/formation-et-industrie.html': { status: 301, destination: '/blog/formation-et-industrie/' },
+        '/blogs/gmao.html': { status: 301, destination: '/blog/gmao/' },
+        '/blogs/highByte-vs-kepware.html': { status: 301, destination: '/blog/highbyte-vs-kepware/' },
+        '/blogs/logiciel-industriel.html': { status: 301, destination: '/blog/logiciel-industriel/' },
+        '/blogs/logiciel-industriels-licence-payante-ou-gratuite.html': { status: 301, destination: '/blog/logiciel-industriels-licence-payante-ou-gratuite/' },
+        '/blogs/marc-golden-tech.html': { status: 301, destination: '/blog/' },
+        '/blogs/midjourney-ia-et-industrie.html': { status: 301, destination: '/blog/midjourney-ia-et-industrie/' },
+        '/blogs/missing-your-true-identity.html': { status: 301, destination: '/blog/missing-your-true-identity/' },
+        '/blogs/modeliser-son-lifecycle-machine.html': { status: 301, destination: '/blog/modeliser-son-lifecycle-machine/' },
+        '/blogs/mqtt-image-sampling.html': { status: 301, destination: '/blog/mqtt-image-sampling/' },
+        '/blogs/news-novembre-2023.html': { status: 301, destination: '/blog/' },
+        '/blogs/news-septembre-octobre-2023.html': { status: 301, destination: '/blog/' },
+        '/blogs/nos-galères-en-industrie.html': { status: 301, destination: '/blog/nos-galeres-en-industrie/' },
+        '/blogs/obsolescence-perennite-penurie-inconnues.html': { status: 301, destination: '/blog/obsolescence-perennite-penurie-inconnues/' },
+        '/blogs/pilotage-usine-a-distance.html': { status: 301, destination: '/blog/pilotage-usine-a-distance/' },
+        '/blogs/politique-et-industrie-en-france.html': { status: 301, destination: '/blog/politique-et-industrie-en-france/' },
+        '/blogs/project-and-team-collaboration.html': { status: 301, destination: '/blog/project-and-team-collaboration/' },
+        '/blogs/prospection.html': { status: 301, destination: '/blog/prospection/' },
+        '/blogs/retrofit-digitaliser.html': { status: 301, destination: '/blog/retrofit-digitaliser/' },
+        '/blogs/robot-optimus-et-frameworkX.html': { status: 301, destination: '/blog/robot-optimus-et-frameworkx/' },
+        '/blogs/robotic-no-code-augmentus.html': { status: 301, destination: '/blog/robotic-no-code-augmentus/' },
+        '/blogs/securite-incendie-alarmes-et-detection-automatique.html': { status: 301, destination: '/blog/securite-incendie-alarmes-et-detection-automatique/' },
+        '/blogs/the-4-risks-of-a-retrofit-in-machine-automation.html': { status: 301, destination: '/blog/the-4-risks-of-a-retrofit-in-machine-automation/' },
+        '/blogs/the-denial-of-age-vintage-machines.html': { status: 301, destination: '/blog/the-denial-of-age-vintage-machines/' },
+        '/blogs/zone-atex.html': { status: 301, destination: '/blog/zone-atex/' },
+
+        // ── Slugs mal formés autrefois liés depuis la grille du blog ────────
+        // Accents et underscores ne correspondaient à aucun dossier yablocks.
+        // Les liens sont corrigés, ces redirects rattrapent ce que Google a
+        // déjà en mémoire.
+        '/blog/nos-galères-en-industrie/': { status: 301, destination: '/blog/nos-galeres-en-industrie/' },
+        '/blog/actualités-tech-mqtt-azure-tesla-ia-and-industrie/': { status: 301, destination: '/blog/actualites-tech-mqtt-azure-tesla-ia-and-industrie/' },
+        '/blog/cybersecurity-containerization-open_source-digital_transformation/': { status: 301, destination: '/blog/cybersecurity-containerization-open-source-digital-transformation/' },
+
+        // Rubrique WordPress disparue, sans équivalent direct → index des offres
+        '/offre/informatique-industrielle/': { status: 301, destination: '/nos-offres/' },
     },
-    integrations: [react(), sitemap()],
+    integrations: [
+        react(),
+        sitemap({ filter: page => !noindexRoutes.has(new URL(page).pathname) }),
+    ],
     build: {
         inlineStylesheets: 'always',
         compressHTML: true

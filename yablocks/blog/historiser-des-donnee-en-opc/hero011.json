@@ -4,7 +4,7 @@
     "section": "blog/historiser-des-donnee-en-opc/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem",
     "tags": [
