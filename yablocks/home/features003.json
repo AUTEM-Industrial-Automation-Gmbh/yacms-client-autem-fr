@@ -16,24 +16,24 @@
         "checklist": [
           {
             "text": "Rétrofit Automation",
-            "href": "/nos-offres/machines-automatisees/retrofit-automation"
+            "href": "/nos-offres/machines-automatisees/retrofit-automation/"
           },
           {
             "text": "Rénovation PC Industriel",
-            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel"
+            "href": "/nos-offres/machines-automatisees/renovation-pc-industriel/"
           },
           {
             "text": "IoT, Réseaux, Communication",
-            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication"
+            "href": "/nos-offres/machines-automatisees/iot-reseaux-communication/"
           },
           {
             "text": "Revamping électrique",
-            "href": "/nos-offres/machines-automatisees/revamping-electrique"
+            "href": "/nos-offres/machines-automatisees/revamping-electrique/"
           }
         ],
         "cta": {
           "text": "En savoir plus",
-          "link": "/nos-offres/machines-automatisees/retrofit-automation"
+          "link": "/nos-offres/machines-automatisees/retrofit-automation/"
         },
         "testimonial": {
           "quote": "Modernisation du Tri Bagage Est (TBE) Terminal 2E - Modification d'un convoyeur à bascule - Programmation d'un portique de lecture pour la traçabilité des bagages en classe Sky Priority",
@@ -56,24 +56,24 @@
         "checklist": [
           {
             "text": "KPI de Production : MES, TRS, OEE",
-            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+            "href": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
           },
           {
             "text": "Analyse Data, Pareto, VSM, ROI",
-            "href": "/nos-offres/logiciels-pilotage/analyse-data"
+            "href": "/nos-offres/logiciels-pilotage/analyse-data/"
           },
           {
             "text": "Supervision Scada IGNITION (Certifié Gold)",
-            "href": "/nos-offres/logiciels-pilotage/ignition-scada"
+            "href": "/nos-offres/logiciels-pilotage/ignition-scada/"
           },
           {
             "text": "GTB et GMAO",
-            "href": "/nos-offres/logiciels-pilotage/gtb-gmao"
+            "href": "/nos-offres/logiciels-pilotage/gtb-gmao/"
           }
         ],
         "cta": {
           "text": "Découvrir nos solutions",
-          "link": "/nos-offres/logiciels-pilotage/mes-trs-oee"
+          "link": "/nos-offres/logiciels-pilotage/mes-trs-oee/"
         },
         "testimonial": {
           "quote": "SCADA BMS Building Management System / GTC Gestion Technique Centralée pour le VIC Verkor Innovation Center - Usine de prototypage et fabrication de batteries électriques",
@@ -96,20 +96,20 @@
         "checklist": [
           {
             "text": "Architecture de Systèmes",
-            "href": "/nos-offres/avis-technique/architecture-systemes"
+            "href": "/nos-offres/avis-technique/architecture-systemes/"
           },
           {
             "text": "Assistance de projets stratégiques",
-            "href": "/nos-offres/avis-technique/assistance-projets"
+            "href": "/nos-offres/avis-technique/assistance-projets/"
           },
           {
             "text": "Cycle de Vie et Gestion de l'Obsolescence",
-            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence"
+            "href": "/nos-offres/avis-technique/cycle-de-vie-obsolescence/"
           }
         ],
         "cta": {
           "text": "Découvrir",
-          "link": "/nos-offres/avis-technique/architecture-systemes"
+          "link": "/nos-offres/avis-technique/architecture-systemes/"
         },
         "testimonial": {
           "quote": "Centre de Tri Logistique - Automatisation du suivi des défauts machine et interventions techniciens",

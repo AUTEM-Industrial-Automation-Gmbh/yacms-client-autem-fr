@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureImageCards",
+    "section": "nos-offres/feature-image-cards"
+  },
+  "data": {
+    "sectionLabel": "Les Solutions AUTEM",
+    "title": "Nos Solutions pour l'Industrie 4.0",
+    "items": [
+      {
+        "image": {
+          "src": "/images/automatisme-1.jpg",
+          "alt": "Rénovation et Rétrofit Automatisme"
+        },
+        "title": "Rénovation et Rétrofit Automatisme",
+        "description": "Modernisez vos équipements obsolètes pour retrouver performance, sécurité et conformité aux standards actuels de l'industrie.",
+        "ctaText": "En savoir plus",
+        "ctaLink": "/nos-offres/machines-automatisees/retrofit-automation/",
+        "_tid": "7Jmkuv"
+      },
+      {
+        "image": {
+          "src": "/images/kpi-industrie.jpg",
+          "alt": "Logiciels de Pilotage et Supervision"
+        },
+        "title": "Logiciels de Pilotage et Supervision",
+        "description": "Optimisez votre production avec des solutions MES, SCADA et d'analyse de données pour une prise de décision éclairée.",
+        "ctaText": "Découvrir les logiciels",
+        "ctaLink": "/nos-offres/logiciels-pilotage/mes-trs-oee/",
+        "_tid": "HYeuoA"
+      },
+      {
+        "image": {
+          "src": "/assets/architecture-dentreprise.jpg",
+          "alt": "Expertise et Audit Technique"
+        },
+        "title": "Expertise et Audit Technique",
+        "description": "Bénéficiez de notre avis expert sur l'architecture de vos systèmes, la gestion de projets complexes et le cycle de vie de vos installations.",
+        "ctaText": "Consulter un expert",
+        "ctaLink": "/nos-offres/avis-technique/architecture-systemes/",
+        "_tid": "Xx8bR2"
+      }
+    ]
+  }
+}

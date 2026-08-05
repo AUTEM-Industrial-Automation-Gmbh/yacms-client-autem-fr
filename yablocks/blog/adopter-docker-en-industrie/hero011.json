@@ -4,7 +4,7 @@
     "section": "blog/adopter-docker-en-industrie/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "4 raisons d'adopter DOCKER en Industrie",
     "tags": [

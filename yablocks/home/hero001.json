@@ -14,11 +14,11 @@
     "cta": {
       "primary": {
         "text": "Une URGENCE technique ?",
-        "link": "/contact"
+        "link": "/contact/"
       },
       "secondary": {
         "text": "Voir nos cas clients",
-        "link": "/cas-clients"
+        "link": "/cas-clients/"
       }
     },
     "logos": {

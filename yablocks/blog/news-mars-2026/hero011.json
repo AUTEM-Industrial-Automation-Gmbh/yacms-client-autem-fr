@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "blog/news-mars-2026/hero011"
+  },
+  "data": {
+    "backLink": "/blog/",
+    "backLinkLabel": "Retour au blog",
+    "title": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026",
+    "tags": [
+      {
+        "label": "PLC",
+        "type": "secteur",
+        "_tid": "FkJs4N"
+      },
+      {
+        "label": "Snap PLC",
+        "type": "categorie",
+        "_tid": "EM9EkD"
+      },
+      {
+        "label": "Copilot",
+        "type": "secteur",
+        "_tid": "uVifIk"
+      },
+      {
+        "label": "Accelera",
+        "type": "secteur",
+        "_tid": "Bodmzv"
+      },
+      {
+        "label": "Cronax",
+        "type": "secteur",
+        "_tid": "lHy1KG"
+      }
+    ],
+    "articleMeta": {
+      "readTime": "3 min lecture",
+      "publishDate": "18/04/26",
+      "updatedDate": "19/04/26"
+    }
+  }
+}

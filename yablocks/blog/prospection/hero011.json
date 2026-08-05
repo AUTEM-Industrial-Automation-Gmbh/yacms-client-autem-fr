@@ -4,7 +4,7 @@
     "section": "blog/prospection/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "Prospecter : client, employeur, marché, mission en tant qu'automaticien",
     "tags": [

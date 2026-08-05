@@ -4,7 +4,7 @@
     "section": "blog/communiquer-en-opcua/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
     "tags": [

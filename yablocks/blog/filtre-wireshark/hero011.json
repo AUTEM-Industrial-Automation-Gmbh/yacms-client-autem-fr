@@ -4,7 +4,7 @@
     "section": "blog/filtre-wireshark/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem",
     "tags": [

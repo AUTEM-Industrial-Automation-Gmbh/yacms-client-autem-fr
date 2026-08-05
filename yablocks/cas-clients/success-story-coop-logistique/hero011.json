@@ -4,7 +4,7 @@
     "section": "cas-clients/success-story-coop-logistique/hero011"
   },
   "data": {
-    "backLink": "/cas-clients",
+    "backLink": "/cas-clients/",
     "clientLogo": {
       "src": "/logos/coop.png",
       "alt": "COOP"

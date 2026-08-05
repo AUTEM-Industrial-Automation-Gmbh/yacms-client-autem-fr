@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/medtech-benchmark/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "This is a technology architecture benchmark study about the following MedTech companies :"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Medtronic"
+            },
+            {
+              "text": "Johnson & Johnson"
+            },
+            {
+              "text": "Abbott"
+            },
+            {
+              "text": "Stryker"
+            },
+            {
+              "text": "Becton Dickinson"
+            }
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Scope of the benchmark",
+            "paragraphs": [
+              {
+                "text": "The goal of this benchmark is to assess how the top-leading companies in MedTech are handling digital transformation, datastreams, and factory machines connectivity, with a focus on:"
+              }
+            ],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "What are their key performance standards for manufacturing lines (OEE, etc.)?"
+                },
+                {
+                  "text": "How do they measure this indicator: automatic connectivity or declarative?"
+                },
+                {
+                  "text": "Which technology stack do they use to create data pipelines between OT field machines and IT data systems?"
+                },
+                {
+                  "text": "Is this technology bought off-the-shelf or developed internally — single tool centralized by corporate IT, or diverse distributed tools depending on the site?"
+                },
+                {
+                  "text": "Who is implementing connectivity with their factory machines: external service provider, internal engineering team, or OEM?"
+                }
+              ]
+            }
+          },
+          {
+            "heading": "Context",
+            "paragraphs": [
+              {
+                "text": "MedTech leaders like Medtronic, Johnson & Johnson, Abbott, Stryker, and Becton Dickinson are advancing digital transformation in manufacturing through IoT, AI, and OT-IT integration, though detailed public benchmarks on specific stacks and implementations remain limited. Key insights focus on OEE as a core KPI, with varying emphases on real-time data pipelines and connectivity. Information on proprietary implementations is sparse, often derived from case studies, job postings, and industry reports."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Digital Transformation Overview",
+        "paragraphs": [
+          {
+            "text": "Medtronic has deployed AI, IoT sensors, and automation across global facilities, achieving 30% throughput gains and defect reductions via real-time monitoring."
+          },
+          {
+            "text": "Johnson & Johnson employs a reference architecture for Industrial IoT, including edge/OT components, cloud analytics, and predictive maintenance with sensors and digital twins, yielding 15% efficiency improvements."
+          },
+          {
+            "text": "Abbott uses OSIsoft PI System and Asset Framework for master data management toward a Manufacturing Unified Namespace (MUNS), standardizing asset integration."
+          }
+        ],
+        "links": [
+          {
+            "text": "Medtronic AI & Automation at Scale — Inside Partners",
+            "href": "https://www.insidepartners.ai/ca/success-stories/precision-at-scale:-how-medtronic-transformed-manufacturing-operations-with-ai-and-automation"
+          },
+          {
+            "text": "J&J IIoT Manufacturing Strategy — ARC Advisory",
+            "href": "https://www.arcweb.com/blog/johnson-johnsons-industrial-iot-strategy-manufacturing-predictive-maintenance"
+          },
+          {
+            "text": "Abbott Smart Factory Journey — AVEVA",
+            "href": "https://www.aveva.com/en/perspectives/presentations/2024/abbott-laboratories---digital-excellence-journey-in-a-smart-factory-using-the-vertical-data-integration/"
+          },
+          {
+            "text": "Healthcare Manufacturer Digital Transformation — Improving",
+            "href": "https://www.improving.com/thoughts/how-a-global-healthcare-manufacturer-transformed-production-lines/"
+          },
+          {
+            "text": "J&J Smart Factory Build — LinkedIn",
+            "href": "https://www.linkedin.com/posts/the-supply-chain-lens_how-johnson-johnson-built-a-smart-factory-activity-7348620932459982850-MUUj"
+          },
+          {
+            "text": "Abbott Nutrition Manufacturing Productivity — Seeq",
+            "href": "https://www.seeq.com/resources/success-stories/abbott-nutrition-improving-manufacturing-productivity-at-abbott-nutrition/"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Key Performance Indicators",
+        "paragraphs": [
+          {
+            "text": "OEE (Overall Equipment Effectiveness) is the primary standard, calculated as Availability × Performance × Quality rates to capture downtime, speed losses, and defects."
+          },
+          {
+            "text": "Becton Dickinson emphasizes digital OEE in its Smart Factory strategy, alongside OT analytics."
+          },
+          {
+            "text": "Industry-wide, automatic OEE measurement via sensors outperforms manual methods by capturing micro-stops and enabling real-time action, unlike declarative logging."
+          }
+        ],
+        "links": [
+          {
+            "text": "Manufacturing KPIs for Operational Excellence — CFO Selections",
+            "href": "https://www.cfoselections.com/perspective/manufacturing-kpis-to-track-operational-excellence"
+          },
+          {
+            "text": "15 Lean Manufacturing KPIs to Track — ProAction International",
+            "href": "https://blog.proactioninternational.com/en/15-lean-manufacturing-kpis-you-need-to-track"
+          },
+          {
+            "text": "OT Integrator Digital OEE Role — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/en/job/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "OT Integrator Digital OEE (Japan) — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/ja/ジョブ/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "Why Measure OEE: ROI in Industry — Teeptrak",
+            "href": "https://teeptrak.com/en/why-measure-oee-roi-industry/"
+          },
+          {
+            "text": "OEE Frequently Asked Questions — OEE.com",
+            "href": "https://www.oee.com/faq/"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Data Pipelines and Tech Stacks",
+        "paragraphs": [
+          {
+            "text": "Pipelines bridge OT (PLCs, SCADA, MES) to IT via real-time streaming: Medtronic uses Kafka/Confluent with MQTT from IoT/MES for predictive insights."
+          },
+          {
+            "text": "Becton Dickinson builds data flows from PLCs/SCADA/MES to data lakes/cloud, supporting OEE with OPC UA/Ethernet-IP."
+          },
+          {
+            "text": "Johnson & Johnson integrates IoT sensors to analytics platforms; Abbott leverages PI System for contextualized data across sites."
+          },
+          {
+            "text": "Stryker details are limited, focusing on lean production systems without specific OT-IT stacks disclosed."
+          }
+        ],
+        "links": [
+          {
+            "text": "J&J IIoT Manufacturing Strategy — ARC Advisory",
+            "href": "https://www.arcweb.com/blog/johnson-johnsons-industrial-iot-strategy-manufacturing-predictive-maintenance"
+          },
+          {
+            "text": "Healthcare Manufacturer Digital Transformation — Improving",
+            "href": "https://www.improving.com/thoughts/how-a-global-healthcare-manufacturer-transformed-production-lines/"
+          },
+          {
+            "text": "OT Integrator Digital OEE Role — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/en/job/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "J&J Digital Supply Chain Innovations — JNJ.com",
+            "href": "https://www.jnj.com/innovation/3-digital-supply-chain-innovations-johnson-johnson-is-harnessing"
+          },
+          {
+            "text": "Stryker Operational Model — MatrixBCG",
+            "href": "https://matrixbcg.com/blogs/how-it-works/stryker"
+          },
+          {
+            "text": "Senior Data Engineer at Becton Dickinson — BD Jobs",
+            "href": "https://jobs.bd.com/en/job/ハンカロール/sr-data-engineer/159/90815433760"
+          },
+          {
+            "text": "Abbott Nutrition Manufacturing Productivity — Seeq",
+            "href": "https://www.seeq.com/resources/success-stories/abbott-nutrition-improving-manufacturing-productivity-at-abbott-nutrition/"
+          },
+          {
+            "text": "OT Integrator Digital OEE (Japan) — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/ja/ジョブ/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "Medtronic Case Study — Improving",
+            "href": "https://www.improving.com/case-studies/medtronic/"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Implementation Approach",
+        "paragraphs": [
+          {
+            "text": "Stacks blend bought tools (e.g., Confluent/Kafka for Medtronic, OSIsoft PI for Abbott, off-the-shelf IoT/edge for J&J) with internal development, often centralized via corporate standards like BD's OT reference architectures."
+          },
+          {
+            "text": "Becton Dickinson handles connectivity internally via engineering teams (OT integrators), qualifying gateways/sensors with procurement."
+          },
+          {
+            "text": "Medtronic partners externally (Improving, Confluent) alongside internal teams; no clear site-vs-corporate variance noted, though multi-site rollouts use templates."
+          },
+          {
+            "text": "OEM or external providers likely assist machine-level integration, but internal teams own standards and deployment."
+          }
+        ],
+        "links": [
+          {
+            "text": "Abbott Smart Factory Journey — AVEVA",
+            "href": "https://www.aveva.com/en/perspectives/presentations/2024/abbott-laboratories---digital-excellence-journey-in-a-smart-factory-using-the-vertical-data-integration/"
+          },
+          {
+            "text": "Healthcare Manufacturer Digital Transformation — Improving",
+            "href": "https://www.improving.com/thoughts/how-a-global-healthcare-manufacturer-transformed-production-lines/"
+          },
+          {
+            "text": "OT Integrator Digital OEE Role — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/en/job/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "OT Integrator Digital OEE (Japan) — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/ja/ジョブ/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "Medtronic Case Study — Improving",
+            "href": "https://www.improving.com/case-studies/medtronic/"
+          },
+          {
+            "text": "J&J IIoT Manufacturing Strategy — ARC Advisory",
+            "href": "https://www.arcweb.com/blog/johnson-johnsons-industrial-iot-strategy-manufacturing-predictive-maintenance"
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Benchmark Comparison",
+        "paragraphs": [
+          {
+            "text": "The following summarizes each company's approach to OEE measurement, technology stack, procurement model, and implementation team."
+          },
+          {
+            "text": "Medtronic — OEE: Automatic via IoT sensors | Stack: Kafka/Confluent, MQTT, MES | Model: Bought (partners) + internal | Team: Internal + external (Improving, Confluent)"
+          },
+          {
+            "text": "Johnson & Johnson — OEE: Real-time sensors, predictive | Stack: IIoT reference architecture, edge/cloud | Model: Bought (IoT tools) + custom | Team: Internal (Manufacturing for the Future unit)"
+          },
+          {
+            "text": "Abbott — OEE: PI System integration | Stack: OSIsoft PI Asset Framework, MUNS | Model: Bought (OSIsoft) + enterprise standards | Team: Internal / system integrators"
+          },
+          {
+            "text": "Stryker — OEE: Lean production focus | Stack: Not publicly detailed | Model: N/A | Team: Internal (decentralized units)"
+          },
+          {
+            "text": "Becton Dickinson — OEE: Digital OEE automatic | Stack: PLC/SCADA/MES to data lake, OPC UA | Model: Standardized refs (bought gateways) + internal | Team: Internal OT engineering"
+          },
+          {
+            "text": "Public data gaps exist on Stryker's specifics and full OEE targets; proprietary details may require direct company outreach."
+          }
+        ],
+        "links": [
+          {
+            "text": "Healthcare Manufacturer Digital Transformation — Improving",
+            "href": "https://www.improving.com/thoughts/how-a-global-healthcare-manufacturer-transformed-production-lines/"
+          },
+          {
+            "text": "Medtronic Case Study — Improving",
+            "href": "https://www.improving.com/case-studies/medtronic/"
+          },
+          {
+            "text": "J&J IIoT Manufacturing Strategy — ARC Advisory",
+            "href": "https://www.arcweb.com/blog/johnson-johnsons-industrial-iot-strategy-manufacturing-predictive-maintenance"
+          },
+          {
+            "text": "J&J Smart Factory Build — LinkedIn",
+            "href": "https://www.linkedin.com/posts/the-supply-chain-lens_how-johnson-johnson-built-a-smart-factory-activity-7348620932459982850-MUUj"
+          },
+          {
+            "text": "Abbott Smart Factory Journey — AVEVA",
+            "href": "https://www.aveva.com/en/perspectives/presentations/2024/abbott-laboratories---digital-excellence-journey-in-a-smart-factory-using-the-vertical-data-integration/"
+          },
+          {
+            "text": "Abbott Nutrition Manufacturing Productivity — Seeq",
+            "href": "https://www.seeq.com/resources/success-stories/abbott-nutrition-improving-manufacturing-productivity-at-abbott-nutrition/"
+          },
+          {
+            "text": "Stryker Operational Model — MatrixBCG",
+            "href": "https://matrixbcg.com/blogs/how-it-works/stryker"
+          },
+          {
+            "text": "OT Integrator Digital OEE Role — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/en/job/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "OT Integrator Digital OEE (Japan) — Becton Dickinson Jobs",
+            "href": "https://jobs.bd.com/ja/ジョブ/franklin-lakes/ot-integrator-digital-oee/159/87748737136"
+          },
+          {
+            "text": "Stryker Cyberattack Manufacturing Recovery — MedTech Dive",
+            "href": "https://www.medtechdive.com/news/stryker-restores-most-manufacturing-after-cyberattack/815972/"
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

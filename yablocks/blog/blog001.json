@@ -99,7 +99,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "HighByte vs Kepware",
-        "link": "/blog/highbyte-vs-kepware",
+        "link": "/blog/highbyte-vs-kepware/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -121,7 +121,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Are you missing your true identity ?",
-        "link": "/blog/missing-your-true-identity",
+        "link": "/blog/missing-your-true-identity/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -143,7 +143,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "The 4 risks of a RETROFIT in Machine Automation",
-        "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation",
+        "link": "/blog/the-4-risks-of-a-retrofit-in-machine-automation/",
         "tags": [
           {
             "label": "Cycle de Vie et Obsolescence"
@@ -168,7 +168,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "The Denial of AGE ... #VintageMachines",
-        "link": "/blog/the-denial-of-age-vintage-machines",
+        "link": "/blog/the-denial-of-age-vintage-machines/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -193,7 +193,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "When Archeology meets Manufacturing",
-        "link": "/blog/when-archeology-meets-manufacturing",
+        "link": "/blog/when-archeology-meets-manufacturing/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -218,7 +218,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "🏭 6 Habits that kill Old Machines",
-        "link": "/blog/6-habits-that-kill-old-machines",
+        "link": "/blog/6-habits-that-kill-old-machines/",
         "tags": [
           {
             "label": "Cycle de Vie et Obsolescence"
@@ -243,7 +243,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°22 - Coming Back for 2026 🔥 the recap !",
-        "link": "/blog/cybersecurity-containerization-open_source-digital_transformation",
+        "link": "/blog/cybersecurity-containerization-open-source-digital-transformation/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -268,7 +268,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automate your Engineering Reports💡",
-        "link": "/blog/automate-your-engineering-report-with-ai",
+        "link": "/blog/automate-your-engineering-report-with-ai/",
         "tags": [
           {
             "label": "Automation"
@@ -293,7 +293,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automate your Documentation: MARKDOWN vs WORD",
-        "link": "/blog/automate-your-documentation",
+        "link": "/blog/automate-your-documentation/",
         "tags": [
           {
             "label": "Transfert de Compétences"
@@ -315,7 +315,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Project & Team Collaboration in manufacturing",
-        "link": "/blog/project-and-team-collaboration",
+        "link": "/blog/project-and-team-collaboration/",
         "tags": [
           {
             "label": "Gestion Projet Stratégique"
@@ -340,7 +340,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Train your local AI to think like YOU 🧠",
-        "link": "/blog/train-your-local-ai",
+        "link": "/blog/train-your-local-ai/",
         "tags": [
           {
             "label": "Transfert de Compétences"
@@ -365,7 +365,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "MQTT Image Sampling : Historize as TimeSeries in Docker",
-        "link": "/blog/mqtt-image-sampling",
+        "link": "/blog/mqtt-image-sampling/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -387,7 +387,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Modéliser son LifeCycle Machine",
-        "link": "/blog/modeliser-son-lifecycle-machine",
+        "link": "/blog/modeliser-son-lifecycle-machine/",
         "tags": [
           {
             "label": "Cycle de Vie et Obsolescence"
@@ -409,7 +409,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°20 - Les 2 tendances en Industrie : Ouverture Technologique et Automation par IA",
-        "link": "/blog/ouverture-technologique-et-automation",
+        "link": "/blog/ouverture-technologique-et-automation/",
         "tags": [
           {
             "label": "Automation"
@@ -437,7 +437,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "👷‍♂️ Formation & Techniciens pour l’Industrie du Futur 🏭 - Yannick SUTRA",
-        "link": "/blog/formation-et-industrie",
+        "link": "/blog/formation-et-industrie/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -462,7 +462,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Obsolescence, Pérénnité, Pénurie : une équation à 7 inconnues",
-        "link": "/blog/obsolescence-perennite-penurie-inconnues",
+        "link": "/blog/obsolescence-perennite-penurie-inconnues/",
         "tags": [
           {
             "label": "Cycle de Vie et Obsolescence"
@@ -484,7 +484,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Les automaticiens entrepreneurs",
-        "link": "/blog/les-automaticiens-entrepreneurs",
+        "link": "/blog/les-automaticiens-entrepreneurs/",
         "tags": [
           {
             "label": "Machines Vintage"
@@ -506,7 +506,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°19 - Prove-it: la conférence 4.0",
-        "link": "/blog/prove-it-la-conference-40",
+        "link": "/blog/prove-it-la-conference-40/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -531,7 +531,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Prix des Logiciels Industriels",
-        "link": "/blog/logiciel-industriels-licence-payante-ou-gratuite",
+        "link": "/blog/logiciel-industriels-licence-payante-ou-gratuite/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -553,7 +553,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Evolution dans l'industrie:carrière, automatisme et communauté",
-        "link": "/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute",
+        "link": "/blog/evolution-dans-lindustrie-carriere-automatisme-et-communaute/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -578,7 +578,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°18 - Ladder & Process Control - Programmation & OpenSource",
-        "link": "/blog/ladder-et-process-control-programmation-et-opensource",
+        "link": "/blog/ladder-et-process-control-programmation-et-opensource/",
         "tags": [
           {
             "label": "Automation"
@@ -603,7 +603,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "STOP aux Formations et Communautés en ligne !",
-        "link": "/blog/stop-aux-formations-et-communaute-en-ligne",
+        "link": "/blog/stop-aux-formations-et-communaute-en-ligne/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -628,7 +628,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°17 - Protectionnisme & Technologies Futures en Industrie",
-        "link": "/blog/protectionnisme-technologies-futures-en-industrie",
+        "link": "/blog/protectionnisme-technologies-futures-en-industrie/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -653,7 +653,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Nos Galères en Usine ft. Adrien SORCI",
-        "link": "/blog/nos-galères-en-industrie",
+        "link": "/blog/nos-galeres-en-industrie/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -681,7 +681,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Rétrofit carte électronique Advantech - obsolescence machine industrielle",
-        "link": "/blog/retrofit-carte-electronique-advantech",
+        "link": "/blog/retrofit-carte-electronique-advantech/",
         "tags": [
           {
             "label": "PC Industriel"
@@ -706,7 +706,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel",
-        "link": "/blog/cest-qui-autem",
+        "link": "/blog/cest-qui-autem/",
         "tags": [
           {
             "label": "Automation"
@@ -731,7 +731,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°16 - Robot Optimus & FrameworX",
-        "link": "/blog/robot-optimus-et-frameworkx",
+        "link": "/blog/robot-optimus-et-frameworkx/",
         "tags": [
           {
             "label": "Motion & Robotique"
@@ -759,7 +759,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Christiana YAPI - Une roboticienne pionnière en Côte d'Ivoire",
-        "link": "/blog/christiana-yapi-une-roboticienne-pionniere",
+        "link": "/blog/christiana-yapi-une-roboticienne-pionniere/",
         "tags": [
           {
             "label": "Motion & Robotique"
@@ -784,7 +784,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Exalens: Rétro-Ingénierie automatique avec IA",
-        "link": "/blog/exalens-process-monitoring-software",
+        "link": "/blog/exalens-process-monitoring-software/",
         "tags": [
           {
             "label": "IA & Machine Learning"
@@ -809,7 +809,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "4 raisons d'adopter DOCKER en Industrie",
-        "link": "/blog/adopter-docker-en-industrie",
+        "link": "/blog/adopter-docker-en-industrie/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -831,7 +831,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°15 - Automobile et IoT - Septembre 2024",
-        "link": "/blog/automobile-et-iot",
+        "link": "/blog/automobile-et-iot/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -856,7 +856,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "RETROFIT ou DIGITALISER, priorité pour Moderniser - Innover ?",
-        "link": "/blog/retrofit-digitaliser",
+        "link": "/blog/retrofit-digitaliser/",
         "tags": [
           {
             "label": "Gestion Projet Stratégique"
@@ -881,7 +881,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "👷‍♂️ Recruter un(e) technicien(ne) en industrie 🏭 7 étapes en ingénierie industrielle",
-        "link": "/blog/recruter-un-technicien",
+        "link": "/blog/recruter-un-technicien/",
         "tags": [
           {
             "label": "Machines Vintage"
@@ -906,7 +906,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°14 - Open-Source, Raffinerie Dangote, Incident Microsoft, Ariane 6",
-        "link": "/blog/news-aout-2024",
+        "link": "/blog/news-aout-2024/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -931,7 +931,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Equilibre vie perso - pro pour Techniciens en Industrie",
-        "link": "/blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie",
+        "link": "/blog/equilibre-vie-perso-pro-pour-techiciens-en-industrie/",
         "tags": [
           {
             "label": "Machines Vintage"
@@ -953,7 +953,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°13 - SnowFlake Data, Scada AWS et un Expert à suivre",
-        "link": "/blog/news-juin-2024",
+        "link": "/blog/news-juin-2024/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -978,7 +978,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Sauver l'Industrie : les Techniciens proposent des SOLUTIONS",
-        "link": "/blog/les-techniciens-proposent-des-solutions",
+        "link": "/blog/les-techniciens-proposent-des-solutions/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1003,7 +1003,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Réflexion: Les techniciens fuient les usines",
-        "link": "/blog/les-techniciens-fuient-lindustrie",
+        "link": "/blog/les-techniciens-fuient-lindustrie/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1028,7 +1028,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Politique et Industrie en France",
-        "link": "/blog/politique-et-industrie-en-france",
+        "link": "/blog/politique-et-industrie-en-france/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1050,7 +1050,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Défis de l'Industrialisation en Afrique avec Boubacar MARIGO",
-        "link": "/blog/defi-de-l-industrialisation-en-afrique",
+        "link": "/blog/defi-de-l-industrialisation-en-afrique/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1075,7 +1075,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°12 - Arduino, SQL et OT Benchmark 📰",
-        "link": "/blog/arduino-sql-ot-bencmark",
+        "link": "/blog/arduino-sql-ot-bencmark/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1100,7 +1100,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Custom solution design - Embedded technology & the Future of IoT with Matthew Smith",
-        "link": "/blog/custom-solution-design",
+        "link": "/blog/custom-solution-design/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -1125,7 +1125,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "L'Industrie évolue 😎 Spéciale \"Insiders Factory Automation\" Avengers",
-        "link": "/blog/factory-automation-insiders",
+        "link": "/blog/factory-automation-insiders/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1150,7 +1150,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme - Beckhoff - Identifier les organes",
-        "link": "/blog/armoire-automatisme-beckhoff",
+        "link": "/blog/armoire-automatisme-beckhoff/",
         "tags": [
           {
             "label": "Automation"
@@ -1175,7 +1175,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°11 - Le combat Hardware VS Software - Hannover Messe",
-        "link": "/blog/news-avril-2024",
+        "link": "/blog/news-avril-2024/",
         "tags": [
           {
             "label": "MES-OEE"
@@ -1203,7 +1203,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Industrie agro & pharma en BELGIQUE - Antoine CASTIAUX",
-        "link": "/blog/industrie-agroalimentaire-et-pharmaceutique",
+        "link": "/blog/industrie-agroalimentaire-et-pharmaceutique/",
         "tags": [
           {
             "label": "Interview-Atelier LIVE"
@@ -1228,7 +1228,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actu n°10 - UNS, Grok, Industrie 🏭, Bilan 12 mois d'actualités 📰",
-        "link": "/blog/bilan-de-12-mois-dactualite",
+        "link": "/blog/bilan-de-12-mois-dactualite/",
         "tags": [
           {
             "label": "Motion & Robotique"
@@ -1256,7 +1256,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Digitalisation industrielle avec Excel ? Olivier YOUMBI",
-        "link": "/blog/dashboard-excel",
+        "link": "/blog/dashboard-excel/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1281,7 +1281,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Zone ATEX en Industrie Pharma - Esteban TORIBIO",
-        "link": "/blog/zone-atex",
+        "link": "/blog/zone-atex/",
         "tags": [
           {
             "label": "Automation"
@@ -1306,7 +1306,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actu n°9 - Cybersécurité, Connectivité Industrielle, Technologie d'avant-garde",
-        "link": "/blog/news-fevrier-2024",
+        "link": "/blog/news-fevrier-2024/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -1331,7 +1331,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Opportunités et métiers futurs - Stephane DANTIGNY",
-        "link": "/blog/opportunites-et-metiers-futurs",
+        "link": "/blog/opportunites-et-metiers-futurs/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -1356,7 +1356,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "WorldSkills: challenge Industrie 4.0",
-        "link": "/blog/challenge-champion-france",
+        "link": "/blog/challenge-champion-france/",
         "tags": [
           {
             "label": "Evenèments"
@@ -1378,7 +1378,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°8 - Métallurgie, IHM, Langues, IA",
-        "link": "/blog/news-janvier-2024",
+        "link": "/blog/news-janvier-2024/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -1400,7 +1400,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Mitsubishi x Ignition | Démo : Connecter un automate en ModbusTCP ou CCLink IE",
-        "link": "/blog/demo-live-automate-mitsubishi",
+        "link": "/blog/demo-live-automate-mitsubishi/",
         "tags": [
           {
             "label": "Automation"
@@ -1425,7 +1425,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Enterprise Architecture & Digital Transformation - Bindioa OUALI",
-        "link": "/blog/entreprise-architecture",
+        "link": "/blog/entreprise-architecture/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1453,7 +1453,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°7 - Codesys, Flow Dashboard, Biggest Factory",
-        "link": "/blog/news-decembre-2023",
+        "link": "/blog/news-decembre-2023/",
         "tags": [
           {
             "label": "Actualités TECH"
@@ -1478,7 +1478,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Que sait l'IA sur l'INDUSTRIE ? Un Ingénieur teste Midjourney",
-        "link": "/blog/midjourney-ia-et-industrie",
+        "link": "/blog/midjourney-ia-et-industrie/",
         "tags": [
           {
             "label": "IA & Machine Learning"
@@ -1500,7 +1500,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "IA, Vision, Robotique - Mohamed KONATE",
-        "link": "/blog/vision-ia-robotique",
+        "link": "/blog/vision-ia-robotique/",
         "tags": [
           {
             "label": "IA & Machine Learning"
@@ -1528,7 +1528,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°6 - Digitalisation, Simulation, Protocoles Série | Autem",
-        "link": "/blog/digitalisation-simulation-protocoles-series",
+        "link": "/blog/digitalisation-simulation-protocoles-series/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1553,7 +1553,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Formation, Emploi, Carrière - Balthazar N'GABRA",
-        "link": "/blog/formation-emploi-carriere",
+        "link": "/blog/formation-emploi-carriere/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -1578,7 +1578,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "AgroIndustrie et Ingénierie en Afrique - TOURE Mamery",
-        "link": "/blog/agroindustrie-et-ingenierie-en-afrique",
+        "link": "/blog/agroindustrie-et-ingenierie-en-afrique/",
         "tags": [
           {
             "label": "Evolution de l'industrie"
@@ -1603,7 +1603,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Communication Réseau Industriel - AUTEM",
-        "link": "/blog/communication-reseau-industriel",
+        "link": "/blog/communication-reseau-industriel/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -1625,7 +1625,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°5 - EDGE Industriel - Rexroth Dell Opto22 Rockwell",
-        "link": "/blog/edge-industriel-rexroth-dell-opto22-rockwell",
+        "link": "/blog/edge-industriel-rexroth-dell-opto22-rockwell/",
         "tags": [
           {
             "label": "Automation"
@@ -1653,7 +1653,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Electricité et haute Tension en Afrique - N'KOU Paterne",
-        "link": "/blog/electricite-et-haute-tension-en-afrique",
+        "link": "/blog/electricite-et-haute-tension-en-afrique/",
         "tags": [
           {
             "label": "Electricité"
@@ -1678,7 +1678,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "EDGE Benchmark Comparatif",
-        "link": "/blog/edge-benchmark-comparatif",
+        "link": "/blog/edge-benchmark-comparatif/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1700,7 +1700,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Robotics no-code with Augmentus | Daryl LIM",
-        "link": "/blog/robotic-no-code-augmentus",
+        "link": "/blog/robotic-no-code-augmentus/",
         "tags": [
           {
             "label": "Motion & Robotique"
@@ -1722,7 +1722,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°4 - NodeRed, Private PROXY, MES, Interopérabilité, Version PLC, Jitsi, Lean, TwinGate",
-        "link": "/blog/news-juillet-2023",
+        "link": "/blog/news-juillet-2023/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -1747,7 +1747,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Industrie Navale et Maritime avec Mohamed CISSOUMA",
-        "link": "/blog/industrie-navale",
+        "link": "/blog/industrie-navale/",
         "tags": [
           {
             "label": "Interview-Atelier LIVE"
@@ -1772,7 +1772,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automatisme industriel et tertiaire",
-        "link": "/blog/prestation-automatisme-industriel-tertiaire",
+        "link": "/blog/prestation-automatisme-industriel-tertiaire/",
         "tags": [
           {
             "label": "Automation"
@@ -1794,7 +1794,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Intégrateur SCADA",
-        "link": "/blog/integrateur-scada",
+        "link": "/blog/integrateur-scada/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -1816,7 +1816,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Le freelancing dans l'industrie - avec Karim BELAMRI",
-        "link": "/blog/freelance-en-industrie",
+        "link": "/blog/freelance-en-industrie/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -1838,7 +1838,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Clés de conduite du changement pour réussir son projet 4.0 - avec Rija Rakotoarisoa",
-        "link": "/blog/cle-de-conduite-pour-reussir-son-projet-4-0",
+        "link": "/blog/cle-de-conduite-pour-reussir-son-projet-4-0/",
         "tags": [
           {
             "label": "Gestion Projet Stratégique"
@@ -1860,7 +1860,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Chaudronnerie & Digital - avec Nicolas COUSIN",
-        "link": "/blog/chaudronnerie-et-digital",
+        "link": "/blog/chaudronnerie-et-digital/",
         "tags": [
           {
             "label": "Interview-Atelier LIVE"
@@ -1885,7 +1885,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Payant OU Open-Source - Choisir son Logiciel industriel",
-        "link": "/blog/choisir-son-logiciel-industriel",
+        "link": "/blog/choisir-son-logiciel-industriel/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1907,7 +1907,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°3 - MongoDB, SAP, VivaTech, United Manufacturing Hub",
-        "link": "/blog/news-juin-2023",
+        "link": "/blog/news-juin-2023/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -1932,7 +1932,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Digitalisation de la Gestion de l'EAU - avec Guillaume GIMENEZ - 2Gi",
-        "link": "/blog/digitalisation-de-la-gestion-de-leau",
+        "link": "/blog/digitalisation-de-la-gestion-de-leau/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -1960,7 +1960,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Convergence IT/OT: l'industrie à l'ère du numérique avec Nicolas GONZALEZ - OperaMetrix",
-        "link": "/blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix",
+        "link": "/blog/convergence-it-ot-lindustrie-a-lere-du-numerique-nicolas-gonzalez-operametrix/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -1985,7 +1985,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°2 - MQTT Azure, Tesla, Robotique AI, Plantformance, St-Gobain, Cloud Google",
-        "link": "/blog/actualités-tech-mqtt-azure-tesla-ia-and-industrie",
+        "link": "/blog/actualites-tech-mqtt-azure-tesla-ia-and-industrie/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2010,7 +2010,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software",
-        "link": "/blog/pilotage-usine-a-distance",
+        "link": "/blog/pilotage-usine-a-distance/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2035,7 +2035,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Benchmark Comparatif SCADA | Jean-Romain BARDET & Sylvain Pastor",
-        "link": "/blog/benchmark-comparatif-scada",
+        "link": "/blog/benchmark-comparatif-scada/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2057,7 +2057,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Logiciels sur-mesure dans l'industrie | Jean-Romain BARDET & Herve Rincent",
-        "link": "/blog/logiciels-sur-mesure-vs-sur-etagere",
+        "link": "/blog/logiciels-sur-mesure-vs-sur-etagere/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -2079,7 +2079,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Actus n°1 - Ignition Cloud, Décret BACS, CtrlX Core, Virtual PLC",
-        "link": "/blog/news-avril-2023",
+        "link": "/blog/news-avril-2023/",
         "tags": [
           {
             "label": "Automation"
@@ -2107,7 +2107,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "3k de la communauté AUTEM + Débat méthode VS marques",
-        "link": "/blog/automaticien-methode-vs-marques",
+        "link": "/blog/automaticien-methode-vs-marques/",
         "tags": [
           {
             "label": "Evenèments"
@@ -2129,7 +2129,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Logiciels industriels : prêts pour l'industrie 4.0 ?",
-        "link": "/blog/logiciel-industriel",
+        "link": "/blog/logiciel-industriel/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -2154,7 +2154,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Budget Projets : 10 conseils - industrie, automatisme, machines, logiciel",
-        "link": "/blog/chiffrage",
+        "link": "/blog/chiffrage/",
         "tags": [
           {
             "label": "Gestion Projet Stratégique"
@@ -2176,7 +2176,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Open-Source & Industrie 4.0",
-        "link": "/blog/open-source-et-industrie-4-0",
+        "link": "/blog/open-source-et-industrie-4-0/",
         "tags": [
           {
             "label": "Architecture Systèmes"
@@ -2198,7 +2198,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Prospecter : client, employeur, marché, mission en tant qu'automaticien",
-        "link": "/blog/prospection",
+        "link": "/blog/prospection/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -2220,7 +2220,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "ChatGPT, Ladder, Grafcet : l'IA dans l’industrie 4.0 ?",
-        "link": "/blog/chatgpt",
+        "link": "/blog/chatgpt/",
         "tags": [
           {
             "label": "IA & Machine Learning"
@@ -2242,7 +2242,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "A Combien sont payés les automaticiens ?",
-        "link": "/blog/le-salaire-des-automaticiens",
+        "link": "/blog/le-salaire-des-automaticiens/",
         "tags": [
           {
             "label": "Astuces Carrière"
@@ -2264,7 +2264,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Comment digitaliser sa maintenance avec la GMAO ?",
-        "link": "/blog/gmao",
+        "link": "/blog/gmao/",
         "tags": [
           {
             "label": "GTB-GMAO"
@@ -2286,7 +2286,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Parole d'expertes : femmes & actrices de l'industrie",
-        "link": "/blog/parole-dexpertes",
+        "link": "/blog/parole-dexpertes/",
         "tags": [
           {
             "label": "Interview-Atelier LIVE"
@@ -2311,7 +2311,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "COGNEX : Lecture Datamatrix en Modbus avec Ignition | Autem",
-        "link": "/blog/cognex-lecture-data-matrix",
+        "link": "/blog/cognex-lecture-data-matrix/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2336,7 +2336,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "SQL Kepware Datalogger | Historiser des données OPC | Autem",
-        "link": "/blog/historiser-des-donnee-en-opc",
+        "link": "/blog/historiser-des-donnee-en-opc/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2361,7 +2361,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "RÉSEAUX INDUSTRIELS DE COMMUNICATION: 5 PROTOCOLES | AUTEM",
-        "link": "/blog/protocoles-de-communication-industriels",
+        "link": "/blog/protocoles-de-communication-industriels/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2383,7 +2383,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automatiser des feux - Simulation 2 - Carrefour | Autem",
-        "link": "/blog/automatiser-des-feux-tricolores",
+        "link": "/blog/automatiser-des-feux-tricolores/",
         "tags": [
           {
             "label": "Automation"
@@ -2405,7 +2405,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "SÉCURITÉ INCENDIE : ALARMES ET DÉTECTION AUTOMATIQUE | AUTEM",
-        "link": "/blog/securite-incendie-alarmes-et-detection-automatique",
+        "link": "/blog/securite-incendie-alarmes-et-detection-automatique/",
         "tags": [
           {
             "label": "Automation"
@@ -2430,7 +2430,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme - Schneider Electric",
-        "link": "/blog/armoire-automatisme-schneider-electrique",
+        "link": "/blog/armoire-automatisme-schneider-electrique/",
         "tags": [
           {
             "label": "Automation"
@@ -2455,7 +2455,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Microcontrôleur VS Automate | Portail & Fermetures auto. | Autem",
-        "link": "/blog/portail-fermeture-automatique",
+        "link": "/blog/portail-fermeture-automatique/",
         "tags": [
           {
             "label": "Automation"
@@ -2477,7 +2477,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "AUTOMATISME & AÉROPORT | PASSERELLES D’EMBARQUEMENT | AUTEM",
-        "link": "/blog/automatisme-et-aeroport",
+        "link": "/blog/automatisme-et-aeroport/",
         "tags": [
           {
             "label": "Automation"
@@ -2499,7 +2499,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Armoire d'automatisme ROCKWELL",
-        "link": "/blog/armoire-automatisme-rockwell",
+        "link": "/blog/armoire-automatisme-rockwell/",
         "tags": [
           {
             "label": "Automation"
@@ -2524,7 +2524,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Siemens Armoire d’automatisme | Identifier les organes | Autem",
-        "link": "/blog/armoire-automatisme-siemens",
+        "link": "/blog/armoire-automatisme-siemens/",
         "tags": [
           {
             "label": "Automation"
@@ -2549,7 +2549,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automaticien | 10 compétences pour être automaticien en 2022 | Autem",
-        "link": "/blog/10-competences-pour-automaticien",
+        "link": "/blog/10-competences-pour-automaticien/",
         "tags": [
           {
             "label": "Automation"
@@ -2574,7 +2574,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Automate M340 Unity Loader | Mis à jour du firmware | Autem",
-        "link": "/blog/automate-m340",
+        "link": "/blog/automate-m340/",
         "tags": [
           {
             "label": "Automation"
@@ -2599,7 +2599,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Do-More | Communiquer en Ethernet/IP | Autem Services",
-        "link": "/blog/domore",
+        "link": "/blog/domore/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2624,7 +2624,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Electricité | Electrocution: 100 A ou 24.000 V | Autem",
-        "link": "/blog/electrocution",
+        "link": "/blog/electrocution/",
         "tags": [
           {
             "label": "Electricité"
@@ -2646,7 +2646,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Protocoles Réseaux IIoT | 5 Filtres WIRESHARK | Autem",
-        "link": "/blog/filtre-wireshark",
+        "link": "/blog/filtre-wireshark/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2668,7 +2668,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "IHM web WinCC – PC connecté à un automate S7 1500 | Autem",
-        "link": "/blog/pc-connecte-a-un-automate-s7-1500",
+        "link": "/blog/pc-connecte-a-un-automate-s7-1500/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2693,7 +2693,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "PRONETA : Diagnostic Profinet sur réseau Siemens | Autem",
-        "link": "/blog/diagnostic-profinet-sur-reseau-siemens",
+        "link": "/blog/diagnostic-profinet-sur-reseau-siemens/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2718,7 +2718,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Rockwell Studio – Programmer un automate Allen-Bradley | Autem",
-        "link": "/blog/programmer-un-automate-allen-bradley",
+        "link": "/blog/programmer-un-automate-allen-bradley/",
         "tags": [
           {
             "label": "Automation"
@@ -2740,7 +2740,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Adresse IP | Changer son adresse IP en 1 clic | Autem",
-        "link": "/blog/changer-son-adresse-ip",
+        "link": "/blog/changer-son-adresse-ip/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2762,7 +2762,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "KEPWARE | Connecter EXCEL à un automate Siemens S7-1500 | Autem",
-        "link": "/blog/connecter-excel-a-un-automate-siemens-s7-1500",
+        "link": "/blog/connecter-excel-a-un-automate-siemens-s7-1500/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2787,7 +2787,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "UaExpert - serveur PLCSIM | Communiquer en OPC UA | Autem",
-        "link": "/blog/communiquer-en-opcua",
+        "link": "/blog/communiquer-en-opcua/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2812,7 +2812,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "M340-M221 - Rétablir la connexion USB avec SoMachine | Autem",
-        "link": "/blog/retablir-la-connexion-usb-avec-so-machine",
+        "link": "/blog/retablir-la-connexion-usb-avec-so-machine/",
         "tags": [
           {
             "label": "Automation"
@@ -2837,7 +2837,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "PLCSIM x MODBUS | Communiquer sans automate – MB_Client | Autem",
-        "link": "/blog/communiquer-sans-automate",
+        "link": "/blog/communiquer-sans-automate/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2862,7 +2862,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Modbus | Simuler un échange directement sur ton PC | Autem",
-        "link": "/blog/modbus-simuler-un-echange-sur-ton-pc",
+        "link": "/blog/modbus-simuler-un-echange-sur-ton-pc/",
         "tags": [
           {
             "label": "IoT Réseau"
@@ -2887,7 +2887,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Rockwell RSLogix500 | Programmer des automates Allen-Bradley | Autem",
-        "link": "/blog/rslogix-programmer-des-automates-allen-bradley",
+        "link": "/blog/rslogix-programmer-des-automates-allen-bradley/",
         "tags": [
           {
             "label": "Automation"
@@ -2909,7 +2909,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "WinCC Configurer un écran de supervision SIEMENS | Autem",
-        "link": "/blog/wincc-configurer-un-ecran-de-supervision",
+        "link": "/blog/wincc-configurer-un-ecran-de-supervision/",
         "tags": [
           {
             "label": "Supervision SCADA"
@@ -2931,7 +2931,7 @@
           "alt": "Intégrateur SCADA"
         },
         "title": "Comment diagnostiquer une panne machine | AUTEM",
-        "link": "/blog/diagnostique-panne-machine",
+        "link": "/blog/diagnostique-panne-machine/",
         "tags": [
           {
             "label": "Instrumentation-Capteurs"

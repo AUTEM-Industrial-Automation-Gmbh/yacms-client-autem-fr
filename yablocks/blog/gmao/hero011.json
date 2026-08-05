@@ -4,7 +4,7 @@
     "section": "blog/gmao/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "Comment digitaliser sa maintenance avec la GMAO ?",
     "tags": [

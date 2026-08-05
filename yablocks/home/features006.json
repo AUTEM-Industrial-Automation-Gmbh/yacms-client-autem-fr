@@ -18,7 +18,7 @@
         "actions": [
           {
             "text": "Voir nos cas clients",
-            "link": "/cas-clients",
+            "link": "/cas-clients/",
             "variant": "secondary"
           }
         ]
@@ -66,7 +66,7 @@
         "actions": [
           {
             "text": "Lire",
-            "link": "/blog",
+            "link": "/blog/",
             "variant": "secondary"
           }
         ]
@@ -82,7 +82,7 @@
         "actions": [
           {
             "text": "Nous écrire",
-            "link": "/contact",
+            "link": "/contact/",
             "variant": "secondary"
           }
         ]

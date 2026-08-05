@@ -4,7 +4,7 @@
     "section": "blog/pilotage-usine-a-distance/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "Pilotage usine à distance : VPN/SSL, connectivité, hardware/software",
     "tags": [

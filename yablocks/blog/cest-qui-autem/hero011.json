@@ -4,7 +4,7 @@
     "section": "blog/cest-qui-autem/hero011"
   },
   "data": {
-    "backLink": "/blog",
+    "backLink": "/blog/",
     "backLinkLabel": "Retour au blog",
     "title": "C'est qui AUTEM ? Notre activité d'Intégrateur Automation Industriel",
     "tags": [

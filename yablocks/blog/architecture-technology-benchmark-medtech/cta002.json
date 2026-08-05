@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "blog/medtech-benchmark/cta002"
+  },
+  "data": {
+    "title": "Need help designing industrial data pipelines ?",
+    "benefits": [
+      {
+        "icon": "cpu",
+        "text": "OT-IT integration and industrial IoT architecture"
+      },
+      {
+        "icon": "settings",
+        "text": "Real-time data pipelines (Kafka, MQTT, OPC UA)"
+      },
+      {
+        "icon": "zap",
+        "text": "OEE tracking and smart factory deployment"
+      }
+    ],
+    "cta": {
+      "text": "Discuss your project",
+      "link": "/contact/"
+    }
+  }
+}

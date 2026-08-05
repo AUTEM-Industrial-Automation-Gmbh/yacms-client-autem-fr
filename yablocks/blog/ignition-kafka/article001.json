@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/ignition-kafka/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "Another lab demo about Kafka. We will discuss about the integration between Kafka and Ignition. I'll talk about Event Streams, REST API, Bridges(HTTP, Confluent, Debezium). We are trying here to benchmark few integration options in order to find\nout which one fits the best depending on your application. It's all about a tradeoff with your own environment. That's is why I always put here the repo so you can reproduce this demo and make your own conclusion.\n\n",
+            "_tid": "O6fidU"
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/PwApNv6zZfQ?si=_8eVghvHO16ETAw_",
+        "_tid": "h6UNx7",
+        "links": [
+          {
+            "text": "Find this lab in this repos here:",
+            "href": "https://github.com/AUTEM-Industrial-Automation-Gmbh/ignition-to-kafka-lab",
+            "_tid": "lDkIkr"
+          }
+        ]
+      },
+      {
+        "heading": "Why Kafka for Manufacturing ?",
+        "paragraphs": [
+          {
+            "text": "While MQTT is standard for time-series data (temperature, pressure),\n                                                Kafka is better suited for Event Streams and\n                                                massive data volumes. It is the gold standard in the IT world (used by\n                                                Uber, LinkedIn) and is increasingly used in\n                                                factories to allow different sites to \"talk\" to each other and feed big\n                                                data analytics.",
+            "_tid": "GcJsfc"
+          },
+          {
+            "text": "Explore the full content of this section here",
+            "_tid": "50bYJo"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (01 min : 37 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=52s",
+            "_tid": "SiKqIQ"
+          }
+        ],
+        "_tid": "eXUHpA"
+      },
+      {
+        "heading": "Limitations of the Built-in Event Stream                                                 Module",
+        "paragraphs": [
+          {
+            "text": "We can notice three integration bridges:",
+            "_tid": "KB8acM"
+          },
+          {
+            "text": "",
+            "_tid": "T6gBRl"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (05 min : 33 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=301s",
+            "_tid": "0wNtl6"
+          }
+        ],
+        "_tid": "LOH6Jr",
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "Kafka REST Proxy: Uses a heavy IT infrastructure                                                     where Ignition acts as an HTTP client. It’s powerful but                                                     high-maintenance.",
+              "_tid": "SrGMSp"
+            },
+            {
+              "text": "Debezium (CDC): Uses a SQL database as a buffer.                                                     Changes in the database trigger events in Kafka. The downside is                                                     maintaining a \"duplicate\" database buffer.",
+              "_tid": "lOiybG"
+            },
+            {
+              "text": "Custom Python Bridge: A lightweight external bridge                                                     written in Python 3.1 (using FastAPI). Since Ignition uses Jython                                                     (Python 2.7), this external bridge allows the use of modern Python                                                     libraries to handle Kafka communication efficiently.  ",
+              "_tid": "bxD3lR"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Three Integration Bridges Compared",
+        "paragraphs": [
+          {
+            "text": "Now we will see the physical and digital environment required to run these\n                                            tools.",
+            "_tid": "oJ6X0x"
+          },
+          {
+            "text": "Kepware (Connectivity): It is strictly Windows-only. This is a critical consideration for your \"edge device\". If you choose Kepware, you are locked into using hardware that can support a Windows operating system, which can impact your hardware costs and maintenance.\n",
+            "_tid": "s1NoEC"
+          },
+          {
+            "text": "HighByte (DataOps): It is built for <strong>modern IT environments, running natively on Docker and Linux</strong>. This allows you to deploy it on a wide variety of lightweight edge devices or cloud environments.",
+            "_tid": "IgZKDk"
+          },
+          {
+            "text": "Explore the full content of this section here",
+            "_tid": "vC4hXw"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (01 min : 00 s)",
+            "href": "https://www.youtube.com/watch?v=66Ejja5bgRE&t=543s",
+            "_tid": "csy92E"
+          }
+        ],
+        "_tid": "zZmQRu"
+      },
+      {
+        "heading": "The Unified Namespace (UNS) Requirement",
+        "paragraphs": [
+          {
+            "text": "A true UNS isn't just data points; it requires Events, Topology, and Data to be consistent. A custom script ensures that when a machine statechanges or a naming convention is updated, all parts of the stream stay synchronized.\n",
+            "_tid": "jP6kXw"
+          },
+          {
+            "text": "Explore the full content of this section here",
+            "_tid": "exIZY4"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (06 min : 13 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=634s",
+            "_tid": "70adZT"
+          }
+        ],
+        "_tid": "uV5iZW"
+      },
+      {
+        "heading": "Production vs. Lab Demo",
+        "paragraphs": [
+          {
+            "text": "Manufacturing standards \"hate change\" because stability ensures quality. ResistanIn a real-world setup, you would move from a single broker to a Kafka\n                                                Cluster for resilience and likely switch from JSON\n                                                to Protobuf as the data schema to handle higher volumes with better\n                                                performance.ce to change can actually be a good thing if it prevents unnecessary modifications that could ruin product quality (e.g., in medical devices like pacemakers). You should focus on sustaining the machine through small incremental improvements rather than radical \"revolutions\" or running it to total failure.",
+            "_tid": "VdkvIh"
+          },
+          {
+            "text": "Explore the full content of this section here",
+            "_tid": "ZYAe72"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (02 min : 25 s)",
+            "href": "https://www.youtube.com/watch?v=PwApNv6zZfQ&t=1007s",
+            "_tid": "eZryyh"
+          }
+        ],
+        "_tid": "TTyaEa"
+      }
+    ]
+  }
+}

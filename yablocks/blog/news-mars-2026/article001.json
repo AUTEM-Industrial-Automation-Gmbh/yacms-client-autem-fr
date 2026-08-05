@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/news-mars-2026/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "paragraphs": [
+          {
+            "text": "The programmable logical controller world is not over, but it is\n                                                definitely changing. There are lot of stuff happening.\n                                                if I go over what happened over the last 3 months, the first quarter of\n                                                2026. In this article I wll just highlight three things that have been\n                                                happening in the PLC automation world. These are: Training Platforms, Troubleshooting Tools, Programming Platforms",
+            "_tid": "O6fidU"
+          },
+          {
+            "text": "Basically, all that progress is possible today. Thanks to AI, which is no\n                                                wonder, but those ideas have been under reflection, under development\n                                                for 10 to 20 years now. The only difference is that now we have the tool\n                                                with AI to speed up all those development, to implement all those\n                                                creative ideas to make the PLC Automation World more easy. It doesn't\n                                                change basically the electronics behind. It doesn't change the\n                                                methodology or the way of programming electrical systems, but it is\n                                                changes the tools because, now, if you are a PLC engineer or if you are\n                                                system engineer, you're doing work for a manufacturing technology, you\n                                                have more leverage in your da-to-day activity.",
+            "_tid": "uINYXX"
+          }
+        ],
+        "subsections": [],
+        "videoUrl": "https://www.youtube.com/embed/u1zvKZyBE6I?si=CLUBuCUJYD2ZMk60",
+        "_tid": "h6UNx7",
+        "links": []
+      },
+      {
+        "heading": "Training Platforms (plci.app & Easy PLC                                                 School)",
+        "paragraphs": [
+          {
+            "text": "So, the first trend to follow is about Training Platform",
+            "_tid": "GcJsfc"
+          },
+          {
+            "text": " Traditional expensive, field-based learning is being supplemented by\n                                                AI-driven training platforms like <strong>plci.app and Easy\n                                                    PLC School</strong>. These allow both beginners and IT professionals\n                                                to level up\n                                                their hardware skills for free.",
+            "_tid": "R1YFkk"
+          },
+          {
+            "text": "Discover more about the platform and explore the full content of this section here here:",
+            "_tid": "D9yd5p"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (01 min : 33 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=94s",
+            "_tid": "SiKqIQ"
+          },
+          {
+            "text": "https://plcai.app/",
+            "href": "https://plcai.app/",
+            "_tid": "pSwlzl"
+          },
+          {
+            "text": "https://github.com/orelmi/easyplc-school",
+            "href": "https://github.com/orelmi/easyplc-school",
+            "_tid": "BEHTqT"
+          }
+        ],
+        "_tid": "eXUHpA"
+      },
+      {
+        "heading": "Troubleshooting Tools (Snap PLC)                                            Module",
+        "paragraphs": [
+          {
+            "text": "Another trend is about Troubleshooting Tools",
+            "_tid": "KB8acM"
+          },
+          {
+            "text": "Tools like Snap PLC allow users to upload photos of a control cabinet.\n                                                The AI identifies the hardware and provides a tentative root cause and\n                                                solution for system faults, acting as a \"first\n                                                responder\" before calling for support.",
+            "_tid": "T6gBRl"
+          },
+          {
+            "text": "Discover more about the platform and explore the full content of this section here here:",
+            "_tid": "h0MUuj"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (01 min : 10 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=187s",
+            "_tid": "0wNtl6"
+          },
+          {
+            "text": "https://www.snapplc.com/",
+            "href": "https://www.snapplc.com/",
+            "_tid": "ztC3My"
+          }
+        ],
+        "_tid": "LOH6Jr"
+      },
+      {
+        "heading": "Programming Platforms (Copilot, Accelera,                                                 Cronax)",
+        "paragraphs": [
+          {
+            "text": " The last trend, which is very interesting about programming platform. I\n                                                have followed three platforms in the last few months that can be\n                                                interesting for all of us PLC Programmers or people who are doing\n                                                engineering in manufacturing.",
+            "_tid": "oJ6X0x"
+          },
+          {
+            "text": "Accelera Platform: Generates PLC/DCS code directly from\n                                                functional design specifications, moving the focus from manual coding to\n                                                clear system requirements.",
+            "_tid": "s1NoEC"
+          },
+          {
+            "text": "Cronax: An IDE that allows software developers to\n                                                program PLCs using standard IT languages rather than traditional narrow\n                                                industrial formats.",
+            "_tid": "IgZKDk"
+          },
+          {
+            "text": "Discover more about the platform and explore the full content of this section here here:",
+            "_tid": "vC4hXw"
+          }
+        ],
+        "subsections": [],
+        "links": [
+          {
+            "text": "Visualize | Vidéo (06 min : 47 s)",
+            "href": "https://www.youtube.com/watch?v=u1zvKZyBE6I&t=257s",
+            "_tid": "csy92E"
+          },
+          {
+            "text": "https://plccopilot.com/",
+            "href": "https://plccopilot.com/",
+            "_tid": "Aqf6OY"
+          },
+          {
+            "text": "(formerly iReflex) software oriented                                                         IDE agnostic for faster migrations & retrofits, with AI-powered                                                         features. not OpenSource",
+            "href": "https://chronax.tech/",
+            "_tid": "GLVInx"
+          },
+          {
+            "text": "OpenSource generate code from                                                         functional spec. No AI, deterministic.",
+            "href": "https://acceleer.com/",
+            "_tid": "7OyPcV"
+          }
+        ],
+        "_tid": "zZmQRu"
+      }
+    ]
+  }
+}
