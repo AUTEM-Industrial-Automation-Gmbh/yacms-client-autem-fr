@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Technique d'automatisation et technologies | AUTEM",
+    "description": "Techniques et technologies d'automatisation industrielle par AUTEM.",
+    "keywords": [
+      "technique automatisation",
+      "technologie automatisme",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/technique-automatisation-technologie/",
+    "locale": "fr_FR",
+    "robots": "noindex, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/technique-automatisation-technologie/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/technique-automatisation-technologie/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/technique-automatisation-technologie/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Blog technique automatisme et SCADA industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "@shared/footer.json"
+  ]
+}

@@ -95,6 +95,81 @@
     "cards": [
       {
         "coverImage": {
+          "src": "/blog/medtech.png",
+          "alt": "MedTech Technology Architecture Benchmark"
+        },
+        "title": "Technology architecture benchmark study — MedTech leaders",
+        "link": "/blog/architecture-technology-benchmark-medtech/",
+        "tags": [
+          {
+            "label": "Architecture Systèmes"
+          },
+          {
+            "label": "MES-OEE"
+          },
+          {
+            "label": "IoT Réseau"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier-automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "excerpt": "How are Medtronic, J&J, Abbott, Stryker and Becton Dickinson handling OT-IT integration, OEE measurement and data pipelines in their factories?",
+        "date": "06/05/2026"
+      },
+      {
+        "coverImage": {
+          "src": "/blog/actu 23 - Q1 2026.jpg",
+          "alt": "3 trends to follow in PLC Automation"
+        },
+        "title": "Actus n°23 - PLC Automation is Changing !",
+        "excerpt": "News n°23 - 3 trends to follow in PLC Automation - Q1 2026\nTraining Platforms (plci.app & Easy PLC School), Troubleshooting Tools (Snap PLC), Programming Platforms (Copilot, Accelera, Cronax)",
+        "link": "/blog/news-mars-2026/",
+        "tags": [
+          {
+            "label": "Actualités TECH"
+          },
+          {
+            "label": "Automation"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "14/04/2026"
+      },
+      {
+        "coverImage": {
+          "src": "/blog/ignition to kafka v2.jpg",
+          "alt": "6 Habits that kill Old Machines"
+        },
+        "title": "Ignition - Kafka : Event Streams, Jython, 3 bridges compared (HTTP, Confluent, Debezium)",
+        "excerpt": "benchmark the top integration options to find out which one really connects best. Why Kafka for Manufacturing?. Limitations of the Built-in Event Stream Module. Three Integration Bridges Compared. The Unified Namespace (UNS) Requirement. Production vs. Lab Demo",
+        "link": "/blog/ignition-kafka/",
+        "tags": [
+          {
+            "label": "Supervision SCADA"
+          }
+        ],
+        "author": {
+          "name": "Marc Akoto",
+          "image": {
+            "src": "/images/metier_automaticien.png",
+            "alt": "Marc Akoto"
+          }
+        },
+        "date": "01/04/2026"
+      },
+      {
+        "coverImage": {
           "src": "/assets/highByte-vs-kepware.jpg",
           "alt": "Intégrateur SCADA"
         },

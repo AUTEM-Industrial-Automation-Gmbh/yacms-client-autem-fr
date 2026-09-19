@@ -4,7 +4,11 @@
     "section": "a-propos/manifeste/features008-nouvelle-donne"
   },
   "data": {
-    "title": "L'industrie 4.0 redéfinit les règles du jeu",
-    "content": "<ul><li><strong>Là où avant les machines tournaient en silos</strong>, la connectivité industrielle exige aujourd'hui une convergence complète entre l'OT (Operational Technology) et l'IT (Information Technology).</li><li>Là où avant un bon automaticien suffisait, les projets modernes requièrent une double compétence informatique et automatisme.</li><li>Là où avant les données restaient dans les automates, elles doivent maintenant remonter jusqu'au cloud pour piloter la performance globale.</li></ul><p>Parce que la révolution numérique s'accélère, <strong>rester sur des systèmes figés est devenu un risque opérationnel majeur</strong>. Chaque journée sans visibilité sur vos données machines est une opportunité d'optimisation perdue.</p><p>Chez AUTEM, nous pensons que la transformation digitale d'une usine doit être <strong>pragmatique, progressive et maîtrisée</strong> — en partant des vrais enjeux terrain, et non d'une vision hors-sol.</p>"
+    "title": "La Pérennité : un état d’esprit",
+    "content": "Les <strong>machines de l’époque étaient conçues pour durer</strong>. Ce potentiel de pérennité de vos anciennes machines a juste besoin de se refaire une santé. Le reconditionnement est même crucial pour certains produits, où seule la machine d’origine est capable d’assurer une qualité stable et robuste. Car comme dit le dicton, <strong>“c’est dans les vieilles marmites qu’on fait les meilleurs plats”</strong>. Au passage vous réduisez aussi votre empreinte environnementale et écologique.\n\nPour explorer ces <strong>initiatives de modernisation, il vous faut une expertise solide sur les vieux équipements</strong>. Nos spécialistes sont capables d’identifier rapidement les voies sans issue, et les opportunités inexplorées. Vous pouvez solliciter AUTEM pour ces besoins “hors piste” car l’ingénierie est au coeur de notre ADN. Avant d'être développeurs de solutions standards, notre métier d’automaticiens nous a forgé de bons réflexes de défricheurs, prototypeurs et innovateurs.",
+    "image": {
+      "src": "/images/leaders-manufacturing.jpg",
+      "alt": ""
+    }
   }
 }

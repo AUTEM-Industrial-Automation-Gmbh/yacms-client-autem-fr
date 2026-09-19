@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul>\n<li><strong>Une machine ancienne remise en service avec une installation électrique rénovée</strong>, sans remplacement inutile de la partie mécanique encore fonctionnelle ;</li>\n\n<li><strong>Un coffret électrique entièrement repris</strong>, avec une architecture simplifiée correspondant aux fonctions réellement utilisées aujourd'hui par MIVELAZ ;</li>\n\n<li><strong>Une sécurité machine mieux intégrée à l'utilisation actuelle</strong>, grâce à la rationalisation des commandes, à une meilleure lisibilité du coffret et au maintien des dispositifs de sécurité nécessaires au fonctionnement de l'équipement ;</li>\n\n<li><strong>Une nouvelle mesure de la consommation d'énergie</strong>, permettant de suivre l'énergie utilisée par la machine et de disposer d'une donnée supplémentaire pour analyser son exploitation ;</li>\n\n<li><strong>Une machine préparée pour le suivi digital</strong>, avec la possibilité d'exploiter les états de fonctionnement et les données de vitesse afin de construire progressivement des indicateurs de disponibilité et de performance ;</li>\n\n<li><strong>Une rénovation réalisée en cinq semaines</strong>, permettant de disposer d'une machine fonctionnelle avant le démarrage de la ligne complète ;</li>\n\n<li>Le projet démontre qu'une <strong>modernisation ciblée peut prolonger la durée de vie d'un équipement industriel existant</strong> tout en lui apportant des fonctions aujourd'hui essentielles : sécurité, maintenabilité, mesure énergétique et connectivité.</li>\n</ul>\n",
+    "image": {
+      "src": "/images/IMG_20260813_145755~2.jpg",
+      "alt": "machine renovation makor mivelaz"
+    }
+  }
+}

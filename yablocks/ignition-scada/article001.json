@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "ignition-scada/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Ignition SCADA : pourquoi choisir ce logiciel de supervision industrielle ?",
+        "paragraphs": [],
+        "subsections": [],
+        "image": {
+          "src": "/images/ignition-scada.jpeg",
+          "alt": "ignition scada,scada,scada definition,systeme scada,logiciel scada,formation scada,architecture scada,cours scada,ingenieur scada,interface scada,logiciel de supervision scada,scada expert,supervision industrielle scada"
+        }
+      },
+      {
+        "heading": "Comparatif Ignition SCADA comme logiciel de supervision industrielle",
+        "paragraphs": [
+          {
+            "text": "Lorsqu'on recherche la meilleure solution SCADA pour une\n                                                    entreprise, il est crucial de prendre le temps de comparer les\n                                                    options disponibles sur le marché. Cet article vise à fournir un\n                                                    aperçu approfondi des forces de diverses solutions,\n                                                    mettant en avant le logiciel de supervision industrielle\n                                                    Ignition SCADA aux côtés d'autres acteurs majeurs tels que\n                                                    SCorp-IO, Panorama, WinCC OA, PcVue, et Wonderware."
+          },
+          {
+            "text": "Ignition SCADA se distingue par sa qualité universelle,\n                                                    offrant une solution polyvalente pour répondre aux besoins\n                                                    variés des entreprises. En effet, dans le panorama des solutions\n                                                    SCADA, Ignition se positionne comme une référence\n                                                    incontournable. En examinant les forces de différentes solutions,\n                                                    nous observons qu'Ignition SCADA, tout comme ses\n                                                    concurrents, présente des avantages spécifiques."
+          },
+          {
+            "text": "Lors du comparatif, le premier critère abordé est celui\n                                                    des \"Références et Ancienneté\". Les solutions WinCC OA et\n                                                    Wonderware se démarquent avec une note maximale de 5, soulignant\n                                                    leur présence sur le marché depuis 1990. Cette\n                                                    longévité témoigne de leur expérience et de leur crédibilité."
+          },
+          {
+            "text": "Le critère suivant, \"Installation & Démarrage\", révèle\n                                                    que Ignition SCADA se place parmi les meilleures\n                                                    solutions,\n                                                    aux côtés de SCorp-IO et WinCC OA, en raison de leur facilité de\n                                                    déploiement en cloud. La portabilité est également un\n                                                    aspect essentiel, où SCorp-IO, Ignition et WinCC OA obtiennent la\n                                                    meilleure note de 5 pour leur capacité à être\n                                                    déployées sur toutes les plateformes."
+          },
+          {
+            "text": "En matière de connectivité, le critère \"Serveur OPC-UA\"\n                                                    est essentiel. SCorp-IO, Ignition, Panorama, et WinCC OA se\n                                                    démarquent avec une note de 3. Pour la gestion des bases de données,\n                                                    SCorp-IO, Ignition et WinCC OA obtiennent la\n                                                    meilleure note de 5, soulignant leur capacité à s'interfacer avec\n                                                    toutes les bases de données du marché."
+          },
+          {
+            "text": "Le critère \"Web\" met en avant SCorp-IO et Ignition SCADA\n                                                    en obtenant une note de 5, grâce à leur intégration sans\n                                                    limitation de HTML5 et CSS. La mobilité est un aspect clé, où\n                                                    SCorp-IO et Ignition obtiennent la meilleure note de 5 en\n                                                    permettant l'utilisation de HTML5."
+          },
+          {
+            "text": "En ce qui concerne le \"Cloud\", SCorp-IO se distingue\n                                                    avec une note maximale de 5, étant le meilleur du Cloud de manière\n                                                    native. Pour le développement, SCorp-IO est reconnu avec une note de\n                                                    5 pour son approche no-code, simplifiant la\n                                                    configuration."
+          },
+          {
+            "text": "Le critère \"Support + Formation\" attribue une note de 4\n                                                    à SCorp-IO et Ignition SCADA, soulignant la\n                                                    facilité\n                                                    d'apprentissage à travers des formations gratuites. En ce qui\n                                                    concerne les \"Licensing + Coûts\", SCorp-IO et Ignition\n                                                    sont les mieux notés avec une note de 5, offrant des tarifs\n                                                    abordables."
+          },
+          {
+            "text": "Pour la \"Maintenabilité, Versioning\", SCorp-IO, Ignition\n                                                    et WinCC OA obtiennent une note de 4, soulignant leur\n                                                    compatibilité avec GIT. Enfin, le critère \"Sécurité, Stabilité\"\n                                                    donne une note de 3 à toutes les solutions explorées,\n                                                    mettant en lumière les multiples aspects à considérer en matière de\n                                                    sécurité et de stabilité."
+          },
+          {
+            "text": "En somme, cet article offre une analyse approfondie des\n                                                    critères de choix des solutions SCADA, mettant en avant\n                                                    Ignition SCADA comme une option de premier plan, et soulignant\n                                                    ses avantages significatifs dans le paysage complexe\n                                                    de la supervision industrielle."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "AUTEM est Intégrateur Certifié GOLD sur Ignition SCADA",
+        "paragraphs": [
+          {
+            "text": "AUTEM, en tant qu'Intégrateur Ignition certifié GOLD,\n                                                    vous apporte de la maîtrise sur l'intégration du logiciel\n                                                    Ignition SCADA au sein de vos usines. Cette\n                                                    certification GOLD\n                                                    atteste de notre expertise dans la mise en place de\n                                                    solutions de supervision industrielle avancées. Nous nous engageons\n                                                    à simplifier l'intégration de Ignition SCADA dans\n                                                    vos opérations, en facilitant la diffusion efficace des informations\n                                                    sur des écrans au sein de votre usine."
+          },
+          {
+            "text": "L'intégration réalisée par AUTEM s'inscrit dans une\n                                                    architecture IIoT, mettant à profit les dernières avancées\n                                                    technologiques telles que MQTT et OPC-UA. Nous sommes spécialisés\n                                                    dans la conception et l'intégration d'architectures\n                                                    complexes, garantissant une connectivité optimale au sein de votre\n                                                    environnement industriel."
+          },
+          {
+            "text": "Notre engagement envers l'excellence opérationnelle se\n                                                    reflète dans la capacité à collecter, calculer et afficher des\n                                                    indicateurs clés de performance (KPI), d'OEE (Overall Equipment\n                                                    Effectiveness) et d'autres métriques métiers\n                                                    essentielles pour l'efficacité de votre usine."
+          },
+          {
+            "text": "AUTEM propose également des solutions techniques\n                                                    innovantes pour la modernisation de vos synoptiques et applications\n                                                    de\n                                                    gestion des systèmes industriels. Nous sommes reconnus pour notre\n                                                    service de digitalisation des usines et lignes de\n                                                    production, offrant aux industriels des outils de pilotage et de\n                                                    prise de décision avancés tels que la supervision\n                                                    SCADA, l'IIoT et la connectivité."
+          },
+          {
+            "text": "En tant qu'experts en informatique industrielle et\n                                                    systèmes automatisés, nous permettons aux industriels d'exploiter\n                                                    leurs machines et outils productifs à tout moment, sur n'importe\n                                                    quelle plateforme. Grâce à notre expertise, la\n                                                    frontière entre l'OT (Operational Technology) et l'IT (Information\n                                                    Technology) s'estompe, positionnant AUTEM au cœur de\n                                                    la convergence 4.0."
+          },
+          {
+            "text": "Nos références clients illustrent notre diversité\n                                                    d'interventions dans des secteurs tels que l'Agroalimentaire,\n                                                    l'Acier\n                                                    & la Métallurgie, la Mobilité, la Chimie, le Textile, les\n                                                    Semi-conducteurs, l'Énergie, le Ferroviaire & le Transport.\n                                                    Parmi nos clients figurent des entreprises renommées telles que\n                                                    Soitec, Hermès, Deret, Thalys, Amazon, Danone, Unilever,\n                                                    SNCF, ArcelorMittal, BEMA, Schneider Electric, ENGIE, et bien\n                                                    d'autres."
+          },
+          {
+            "text": "Ignition SCADA est au cœur de notre\n                                                    démarche de\n                                                    valorisation des données issues des ateliers de production. En\n                                                    collaboration avec Inductive Automation, nous mettons en œuvre des\n                                                    solutions SCADA innovantes pour maximiser\n                                                    l'efficacité opérationnelle de nos clients."
+          },
+          {
+            "text": "Le programme d'intégration d'Inductive Automation offre\n                                                    des opportunités exceptionnelles pour les intégrateurs. En tant\n                                                    que partenaire certifié Gold, AUTEM bénéficie d'avantages exclusifs.\n                                                    Le programme propose différents niveaux, du\n                                                    Registered au Premier, avec des critères spécifiques pour chaque\n                                                    niveau."
+          },
+          {
+            "text": "Le programme offre également des spécialisations,\n                                                    reconnaissant les intégrateurs ayant atteint un haut niveau\n                                                    d'expertise dans des domaines spécifiques tels que l'Enterprise,\n                                                    l'IIoT et le MES."
+          },
+          {
+            "text": "En résumé, AUTEM s'engage à optimiser votre expérience\n                                                    avec Ignition SCADA en proposant des solutions\n                                                    intégrées de\n                                                    haute qualité. Rejoignez notre réseau en appliquant dès aujourd'hui\n                                                    au programme d'intégration d'Inductive Automation,\n                                                    et découvrez comment Ignition SCADA peut\n                                                    transformer votre\n                                                    activité industrielle. Ignition SCADA est bien plus\n                                                    qu'un logiciel de supervision ; c'est un catalyseur de réussite pour\n                                                    votre entreprise."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Système, Architecture et Fonctionnalités du logiciel Ignition SCADA",
+        "paragraphs": [
+          {
+            "text": "Ignition SCADA est incontestablement la plateforme de\n                                                    choix pour les ingénieurs et les entreprises avant-gardistes à\n                                                    travers le monde. Si vous êtes à la recherche d'une solution SCADA\n                                                    performante, Ignition SCADA offre une opportunité\n                                                    inégalée pour expérimenter ses fonctionnalités révolutionnaires.\n                                                    Avec un distributeur Ignition dans votre région, vous\n                                                    êtes sur le point de découvrir la puissance de l'Ignition\n                                                        SCADA."
+          },
+          {
+            "text": "Ignition SCADA simplifie la collecte transparente de\n                                                    toutes vos données, vous permettant de concevoir aisément n'importe\n                                                    quel type d'application industrielle et de déployer instantanément\n                                                    vos clients sur le Web, où que vous soyez. Cette\n                                                    plateforme agit comme une plaque tournante centralisée pour vos\n                                                    systèmes, comblant le fossé entre la production et\n                                                    l'informatique, du niveau des équipements d'usine jusqu'aux bases de\n                                                    données SQL."
+          },
+          {
+            "text": "Le coût abordable d'une licence serveur Ignition SCADA\n                                                    vous offre une liberté illimitée. Avec un nombre infini de\n                                                    clients, de variables, de connexions et de concepteurs, vous pouvez\n                                                    construire le système dont vous avez besoin sans\n                                                    aucune restriction. Connectez l'ensemble de votre entreprise à un\n                                                    coût fractionné par rapport à d'autres solutions,\n                                                    réinvestissant ainsi les économies dans le développement, la\n                                                    main-d'œuvre et le déploiement."
+          },
+          {
+            "text": "Ignition SCADA est un environnement de\n                                                    développement\n                                                    intégré puissant, répondant à tous vos besoins pour créer\n                                                    divers types d'applications industrielles telles que SCADA, IIoT,\n                                                    MES, et bien au-delà. Contrôlez, suivez, affichez et\n                                                    analysez facilement vos processus avec le module SCADA. La\n                                                    plateforme offre également des fonctionnalités avancées pour\n                                                    l'IIoT, MES, HMI, les alarmes, les rapports, l'informatique en\n                                                    périphérie, l'entreprise, et même la création\n                                                    d'applications mobiles grâce à HTML5."
+          },
+          {
+            "text": "Ignition SCADA permet une gestion efficace des processus\n                                                    industriels en offrant une visibilité accrue sur la production,\n                                                    la gestion des recettes, le calcul du TRS et bien plus encore. Les\n                                                    écrans optimisés pour la surveillance et le contrôle\n                                                    des machines peuvent être construits grâce au module HMI, tandis que\n                                                    la création de systèmes d'alarme complexes et la\n                                                    réception d'alertes instantanées sont facilitées par le module\n                                                    Alarmes."
+          },
+          {
+            "text": "Ignition SCADA offre une flexibilité inégalée avec une\n                                                    architecture multiplateforme compatible avec des technologies\n                                                    ouvertes fiables telles que SQL, Python, OPC UA et MQTT. Cette\n                                                    approche moderne et unique au sein de l'écosystème\n                                                    logiciel assure un contrôle accru, rationalisant les processus et\n                                                    augmentant la productivité. Avec un nombre illimité de\n                                                    concepteurs simultanés, Ignition SCADA est un\n                                                    investissement\n                                                    rentable avec des modules logiciels entièrement\n                                                    intégrés pour développer pratiquement n'importe quel type\n                                                    d'application industrielle."
+          },
+          {
+            "text": "Inductive Automation, créateur du logiciel Ignition\n                                                    SCADA en 2010, a établi des partenariats avec des distributeurs\n                                                    internationaux tels qu'AXONE-IO pour offrir un support exceptionnel\n                                                    à la communauté mondiale d'utilisateurs d'Ignition.\n                                                    Découvrez comment Ignition SCADA peut redonner\n                                                    le contrôle dans\n                                                    l'anarchie de l'usine, améliorant ainsi l'efficacité\n                                                    des systèmes d'automatisation industrielle à travers le monde.\n                                                    Ignition SCADA s'exécute de manière transparente\n                                                    sur\n                                                    diverses architectures, s'adaptant facilement aux besoins de toute\n                                                    entreprise, quelle que soit sa taille."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

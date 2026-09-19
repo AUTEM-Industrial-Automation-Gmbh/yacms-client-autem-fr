@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/features008-strategie"
+  },
+  "data": {
+    "title": "Stratégie",
+    "content": "<ol>\n<li>\n<p><strong>Audit de l'installation existante</strong><br>\nAUTEM a commencé par analyser le schéma électrique, les équipements présents dans le coffret et le fonctionnement réel de la machine. Cette étape a permis d'identifier plusieurs fonctions historiques qui n'étaient plus utilisées et de recentrer la rénovation sur les équipements réellement nécessaires à la production.</p>\n</li>\n\n<li>\n<p><strong>Simplification et reconstruction du coffret électrique</strong><br>\nAprès analyse, le choix a été fait de <strong>reprendre entièrement le coffret</strong> plutôt que de multiplier les réparations ponctuelles sur l'installation existante. Les commandes ont été rationalisées et le câblage repris afin d'obtenir une installation plus claire et plus facilement maintenable.</p>\n</li>\n\n<li>\n<p><strong>Commandes et sécurité machine</strong><br>\nLes organes de commande nécessaires au fonctionnement actuel ont été conservés ou remplacés, tandis que les commandes associées aux anciennes fonctions ont été supprimées. Une attention particulière a été portée au fonctionnement des moteurs, aux commandes opérateur et à l'accessibilité des dispositifs de sécurité, tout en conservant les principes de sécurité existants de la machine.</p>\n</li>\n\n<li>\n<p><strong>Instrumentation et mesure d'énergie</strong><br>\nLa rénovation intègre une <strong>mesure de la consommation électrique de la machine</strong>. Cette instrumentation apporte une donnée qui n'était pas disponible sur l'équipement historique et permet de suivre plus précisément son fonctionnement énergétique.</p>\n</li>\n\n<li>\n<p><strong>Préparation au suivi digital de production</strong><br>\nL'architecture a également été pensée pour récupérer des informations de fonctionnement telles que l'état marche/arrêt et la vitesse de rotation. Ces données constituent une première base pour construire des indicateurs de disponibilité et de cadence et, à terme, intégrer la machine dans un système plus global de suivi de production.</p>\n</li>\n\n<li>\n<p><strong>Installation et essais sur site</strong><br>\nLes travaux ont été réalisés directement chez MIVELAZ. Après reconstruction et recâblage, la machine a été remise en service et testée dans son environnement de production afin de valider son fonctionnement avant le démarrage de la ligne complète.</p>\n</li>\n</ol>\n",
+    "image": {
+      "src": "/images/analyse schema elec.png",
+      "alt": "analyse schema elec"
+    }
+  }
+}

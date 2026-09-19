@@ -43,6 +43,14 @@
         {
           "src": "/logos/verkor.png",
           "alt": "Verkor"
+        },
+        {
+          "src": "/logos/fromagerie-mezieres-logo.jpg",
+          "alt": "Fromagerie de Mézières"
+        },
+        {
+          "src": "/logos/mivelaz-bois-logo.jpg",
+          "alt": "Mivelaz Bois"
         }
       ]
     }

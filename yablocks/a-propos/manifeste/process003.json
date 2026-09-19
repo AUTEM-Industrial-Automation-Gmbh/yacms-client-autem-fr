@@ -4,38 +4,37 @@
     "section": "a-propos/manifeste/process003"
   },
   "data": {
-    "overtitle": "NOTRE MÉTHODE",
-    "title": "Une approche structurée, du cahier des charges à la mise en service",
+    "overtitle": "Notre Approche Structurée",
+    "title": "Vos machines ont pris de l'âge ?  Parlons-en !",
     "steps": [
       {
-        "title": "Audit",
-        "description": "Analyse de votre parc machine, systèmes existants et besoins prioritaires.",
+        "title": "Alignement",
+        "description": "Combiner action technique et leadership stratégique"
+      },
+      {
+        "title": "Etat des Lieux",
+        "description": "6 objectifs ciblés par vos équipes, établis suite à un audit conjoint",
         "icon": "search"
       },
       {
-        "title": "Conception",
-        "description": "Analyse fonctionnelle, architecture système et choix des technologies adaptées.",
+        "title": "Ateliers teamwork",
+        "description": "Workshops en équipe pendant 6 semaines tout au long de l'analyse. On privilégie des cycles projets ciblés et rentables",
         "icon": "layout"
       },
       {
-        "title": "Réalisation",
-        "description": "Programmation automates, développement SCADA, intégration réseau et configuration.",
+        "title": "Pensé pour les contraintes de Production",
+        "description": "Un programme flexible tout en s'adaptant aux imprévus inévitables. Cela permet de sortir du mode pompier, et passer du curatif au proactif.",
         "icon": "layers"
       },
       {
-        "title": "Tests",
-        "description": "Tests en plateforme, FAT (Factory Acceptance Test) et SAT (Site Acceptance Test).",
-        "icon": "check-circle"
-      },
-      {
-        "title": "Mise en service",
-        "description": "Démarrage sur site, accompagnement des équipes production et validation terrain.",
-        "icon": "zap"
-      },
-      {
         "title": "Formation",
-        "description": "Transfert de compétences aux techniciens pour une autonomie complète sur vos systèmes.",
+        "description": "Regain de maîtrise par les équipes, avec nos experts hardware et software. Cela permet d'investir dans un transfert au lieu d'une dépendance.",
         "icon": "book-open"
+      },
+      {
+        "title": "Retour d'expérience ",
+        "description": "Reboucler pour tirer des observations et confirmer les fondations pour une suite fluide",
+        "icon": "zap"
       }
     ]
   }

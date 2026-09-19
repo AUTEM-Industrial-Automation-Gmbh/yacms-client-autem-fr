@@ -4,7 +4,11 @@
     "section": "a-propos/manifeste/features008-symptomes"
   },
   "data": {
-    "title": "4 signaux qui indiquent que votre système industriel doit évoluer",
-    "content": "<ul><li><strong>Vos données de production sont inaccessibles ou peu fiables</strong> — pas de visibilité temps réel sur vos KPI et performances machines.</li><li>Vos techniciens diagnostiquent en aveugle, sans historique d'alarmes ni supervision centralisée.</li><li>Vos automates anciens freinent la productivité et deviennent impossibles à maintenir ou faire évoluer.</li><li>Votre outil de supervision est obsolète, cloisonné ou tout simplement absent.</li></ul>"
+    "title": "L’Obsolescence, c’est dans la tête !",
+    "content": "\nVétuste mais encore performant. Neuf mais déjà obsolète. <strong>L’ancienneté des machines</strong> ou des logiciels n’est que la face visible d’un iceberg englobant tout le cycle de vie d’une production industrielle. Au-delà du ressenti subjectif, admettons d’emblée que la solution “clé en main” n’existe pas, car <strong>personne ne connaît mieux votre process</strong> que vous.\n\nCommençons plutôt par soulager la douleur sur les symptômes connus : <strong>arrêts intempestifs, pertes qualité</strong>. Ces facteurs superficiels sont parfois indépendants de la machine elle-même, mais surchargent le mental des équipes, et alimentent une illusion d’urgence permanente. La cause-racine à l’inverse est moins visible, mais plus accessible et moins coûteuse qu’on le perçoit.\n\nLa première étape avec AUTEM est de commencer par lever vos incertitudes du moment, et débloquer les verrous, pour une vision plus sereine et pragmatique des solutions techniques à adopter.\n",
+    "image": {
+      "src": "/images/cyborg.png",
+      "alt": ""
+    }
   }
 }

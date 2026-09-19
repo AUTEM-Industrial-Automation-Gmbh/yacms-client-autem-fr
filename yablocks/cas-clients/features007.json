@@ -1,7 +1,7 @@
 {
   "meta": {
     "component": "blocks/features/FeatureFilterGallery",
-    "section": "cas-clients/features007"
+    "section": "cas-clients/FeatureFilterGallery"
   },
   "data": {
     "backgroundImage": {
@@ -29,9 +29,6 @@
             "value": "Logistique"
           },
           {
-            "value": "Machines Spéciales"
-          },
-          {
             "value": "Metallurgie"
           },
           {
@@ -45,6 +42,9 @@
           },
           {
             "value": "Textile"
+          },
+          {
+            "value": "Bois-Wood-Holz"
           }
         ]
       },
@@ -83,6 +83,9 @@
           },
           {
             "value": "Supervision SCADA"
+          },
+          {
+            "value": "Machines spéciales"
           }
         ]
       }
@@ -149,6 +152,14 @@
           {
             "label": "Logistique",
             "type": "secteur"
+          },
+          {
+            "label": "Agroalimentaire",
+            "type": "secteur"
+          },
+          {
+            "label": "Cycle de Vie et Obsolescence",
+            "type": "categorie"
           }
         ],
         "date": 2025
@@ -323,8 +334,8 @@
         "link": "/cas-clients/success-story-bema-machines-speciales-automation/",
         "tags": [
           {
-            "label": "Machines Spéciales",
-            "type": "secteur"
+            "label": "Machines spéciales",
+            "type": "categorie"
           },
           {
             "label": "Automation",
@@ -404,41 +415,53 @@
       },
       {
         "logo": {
-          "src": "/logos/sncf.png",
-          "alt": "SNCF"
+          "src": "/logos/mivelaz-bois-logo.jpg",
+          "alt": "Mivelaz Bois SA"
         },
-        "title": "Développement IHM pour aiguillages ferroviaires — SNCF Lorraine",
-        "link": "/cas-clients/success-story-sncf-mobilite-automation/",
+        "title": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
+        "link": "/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/",
         "tags": [
           {
-            "label": "Mobilité",
-            "type": "secteur"
+            "label": "Machines spéciales",
+            "type": "categorie"
           },
           {
-            "label": "Automation",
+            "label": "Electricité",
             "type": "categorie"
+          },
+          {
+            "label": "Bois-Wood-Holz",
+            "type": "secteur"
           }
         ],
-        "date": 2015
+        "date": 2026
       },
       {
         "logo": {
-          "src": "/logos/st-gobain.svg",
-          "alt": "Saint-Gobain"
+          "src": "/logos/fromagerie-mezieres-logo.jpg",
+          "alt": "Fromagerie de Mézières"
         },
-        "title": "Automatisation du packaging de matériaux abrasifs — Saint-Gobain Maroc",
-        "link": "/cas-clients/success-story-st-gobain-metallurgie-automation/",
+        "title": "Fiabilisation d'un robot de soin des meules - Cave de la Fromagerie de Mézières - Fabricant Sugnaux JNJ",
+        "link": "/cas-clients/success-story-fromagerie-cave-robot-sugnaux-fiabiliser/",
         "tags": [
           {
-            "label": "Metallurgie",
-            "type": "secteur"
+            "label": "Cycle de Vie et Obsolescence",
+            "type": "categorie"
+          },
+          {
+            "label": "Electricité",
+            "type": "categorie"
           },
           {
             "label": "Automation",
             "type": "categorie"
+          },
+          {
+            "label": "Agroalimentaire",
+            "type": "secteur"
           }
         ],
-        "date": 2015
+        "date": 2026
       }
     ]
   }

@@ -5,6 +5,6 @@
   },
   "data": {
     "title": "Résultats & Apprentissages",
-    "content": "<ul><li><strong>OEE mesuré automatiquement sur 100% des machines</strong> en scope, remplaçant les saisies manuelles ;</li><li>Identification rapide des principales sources de pertes permettant une priorisation des actions d'amélioration continue ;</li><li><strong>Intégration SAP ME opérationnelle</strong> avec synchronisation des OF et descente des gammes de production ;</li><li>Tableaux de bord temps réel déployés sur tous les ateliers, accessibles également par le management via le portail web ;</li><li>Gain de temps estimé à plusieurs heures par semaine sur les reportings production grâce à l'automatisation de la collecte.</li></ul>"
+    "content": "<ul>\n<li><strong>Mesure automatique du TRS</strong> sur l’ensemble des lignes de production à périmètre défini, éliminant les saisies manuelles.</li>\n<li>Réduction significative du temps consacré aux <strong>reportings hebdomadaires</strong> grâce à la consolidation centralisée des données.</li>\n<li>Détection immédiate des principales <strong>causes de pertes</strong>, facilitant les analyses et les plans d’actions ciblés.</li>\n<li>Intégration fluide avec le MES existant, garantissant la <strong>cohérence des données</strong> entre ERP, automatismes et outils de pilotage.</li>\n<li>Adoption rapide par les équipes terrain grâce à une interface intuitive et à une logique de codification entraînant une meilleure discipline de saisie.</li>\n</ul>"
   }
 }

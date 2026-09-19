@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "title": "Fournisseur automatisme : réalisations et références | AUTEM",
+    "description": "Portfolio d'AUTEM, fournisseur et prestataire en automatisme industriel : réalisations techniques, secteurs d'intervention, méthode et valeurs.",
+    "keywords": [
+      "fournisseur automatisme",
+      "prestataire automatisme",
+      "références automatisme",
+      "portfolio automatisme",
+      "AUTEM"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/portfolio-automatisme-references/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/portfolio-automatisme-references/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/portfolio-automatisme-references/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/portfolio-automatisme-references/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Blog technique automatisme et SCADA industriel"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./article001.json",
+    "./cta002.json",
+    "@shared/footer.json"
+  ]
+}

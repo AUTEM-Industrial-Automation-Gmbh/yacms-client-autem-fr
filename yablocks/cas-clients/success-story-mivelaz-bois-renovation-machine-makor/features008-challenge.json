@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>Le principal défi consistait à <strong>moderniser l'installation électrique d'une machine mise en service il y a plusieurs décennies</strong>, dont certaines fonctions d'origine avaient été progressivement abandonnées ou modifiées, tout en conservant les fonctions mécaniques encore parfaitement adaptées au besoin de production.</p>\n\n<p>Une analyse de l'existant a permis de distinguer les fonctions réellement utilisées des équipements devenus obsolètes. La machine fonctionne désormais essentiellement autour de ses <strong>trois moteurs d'égrenage et du système d'avance des pièces</strong>, certaines anciennes fonctions périphériques n'étant plus exploitées.</p>\n\n<ul>\n<li><strong>Simplifier l'architecture électrique</strong> en supprimant les fonctions et composants devenus inutiles ;</li>\n<li><strong>Reprendre entièrement le coffret électrique</strong> afin de disposer d'une installation plus propre, maintenable et adaptée à l'utilisation actuelle de la machine ;</li>\n<li><strong>Fiabiliser les commandes et la sécurité machine</strong>, notamment les organes de commande, les arrêts et le fonctionnement des différents moteurs ;</li>\n<li><strong>Conserver les principes de sécurité existants</strong> tout en améliorant l'ergonomie et la lisibilité du poste de commande ;</li>\n<li>Préparer la machine à un <strong>suivi digital de son fonctionnement</strong> à partir de données telles que l'état marche/arrêt et la vitesse de fonctionnement ;</li>\n<li>Ajouter une <strong>mesure de la consommation d'énergie</strong> afin de disposer d'une nouvelle donnée exploitable pour le suivi de la machine et, à terme, de la ligne de production.</li>\n</ul>\n",
+    "image": {
+      "src": "/images/scope.png",
+      "alt": "perimetre scope prestation"
+    }
+  }
+}

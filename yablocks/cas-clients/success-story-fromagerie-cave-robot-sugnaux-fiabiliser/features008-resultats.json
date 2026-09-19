@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-fromagerie-mezieres-cave-fiabilisati/features008-resultats"
+  },
+  "data": {
+    "title": "Résultats & Apprentissages",
+    "content": "<ul>\n\n<li><strong>Réduction des pannes :</strong> les interventions ne se limitent plus à acquitter ou redémarrer le robot après un défaut. Chaque incident est analysé afin d'en identifier l'origine et de supprimer progressivement les facteurs susceptibles de provoquer des arrêts récurrents.</li>\n\n<li><strong>Une installation électrique plus stable :</strong> les mesures et modifications réalisées sur les alimentations et les mises à la terre ont permis d'homogénéiser les tensions sur les équipements concernés et de réduire les risques liés aux perturbations électriques.</li>\n\n<li><strong>Un diagnostic beaucoup plus précis des défauts intermittents :</strong> le croisement entre position du robot, état des capteurs, modules d'entrées-sorties, communications, entraînements et programme automate permet désormais de cibler les investigations plutôt que de procéder à des remplacements successifs sans identification de la cause.</li>\n\n<li><strong>Une meilleure anticipation des composants vieillissants :</strong> le suivi dans le temps permet d'identifier les éléments fragilisés ou critiques et de préparer leur remplacement avant qu'ils ne deviennent une source majeure d'indisponibilité.</li>\n\n<li><strong>Une optimisation progressive du robot :</strong> au-delà du dépannage, les interventions permettent d'améliorer les modes de marche, la stabilité de l'installation et la compréhension globale de son fonctionnement.</li>\n\n<li><strong>Une maintenance facilitée :</strong> les observations, mesures et essais réalisés constituent progressivement une base de connaissance technique permettant de diagnostiquer plus rapidement les futurs incidents.</li>\n\n<li><strong>Un cycle de vie prolongé :</strong> plutôt que remplacer un robot encore adapté aux besoins de la fromagerie, la démarche consiste à fiabiliser son architecture électrique et son automatisme, à traiter ses points faibles et à accompagner l'obsolescence de ses composants.</li>\n\n<li>Ce projet illustre l'intérêt d'une <strong>approche de maintenance et de modernisation ciblée sur un équipement industriel existant</strong> : investir dans le diagnostic, la fiabilisation et l'optimisation permet de <strong>réduire les pannes, améliorer les performances du robot et prolonger sa durée d'exploitation</strong> tout en maîtrisant l'ampleur de la modernisation.</li>\n\n</ul>",
+    "image": {
+      "src": "/images/entrees_sorties_DP_chariot_prise_fromage.jpg",
+      "alt": "machine renovation makor mivelaz"
+    }
+  }
+}

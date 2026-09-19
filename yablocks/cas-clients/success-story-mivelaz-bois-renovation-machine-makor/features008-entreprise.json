@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/features008-entreprise"
+  },
+  "data": {
+    "title": "L'entreprise",
+    "content": "<p><strong>MIVELAZ Bois</strong> est une entreprise suisse active dans la transformation et le travail du bois, implantée dans le canton de Fribourg.</p>\n\n<p>Dans le cadre de la modernisation de son outil de production, MIVELAZ a confié à AUTEM la <strong>rénovation électrique d'une machine d'égrenage de bois ancienne mais toujours opérationnelle</strong>. L'objectif était de prolonger sa durée de vie tout en fiabilisant son fonctionnement et en l'adaptant aux besoins actuels de l'atelier.</p>\n\n<p>Le projet a notamment porté sur la <strong>reconstruction du coffret électrique et de ses commandes</strong>, la remise au propre de l'installation et des schémas, ainsi que sur l'intégration de nouvelles fonctions de <strong>mesure d'énergie et de suivi digital du fonctionnement de la machine</strong>.</p>\n",
+    "image": {
+      "src": "/images/mivelaz-bois-references.png",
+      "alt": "mivelaz bois references"
+    }
+  }
+}
