@@ -4,12 +4,12 @@
     "section": "a-propos/manifeste/features008-croissance"
   },
   "data": {
-    "title": "La performance industrielle repose sur une chaîne cohérente",
-    "content": "<p><strong>La digitalisation d'une usine ne se résume pas à installer un logiciel.</strong> Elle repose sur une pyramide d'automatisation où chaque niveau est interdépendant.</p><p>Le terrain (capteurs, automates, actionneurs) alimente la supervision (SCADA, IHM), qui remonte les données vers le pilotage (MES, ERP, cloud). Chaque maillon compte.</p><p>Un automate mal configuré fausse vos KPI. Une supervision incomplète aveugle vos opérateurs. Un MES sans données fiables ne sert à rien.</p>",
+    "title": "Reconditionner pour transmettre les savoirs",
+    "content": "La dette technique peut s’accumuler très subtilement. Le fournisseur qui vous embarque dans une techno toute neuve, sans code source, ni accès maintenance. Le technicien chevronné qui part à la retraite, n’ayant jamais eu le temps de documenter parce que pris dans l’urgence continuelle.\n\nEt si pérenniser une machine ancienne devenait l’occasion pour une transmission des savoirs à vos jeunes équipes ? Face à des technologies en perpétuelle accélération, la vitalité de nos industries repose sur la capacité à transmettre la connaissance et le sens du concret. Savoir s’inspirer du savoir-faire passé, pour mieux maîtriser l’existant, et oser les défis techniques futurs !\n\nNous faisons de chaque projet, une occasion pour vos équipes de faire un pas supplémentaire, et reconstruire <strong>la polyvalence et l’autonomie</strong> décisives sur le long terme.",
     "image": {
-      "src": "/images/background-indus.jpg",
-      "alt": "Chaîne d'automatisation industrielle AUTEM"
+      "src": "/assets/vision-path - centered.jpg",
+      "alt": "Collègues de travail industrie technique"
     },
-    "caption": "Si un seul niveau est défaillant, toute votre chaîne de performance en pâtit."
+    "caption": "Quelles pistes possibles pour faire la transition entre Vintage et Modernité ?"
   }
 }

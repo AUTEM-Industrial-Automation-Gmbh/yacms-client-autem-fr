@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "cas-clients/success-story-fromagerie-mezieres-cave-fiabilisati/features008-challenge"
+  },
+  "data": {
+    "title": "Challenge & Objectif",
+    "content": "<p>Le principal défi était de <strong>fiabiliser un équipement automatisé vieillissant confronté à des défauts aléatoires</strong>. Contrairement à une panne permanente, facilement observable et mesurable, les anomalies apparaissaient dans certaines configurations du robot puis disparaissaient après redémarrage.</p>\n\n<p>Lors des défauts, plusieurs symptômes pouvaient apparaître simultanément : perte de certains signaux capteurs, arrêt de modules électroniques, défaut sur un entraînement et immobilisation du robot. Cette combinaison nécessitait une <strong>analyse globale de la chaîne électrique et d'automatisation</strong>, sans se limiter au premier composant signalé en défaut.</p>\n\n<p>La difficulté était également de travailler sur une installation existante dont certains composants avaient plusieurs années de fonctionnement, tout en <strong>maintenant autant que possible le robot disponible pour la production</strong>.</p>\n\n<ul> <li><strong>Réduire la fréquence des pannes et des arrêts intempestifs</strong> afin d'améliorer la disponibilité du robot ;</li> <li><strong>Identifier les causes racines</strong> plutôt que remplacer successivement des composants sans diagnostic global ;</li> <li><strong>Fiabiliser les alimentations, mises à la terre, connexions et communications</strong> entre les différents équipements du robot ;</li> <li><strong>Optimiser les modes de fonctionnement</strong> et analyser les séquences d'automatisme impliquées dans les défauts ;</li> <li><strong>Faciliter les futurs dépannages</strong> grâce à une meilleure compréhension des symptômes et des interactions entre les différents sous-ensembles ;</li> <li><strong>Accompagner le vieillissement de l'installation</strong> en identifiant les composants fragilisés et les pièces critiques à surveiller ou remplacer ;</li> <li>Éviter un remplacement prématuré de l'équipement et ainsi <strong>prolonger le cycle de vie du robot existant</strong>.</li> </ul>",
+    "image": {
+      "src": "/images/robot-sugnaux.png",
+      "alt": "perimetre scope prestation"
+    }
+  }
+}

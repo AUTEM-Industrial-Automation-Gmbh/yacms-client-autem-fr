@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/hero011"
+  },
+  "data": {
+    "backLink": "/cas-clients/",
+    "clientLogo": {
+      "src": "/logos/mivelaz-bois-logo.jpg",
+      "alt": "MIVELAZ Bois SA"
+    },
+    "title": "Rénovation d'un coffret électrique - Machine Egreneuse - Fabricant Makor",
+    "tags": [
+      {
+        "label": "Machines spéciales",
+        "type": "categorie"
+      },
+      {
+        "label": "Electricité",
+        "type": "categorie"
+      },
+      {
+        "label": "Bois-Wood-Holz",
+        "type": "secteur"
+      }
+    ]
+  }
+}

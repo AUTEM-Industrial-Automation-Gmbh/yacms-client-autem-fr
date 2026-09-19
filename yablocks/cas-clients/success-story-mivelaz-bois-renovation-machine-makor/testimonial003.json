@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "cas-clients/success-story-mivelaz-machines-bois-renovation/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "Cette rénovation illustre une approche pragmatique de la modernisation industrielle : conserver une mécanique encore fonctionnelle et moderniser uniquement ce qui apporte de la fiabilité, de la sécurité et de nouvelles possibilités de suivi.\n\nPlutôt que de reproduire à l'identique l'installation électrique historique, AUTEM a analysé avec MIVELAZ l'utilisation réelle de la machine afin de supprimer les fonctions devenues inutiles et de reconstruire une architecture électrique correspondant à son fonctionnement actuel.\n\nCette approche permet également d'ouvrir la machine à de nouveaux usages digitaux, avec notamment la mesure de l'énergie consommée et la récupération de données de fonctionnement pouvant alimenter progressivement un suivi de production.",
+    "author": {
+      "name": "Ismaël MIVELAZ",
+      "role": "Directeur Mivelaz Bois"
+    }
+  }
+}

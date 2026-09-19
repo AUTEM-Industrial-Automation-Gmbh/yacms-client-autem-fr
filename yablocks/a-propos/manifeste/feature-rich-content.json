@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureRichContent",
+    "section": "a-propos/manifeste/feature-rich-content"
+  },
+  "data": {
+    "title": "POURQUOI anticiper l'obsolescence ?",
+    "content": "<strong>PROCESS</strong>\n<p>\n<li>Silos et zones d'ombre entre services</li>\n<li>Projets trop gros ou trop niche</li>\n</p>\n<strong>PEOPLE</strong>\n<p>\n<li>Manque de spécialistes qualifiés</li>\n<li>Défis leadership, politique interne</li>\n</p>\n<strong>TECHNOLOGIE</strong>\n<p>\n<li>Coût prohibitif des technologies</li>\n<li>Dépendance envers les fournisseurs</li>\n</p>",
+    "image": {
+      "src": "/assets/people-process-technology.jpg",
+      "alt": ""
+    }
+  }
+}

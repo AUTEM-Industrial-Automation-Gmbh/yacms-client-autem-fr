@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "metier-automaticien/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/metier_automaticien.png",
+          "alt": ""
+        },
+        "subsections": []
+      },
+      {
+        "heading": "Mission d'un automaticien",
+        "paragraphs": [
+          {
+            "text": "La mission d'un automaticien est de transformer des tâches\n                                            industrielles manuelles en fonctionnement automatique. Pour y parvenir,\n                                            il/elle déploie des technologies pour automatiser les procédés de\n                                            fabrication avec des machines. Ce processur d'automatisation peut\n                                            s'effectuer à diverses échelles. Le premier cas est le remplacement de\n                                            mouvements manuels par la motorisation et la mécanisation. Par exemple, au\n                                            lieu de déplacer des cartons à la main d'un point A à un point B,\n                                            l'automaticien installe un convoyeur qui tourne en\n                                            permanence pour faire bouger les cartons sur un parcours prédéfini. Un\n                                            deuxième cas peut être l'optimisation d'une machine mécanique en lui\n                                            rajoutant un programme cyclique pour gérer les séquences de fabrication.\n                                            Pour reprendre l'exemple du convoyeur, il s'agira de lui rajouter une\n                                            gestion intelligente des modes de marche-arrêt à l'aide de capteurs de\n                                            présence des cartons. Un 3ème cas est de synchroniser le fonctionnement de\n                                            plusieurs machines pour obtenir un flux complet de production. Cela passe\n                                            par des échanges de signaux entre les machines à l'amont et à l'aval, mais\n                                            aussi par un programme de supervision et de pilotage industriel centralisé\n                                            qui prend souvent la forme d'une technologie logicielle SCADA. La\n                                            mission d'un automaticien est donc très variée et exige une\n                                            polyvalence technique, et une vision globale du système. On retrouve des\n                                            automaticiens chez les fabricants de machine, et les intégrateurs\n                                            d'automatisme, mais aussi dans les usines, sites de production, dans les\n                                            équipes de maintenance ou de production."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Le métier                                             d'automaticien",
+        "paragraphs": [
+          {
+            "text": "Pourquoi le métier d'automaticien existe ? Les\n                                            machines pourraient très bien être paramétrées par un mécanicien et un\n                                            électricien, car les organes tels que des moteurs, vannes, vérins, capteurs\n                                            sont tous des composants électromécaniques. Pourtant l'intervention d'un\n                                            automaticien reste nécessaire pour plusieurs raisons. Tout\n                                            d'abord la composition matérielle des machines a changé. Les organes\n                                            physiques de la machine ne sont plus uniquement de la mécanique et de\n                                            l'électrique, mais il y a désormais beaucoup de composants électroniques,\n                                            qui nécessitent d'avoir des compétences adaptées. Ensuite si que la machine\n                                            puisse fonctionner toute seule, sans action sur un quelconque bouton, il\n                                            faut un programme à l'intérieur de la machine. La programmation devient donc\n                                            un besoin qui est couvert par le métier d'automaticien.\n                                            Programmer une machine industrielle nécessite de comprendre les langages,\n                                            l'informatique, en plus de l'électrotechnique. Enfin les équipements de\n                                            fabrication sont désormais connectés au réseau informatique de l'usine. Il\n                                            faut donc maîtriser les aspects de connectivité et de sécurité liés au\n                                            réseau industriel. On parle de réseau OT (operational technology) pour\n                                            désigner cette interconnexion entre les machines et l'informatique. Vu toute\n                                            la palette de compétences qui sont désormais nécessaires pour le métier\n                                            d'automaticien, il est important de savoir quel type de profil peut être\n                                            automaticien, et quelles formations et études peuvent permettre d'acquérir\n                                            les savoir-faire pour être technicien ou ingénieur spécialisé sur les\n                                            machines d'usine."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Automaticien industriel",
+        "paragraphs": [
+          {
+            "text": "Comment être un bon automaticien industriel ? Il existe\n                                                    plusieurs étapes pour se former à l'automatisme. Tout d'abord il est\n                                                    important d'avoir une formation de base en mécanique et électricité.\n                                                    En effet pour pouvoir dépanner une ligne de production, il faut\n                                                    savoir où chercher, et donc connaître les mécanismes et phénomènes\n                                                    physiques qui régissent la conception des systèmes. Ensuite des\n                                                    notions en programmation informatique sont nécessaires pour\n                                                    appliquer le bon algorithme en fonction des mouvements attendus sur\n                                                    les actionneurs. Pouvoir manipuler les données d'un tableau Excel,\n                                                    cela fait aussi partie de la boîte à outil de l'automaticien\n                                                        industriel. En effet, les données sont au coeur des\n                                                    machines, et il faut savoir les analyser pour en tirer les bonnes\n                                                    conclusions pour optimiser la performance de l'usine. Il faut donc\n                                                    être à l'aise avec la manipulation des tableurs et bases de données.\n                                                    Enfin des connaissances du process industriel de l'usine sont\n                                                    nécessaires. Les équipements industriels sont avant tout un outil au\n                                                    service d'un procédé de fabrication. Des notions sont donc\n                                                    nécessaire pour comprendre les flux et les processur du secteur\n                                                    industriel concerné : chimie, hydraulique, métallurgie, ferroviaire,\n                                                    matériaux, mines, pharmaceutique. Jusque là nous avons mentionné des\n                                                    savoir-faire techniques, qui peuvent s'acquérir dans une formation\n                                                    académique de type BTS, DUT ou école d'ingénieur. Mais il reste un\n                                                    autre aspect important qui touche au savoir-vivre et aux \"softs\n                                                    skills\". Des compétences humaines comme le leadership, l'esprit\n                                                    critique, la communication, l'optimisme, et la méthodologie sont des\n                                                    leviers importants qui ne sont pas liées à la technique, mais qui\n                                                    permettent à l'automaticien de s'épanouir dans ses équipes de\n                                                    travail."
+          }
+        ],
+        "subsections": []
+      }
+    ]
+  }
+}

@@ -55,7 +55,28 @@
     "/images/vincent_bis.jpg",
     "/images/vincent.jpg",
     "/images/wonderware-indusoft.jpg",
-    "/images/youtube.webp"
+    "/images/youtube.webp",
+    "/images/person.png",
+    "/images/leaders-manufacturing.jpg",
+    "/images/cyborg.png",
+    "/images/metier_automaticien.png",
+    "/images/mivelaz-bois-references.png",
+    "/images/scope.png",
+    "/images/analyse schema elec.png",
+    "/images/IMG_20260813_145755~2.jpg",
+    "/images/fromagerie-mezieres-facade.jpg",
+    "/images/robot-sugnaux.png",
+    "/images/challenges-robot-cave-meule-fromage.png",
+    "/images/entrees_sorties_DP_chariot_prise_fromage.jpg",
+    "/images/rhone.jpg",
+    "/images/autem_education.png",
+    "/images/mid_journey.jpg",
+    "/images/portfolio1.jpg",
+    "/images/portfolio2.jpg",
+    "/images/portfolio3.jpg",
+    "/images/portfolio4.jpg",
+    "/images/portfolio_5.png",
+    "/images/integrateur-scada.jpg"
   ],
   "logos": [
     "/logos/amazon.png",
@@ -74,9 +95,11 @@
     "/logos/engie.jpg",
     "/logos/eplan.png",
     "/logos/ethernet-ip.png",
+    "/logos/fromagerie-mezieres-logo.jpg",
     "/logos/hermes.png",
     "/logos/ignition.png",
     "/logos/medtronic.jpg",
+    "/logos/mivelaz-bois-logo.jpg",
     "/logos/opc-ua.png",
     "/logos/parisaeroportcdg.jpg",
     "/logos/pepperl-fuchs.png",
@@ -231,6 +254,15 @@
     "/assets/when-archeology-meets-manufacturing.jpg",
     "/assets/wincc_ecran.png",
     "/assets/wireshark.png",
-    "/assets/zone-atex.jpg"
+    "/assets/zone-atex.jpg",
+    "/assets/vision-path - centered.jpg",
+    "/assets/lubrication.jpg",
+    "/assets/people-process-technology.jpg",
+    "/assets/verkor_scada_bms.jpg"
+  ],
+  "blog": [
+    "/blog/actu 23 - Q1 2026.jpg",
+    "/blog/ignition to kafka v2.jpg",
+    "/blog/medtech.png"
   ]
 }

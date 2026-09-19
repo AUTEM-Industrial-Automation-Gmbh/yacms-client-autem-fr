@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "scada/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Logiciel SCADA : de quoi s'agit-il ? Et                                             quand remplacer son IHM par une SCADA ?",
+        "paragraphs": [],
+        "subsections": [],
+        "image": {
+          "src": "/images/integrateur-scada.jpg",
+          "alt": "SCADA,IIot,data collecte,logiciel supervision,scada expert,supervision industrielle"
+        }
+      },
+      {
+        "heading": "Logiciel SCADA : de quoi s'agit-il ? Et                                             quand remplacer son IHM par une SCADA ?",
+        "paragraphs": [],
+        "subsections": []
+      },
+      {
+        "heading": "Logiciel SCADA",
+        "paragraphs": [
+          {
+            "text": "Le terme SCADA, abréviation de Supervisory Control and Data\n                                                Acquisition, englobe l'ensemble des logiciels dédiés à la\n                                                supervision, au contrôle et à l'acquisition de données pour vos lignes\n                                                de fabrication. Ces outils sont essentiels dans\n                                                le domaine de l'informatique industrielle, facilitant la gestion\n                                                automatisée de vos processus de production. Un logiciel\n                                                SCADA offre des indicateurs de performances, des KPI, ainsi que des\n                                                données historiques, simplifiant la maintenance et\n                                                le dépannage à travers les alarmes en temps réel et les journaux\n                                                d'historique."
+          },
+          {
+            "text": "AUTEM vous apporte la maîtrise de diverses solutions SCADA, offrant ses\n                                                services aux bureaux d'études pour des projets\n                                                Ignition, WinCC, Wonderware, Archestra, AVEVA System Platform. Les\n                                                responsables de maintenance peuvent également\n                                                solliciter AUTEM pour le dépannage de bugs sur leurs logiciels de\n                                                supervision, IHM, scada. L'entreprise maîtrise les\n                                                différents langages d'automatisme utilisés dans ces logiciels, assurant\n                                                toutes les étapes nécessaires au monitoring\n                                                efficace des données machines."
+          },
+          {
+            "text": "Que vous soyez un bureau d'étude ou un responsable de maintenance, AUTEM\n                                                propose une gamme complète de services,\n                                                couvrant l'installation du logiciel scada, la mise en place de\n                                                l'architecture informatique pour la connexion au réseau\n                                                d'usine, la création du projet, la configuration matérielle (liaison\n                                                automate - IHM - scada), la définition des tags\n                                                et variables, la modélisation des objets logiciels associés au parc\n                                                machine, la création de l'interface graphique, la\n                                                programmation des scripts de supervision, d'alarme et d'historisation,\n                                                la connexion aux automates, ainsi que les tests\n                                                en plateforme, les tests de conformité, le FAT, le SAT, et la mise en\n                                                service."
+          },
+          {
+            "text": " En tant qu'experts, AUTEM assure une expertise complète dans le domaine\n                                                de la supervision industrielle scada,\n                                                offrant des formations scada pour maximiser la compétence de votre\n                                                équipe. La définition précise des besoins,\n                                                l'interface scada intuitive, et l'intégration harmonieuse dans votre\n                                                environnement industriel font partie des priorités\n                                                d'AUTEM."
+          },
+          {
+            "text": "Pour toute information supplémentaire sur le scada et les solutions de\n                                                supervision industrielle, consultez notre site\n                                                web et explorez notre riche contenu, comprenant un blog sur\n                                                l'acquisition de données, des informations détaillées sur\n                                                l'interface scada, des définitions claires du scada, et\n                                                bien plus encore. Avec AUTEM, plongez dans l'univers\n                                                passionnant de la supervision industrielle scada et optimisez votre\n                                                performance opérationnelle."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Intégrateur SCADA",
+        "paragraphs": [
+          {
+            "text": "En qualité d'intégrateur SCADA spécialisé dans l'automatisation\n                                                industrielle et tertiaire, notre mission principale\n                                                consiste à migrer et à moderniser les anciens systèmes d'automatisation,\n                                                garantissant ainsi la sûreté et l'efficacité\n                                                des unités de production. Notre expertise s'étend à l'intégration de\n                                                logiciels de supervision SCADA de pointe,\n                                                remplaçant avantageusement les méthodes obsolètes telles que le suivi\n                                                papier et les écrans IHM désuets."
+          },
+          {
+            "text": "Avant d'entamer le processus de rétrofit, nous procédons à un audit\n                                                méticuleux visant à évaluer la fiabilité des\n                                                systèmes d'automatisation existants. Notre approche proactive inclut la\n                                                récupération rapide des données provenant des\n                                                automates, capteurs, robots, moteurs, etc., optimisant ainsi l'ensemble\n                                                du processus. La phase critique de notre\n                                                intervention consiste généralement à établir une communication à\n                                                distance en temps réel, intégrant la télémétrie et un\n                                                stockage des données complet, englobant les statistiques et\n                                                l'historique, assurant ainsi une traçabilité totale."
+          },
+          {
+            "text": "En situation de dysfonctionnement, notre système déclenche des alertes\n                                                grâce à des réseaux de communication\n                                                industrielle. Cette fonctionnalité nous permet d'automatiser diverses\n                                                opérations au sein de l'usine, couvrant des\n                                                aspects cruciaux tels que la qualité, la production, la régulation et\n                                                l'instrumentation. Notre offre logiciel de\n                                                supervision SCADA expert s'avère être une solution\n                                                polyvalente, permettant une gestion proactive des opérations et\n                                                une réactivité optimale face aux défis de l'environnement industriel\n                                                contemporain."
+          },
+          {
+            "text": "Notre engagement envers la supervision industrielle SCADA est renforcé\n                                                par notre offre de formations SCADA, visant à\n                                                habiliter les acteurs de l'industrie à tirer pleinement parti des\n                                                fonctionnalités avancées de nos solutions. Ces\n                                                formations couvrent une gamme variée de sujets, allant de l'interface\n                                                SCADA à l'architecture SCADA, offrant ainsi une\n                                                compréhension approfondie des systèmes."
+          },
+          {
+            "text": "En conclusion, notre approche intégrée, alliant expertise en\n                                                automatisation, utilisation de logiciels de supervision\n                                                SCADA de pointe, et engagement envers la formation\n                                                continue, positionne notre entreprise en tant que partenaire\n                                                privilégié pour les projets de modernisation industrielle. La mise en\n                                                œuvre réussie de nos solutions SCADA garantit une\n                                                transition fluide vers des opérations automatisées, efficientes et\n                                                conformes aux normes les plus exigeantes de\n                                                l'industrie."
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Quand remplacer son IHM par une SCADA ?",
+        "paragraphs": [
+          {
+            "text": "Le logiciel SCADA, ou Système de Contrôle et d'Acquisition\n                                                de Données, représente une technologie fondamentale pour la\n                                                supervision industrielle, le pilotage des opérations et le suivi des\n                                                données de production. Lorsqu'on se demande s'il\n                                                est temps de remplacer son Interface Homme-Machine (IHM) par une SCADA,\n                                                plusieurs éléments entrent en jeu. Tout d'abord,\n                                                définissons ces deux termes. Une IHM, ou Interface Homme-Machine, est un\n                                                écran fixe sur une machine permettant à\n                                                l'opérateur d'interagir avec celle-ci en temps réel. D'autre part, la\n                                                SCADA, qui signifie Supervision Contrôle et\n                                                Acquisition de Données en anglais, va au-delà de l'échelle d'une machine\n                                                pour superviser l'ensemble d'un réseau de\n                                                machines, voire d'usines, offrant une vue globale, et souvent\n                                                centralisée dans une salle de contrôle."
+          },
+          {
+            "text": "SCADA et IHM ont des similarités, notamment dans la remontée\n                                                de données provenant des capteurs et moteurs des machines.\n                                                Cependant, trois distinctions majeures justifient le passage de l'IHM à\n                                                la SCADA."
+          },
+          {
+            "text": "Tout d'abord, l'échelle : là où l'IHM est locale, la SCADA\n                                                peut superviser des réseaux complets d'usines. Cette capacité\n                                                d'échelle permet également à la SCADA d'interagir avec\n                                                d'autres systèmes à un niveau plus élevé, comme les systèmes\n                                                ERP et MES, facilitant ainsi la communication à l'échelle de\n                                                l'entreprise."
+          },
+          {
+            "text": " Deuxièmement, la télémétrie : la SCADA offre des options de\n                                                communication plus avancées, permettant la connexion à\n                                                plusieurs automates et machines simultanément, avec la capacité\n                                                d'adapter ses protocoles de communication. Ceci facilite\n                                                le contrôle à distance, la télémétrie et l'interaction avec divers\n                                                réseaux et protocoles, répondant ainsi aux besoins de\n                                                l'Internet des Objets (IoT)."
+          },
+          {
+            "text": "Enfin, la troisième distinction réside dans la gestion des\n                                                données. Alors que l'IHM peut stocker jusqu'à 24 heures\n                                                d'activité, la SCADA peut conserver plusieurs mois\n                                                voire années d'historique, offrant des fonctionnalités avancées\n                                                d'analyse de données, de Business Intelligence (BI) et de Data\n                                                Analytics."
+          },
+          {
+            "text": "  Il est crucial de reconnaître que l'IHM a ses propres\n                                                avantages, mais à mesure que la production évolue en termes de\n                                                cadence et de volume, la SCADA devient essentielle pour une gestion\n                                                industrielle optimale. Les critères pour déterminer\n                                                le moment de passer de l'IHM à la SCADA dépendent des\n                                                besoins spécifiques de chaque usine, de son architecture et\n                                                des interactions requises avec les systèmes informatiques. Si vous vous\n                                                interrogez sur la meilleure approche pour\n                                                implémenter une solution SCADA dans votre contexte industriel, n'hésitez\n                                                pas à nous contacter."
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              {
+                "text": "Marc Akoto – Intégrateur                                                         SCADA"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

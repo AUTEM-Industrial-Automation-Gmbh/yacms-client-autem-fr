@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "portfolio-automatisme-references/article001"
+  },
+  "data": {
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "",
+        "paragraphs": [
+          {
+            "text": ""
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              {
+                "text": "Votre fournisseur automatisme: Portofolio de AUTEM"
+              }
+            ]
+          }
+        ],
+        "image": {
+          "src": "/images/portfolio-references.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "heading": "Réalisations techniques - fournisseur automatisme",
+        "paragraphs": [
+          {
+            "text": "Nos réalisations :"
+          }
+        ],
+        "subsections": [],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "✅ 2024 SNAAM (Métal, Grenoble FR)  -  Intégration TRS/OEE, Data, Performance"
+            },
+            {
+              "text": "✅ 2023 BIOMERIEUX (Pharma, Lyon FR)  - Rétrofit ligne de conditionnement aseptisée"
+            },
+            {
+              "text": "✅ 2023 SOITEC (Electronique, Grenoble FR)  -  Connectivité Réseau pour machine silicium"
+            },
+            {
+              "text": "✅ 2022 HERMES (Textile, Lyon FR) - Impression Textile, Systèmes Métier, Data"
+            },
+            {
+              "text": "✅ 2022 BEMA (Machines spéciales, Grenoble FR) - Programmation machine de compactage"
+            },
+            {
+              "text": "✅2022 P&G (Chimie, Oise FR) - Développement SCADA logistique"
+            },
+            {
+              "text": "✅ 2021 SFTRF (Mobilité, Rhone-Alpes FR) - Supervision réseau tunnel et sécurité"
+            },
+            {
+              "text": "✅ 2021 THALYS (Mobilité, Bruxelles BE) - Télémétrie, IoT, Monétique, Préventif"
+            },
+            {
+              "text": "✅ 2020 SECKIOT (Cybersécurité, Paris FR) - Connectivité IoT et Cybersécurité"
+            },
+            {
+              "text": "✅ 2020 AMAZON (Logistique, Paris FR) - Automatisation centre de tri robotisé"
+            },
+            {
+              "text": "✅ 2019 TM (Chimie, Canada CA) -  Programmation machine de lavage"
+            },
+            {
+              "text": "✅ 2018 UNILEVER (Chimie, Oise FR) - Intégration de robot, doseur, et MES"
+            },
+            {
+              "text": "✅ 2016 DANONE (Food, Moscou RU) - Conception osmoseur de filtration CIP"
+            },
+            {
+              "text": "✅ 2016 ARCELORMITTAL (Métal, Luxembourg LU) - Performances d’un atelier d'usinage"
+            },
+            {
+              "text": "✅ 2015 SNCF (Mobilité, Lorraine FR) - IHM contrôle d’aiguillages ferroviaires"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Prestataire en automatisme industriel",
+        "paragraphs": [
+          {
+            "text": "AUTEM est un intégrateur intervenant auprès d'industriels."
+          },
+          {
+            "text": "Nos prestations en automatisme sont spécialisées dans les secteurs suivants :"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": [
+              {
+                "text": "Confier un projet à un prestataire en automatisme\n                                                    apporte divers avantages. Premièrement l'intervention d'un\n                                                    spécialiste vous apporte de la qualité pour vos machines.\n                                                    Deuxièmement vous gagnez du temps en externalisation la\n                                                    programmation de votre machine à un fournisseur\n                                                        automatisme. Ensuite vous rendez possible un projet qui\n                                                    aurait peut-être été bloqué pour cause de main d'oeuvre disponible\n                                                    et qualifiée. Enfin vous évitez de subir les pics de charge dûs à\n                                                    des commandes volumineuses, ou à une croissance d'activité. En tant\n                                                    que prestataire en automatisme industriel, nous\n                                                    travaillons pour des bureaux d'études, des intégrateurs de machines\n                                                    spéciales, des usines et sites de production industrielle. Nos\n                                                    interventions peuvent concerner la programmation API PLC, les IHM et\n                                                    supervisions SCADA, la robotique, les systèmes de vision, les\n                                                    réseaux de communication. Nous formons également des techniciens et\n                                                    automaticiens pour intervenir sur tout le cycle de vie des machines\n                                                    : conception, installation, dépannage, maintenance, rétrofit, ..."
+              }
+            ]
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "🟢 Chimie - Agroalimentaire : filtration, batchs, dosage"
+            },
+            {
+              "text": "🟢 Logistique : convoyage, tri, bras robotisés"
+            },
+            {
+              "text": "🟢 Transports : supervision réseau routier, GTC, radio"
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Analyse organique automatisme",
+        "paragraphs": [
+          {
+            "text": "L'analyse organique et l'analyse fonctionnelle sont les\n                                                    premières étapes pour concevoir un système de contrôle-commande.\n                                                    Cette étape consiste à identifier et décomposer les différentes\n                                                    briques fonctionnelles de la machine ou du logiciel industriel que\n                                                    l'on souhaite concevoir. Les données d'entrée pour l'analyse\n                                                    fonctionnelle sont les schémas électriques et pneumatiques,\n                                                    l'analyse de risques, les P&ID (piping and instrumentation diagram),\n                                                    la carte des flux, les plans d'implantation et projection mécanique,\n                                                    et les programmes des automates existants dans le cas d'un rétrofit.\n                                                    Ensuite dans le cas des équipements industriels, il s'agira par\n                                                    exemple d'établir la liste des interfaces d'entrée-sortie, les\n                                                    organes fonctionnelles, les matériels spécifiques à utiliser\n                                                    (variateurs, relais de sécurité, régulateur), les protocoles de\n                                                    communication, les langages de programmation à employer. L'analyse\n                                                    organique peut être confiée à un fournisseur\n                                                        automatisme. L'analyse fonctionnelle permet de répondre\n                                                    aux questions suivantes : de quoi est constituée ma machine ?\n                                                    quelles sont ces modes de fonctionnement ? combien de temps est\n                                                    nécessaire pour la concevoir ? comment l'automate de la machine doit\n                                                    être programmé ? L'analyse organique permet au chef\n                                                    de projet de quantifier la durée et la taille du projet. Cela permet\n                                                    aussi aux techniciens intervenant sur la machine (électriciens,\n                                                    mécaniciens, automaticiens) de structurer les différentes étapes de\n                                                    création de la machine. "
+          }
+        ],
+        "subsections": []
+      },
+      {
+        "heading": "Nos valeurs",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Nous opérons avec polyvalence",
+            "paragraphs": [
+              {
+                "text": "Nous intervenons sur tous les organes de contrôle des machines, grâce à notre expérience sur une palette large d’outils d’automatisation. Par ailleurs, nous assurons une veille technologique et des mises à jour permanentes. Nous réinvestissons constamment sur les technologies de l’industrie 4.0 pour proposer à nos clients les dernières avancées."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "",
+        "paragraphs": [
+          {
+            "text": ""
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Nous opérons avec Fiabilité",
+            "paragraphs": [
+              {
+                "text": "Dans toutes nos interventions techniques, nous privilégions la réactivité, la\n                                            ponctualité et la transparence. Nos clients sont ainsi livrés dans les\n                                            temps, avec un suivi régulier de l’avancement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "",
+        "paragraphs": [
+          {
+            "text": ""
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Nous opérons avec Flexibilité ",
+            "paragraphs": [],
+            "list": {
+              "style": "unordered",
+              "items": [
+                {
+                  "text": "Flexibilité dans la conception pour des                                                             machines sur mesure adaptées aux besoins du client."
+                },
+                {
+                  "text": "Flexibilité dans la disponibilité, pour                                                             s’adapter aux pics de charges"
+                },
+                {
+                  "text": "Flexibilité relationnelle pour                                                             s’intégrer à toute configuration d’équipe chez le client"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "heading": "Notre portfolio",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/portfolio1.jpg",
+          "alt": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques"
+        },
+        "subsections": [
+          {
+            "heading": "",
+            "paragraphs": []
+          }
+        ]
+      },
+      {
+        "heading": "",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/portfolio2.jpg",
+          "alt": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques"
+        },
+        "subsections": []
+      },
+      {
+        "heading": "",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/portfolio3.jpg",
+          "alt": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques"
+        },
+        "subsections": []
+      },
+      {
+        "heading": "",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/portfolio4.jpg",
+          "alt": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques"
+        },
+        "subsections": []
+      },
+      {
+        "heading": "",
+        "paragraphs": [],
+        "image": {
+          "src": "/images/portfolio_5.png",
+          "alt": "fournisseur automatisme, analyse organique automatisme, analyse fonctionnelle, portfolio, prestataire en automatisme industriel, Réalisations techniques"
+        },
+        "subsections": []
+      }
+    ]
+  }
+}

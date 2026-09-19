@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "cas-clients/success-story-fromagerie-mezieres-cave-fiabilisati/testimonial003"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/background-indus.jpg",
+      "alt": "Arrière-plan industriel"
+    },
+    "quote": "Une démarche de fiabilisation construite dans la durée\n\nSur ce type d'équipement, une panne intermittente ne se résout pas nécessairement en une seule intervention. La démarche mise en œuvre avec la Fromagerie de Mézières repose donc sur des observations terrain, des mesures électriques, des essais ciblés et un suivi des défauts dans le temps.\n\nChaque intervention permet d'éliminer une hypothèse, d'en confirmer une autre et d'améliorer progressivement la connaissance du robot. Cette approche permet de ne pas se limiter au dépannage immédiat : elle vise à rendre l'installation durablement plus fiable et plus simple à maintenir.\n\nLe partenariat mis en place permet également aux équipes de la fromagerie de disposer d'un support en électricité et automation lorsqu'un nouveau comportement apparaît, tout en capitalisant sur les analyses et améliorations déjà réalisées.",
+    "author": {
+      "name": "Nicolas SCHMOUTZ",
+      "role": "Patron de la Fromagerie de Mézières"
+    }
+  }
+}

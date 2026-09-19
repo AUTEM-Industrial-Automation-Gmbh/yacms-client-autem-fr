@@ -8,10 +8,10 @@
       "src": "/images/background-indus.jpg",
       "alt": "Aéroport Paris-CDG tapis bagages"
     },
-    "quote": "AUTEM a su gérer une migration d'envergure sur un système en exploitation active. La rigueur méthodologique et la maîtrise des contraintes opérationnelles ont été déterminantes pour respecter nos plages de maintenance. Le résultat est une installation modernisée, connectée et nettement plus fiable.",
+    "quote": "AUTEM a su gérer une migration d’envergure sur un système en exploitation active, dans un environnement Brownfield très contraint. Leur rigueur méthodologique et la maîtrise des contraintes opérationnelles ont été déterminantes pour respecter les plages de maintenance et les critères de sécurité. Le résultat est une installation modernisée, connectée et nettement plus fiable, avec un retour d’expérience enrichi sur les interfaces entre automates partenaires et la gestion des pannes dynamiques à haute cadence.",
     "author": {
-      "name": "Responsable Systèmes Bagages",
-      "role": "ADP — Aéroport Paris-CDG T2E"
+      "name": "Département Maintenance Systèmes Bagages",
+      "role": "TBE 2E/2F - ADP Aéroport Paris-CDG"
     }
   }
 }

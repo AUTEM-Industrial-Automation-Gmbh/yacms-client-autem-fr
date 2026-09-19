@@ -26,6 +26,10 @@
       {
         "label": "Cycle de Vie et Obsolescence",
         "type": "categorie"
+      },
+      {
+        "label": "Pharma-Biotech-Medical",
+        "type": "secteur"
       }
     ]
   }

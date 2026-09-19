@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroArticleHeader",
+    "section": "cas-clients/success-story-fromagerie-mezieres-cave-fiabilisati/hero011"
+  },
+  "data": {
+    "backLink": "/cas-clients/",
+    "clientLogo": {
+      "src": "/logos/fromagerie-mezieres-logo.jpg",
+      "alt": "Fromagerie de Mézières"
+    },
+    "title": "Fiabilisation d'un robot de soin des meules - Cave de la Fromagerie de Mézières - Fabricant Sugnaux JNJ",
+    "tags": [
+      {
+        "label": "Automation",
+        "type": "categorie"
+      },
+      {
+        "label": "Electricité",
+        "type": "categorie"
+      },
+      {
+        "label": "Cycle de Vie et Obsolescence",
+        "type": "categorie"
+      },
+      {
+        "label": "Agroalimentaire",
+        "type": "secteur"
+      }
+    ]
+  }
+}

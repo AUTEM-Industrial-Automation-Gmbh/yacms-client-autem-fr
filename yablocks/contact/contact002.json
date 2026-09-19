@@ -103,9 +103,15 @@
     },
     "showPhone": true,
     "showCompany": true,
+    "requirePhone": false,
+    "requireCompany": false,
     "privacyText": "J'accepte la",
     "privacyLink": "Politique de confidentialité",
     "privacyHref": "/mentions-legales/",
-    "submitText": "Envoyer le message"
+    "submitText": "Envoyer le message",
+    "successTitle": "Merci !",
+    "successMessage": "Votre message a bien été envoyé. Nous reviendrons vers vous sous 24h.",
+    "apiEndpoint": "https://yacms-runtime.idrissbenguezzou.workers.dev/api/forms",
+    "clientId": "AUTEM"
   }
 }

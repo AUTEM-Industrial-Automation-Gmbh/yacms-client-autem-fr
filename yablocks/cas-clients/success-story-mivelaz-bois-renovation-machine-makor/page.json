@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Cas Clients / Success Story Mivelaz Machines Bois Renovation",
+    "description": "AUTEM a rénové le coffret électrique d'une machine d'égrenage de bois du fabircant Makor pour MIVELAZ au Mouret, canton de Fribourg : sécurité machine, mesure d'énergie",
+    "keywords": [
+      "machine égreneuse",
+      "makor",
+      "électricité",
+      "machines spéciales",
+      "Mivelaz",
+      "AUTEM réalisation"
+    ],
+    "author": "AUTEM",
+    "canonical": "https://autem-services.fr/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/",
+    "locale": "fr_FR",
+    "robots": "index, follow",
+    "hreflang": [
+      {
+        "lang": "fr-CH",
+        "href": "https://autem.ch/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      },
+      {
+        "lang": "fr-FR",
+        "href": "https://autem-services.fr/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      },
+      {
+        "lang": "x-default",
+        "href": "https://autem-services.fr/cas-clients/success-story-mivelaz-bois-renovation-machine-makor/"
+      }
+    ],
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "AUTEM — Cas client industriel automatisme et SCADA"
+    },
+    "structuredData": {
+      "type": "LocalBusiness",
+      "name": "AUTEM",
+      "logo": "/logos/autem-logo.png",
+      "address": {
+        "street": "60 Rue François 1er",
+        "city": "Paris",
+        "postalCode": "75008",
+        "region": "Île-de-France",
+        "country": "FR"
+      },
+      "geo": {
+        "latitude": 48.86998458512644,
+        "longitude": 2.3020488
+      },
+      "phone": "+33617436802",
+      "email": "contact@autem-services.fr",
+      "priceRange": "€€€",
+      "openingHours": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+  },
+  "theme": "autem-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero011.json",
+    "./features008-entreprise.json",
+    "./features008-challenge.json",
+    "./testimonial003.json",
+    "./features008-strategie.json",
+    "./features008-resultats.json",
+    "../../home/cta002.json",
+    "@shared/footer.json"
+  ]
+}

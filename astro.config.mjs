@@ -53,19 +53,22 @@ export default defineConfig({
     site: 'https://autem-services.fr',
     redirects: {
         // ── Pages statiques WordPress → YACMS ──────────────────────────────
-        '/ignition-scada.html': { status: 301, destination: '/nos-offres/logiciels-pilotage/ignition-scada/' },
-        '/scada.html': { status: 301, destination: '/nos-offres/logiciels-pilotage/ignition-scada/' },
-        '/portfolio-automatisme-references.html': { status: 301, destination: '/cas-clients/' },
+        // Les pages recréées dans YACMS reprennent leur ancienne URL.
+        '/ignition-scada.html': { status: 301, destination: '/ignition-scada/' },
+        '/scada.html': { status: 301, destination: '/scada/' },
+        '/portfolio-automatisme-references.html': { status: 301, destination: '/portfolio-automatisme-references/' },
         '/blog.html': { status: 301, destination: '/blog/' },
         '/plan-du-site.html': { status: 301, destination: '/plan-du-site/' },
         '/mentions-legales.html': { status: 301, destination: '/mentions-legales/' },
-        '/entreprise-automatisme-industriel-prestataire-fournisseur.html': { status: 301, destination: '/a-propos/manifeste/' },
+        '/entreprise-automatisme-industriel-prestataire-fournisseur.html': { status: 301, destination: '/entreprise-automatisme-industriel-prestataire-fournisseur/' },
+        // Page recréée mais encore en noindex (contenu dupliqué de
+        // automatisme-rhone-lyon-grenoble) : on garde l'ancienne destination.
         '/technique-automatisation-technologie.html': { status: 301, destination: '/nos-offres/' },
-        '/automatisme.html': { status: 301, destination: '/' },
-        '/formation-automaticien.html': { status: 301, destination: '/blog/formation-et-industrie/' },
-        '/automatisme-rhone-lyon-grenoble.html': { status: 301, destination: '/' },
-        '/siemens-industrie_lyon-autem.html': { status: 301, destination: '/blog/armoire-automatisme-siemens/' },
-        '/metier-automaticien.html': { status: 301, destination: '/blog/10-competences-pour-automaticien/' },
+        '/automatisme.html': { status: 301, destination: '/automatisme/' },
+        '/formation-automaticien.html': { status: 301, destination: '/formation-automaticien/' },
+        '/automatisme-rhone-lyon-grenoble.html': { status: 301, destination: '/automatisme-rhone-lyon-grenoble/' },
+        '/siemens-industrie_lyon-autem.html': { status: 301, destination: '/siemens-industrielyon-autem/' },
+        '/metier-automaticien.html': { status: 301, destination: '/metier-automaticien/' },
 
         // ── Articles de blog WordPress (/blogs/xxx.html) → YACMS (/blog/xxx/) ─
         '/blogs/changer-son-adresse-ip.html': { status: 301, destination: '/blog/changer-son-adresse-ip/' },
